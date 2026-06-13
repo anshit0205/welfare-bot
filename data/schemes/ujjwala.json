@@ -1,0 +1,283 @@
+{
+  "id": "ujjwala",
+  "name_en": "Pradhan Mantri Ujjwala Yojana",
+  "description_en": "The Pradhan Mantri Ujjwala Yojana (PMUY) is a flagship scheme of the Ministry of Petroleum and Natural Gas, launched on May 1, 2016, to provide clean cooking fuel to rural and deprived households. The scheme aims to release LPG connections to poor households, replacing traditional cooking fuels like firewood, coal, and cow-dung cakes. The target is to provide 8 Crore LPG connections to deprived households by March 2020, which has been achieved. The scheme has also led to an increase in LPG coverage from 62% on May 1, 2016, to 99.8% as of April 1, 2021. Under the Union Budget for FY 21-22, a provision for the release of an additional 1 Crore LPG connections under the PMUY scheme has been made, with special facilities for migrant families. The scheme has a significant impact on the health of rural women and the environment.",
+  "benefit_en": "The primary financial benefit under the PMUY scheme is a cash assistance of Rs. 1600 for a connection with a 14.2kg cylinder or Rs. 1150 for a 5 kg cylinder. Additionally, all PMUY beneficiaries will be provided with the first LPG refill and a stove (hot plate) free of cost, along with their deposit-free connection. The scheme also provides secondary benefits like improved health, reduced environmental pollution, and increased economic opportunities for women. The scheme is linked to other government schemes like the Pradhan Mantri Awas Yojana (PMAY) and the Antyodaya Anna Yojana (AAY), providing convergence benefits to the beneficiaries.",
+  "eligibility_rules": {
+    "occupation": [
+      "farmer",
+      "agricultural labourer",
+      "rural household",
+      "SC/ST households",
+      "Most Backward Classes",
+      "Antyodaya Anna Yojana (AAY) beneficiaries",
+      "Forest dwellers",
+      "People residing in river islands"
+    ],
+    "gender": "female",
+    "bpl_required": false,
+    "land_ownership_required": false,
+    "girl_child_required": false,
+    "pregnant_woman_only": false,
+    "age_min": 18,
+    "age_max": null,
+    "income_max_annual": null,
+    "caste_preference": [
+      "SC",
+      "ST",
+      "OBC",
+      "Minority",
+      "Most Backward Classes"
+    ],
+    "bank_account_required": true,
+    "aadhaar_required": true,
+    "other_conditions": [
+      "The applicant must be a woman who has attained 18 years of age",
+      "There should be no other LPG connection from any Oil Marketing Company (OMC) within the same household",
+      "The adult woman must belong to a poor household based on submission of a deprivation declaration (as per prescribed format)"
+    ]
+  },
+  "exclusion_criteria": [
+    "Male members from a household cannot apply for the scheme",
+    "Income tax payees (previous assessment year)",
+    "Constitutional post holders (President, VP, Ministers, MPs, MLAs, etc.)",
+    "Serving/retired Central & State government employees (except Group D/MTS)",
+    "Government pensioners drawing Rs 10,000+/month",
+    "All professionals registered with professional bodies (doctors, lawyers, CAs, architects, engineers)"
+  ],
+  "documents_en": [
+    "01. Know Your Customer (KYC) application form",
+    "02. Proof of Identity (Aadhaar copy of Applicant)",
+    "03. Proof of Address (only in case Address in Aadhaar is different from currently residing address)",
+    "04. Ration Card issued by the State from which application is being made / other State Govt. document certifying family composition",
+    "05. Aadhaar copy of Applicant and adult family members appearing in document at Sl. 4",
+    "06. Bank Account details (Passbook copy/Cancelled cheque)",
+    "07. Deprivation Declaration",
+    "08. Passport-sized photograph",
+    "09. Address Proof (if current address differs from Aadhaar card)",
+    "10. Self Declaration for Migrant- Annex-I (for migrant applicants)"
+  ],
+  "apply_steps_en": [
+    "Step 01: Visit the official PMUY website and click on the 'Apply for New Ujjwala PMUY Connection' link",
+    "Step 02: Fill in the online application form with required details",
+    "Step 03: Upload the required documents",
+    "Step 04: Submit the application form and generate a reference number",
+    "Step 05: Visit the nearest LPG distributor with the reference number and required documents",
+    "Step 06: Verify the documents and complete the KYC process",
+    "Step 07: Receive the LPG connection and first refill",
+    "Step 08: Install the LPG connection and stove",
+    "Step 09: Activate the LPG connection and start using it",
+    "Step 10: Track the application status through the PMUY portal or helpline"
+  ],
+  "application_url": "https://www.pmujjwalayojana.com/",
+  "helpline": "1800 2333 555",
+  "ministry": "Ministry of Petroleum and Natural Gas",
+  "nodal_department": "Ministry of Petroleum and Natural Gas",
+  "scheme_type": "central",
+  "launch_year": 2016,
+  "last_updated": "2024",
+  "processing_time": "30 days",
+  "renewal_required": false,
+  "renewal_frequency": null,
+  "renewal_process": "Not applicable",
+  "payment_mode": "Direct Benefit Transfer (DBT)",
+  "payment_frequency": "one-time",
+  "payment_schedule": "At the time of connection release",
+  "related_schemes": [
+    "Pradhan Mantri Awas Yojana (PMAY)",
+    "Antyodaya Anna Yojana (AAY)"
+  ],
+  "tags": [
+    "LPG connection",
+    "clean cooking fuel",
+    "rural households",
+    "poor households",
+    "women empowerment"
+  ],
+  "source_url": "https://www.pmujjwalayojana.com/",
+  "keywords": [
+    "Pradhan Mantri Ujjwala Yojana",
+    "PMUY",
+    "LPG connection",
+    "clean cooking fuel",
+    "rural households",
+    "poor households",
+    "women empowerment",
+    "Aadhaar card",
+    "ration card",
+    "bank account",
+    "deprivation declaration",
+    "KYC application form",
+    "how to apply",
+    "documents required",
+    "eligibility criteria",
+    "benefits",
+    "Ujjwala Yojana list",
+    "Ujjwala Yojana application form",
+    "Ujjwala Yojana status",
+    "Ujjwala Yojana helpline",
+    "Ujjwala Yojana website"
+  ],
+  "name_hi": "प्रधान मंत्री उज्ज्वला योजना",
+  "name_ta": "பிரதான் மந்திரி உஜ்ஜ்வாலா திட்டம்",
+  "name_bn": "প্রধানমন্ত্রী উজ্জ্বলা প্রকল্প",
+  "name_mr": "प्रधानमंत्री उज्ज्वला योजना",
+  "description_hi": "प्रधान मंत्री उज्ज्वला योजना (पीएमयूवाई) पेट्रोलियम और प्राकृतिक गैस मंत्रालय की एक प्रमुख योजना है, जिसे 1 मई, 2016 को ग्रामीण और वंचित परिवारों को स्वच्छ खाना पकाने के ईंधन प्रदान करने के लिए शुरू की गई थी। यह योजना गरीब परिवारों को एलपीजी कनेक्शन जारी करने का उद्देश्य रखती है, जो पारंपरिक खाना पकाने के ईंधन जैसे कि लकड़ी, कोयला और गोबर के केक को बदलने के लिए है। लक्ष्य मार्च 2020 तक वंचित परिवारों को 8 करोड़ एलपीजी कनेक्शन प्रदान करना है, जिसे हासिल किया गया है। इस योजना से एलपीजी कवरेज में भी वृद्धि हुई है, जो 1 मई, 2016 को 62% से बढ़कर 1 अप्रैल, 2021 तक 99.8% हो गई है। केंद्रीय बजट 2021-22 के तहत, पीएमयूवाई योजना के तहत 1 करोड़ अतिरिक्त एलपीजी कनेक्शन जारी करने का प्रावधान किया गया है, जिसमें प्रवासी परिवारों के लिए विशेष सुविधाएं हैं। यह योजना ग्रामीण महिलाओं के स्वास्थ्य और पर्यावरण पर महत्वपूर्ण प्रभाव डालती है।",
+  "description_ta": "பிரதான் மந்திரி உஜ்ஜ்வாலா திட்டம் (பிஎம்யுவாய்) என்பது மத்திய பெட்ரோலியம் மற்றும் இயற்கை எரிவாயு அமைச்சகத்தின் ஒரு முக்கிய திட்டமாகும், இது மே 1, 2016 அன்று கிராமப்புறங்களிலும், பின்தங்கிய குடும்பங்களுக்கும் சுத்தமான சமையல் எரிபொருளை வழங்குவதற்காகத் தொடங்கப்பட்டது. இந்தத் திட்டத்தின் நோக்கம் ஏழை குடும்பங்களுக்கு எல்பிஜி இணைப்புகளை வழங்குவதாகும், இது பாரம்பரிய சமையல் எரிபொருட்களை மாற்றுகிறது, அதாவது மரம், நிலக்கரி மற்றும் காள்வாய் கேக்குகள். மார்ச் 2020 வரை பின்தங்கிய குடும்பங்களுக்கு 8 கோடி எல்பிஜி இணைப்புகளை வழங்குவது இலக்காகும், இது அடையப்பட்டுள்ளது. இந்தத் திட்டம் எல்பிஜி கवरேஜிலும் அதிகரித்துள்ளது, மே 1, 2016 அன்று 62% இலிருந்து ஏப்ரல் 1, 2021 வரை 99.8% ஆக உயர்ந்துள்ளது. 2021-22 ஆம் ஆண்டுக்கான ஒன்றிய நிதிநிலை அறிக்கையின் கீழ், பிஎம்யுவாய் திட்டத்தின் கீழ் கூடுதல் 1 கோடி எல்பிஜி இணைப்புகளை வெளியிடுவதற்கான ஏற்பாடு செய்யப்பட்டுள்ளது, இதில் புலம்பெயர்ந்த குடும்பங்களுக்கு சிறப்பு வசதிகள் உள்ளன. இந்தத் திட்டம் கிராமப்புறப் பெண்களின் சுகாதாரத்திலும், சுற்றுச்சூழலிலும் குறிப்பிடத்தக்க தாக்கத்தை ஏற்படுத்துகிறது.",
+  "description_bn": "প্রধানমন্ত্রী উজ্জ্বলা প্রকল্প (পিএমইউওয়াই) পেট্রোলিয়ম ও প্রাকৃতিক গ্যাস মন্ত্রকের একটি পতাকা প্রকল্প, যা ১ মে, ২০১৬ তারিখে গ্রামীণ ও বঞ্চিত পরিবারগুলিকে পরিষ্কার রান্ধন জ্বালানি সরবরাহ করার জন্য চালু করা হয়েছিল। এই প্রকল্পের লক্ষ্য হল দরিদ্র পরিবারগু",
+  "documents_hi": [
+    "01. ग्राहक को जानें (केवाईसी) आवेदन पत्र",
+    "02. पहचान का प्रमाण (आधार की प्रति आवेदक)",
+    "03. पते का प्रमाण (केवल तब जब आधार में पता वर्तमान निवास पते से भिन्न हो)",
+    "04. राशन कार्ड जारी किया गया राज्य से जिस पर आवेदन किया जा रहा है / अन्य राज्य सरकार द्वारा परिवार की संरचना का प्रमाण पत्र",
+    "05. आधार की प्रति आवेदक और वयस्क परिवार के सदस्य जो स्ल। 4 में दिखाई दे रहे हैं",
+    "06. बैंक खाता विवरण (पासबुक की प्रति / रद्द चेक)",
+    "07. वंचन घोषणा",
+    "08. पासपोर्ट आकार की फोटो",
+    "09. पते का प्रमाण (यदि वर्तमान पता आधार कार्ड से भिन्न हो)",
+    "10. स्व घोषणा के लिए प्रवासी - अनुबंध - I (प्रवासी आवेदकों के लिए)"
+  ],
+  "documents_ta": [
+    "01. வாடிக்கையாளரை அறிந்து கொள்ளுங்கள் (கேவाईசி) விண்ணப்ப படிவம்",
+    "02. அடையாள ஆவணம் (விண்ணப்பதாரரின் ஆதார் நகல்)",
+    "03. முகவரி ஆவணம் (ஆதாரில் உள்ள முகவரி தற்போதைய வசிப்பிட முகவரியிலிருந்து வேறுபட்டால் மட்டும்)",
+    "04. விண்ணப்பம் செய்யப்படும் மாநிலத்தால் வழங்கப்பட்ட அரிசி அட்டை / குடும்ப கட்டமைப்பை சான்றாக வேறு மாநில அரசு ஆவணம்",
+    "05. ஆவணத்தில் தோன்றும் விண்ணப்பதாரர் மற்றும் பெரியவர் குடும்ப உறுப்பினர்களின் ஆதார் நகல்",
+    "06. வங்கி கணக்கு விவரங்கள் (பாஸ்புக் நகல் / ரத்து செய்யப்பட்ட ஆலோசனை)",
+    "07. மறுப்பு அறிவிப்பு",
+    "08. பாஸ்போர்ட் அளவு புகைப்படம்",
+    "09. முகவரி ஆவணம் (தற்போதைய முகவரி ஆதார் அட்டையிலிருந்து வேறுபட்டால்)",
+    "10. புலம்பெயர் நபர்களுக்கான சுய அறிக்கை - இணைப்பு - I (புலம்பெயர் விண்ணப்பதாரர்களுக்கு)"
+  ],
+  "documents_bn": [
+    "01. গ্রাহককে জানুন (কেওসি) আবেদনপত্র",
+    "02. পরিচয়ের প্রমাণ (আবেদনকারীর আধার কপি)",
+    "03. ঠিকানা প্রমাণ (শুধুমাত্র যদি আধারে ঠিকানা বর্তমান বসবাসের ঠিকানা থেকে আলাদা হয়)",
+    "04. রাষ্ট্র দ্বারা জারি করা রেশন কার্ড যে রাজ্য থেকে আবেদন করা হচ্ছে / অন্য রাজ্য সরকার দ্বারা প্রমাণিত পরিবারের গঠন",
+    "05. আবেদনকারী এবং প্রাপ্তবয়স্ক পরিবারের সদস্যদের আধার কপি যারা নথিতে দেখা যায়",
+    "06. ব্যাংক অ্যাকাউন্ট বিবরণ (পাসবুক কপি / বাতিল চেক)",
+    "07. অস্বীকার ঘোষণা",
+    "08. পাসপোর্ট আকারের ছবি",
+    "09. ঠিকানা প্রমাণ (যদি বর্তমান ঠিকানা আধার কার্ড থেকে আলাদা হয়)",
+    "10. অভিবাসীদের জন্য স্ব-ঘোষণা - অনুবিভাগ - আই (অভিবাসী আবেদনকারীদের জন্য)"
+  ],
+  "documents_mr": [
+    "01. ग्राहकाला ओळखा (केवायसी) अर्ज फॉर्म",
+    "02. ओळखीचा पुरावा (अर्जदाराची आधार कॉपी)",
+    "03. पत्त्याचा पुरावा (फक्त जेव्हा आधारमध्ये पत्ता सध्याच्या राहण्याच्या पत्त्यापेक्षा वेगळा असेल)",
+    "04. राज्याने जारी केलेला रेशन कार्ड ज्या राज्यातून अर्ज केला जात आहे / इतर राज्य शासनाने कुटुंबाची रचना प्रमाणित केली आहे",
+    "05. अर्जदार आणि वयस्कर कुटुंबाच्या सदस्यांची आधार कॉपी जे स्ली. 4 मध्ये दिसतात",
+    "06. बँक खाते तपशील (पासबुक कॉपी / रद्द केलेली चेक)",
+    "07. नाकारा घोषणा",
+    "08. पासपोर्ट आकाराचे फोटो",
+    "09. पत्त्याचा पुरावा (जेव्हा सध्याचा पत्ता आधार कार्डपेक्षा वेगळा असेल)",
+    "10. स्थलांतरितांसाठी स्वघोषणा - अनुबंध - आय (स्थलांतरित अर्जदारांसाठी)"
+  ],
+  "apply_steps_hi": [
+    "चरण 01: आधिकारिक पीएमयूवाई वेबसाइट पर जाएं और 'न्यू उज्ज्वला पीएमयूवाई कनेक्शन के लिए आवेदन करें' लिंक पर क्लिक करें",
+    "चरण 02: ऑनलाइन आवेदन पत्र में आवश्यक विवरण भरें",
+    "चरण 03: आवश्यक दस्तावेज़ अपलोड करें",
+    "चरण 04: आवेदन पत्र जमा करें और संदर्भ संख्या उत्पन्न करें",
+    "चरण 05: निकटतम एलपीजी वितरक के पास संदर्भ संख्या और आवश्यक दस्तावेज़ लेकर जाएं",
+    "चरण 06: दस्तावेज़ की जांच करें और केवाईसी प्रक्रिया पूरी करें",
+    "चरण 07: एलपीजी कनेक्शन और पहली रिफिल प्राप्त करें",
+    "चरण 08: एलपीजी कनेक्शन और स्टोव स्थापित करें",
+    "चरण 09: एलपीजी कनेक्शन को सक्रिय करें और इसका उपयोग शुरू करें",
+    "चरण 10: पीएमयूवाई पोर्टल या हेल्पलाइन के माध्यम से आवेदन की स्थिति की जांच करें"
+  ],
+  "apply_steps_ta": [
+    "படி 01: அதிகாரப்பூர்வ பிஎம்யுவाई இணையதளத்திற்குச் செல்லுங்கள் மற்றும் 'புதிய உஜ்ஜ்வாலா பிஎம்யுவाई இணைப்புக்கு விண்ணப்பிக்கவும்'"
+  ],
+  "faq": [
+    {
+      "question_en": "What is the eligibility criteria to avail a connection under Pradhan Mantri Ujjwala Yojana?",
+      "answer_en": "The applicant must be a woman who has attained 18 years of age, and there should be no other LPG connection from any Oil Marketing Company (OMC) within the same household. The adult woman must belong to a poor household based on the SECC-2011 data.",
+      "question_hi": "प्रधान मंत्री उज्ज्वला योजना के तहत कनेक्शन प्राप्त करने के लिए पात्रता मानदंड क्या है?",
+      "answer_hi": "आवेदिका की आयु 18 वर्ष से अधिक होनी चाहिए, और उसी घर में किसी भी तेल विपणन कंपनी (ओएमसी) से कोई अन्य एलपीजी कनेक्शन नहीं होना चाहिए। वयस्क महिला को एसईसीसी-2011 डेटा के आधार पर एक गरीब घर से संबंधित होना चाहिए।"
+    },
+    {
+      "question_en": "What documents are required to apply for Pradhan Mantri Ujjwala Yojana?",
+      "answer_en": "The required documents include Know Your Customer (KYC) application form, Proof of Identity (Aadhaar copy of Applicant), Proof of Address, Ration Card, and Bank Account details. For migrant applicants, a self-declaration as per Annexure I is required.",
+      "question_hi": "प्रधान मंत्री उज्ज्वला योजना के लिए आवेदन करने के लिए कौन से दस्तावेज़ आवश्यक हैं?",
+      "answer_hi": "आवश्यक दस्तावेजों में नो योर कस्टमर (केवाईसी) आवेदन पत्र, पहचान का प्रमाण (आधार की प्रति), पते का प्रमाण, राशन कार्ड और बैंक खाता विवरण शामिल हैं। प्रवासी आवेदकों के लिए एनेक्सचर आई के अनुसार स्व-घोषणा आवश्यक है।"
+    },
+    {
+      "question_en": "How can I apply for Pradhan Mantri Ujjwala Yojana?",
+      "answer_en": "Applicants can apply for Pradhan Mantri Ujjwala Yojana by submitting the application form and required documents to any distributor of their choice or through the Online Portal. The application form can also be downloaded online and submitted to the nearest LPG outlet.",
+      "question_hi": "मैं प्रधान मंत्री उज्ज्वला योजना के लिए कैसे आवेदन कर सकता हूं?",
+      "answer_hi": "आवेदक अपने पसंद के किसी भी वितरक को आवेदन पत्र और आवश्यक दस्तावेज जमा करके या ऑनलाइन पोर्टल के माध्यम से प्रधान मंत्री उज्ज्वला योजना के लिए आवेदन कर सकते हैं। आवेदन पत्र को ऑनलाइन डाउनलोड किया जा सकता है और निकटतम एलपीजी आउटलेट में जमा किया जा सकता है।"
+    },
+    {
+      "question_en": "What is the financial benefit under the Pradhan Mantri Ujjwala Yojana scheme?",
+      "answer_en": "The primary financial benefit under the PMUY scheme is a cash assistance of Rs. 1600 for a connection with a 14.2kg cylinder or Rs. 1150 for a 5 kg cylinder. Additionally, all PMUY beneficiaries will be provided with the first LPG refill and a stove (hot plate) free of cost, along with their deposit-free connection.",
+      "question_hi": "प्रधान मंत्री उज्ज्वला योजना योजना के तहत वित्तीय लाभ क्या है?",
+      "answer_hi": "पीएमयूवाई योजना के तहत प्राथमिक वित्तीय लाभ 14.2 किग्रा सिलेंडर के साथ कनेक्शन के लिए 1600 रुपये की नकद सहायता है या 5 किग्रा सिलेंडर के लिए 1150 रुपये। इसके अलावा, सभी पीएमयूवाई लाभार्थियों को उनके जमा मुक्त कनेक्शन के साथ पहली एलपीजी रीफिल और एक स्टोव (हॉट प्लेट) नि:शुल्क प्रदान किया जाएगा।"
+    },
+    {
+      "question_en": "What is the process for e-KYC in Pradhan Mantri Ujjwala Yojana?",
+      "answer_en": "The e-KYC process for Pradhan Mantri Ujjwala Yojana involves submitting the required documents, including Aadhaar card and bank account details, to the distributor or through the Online Portal. The applicant's identity and address will be verified through the e-KYC process.",
+      "question_hi": "प्रधान मंत्री उज्ज्वला योजना में ई-केवाईसी की प्रक्रिया क्या है?",
+      "answer_hi": "प्रधान मंत्री उज्ज्वला योजना के लिए ई-केवाईसी प्रक्रिया में आवश्यक दस्तावेज, जिनमें आधार कार्ड और बैंक खाता विवरण शामिल हैं, वितरक को या ऑनलाइन पोर्टल के माध्यम से जमा करना शामिल है। आवेदक की पहचान और पते की ई-केवाईसी प्रक्रिया के माध्यम से सत्यापन किया जाएगा।"
+    },
+    {
+      "question_en": "What are the reasons for rejection of Pradhan Mantri Ujjwala Yojana application?",
+      "answer_en": "The reasons for rejection of Pradhan Mantri Ujjwala Yojana application include incomplete or incorrect documentation, multiple LPG connections in the same household, and non-eligibility based on the SECC-2011 data.",
+      "question_hi": "प्रधान मंत्री उज्ज्वला योजना आवेदन के अस्वीकृति के कारण क्या हैं?",
+      "answer_hi": "प्रधान मंत्री उज्ज्वला योजना आवेदन के अस्वीकृति के कारणों में अपूर्ण या गलत दस्तावेज, उसी घर में एक से अधिक एलपीजी कनेक्शन और एसईसीसी-2011 डेटा के आधार पर अयोग्यता शामिल है।"
+    },
+    {
+      "question_en": "What is the appeal process for rejected Pradhan Mantri Ujjwala Yojana applications?",
+      "answer_en": "The appeal process for rejected Pradhan Mantri Ujjwala Yojana applications involves submitting a written appeal to the concerned authorities, along with the required documents and a clear explanation of the grounds for appeal.",
+      "question_hi": "अस्वीकृत प्रधान मंत्री उज्ज्वला योजना आवेदनों के लिए अपील प्रक्रिया क्या है?",
+      "answer_hi": "अस्वीकृत प्रधान मंत्री उज्ज्वला योजना आवेदनों के लिए अपील प्रक्रिया में संबंधित अधिकारियों को लिखित अपील जमा करना शामिल है, साथ ही आवश्यक दस्तावेज और अपील के आधार की स्पष्ट व्याख्या भी शामिल है।"
+    },
+    {
+      "question_en": "How can I check the status of my Pradhan Mantri Ujjwala Yojana application?",
+      "answer_en": "You can check the status of your Pradhan Mantri Ujjwala Yojana application by visiting the official website of the scheme or by contacting the concerned authorities. You will need to provide your application reference number or other identification details to track the status of your application.",
+      "question_hi": "मैं अपने प्रधान मंत्री उज्ज्वला योजना आवेदन की स्थिति कैसे जांच सकता हूं?",
+      "answer_hi": "आप योजना की आधिकारिक वेबसाइट पर जाकर या संबंधित अधिकारियों से संपर्क करके अपने प्रधान मंत्री उज्ज्वला योजना आवेदन की स्थिति की जांच कर सकते हैं। आपको अपने आवेदन संदर्भ संख्या या अन्य पहचान विवरण प्रदान करने की आवश्यकता होगी ताकि आप अपने आवेदन की स्थिति को ट्रैक कर सकें।"
+    }
+  ],
+  "common_mistakes": [
+    "Mistake 1: Incomplete or incorrect KYC application form — Ensure all fields are filled correctly and thoroughly",
+    "Mistake 2: Insufficient or missing documents — Verify the list of required documents and ensure all are attached",
+    "Mistake 3: Incorrect or outdated proof of address — Use the most recent and valid proof of address, or self-declaration for migrant applicants",
+    "Mistake 4: Failure to declare existing LPG connections — Ensure no other LPG connection exists in the household",
+    "Mistake 5: Incorrect or incomplete bank account details — Double-check bank account information for accuracy",
+    "Mistake 6: Not meeting the eligibility criteria — Carefully review the eligibility criteria before applying"
+  ],
+  "pro_tips": [
+    "Tip 1: Apply through the online portal for faster processing and to avoid potential errors in physical applications",
+    "Tip 2: Ensure all documents are in order and easily accessible to speed up the application process",
+    "Tip 3: Choose the correct cylinder type (14.2KG or 5KG) based on your needs to avoid future complications",
+    "Tip 4: Regularly check the status of your application to ensure timely completion and address any issues promptly"
+  ],
+  "state_wise_amounts": {
+    "note": "The central financial benefit of Rs. 1600 for a 14.2kg cylinder or Rs. 1150 for a 5 kg cylinder may vary with additional state-specific top-ups",
+    "varies_by": "amount",
+    "states": {
+      "andhra_pradesh": "same as central",
+      "assam": "same as central",
+      "bihar": "same as central",
+      "gujarat": "same as central",
+      "haryana": "same as central",
+      "jharkhand": "same as central",
+      "karnataka": "same as central",
+      "kerala": "same as central",
+      "madhya_pradesh": "same as central",
+      "maharashtra": "same as central",
+      "odisha": "same as central",
+      "punjab": "same as central",
+      "rajasthan": "same as central",
+      "tamil_nadu": "same as central",
+      "telangana": "same as central",
+      "uttar_pradesh": "same as central",
+      "uttarakhand": "same as central",
+      "west_bengal": "same as central"
+    }
+  },
+  "state_specific_portals": {
+    "note": "While the central portal is the primary application point, some states may have their own portals or specific application processes",
+    "portals": {}
+  }
+}

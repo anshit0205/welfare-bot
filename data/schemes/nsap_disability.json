@@ -1,0 +1,240 @@
+{
+  "id": "nsap_disability",
+  "name_en": "Indira Gandhi National Disability Pension Scheme",
+  "description_en": "The Indira Gandhi National Disability Pension Scheme was launched in February 2009 by the Ministry of Rural Development to support disabled people in India. This scheme provides a monthly pension to disabled people for the prosperity of their lives. The scheme is implemented under the National Social Assistance Program and covers individuals aged between 18 and 79 years who have severe or multiple disabilities and belong to families living below the poverty line. The beneficiaries are eligible for central assistance of Rs.300 per month, while beneficiaries who are 80 years and above receive Rs.500 per month. The scheme aims to provide financial assistance to persons with severe or multiple disabilities belonging to Below Poverty Line (BPL) households.",
+  "benefit_en": "The primary financial benefit under the Indira Gandhi National Disability Pension Scheme is a monthly pension of Rs.300 for beneficiaries between 18-79 years and Rs.500 for beneficiaries aged 80 years and above. The scheme provides direct financial assistance to support the daily needs of disabled individuals. Additionally, the scheme may have secondary benefits such as improved access to healthcare, education, and social services. The scheme is linked to other social welfare programs and convergence schemes, which provide a comprehensive support system for disabled individuals. There are no top-up benefits or insurance coverage under this scheme. The subsidy details are not explicitly stated, but the scheme provides a direct benefit transfer to the beneficiaries' bank accounts.",
+  "eligibility_rules": {
+    "occupation": [
+      "any"
+    ],
+    "gender": "any",
+    "bpl_required": true,
+    "land_ownership_required": false,
+    "girl_child_required": false,
+    "pregnant_woman_only": false,
+    "age_min": 18,
+    "age_max": null,
+    "income_max_annual": null,
+    "caste_preference": [
+      "any"
+    ],
+    "bank_account_required": true,
+    "aadhaar_required": true,
+    "other_conditions": [
+      "Disability of 80% or more",
+      "Belonging to a Below Poverty Line (BPL) household",
+      "Resident of India",
+      "Not receiving another social welfare pension"
+    ]
+  },
+  "exclusion_criteria": [
+    "Income tax payees",
+    "Constitutional post holders",
+    "Serving/retired Central & State government employees (except Group D/MTS)",
+    "Government pensioners drawing Rs 10,000+/month",
+    "All professionals registered with professional bodies",
+    "Beneficiaries receiving another social welfare pension"
+  ],
+  "documents_en": [
+    "Aadhaar Card",
+    "BPL Card",
+    "Age Proof (birth certificate or school certificate)",
+    "Disability certificate (80% and More) issued from Chief Medical Officer, Community Health Centre or Primary Health Centre",
+    "Passport Size Photographs",
+    "Bank passbook or cancelled cheque",
+    "Land ownership documents / Khasra-Khatauni / Patta",
+    "Ration card",
+    "EPIC (Electoral Photo Identity Card)"
+  ],
+  "apply_steps_en": [
+    "Step 01: Apply online through the UMANG App or the official National Social Assistance Programme (NSAP) Portal",
+    "Step 02: Login using the registered mobile number and OTP/MPIN",
+    "Step 03: Search for 'NSAP' or 'Indira Gandhi National Disability Pension Scheme (IGNDPS)'",
+    "Step 04: Click on 'Apply Online'",
+    "Step 05: Fill in the required details such as personal information, Aadhaar number, bank account details, and disability-related information",
+    "Step 06: Choose the preferred mode of pension payment",
+    "Step 07: Upload the required documents and photograph",
+    "Step 08: Review the application details and click on 'Submit' to complete the application process",
+    "Step 09: Track the application and beneficiary payment status through the UMANG platform",
+    "Step 10: Contact the concerned State/UT authorities and local bodies for any queries or issues"
+  ],
+  "application_url": "https://nsap.nic.in/",
+  "helpline": "1800 111 555",
+  "ministry": "Ministry of Rural Development",
+  "nodal_department": "Department of Rural Development",
+  "scheme_type": "central",
+  "launch_year": 2009,
+  "last_updated": "2024",
+  "processing_time": "30-60 days",
+  "renewal_required": false,
+  "renewal_frequency": null,
+  "renewal_process": "Not applicable",
+  "payment_mode": "Direct Benefit Transfer (DBT)",
+  "payment_frequency": "monthly",
+  "payment_schedule": "Specific dates, triggers, or installment breakdown not specified",
+  "related_schemes": [
+    "National Social Assistance Programme (NSAP)",
+    "Indira Gandhi National Old Age Pension Scheme (IGNOAPS)",
+    "Indira Gandhi National Widow Pension Scheme (IGNWPS)",
+    "National Family Benefit Scheme (NFBS)"
+  ],
+  "tags": [
+    "disability pension",
+    "social welfare",
+    "rural development",
+    "poverty alleviation",
+    "financial assistance",
+    "monthly pension",
+    "Below Poverty Line (BPL)"
+  ],
+  "source_url": "https://nsap.nic.in/",
+  "keywords": [
+    "Indira Gandhi National Disability Pension Scheme",
+    "IGNDPS",
+    "disability pension",
+    "social welfare",
+    "rural development",
+    "poverty alleviation",
+    "financial assistance",
+    "monthly pension",
+    "Below Poverty Line (BPL)",
+    "how to apply",
+    "documents needed",
+    "amount received",
+    "eligibility criteria",
+    "application process",
+    "UMANG App",
+    "NSAP Portal"
+  ],
+  "name_hi": "इंदिरा गांधी राष्ट्रीय विकलांग पेंशन योजना",
+  "name_ta": "இந்திரா காந்தி தேசிய ஊனம் ஓய்வூதிய திட்டம்",
+  "name_bn": "ইন্দিরা গান্ধী জাতীয় প্রতিবন্ধী পেনশন স্কিম",
+  "name_mr": "इंदिरा गांधी राष्ट्रीय अपंग पेन्शन योजना",
+  "description_hi": "इंदिरा गांधी राष्ट्रीय विकलांग पेंशन योजना को फरवरी 2009 में ग्रामीण विकास मंत्रालय द्वारा भारत में विकलांग लोगों का समर्थन करने के लिए शुरू किया गया था। यह योजना विकलांग लोगों को उनके जीवन की समृद्धि के लिए मासिक पेंशन प्रदान करती है। यह योजना राष्ट्रीय सामाजिक सहायता कार्यक्रम के तहत लागू की जाती है और 18 से 79 वर्ष की आयु के बीच के व्यक्तियों को कवर करती है जिन्हें गंभीर या बहु-विकलांगता है और गरीबी रेखा से नीचे रहने वाले परिवारों से संबंधित हैं। लाभार्थियों को प्रति माह 300 रुपये की केंद्रीय सहायता के लिए पात्र हैं, जबकि 80 वर्ष से अधिक आयु के लाभार्थियों को प्रति माह 500 रुपये मिलते हैं। यह योजना गरीबी रेखा से नीचे (बीपीएल) घरों से संबंधित गंभीर या बहु-विकलांगता वाले व्यक्तियों को वित्तीय सहायता प्रदान करने का उद्देश्य रखती है।",
+  "description_ta": "இந்திரா காந்தி தேசிய ஊனம் ஓய்வூதியத் திட்டம் பிப்ரவரி 2009-ல் இந்தியாவில் ஊனமுற்ற நபர்களுக்கு ஆதரவளிக்க கிராம மேம்பாட்டு அமைச்சகத்தால் தொடங்கப்பட்டது. இந்தத் திட்டம் ஊனமுற்ற நபர்களுக்கு அவர்களின் வாழ்க்கையின் செழுமைக்காக மாதாந்திர ஓய்வூதியம் வழங்குகிறது. இந்தத் திட்டம் தேசிய சமூக உதவித் திட்டத்தின் கீழ் செயல்படுத்தப்படுகிறது. 18 முதல் 79 வயது வரையிலான நபர்களை உள்ளடக்கியது, அவர்களுக்கு கடுமையான அல்லது பல ஊனம் உள்ளது மற்றும் வறுமைக் கோட்டிற்கு கீழே வாழும் குடும்பங்களில் இருந்து வருகிறார்கள். நன்மைகள் ஒரு மாதத்திற்கு ரூ.300 மத்திய உதவிக்கு தகுதியானவை, அதேசமயம் 80 வயது மற்றும் அதற்கு மேற்பட்ட நன்மைகள் ஒரு மாதத்திற்கு ரூ.500 பெறுகின்றன. இந்தத் திட்டம் வறுமைக் கோட்டிற்கு (பிபிஎல்) கீழே உள்ள வீடுகளிலிருந்து கடுமையான அல்லது பல ஊனமுற்ற நபர்களுக்கு நிதி உதவி அளிப்பதை நோக்கமாகக் கொண்டுள்ளது.",
+  "description_bn": "ইন্দিরা গান্ধী জাতীয় প্রতিবন্ধী পেনশন স্কিমটি ভারতের প্রতিবন্ধী ব্যক্তিদের সমর্থন করার জন্য ফেব্রুয়ারি ২০০৯ সালে গ্রামীণ উন্নয়ন মন্ত্রক দ্বারা চালু করা হয়েছিল। এই স্কিমটি প্রতিবন্ধী ব্যক্তিদের তাদের জীবনের সমৃদ্ধির জন্য মাসিক পেনশন প্রদান করে। এই স্কিমটি জাতীয় সামাজিক সহায়তা কর্মসূচির অধীনে বাস্তবায়িত হয় এবং ১৮ থেকে ৭৯ বছর বয়সী ব্যক্তিদের কভার করে যাদের গুরুতর বা একাধিক প্রতিবন্ধকতা রয়েছে এবং দারিদ্র্য রেখার নিচে বসবাসকারী পরিবারগুলির সাথে সম্পর্কিত। সুবিধাভোগীরা প্রতি ম",
+  "documents_hi": [
+    "आधार कार्ड",
+    "बीपीएल कार्ड",
+    "आयु प्रमाण (जन्म प्रमाण पत्र या स्कूल प्रमाण पत्र)",
+    "विकलांगता प्रमाण पत्र (80% और अधिक) मुख्य चिकित्सा अधिकारी, सामुदायिक स्वास्थ्य केंद्र या प्राथमिक स्वास्थ्य केंद्र द्वारा जारी",
+    "पासपोर्ट आकार के फोटो",
+    "बैंक पासबुक या रद्द किया गया चेक",
+    "भूमि स्वामित्व दस्तावेज / खसरा-खतौनी / पट्टा",
+    "राशन कार्ड",
+    "इपिक (इलेक्टोरल फोटो आइडेंटिटी कार्ड)"
+  ],
+  "documents_ta": [
+    "ஆதார் அட்டை",
+    "பிஎல் அட்டை",
+    "வயது சான்றிதழ் (பிறப்பு சான்றிதழ் அல்லது பள்ளி சான்றிதழ்)",
+    "ஊனம் சான்றிதழ் (80% மற்றும் அதற்கு மேல்) தலைமை மருத்துவ அதிகாரி, சமூக சுகாதார மையம் அல்லது முதன்மை சுகாதார மையத்தால் வழங்கப்பட்டது",
+    "பாஸ்போர்ட் அளவு புகைப்படங்கள்",
+    "வங்கி பாஸ்புக் அல்லது ரத்து செய்யப்பட்ட செக்",
+    "நில உடைமை ஆவணங்கள் / கணக்கெடுப்பு / பட்டா",
+    "ரேஷன் கார்டு",
+    "இபிஐசி (தேர்தல் புகைப்பட அடையாள அட்டை)"
+  ],
+  "documents_bn": [
+    "আধার কার্ড",
+    "বিপিএল কার্ড",
+    "বয়সের প্রমাণ (জন্ম নিবন্ধন বা স্কুল সার্টিফিকেট)",
+    "প্রতিবন্ধী প্রমাণপত্র (80% এবং তার বেশি) প্রধান চিকিৎসা অফিসার, সম্প্রদায় স্বাস্থ্য কেন্দ্র বা প্রাথমিক স্বাস্থ্য কেন্দ্র দ্বারা জারি",
+    "পাসপোর্ট আকারের ছবি",
+    "ব্যাংক পাসবুক বা বাতিল করা চেক",
+    "জমির মালিকানা নথি / খাতায় / পাট্টা",
+    "রেশন কার্ড",
+    "ইপিআইসি (ইলেক্টোরাল ফটো আইডেন্টিটি কার্ড)"
+  ],
+  "apply_steps_hi": [
+    "स्टेप 01: उमंग ऐप या आधिकारिक राष्ट्रीय सामाजिक सहायता कार्यक्रम (एनएसएपी) पोर्टल के माध्यम से ऑनलाइन आवेदन करें",
+    "स्टेप 02: पंजीकृत मोबाइल नंबर और ओटीपी/एमपीआईएन का उपयोग करके लॉगिन करें",
+    "स्टेप 03: 'एनएसएपी' या 'इंदिरा गांधी राष्ट्रीय विकलांगता पेंशन योजना (आईजीएनडीपीएस)' की खोज करें",
+    "स्टेप 04: 'ऑनलाइन आवेदन' पर क्लिक करें",
+    "स्टेप 05: व्यक्तिगत जानकारी, आधार नंबर, बैंक खाता विवरण, और विकलांगता से संबंधित जानकारी जैसे आवश्यक विवरण भरें",
+    "स्टेप 06: पेंशन भुगतान के लिए पसंदीदा मोड चुनें",
+    "स्टेप 07: आवश्यक दस्तावेज और फोटो अपलोड करें",
+    "स्टेप 08: आवेदन विवरण की समीक्षा करें और आवेदन प्रक्रिया पूरी करने के लिए 'सबमिट' पर क्लिक करें",
+    "स्टेप 09: उमंग प्लेटफॉर्म के माध्यम से आवेदन और लाभार्थी भुगतान की स्थिति को ट्रैक करें",
+    "स्टेप 10: किसी भी प्रश्न या समस्या के लिए संबंधित राज्य/संघ राज्य क्षेत्र प्राधिकरण और स्थानीय निकाय से संपर्क करें"
+  ],
+  "apply_steps_ta": [
+    "படிநிலை 01: உமாங் பயன்பாடு அல்லது அதிகாரப்பூர்வ தேசிய சமூக உதவித்தொகைத் திட்டம் (என்எஸ்ஏபி) இணையதளம் மூலம் ஆன்லைனில் விண்ணப்பிக்கவும்",
+    "படிநிலை 02: பதிவு செய்யப்பட்ட கைப்பேசி எண்ணும் ஒருமை நுழைவு குறியீடு/எம்பிஐஎன ஐயும் பயன்படுத்தி உள்நுழைக",
+    "படிநிலை 03: 'என்எஸ்ஏபி' அல்லது 'இந்திரா காந்தி தேசிய ஊனம் ஓய்வூதியத் திட்டம் (ஐஜிஎனடிபிஎஸ்)' ஐத் தேடுக",
+    "படிநிலை 04: 'ஆன்லைனில் விண்ணப்பிக்கவும்' என்பதைக் கிளிக் செய்க",
+    "படிநிலை 05: தனிப்பட்ட தகவல்கள், ஆதார் எண், வங்கி கணக்கு விவரங்கள் மற்றும் ஊனம் தொடர்பான தகவல்கள் போன்ற தேவையான விவரங்களை நிரப்புக",
+    "படிநிலை 06: ஓய்வூதியம் செலுத்துதலுக்கான விருப்பமான முறையைத் தேர்ந்தெடுங்கள்",
+    "படிநிலை 07: தேவையான ஆவணங்களையும் புகைப்படத்தையும் பதிவேற்றுங்கள்",
+    "படிநிலை 08: விண்ணப்ப விவரங்களை மீள்பார்வை செய்து விண்ணப்ப செயல்முறையை முடிக்க விண்ணப்ப விவரங்களை சமர்ப்பிக்கவும்",
+    "படிநிலை 09: உமாங் தளம் மூலம் விண்ணப்பம் மற்றும் நன்மைக் குறிப்பு நிலையைத் தொடர்ந்து கண்காணிக்க"
+  ],
+  "faq": [
+    {
+      "question_en": "What is the eligibility criteria for the Indira Gandhi National Disability Pension Scheme?",
+      "answer_en": "To be eligible, an individual must have severe (80 percent or more) or multiple disabilities, belong to a family living below the poverty line, and be a resident of India. The age range for eligibility is 18 years and above, with no upper age limit.",
+      "question_hi": "इंदिरा गांधी नेशनल डिसएबिलिटी पेंशन स्कीम के लिए पात्रता मानदंड क्या है?",
+      "answer_hi": "पात्रता के लिए, व्यक्ति को 80 प्रतिशत या अधिक गंभीर या बहु-विकलांगता होनी चाहिए, गरीबी रेखा से नीचे रहने वाले परिवार से होना चाहिए और भारत का निवासी होना चाहिए। पात्रता के लिए आयु सीमा 18 वर्ष और अधिक है, जिसमें कोई ऊपरी आयु सीमा नहीं है।",
+      "question_ta": "இந்திரா காந்தி தேசிய ஊனம் ஓய்வூதியத் திட்டத்திற்கான தகுதி விதிமுறைகள் என்ன?",
+      "answer_ta": "தகுதி பெறுவதற்கு, ஒரு நபருக்கு 80 சதவீதம் அல்லது அதற்கு மேற்பட்ட கடுமையான அல்லது பல ஊனம் இருக்க வேண்டும், வறுமைக் கோட்டிற்கு கீழே வசிக்கும் குடும்பத்தைச் சேர்ந்தவராக இருக்க வேண்டும் மற்றும் இந்தியாவின் குடிமகனாக இருக்க வேண்டும். தகுதி பெறுவதற்கான வயது எல்லை 18 வயது மற்றும் அதற்கு மேல், எந்த மேல் வயது எல்லையும் இல்லை."
+    },
+    {
+      "question_en": "What documents are required to apply for the Indira Gandhi National Disability Pension Scheme?",
+      "answer_en": "The required documents include a disability certificate with 80% or more disability, proof of age, proof of income, and proof of residence. Additionally, a bank account and Aadhaar card are also required.",
+      "question_hi": "इंदिरा गांधी नेशनल डिसएबिलिटी पेंशन स्कीम के लिए आवेदन करने के लिए कौन से दस्तावेज़ आवश्यक हैं?",
+      "answer_hi": "आवश्यक दस्तावेजों में 80 प्रतिशत या अधिक विकलांगता वाला विकलांगता प्रमाण पत्र, आयु प्रमाण, आय प्रमाण और निवास प्रमाण शामिल हैं। इसके अलावा, एक बैंक खाता और आधार कार्ड भी आवश्यक हैं।",
+      "question_ta": "இந்திரா காந்தி தேசிய ஊனம் ஓய்வூதியத் திட்டத்திற்கு விண்ணப்பிக்க என்னென்ன ஆவணங்கள் தேவை?",
+      "answer_ta": "தேவையான ஆவணங்களில் 80 சதவீதம் அல்லது அதற்கு மேற்பட்ட ஊனமுற்ற நிலையைக் குறிக்கும் ஊனம் சான்றிதழ், வயது சான்று, வருமான சான்று மற்றும் வசிப்பிடச் சான்று ஆகியவை அடங்கும். கூடுதலாக, ஒரு வங்கி கணக்கு மற்றும் ஆதார் அட்டை ஆகியவையும் தேவை."
+    },
+    {
+      "question_en": "How much pension is provided under the Indira Gandhi National Disability Pension Scheme?",
+      "answer_en": "The scheme provides a monthly pension of Rs.300 for beneficiaries between 18-79 years and Rs.500 for beneficiaries aged 80 years and above.",
+      "question_hi": "इंदिरा गांधी नेशनल डिसएबिलिटी पेंशन स्कीम के तहत कितनी पेंशन प्रदान की जाती है?",
+      "answer_hi": "इस योजना के तहत 18-79 वर्ष की आयु के लाभार्थियों को 300 रुपये प्रति माह और 80 वर्ष से अधिक आयु के लाभार्थियों को 500 रुपये प्रति माह पेंशन प्रदान की जाती है।",
+      "question_ta": "இந்திரா காந்தி தேசிய ஊனம் ஓய்வூதியத் திட்டத்தின் கீழ் எவ்வளவு ஓய்வூதியம் வழங்கப்படுகிறது?",
+      "answer_ta": "இந்தத் திட்டத்தின் கீழ் 18-79 வயதுடைய நன்மைக்காளர்களுக்கு மாதம் ரூ.300 மற்றும் 80 வயது மற்றும் அதற்கு மேற்பட்ட நன்மைக்காளர்களுக்கு ரூ.500 வழங்கப்படுகிறது."
+    }
+  ],
+  "common_mistakes": [
+    "Mistake 1: Not meeting the 80% or more disability criteria — Ensure that the disability certificate issued indicates a disability of 80% or more to avoid rejection.",
+    "Mistake 2: Not belonging to a Below Poverty Line (BPL) household — Verify that the applicant's household is classified as BPL according to the guidelines to ensure eligibility.",
+    "Mistake 3: Not having the required documents — Ensure that all necessary documents, including the disability certificate and proof of BPL status, are submitted to avoid application rejection.",
+    "Mistake 4: Applying outside the eligible age range — Confirm that the applicant is within the eligible age range of 18 to 79 years for the standard pension or 80 years and above for the higher pension.",
+    "Mistake 5: Not having a bank account or Aadhaar — Ensure that the applicant has a bank account and an Aadhaar number, as these are required for direct benefit transfer.",
+    "Mistake 6: Failing to maintain eligibility criteria over time — Ensure that the beneficiary continues to meet the eligibility criteria, including BPL status and disability level, to avoid payment cessation."
+  ],
+  "pro_tips": [
+    "Tip 1: Ensure all documents are in order before applying to speed up the application process — This includes having a valid disability certificate, BPL certification, and necessary identification documents.",
+    "Tip 2: Apply through the official channels or portals to minimize delays — Using official channels ensures that the application is processed efficiently and reduces the risk of rejection due to miscommunication.",
+    "Tip 3: Regularly check the status of the application to ensure it is being processed — Keeping track of the application's progress can help identify and resolve any issues promptly.",
+    "Tip 4: Be aware of the state-specific top-ups or additional benefits that may be available — Some states offer additional financial assistance or benefits, so it's essential to inquire about these when applying."
+  ],
+  "state_wise_amounts": {
+    "note": "The central assistance amount varies by age, with Rs.300 per month for beneficiaries between 18 and 79 years and Rs.500 per month for those 80 years and above. Some states may offer top-ups or additional benefits.",
+    "varies_by": "amount",
+    "states": {
+      "andhra_pradesh": "same as central",
+      "assam": "same as central",
+      "bihar": "same as central",
+      "gujarat": "same as central",
+      "haryana": "same as central",
+      "jharkhand": "same as central",
+      "karnataka": "same as central",
+      "kerala": "same as central",
+      "madhya_pradesh": "same as central",
+      "maharashtra": "same as central",
+      "odisha": "same as central",
+      "punjab": "same as central",
+      "rajasthan": "same as central",
+      "tamil_nadu": "same as central",
+      "telangana": "same as central",
+      "uttar_pradesh": "same as central",
+      "uttarakhand": "same as central",
+      "west_bengal": "same as central"
+    }
+  },
+  "state_specific_portals": {
+    "note": "While the central portal is the primary point of application, some states may have their own portals or application processes.",
+    "portals": {}
+  }
+}

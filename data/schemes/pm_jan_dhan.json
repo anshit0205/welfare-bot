@@ -1,0 +1,257 @@
+{
+  "id": "pm_jan_dhan",
+  "name_en": "Pradhan Mantri Jan Dhan Yojana",
+  "description_en": "Pradhan Mantri Jan Dhan Yojana (PMJDY) is a National Mission on Financial Inclusion. The plan envisages universal access to banking facilities with at least one basic banking account for every household, financial literacy, access to credit, insurance, and pension facility. The scheme has been successful in increasing banking penetration and promoting financial inclusion across the country. It has ensured access to various financial services like availability of basic savings bank account, access to need-based credit, remittances facility, insurance, and pension to the excluded sections i.e. weaker sections and low-income groups. The scheme was launched in August 2014 and has covered over 58.39 crore beneficiaries so far, with a total balance of Rs 300,582.92 crore in beneficiary accounts. The scheme is implemented by the Ministry of Finance, with the Department of Financial Services as the nodal department.",
+  "benefit_en": "The primary financial benefit of PMJDY is the provision of a basic savings bank deposit account with no minimum balance requirement. Additionally, account holders receive a free RuPay debit card with an inbuilt accident insurance cover of Rs 2 lakh. The scheme also provides an overdraft facility of up to Rs 10,000, subject to terms and conditions. Furthermore, account holders are eligible for Direct Benefit Transfer (DBT), Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY), Pradhan Mantri Suraksha Bima Yojana (PMSBY), and Atal Pension Yojana (APY). The scheme also offers a life insurance cover of Rs 30,000 to eligible beneficiaries.",
+  "eligibility_rules": {
+    "occupation": [
+      "farmer",
+      "agricultural labourer",
+      "rural household",
+      "urban household"
+    ],
+    "gender": "any",
+    "bpl_required": false,
+    "land_ownership_required": false,
+    "girl_child_required": false,
+    "pregnant_woman_only": false,
+    "age_min": null,
+    "age_max": null,
+    "income_max_annual": null,
+    "caste_preference": [
+      "any"
+    ],
+    "bank_account_required": false,
+    "aadhaar_required": true,
+    "other_conditions": [
+      "The applicant should be an Indian National",
+      "If minors above ten years apply, they will require support from their legal guardians for administering their PMJDY account",
+      "The account can be opened in any bank branch or Business Correspondent (Bank Mitr) outlet",
+      "The account holder should have a valid mobile number and email ID"
+    ]
+  },
+  "exclusion_criteria": [
+    "Income tax payees (previous assessment year)",
+    "Constitutional post holders (President, VP, Ministers, MPs, MLAs, etc.)",
+    "Serving/retired Central & State government employees (except Group D/MTS)",
+    "Government pensioners drawing Rs 10,000+/month",
+    "All professionals registered with professional bodies (doctors, lawyers, CAs, architects, engineers)"
+  ],
+  "documents_en": [
+    "01. Aadhaar Card — mandatory for eKYC and DBT",
+    "02. Government ID proofs (Voter Card/PAN Card/Ration card)",
+    "03. Permanent Address proof (Passport/Driving License/Electricity Bill/Telephone Bill/Water Bill)",
+    "04. Passport size photograph",
+    "05. Filled and Signed PMJDY Account opening form",
+    "06. Any other document as notified by the Central Government in consultation with the Regulator",
+    "07. Bank passbook or cancelled cheque — for DBT linkage",
+    "08. Land ownership documents / Khasra-Khatauni / Patta",
+    "09. Income certificate",
+    "10. Caste certificate"
+  ],
+  "apply_steps_en": [
+    "Step 01: Visit the official portal of PMJDY",
+    "Step 02: Download the account opening form from the portal",
+    "Step 03: Fill the form manually with all the required bank and personal data",
+    "Step 04: Visit the nearest bank branch and submit the form along with the required documents",
+    "Step 05: The bank will verify the documents and open the account",
+    "Step 06: The account holder will receive a free RuPay debit card with an inbuilt accident insurance cover of Rs 2 lakh",
+    "Step 07: The account holder can avail the overdraft facility of up to Rs 10,000, subject to terms and conditions",
+    "Step 08: The account holder can access various financial services like need-based credit, remittances facility, insurance, and pension",
+    "Step 09: The account holder can link their mobile number and email ID with the account",
+    "Step 10: The account holder can track their account transactions and balance through the mobile banking facility"
+  ],
+  "application_url": "https://www.pmjdy.gov.in/",
+  "helpline": "National Toll Free: 1800 11 0001, 1800 180 1111",
+  "ministry": "Ministry of Finance",
+  "nodal_department": "Department of Financial Services",
+  "scheme_type": "central",
+  "launch_year": 2014,
+  "last_updated": "2024",
+  "processing_time": "Immediate",
+  "renewal_required": false,
+  "renewal_frequency": null,
+  "renewal_process": "Not applicable",
+  "payment_mode": "DBT / direct bank transfer",
+  "payment_frequency": "one-time",
+  "payment_schedule": "As per the scheme guidelines",
+  "related_schemes": [
+    "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+    "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+    "Atal Pension Yojana (APY)"
+  ],
+  "tags": [
+    "financial inclusion",
+    "banking",
+    "credit",
+    "insurance",
+    "pension"
+  ],
+  "source_url": "https://www.pmjdy.gov.in/",
+  "keywords": [
+    "Pradhan Mantri Jan Dhan Yojana",
+    "PMJDY",
+    "financial inclusion",
+    "banking",
+    "credit",
+    "insurance",
+    "pension",
+    "RuPay debit card",
+    "accident insurance cover",
+    "overdraft facility",
+    "Direct Benefit Transfer",
+    "DBT",
+    "Aadhaar",
+    "mobile banking",
+    "financial literacy",
+    "need-based credit",
+    "remittances facility",
+    "life insurance cover",
+    "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+    "Pradhan Mantri Suraksha Bima Yojana",
+    "Atal Pension Yojana"
+  ],
+  "name_hi": "प्रधान मंत्री जन धन योजना",
+  "name_ta": "பிரதான் மந்திரி ஜன் தன் யோஜனா",
+  "name_bn": "প্রধানমন্ত্রী জন ধন যোজনা",
+  "name_mr": "प्रधानमंत्री जन धन योजना",
+  "description_hi": "प्रधान मंत्री जन धन योजना (पीएमजेडीवाई) वित्तीय समावेशन पर एक राष्ट्रीय मिशन है। इस योजना में प्रत्येक घरेलू के लिए कम से कम एक बुनियादी बैंकिंग खाते के साथ बैंकिंग सुविधाओं तक सार्वभौमिक पहुंच, वित्तीय साक्षरता, ऋण, बीमा और पेंशन सुविधा तक पहुंच शामिल है। यह योजना बैंकिंग प्रवेश को बढ़ाने और देश भर में वित्तीय समावेशन को बढ़ावा देने में सफल रही है। इसने विभिन्न वित्तीय सेवाओं जैसे कि मूल बचत बैंक खाते की उपलब्धता, आवश्यकता-आधारित ऋण, रेमिटेंस सुविधा, बीमा और पेंशन तक पहुंच को सुनिश्चित किया है, जो कमजोर वर्गों और निम्न-आय वर्गों के लिए है। यह योजना अगस्त 2014 में शुरू की गई थी और अब तक 58.39 करोड़ से अधिक लाभार्थियों को कवर कर चुकी है, जिसमें लाभार्थी खातों में कुल शेष राशि रु 300,582.92 करोड़ है। यह योजना वित्त मंत्रालय द्वारा कार्यान्वित की जाती है, जिसमें वित्तीय सेवा विभाग नोडल विभाग के रूप में है।",
+  "description_ta": "பிரதான் மந்திரி ஜன் தன் யோஜனா (பிஎம்ஜெடிவை) நிதி உள்ளடக்கத்தின் மீது ஒரு தேசிய திட்டமாகும். இந்த திட்டத்தில் ஒவ்வொரு வீட்டிற்கும் குறைந்தபட்சம் ஒரு அடிப்படை வங்கி கணக்குடன் வங்கி வசதிகளுக்கு பொது அணுகல், நிதி கல்வி, கடனுக்கான அணுகல், காப்பீடு மற்றும் ஓய்வூதிய வசதி ஆகியவை அடங்கும். இந்த திட்டம் வங்கி நுழைவை அதிகரிப்பதிலும், நாடு முழுவதும் நிதி உள்ளடக்கத்தை மேம்படுத்துவதிலும் வெற்றி பெற்றுள்ளது. இது பல நிதி சேவைகளுக்கான அணுகலை உறுதி செய்துள்ளது, அதாவது அடிப்படை சேமிப்பு வங்கி கணக்கு கிடைப்பது, தேவைக்கேற்ப கடன், பணம் அனுப்பும் வசதி, காப்பீடு மற்றும் ஓய்வூதியம் ஆகியவை பலவீனமான பிரிவுகள் மற்றும் குறைந்த வருமான குழுக்களுக்கு வழங்கப்படுகின்றன. இந்த திட்டம் ஆகஸ்ட் 2014 இல் தொடங்கப்பட்டது மற்றும் இதுவரை 58.39 கோடிக்கும் மேற்பட்ட நன்மைகளை உள்ளடக்கியது, நன்மைகள் கணக்குகளில் மொத்த சேமிப்பு ரூ. 300,582.92 கோடி. இந்த திட்டம் நிதி அமைச்சகத்தால் செயல்படுத்தப்படுகிறது, நிதி சேவைகள் துறை மைய துறையாக உள்ளது.",
+  "description_bn": "প্রধানমন্ত্রী জন ধন যোজনা (পিএমজেডিওয়াই) হল আর্থিক অন্তর্ভুক্তির উপর একটি জাতীয় মিশন। এই পরিকল্পনায় প্রতিটি পরিবারের জন্য কমপক্ষে একটি মৌলিক ব্যাংকিং অ্যাকাউন্ট সহ ব্যাংকিং সুবিধাগুলিতে সার্বজনীন অ্যাক্সেস, আর্থিক সাক্ষরতা, ঋণ, বীমা এবং পেনশন সুবিধা অ্যাক্সেস অন্তর্ভুক্ত রয়েছে। এই পরিকল্পনাটি ব্যাংকিং প্রবেশ বৃদ্ধি এবং দেশব্যাপী আর্থিক অন্তর্ভুক্তি প্রচারে সফল হয়েছে। এটি ব",
+  "documents_hi": [
+    "आधार कार्ड — ईकेवाईसी और डीबीटी के लिए अनिवार्य",
+    "सरकारी आईडी प्रूफ (वोटर कार्ड/पैन कार्ड/राशन कार्ड)",
+    "स्थायी पता प्रमाण (पासपोर्ट/ड्राइविंग लाइसेंस/बिजली बिल/टेलीफोन बिल/पानी बिल)",
+    "पासपोर्ट साइज फोटोग्राफ",
+    "भरा हुआ और हस्ताक्षरित पीएमजेडीवाई खाता खोलने का फॉर्म",
+    "केंद्र सरकार द्वारा नियामक के परामर्श से अधिसूचित कोई अन्य दस्तावेज",
+    "बैंक पासबुक या रद्द चेक — डीबीटी लिंकेज के लिए",
+    "भूमि स्वामित्व दस्तावेज / खसरा-खतौनी / पट्टा",
+    "आय प्रमाण पत्र",
+    "जाति प्रमाण पत्र"
+  ],
+  "documents_ta": [
+    "ஆதார் அட்டை — இ-கையொப்பம் மற்றும் டிபிடி க்கு அவசியம்",
+    "அரசு அடையாள சான்றிதழ்கள் (வாக்காளர் அட்டை/பான் கார்ட்/ரேஷன் கார்ட்)",
+    "நிரந்தர முகவரி சான்றிதழ் (பாஸ்போர்ட்/ஓட்டுநர் உரிமம்/மின்சார கணக்கு/தொலைபேசி கணக்கு/நீர் கணக்கு)",
+    "பாஸ்போர்ட் அளவு புகைப்படம்",
+    "நிரப்பப்பட்ட மற்றும் கையெழுத்திடப்பட்ட பிஎம்ஜேடிவाई கணக்கு திறப்பு வடிவம்",
+    "மத்திய அரசால் ஒழுங்குமுறை ஆணையத்தின் ஆலோசனையின் பேரில் அறிவிக்கப்பட்ட வேறு ஆவணங்கள்",
+    "வங்கி பாஸ்புக் அல்லது ரத்து செய்யப்பட்ட செக் — டிபிடி இணைப்புக்கு",
+    "நில உடைமை ஆவணங்கள் / காசா-கத்துனி / பட்டா",
+    "வருமான சான்றிதழ்",
+    "சாதி சான்றிதழ்"
+  ],
+  "documents_bn": [
+    "আধার কার্ড — ইলেকট্রনিক কেভাইসি এবং ডিবিটি এর জন্য বাধ্যতামূলক",
+    "সরকারি আইডি প্রুফ (ভোটার কার্ড/প্যান কার্ড/রেশন কার্ড)",
+    "স্থাযী ঠিকানা প্রমাণ (পাসপোর্ট/ড্রাইভিং লাইসেন্স/বিদ্যুৎ বিল/টেলিফোন বিল/পানি বিল)",
+    "পাসপোর্ট আকারের ছবি",
+    "পূরণ করা এবং স্বাক্ষরিত পিএমজেডিওয়াই অ্যাকাউন্ট খোলার ফর্ম",
+    "কেন্দ্রীয় সরকার কর্তৃক নিয়ন্ত্রকের পরামর্শে অধিসূচিত অন্য কোনও নথি",
+    "ব্যাংক পাসবুক বা বাতিল চেক — ডিবিটি লিংকেজের জন্য",
+    "জমি মালিকানা নথি / খতিযান / পাট্টা",
+    "আয় প্রমাণ পত্র",
+    "জাতি প্রমাণ পত্র"
+  ],
+  "documents_mr": [
+    "आधार कार्ड — ईकेवाईसी आणि डीबीटी साठी अनिवार्य",
+    "सरकारी आयडी पुरावे (मतदार कार्ड/पॅन कार्ड/रेशन कार्ड)",
+    "स्थायी पत्ता पुरावा (पासपोर्ट/ड्रायव्हिंग लायसन्स/इलेक्ट्रिसिटी बिल/टेलिफोन बिल/पाणी बिल)",
+    "पासपोर्ट आकाराचे फोटो",
+    "भरण्यात आलेले आणि स्वाक्षरी केलेले पीएमजेडीवाय खाते उघडण्याचे फॉर्म",
+    "केंद्र सरकारने नियामकांच्या सल्ल्याने अधिसूचित केलेले इतर कोणतेही दस्त",
+    "बँक पासबुक किंवा रद्द केलेले चेक — डीबीटी लिंकेजसाठी",
+    "जमीन मालकी दस्तावेज / खतौनी / पट्टा",
+    "उत्पन्न प्रमाण पत्र",
+    "जाती प्रमाण पत्र"
+  ],
+  "apply_steps_hi": [
+    "पीएमजेडीवाई की आधिकारिक पोर्टल पर जाएं",
+    "पोर्टल से खाता खोलने का फॉर्म डाउनलोड करें",
+    "फॉर्म को हाथ से भरें और सभी आवश्यक बैंक और व्यक्तिगत डेटा भरें",
+    "निकटतम बैंक शाखा में जाएं और फॉर्म के साथ आवश्यक दस्तावेज जमा करें",
+    "बैंक दस्तावेजों की जांच करेगा और खाता खोलेगा",
+    "खाताधारक को नि:शुल्क रूपे डेबिट कार्ड मिलेगा जिसमें 2 लाख रुपये का दुर्घटना बीमा कवर होगा",
+    "खाताधारक 10,000 रुपये तक की ओवरड्राफ्ट सुविधा का लाभ उठा सकता है, नियमों और शर्तों के अधीन",
+    "खाताधारक विभिन्न वित्तीय सेवाओं जैसे कि आवश्यकता-आधारित ऋण, रेमिटेंस सुविधा, बीमा और पेंशन का लाभ उठा सकता है",
+    "खाताधारक अपना मोबाइल नंबर और ईमेल आईडी खाते के साथ जोड़ सकता है",
+    "खाताधारक मोबाइल बैंकिंग सुविधा के माध्यम से अपने खाते के लेन-देन और शेष की जांच कर सकता है"
+  ],
+  "apply_steps_ta": [
+    "பிஎம்ஜேடிவाई அதிகாரப்பூர்வ போர்டலுக்குச் செல்லுங்கள்",
+    "போர்டலில் இருந்து கணக்கு திறப்பு வடிவத்தை பதிவிறக்கவும்",
+    "வடிவத்தை கையால் நிரப்புங்கள் மற்றும் அனைத்து தேவையான வங்கி மற்றும் தனிப்பட்ட தரவுகளை நிரப்புங்கள்",
+    "அருகிலுள்ள வங்கி கிளைக்குச் செல்லுங்கள் மற்றும் வடிவத்துடன் தேவையான ஆவணங்களை சமர்ப்பிக்கவும்",
+    "வங்கி ஆவணங்களை சரிபார்ப்பார் மற்றும் கணக்கை திறக்கும்",
+    "கணக்கு வைத்திருப்பவர் இலவச ர"
+  ],
+  "faq": [
+    {
+      "question_en": "What is the minimum balance required to open a Pradhan Mantri Jan Dhan Yojana account?",
+      "answer_en": "The Pradhan Mantri Jan Dhan Yojana account can be opened with a zero balance. There is no minimum balance requirement to open or maintain the account. Additionally, account holders receive a free RuPay debit card with an inbuilt accident insurance cover of Rs 2 lakh.",
+      "question_hi": "प्रधान मंत्री जन धन योजना खाता खोलने के लिए न्यूनतम शेष क्या है?",
+      "answer_hi": "प्रधान मंत्री जन धन योजना खाता शून्य शेष के साथ खोला जा सकता है। खाता खोलने या बनाए रखने के लिए कोई न्यूनतम शेष आवश्यकता नहीं है। इसके अलावा, खाताधारकों को एक मुफ्त रूपे डेबिट कार्ड मिलता है जिसमें 2 लाख रुपये का दुर्घटना बीमा कवर होता है।",
+      "question_ta": "பிரதான் மந்திரி ஜன் தன் யோஜனா கணக்கு திறக்க குறைந்தபட்ச நிலை என்ன?",
+      "answer_ta": "பிரதான் மந்திரி ஜன் தன் யோஜனா கணக்கு பூஜ்ய நிலையில் திறக்கப்படலாம். கணக்கைத் திறக்கவோ அல்லது பராமரிக்கவோ எந்த குறைந்தபட்ச நிலை தேவையில்லை. கூடுதலாக, கணக்கு வைத்திருப்பவர்களுக்கு இரண்டு லட்சம் ரூபாய் வாகன காப்பீடு அடங்கிய இலவச ரூபாய் டெபிட் காட் கிடைக்கும்."
+    },
+    {
+      "question_en": "What is the overdraft facility available under the Pradhan Mantri Jan Dhan Yojana?",
+      "answer_en": "The overdraft facility available under the Pradhan Mantri Jan Dhan Yojana is up to Rs 10,000. This facility is available for one account holder per household after 6 months of satisfactory conduct of the account, subject to terms and conditions.",
+      "question_hi": "प्रधान मंत्री जन धन योजना के तहत ओवरड्राफ्ट सुविधा क्या है?",
+      "answer_hi": "प्रधान मंत्री जन धन योजना के तहत ओवरड्राफ्ट सुविधा 10,000 रुपये तक है। यह सुविधा एक खाताधारक प्रति परिवार के लिए 6 महीने की संतोषजनक खाता आचरण के बाद उपलब्ध है, जो नियमों और शर्तों के अधीन है।",
+      "question_ta": "பிரதான் மந்திரி ஜன் தன் யோஜனாவின் கீழ் கிடைக்கக்கூடிய நிதித் தாழ்வு வசதி என்ன?",
+      "answer_ta": "பிரதான் மந்திரி ஜன் தன் யோஜனாவின் கீழ் கிடைக்கக்கூடிய நிதித் தாழ்வு வசதி ரூ. 10,000 வரை ஆகும். இந்த வசதி ஒரு கணக்கு வைத்திருப்பவர் ஒரு வீட்டிற்கு 6 மாதங்கள் திருப்தியான கணக்கு நடத்தைக்குப் பிறகு கிடைக்கிறது, இது விதிகள் மற்றும் நிபந்தனைகளுக்கு உட்பட்டது."
+    },
+    {
+      "question_en": "What is the accidental insurance cover available under the Pradhan Mantri Jan Dhan Yojana?",
+      "answer_en": "The accidental insurance cover available under the Pradhan Mantri Jan Dhan Yojana is Rs 2 lakh. This cover is available to all account holders with a RuPay debit card.",
+      "question_hi": "प्रधान मंत्री जन धन योजना के तहत दुर्घटना बीमा कवर क्या है?",
+      "answer_hi": "प्रधान मंत्री जन धन योजना के तहत दुर्घटना बीमा कवर 2 लाख रुपये है। यह कवर सभी खाताधारकों के लिए रूपे डेबिट कार्ड के साथ उपलब्ध है।",
+      "question_ta": "பிரதான் மந்திரி ஜன் தன் யோஜனாவின் கீழ் கிடைக்கக்கூடிய விபத்து காப்பீடு என்ன?",
+      "answer_ta": "பிரதான் மந்திரி ஜன் தன் யோஜனாவின் கீழ் கிடைக்கக்கூடிய விபத்து காப்பீடு ரூ. 2 லட்சம் ஆகும். இந்த காப்பீடு அனைத்து கணக்கு வைத்திருப்பவர்களுக்கும் ரூபாய் டெபிட் காட் மூலம் கிடைக்கிறது."
+    }
+  ],
+  "common_mistakes": [
+    "Mistake 1: Not meeting the eligibility criteria — Check the eligibility summary to ensure you meet the required conditions",
+    "Mistake 2: Not having a valid Aadhaar card — Ensure you have a valid Aadhaar card as it is required for PMJDY",
+    "Mistake 3: Not using the RuPay debit card at least once in 45 days — Use your RuPay debit card regularly to keep it operative",
+    "Mistake 4: Not maintaining satisfactory account conduct — Ensure you maintain a satisfactory account conduct to avail the overdraft facility",
+    "Mistake 5: Not providing accurate information — Provide accurate information while applying for PMJDY to avoid rejection",
+    "Mistake 6: Not linking Aadhaar to the account — Link your Aadhaar to the account to avail the overdraft facility of Rs 5,000"
+  ],
+  "pro_tips": [
+    "Tip 1: Open the account in a bank branch or Business Correspondent (Bank Mitr) outlet for easier access",
+    "Tip 2: Use the mobile banking facility using USSD for convenient transactions",
+    "Tip 3: Ensure you have a valid mobile number and email ID for smooth communication",
+    "Tip 4: Avail the overdraft facility of up to Rs 10,000 after 6 months of satisfactory account conduct"
+  ],
+  "state_wise_amounts": {
+    "note": "The accidental insurance cover varies by state, with some states providing additional benefits",
+    "varies_by": "amount",
+    "states": {
+      "andhra_pradesh": "same as central",
+      "assam": "same as central",
+      "bihar": "same as central",
+      "gujarat": "same as central",
+      "haryana": "same as central",
+      "jharkhand": "same as central",
+      "karnataka": "same as central",
+      "kerala": "same as central",
+      "madhya_pradesh": "same as central",
+      "maharashtra": "same as central",
+      "odisha": "same as central",
+      "punjab": "same as central",
+      "rajasthan": "same as central",
+      "tamil_nadu": "same as central",
+      "telangana": "same as central",
+      "uttar_pradesh": "same as central",
+      "uttarakhand": "same as central",
+      "west_bengal": "same as central"
+    }
+  },
+  "state_specific_portals": {
+    "note": "State-level application portals may vary, but most states use the central portal",
+    "portals": {}
+  }
+}

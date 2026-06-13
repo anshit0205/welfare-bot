@@ -1,0 +1,302 @@
+{
+  "id": "pm_matru_vandana",
+  "name_en": "Pradhan Mantri Matru Vandana Yojana",
+  "description_en": "The Pradhan Mantri Matru Vandana Yojana (PMMVY) is a Centrally Sponsored flagship scheme by the Ministry of Women and Child Development, Government of India, designed to support pregnant women and lactating mothers. The scheme is to provide maternity benefits to women belonging to socially and economically disadvantaged sections of society. The maternity benefit is to be provided to a woman for the first two living children provided the second child is a girl. The scheme aims to promote positive behavioral change towards the girl child by providing additional cash incentive for the second child, if that is a girl child. The scheme has benefited over 4.05 crore beneficiaries as of July 2025, with a total amount of Rs. 19,028 crore disbursed through direct benefit transfer. The scheme is implemented under the National Food Security Act, 2013, and provides cash incentives to pregnant and lactating women to support their health and nutrition.",
+  "benefit_en": "The primary financial benefit under the PMMVY scheme is a cash incentive of Rs. 5,000 for the first child, provided in two installments, and Rs. 6,000 for the second child, subject to the condition that the second child is a girl. The cash incentive is provided directly to the bank or post office account of the beneficiary through the Direct Benefit Transfer (DBT) mode. The scheme also provides health and nutrition support to pregnant and lactating mothers, promoting maternal and infant well-being. The cash incentive is provided in three installments for the first child: Rs. 1,000 for early registration of pregnancy, Rs. 2,000 after receiving at least one antenatal check-up, and Rs. 2,000 after the child's birth and completion of the first cycle of vaccinations. For the second child, the benefit of Rs. 6,000 is provided in one installment after the birth of the girl child.",
+  "eligibility_rules": {
+    "occupation": [
+      "farmer",
+      "agricultural labourer",
+      "rural household",
+      "any other applicable categories"
+    ],
+    "gender": "female",
+    "bpl_required": false,
+    "land_ownership_required": false,
+    "girl_child_required": false,
+    "pregnant_woman_only": true,
+    "age_min": 19,
+    "age_max": null,
+    "income_max_annual": 800000,
+    "caste_preference": [
+      "scheduled castes",
+      "scheduled tribes",
+      "any other applicable categories"
+    ],
+    "bank_account_required": true,
+    "aadhaar_required": true,
+    "other_conditions": [
+      "employed and experiencing wage-loss due to pregnancy",
+      "holder of BPL Ration Card",
+      "beneficiary under Pradhan Mantri Jan Aarogya Yojana (PMJAY) under Ayushman Bharat",
+      "holder of e-Shram card",
+      "women farmers who are beneficiaries under Kisan Samman Nidhi",
+      "women holding MGNREGA Job Card",
+      "women holding Ration Card under NFSA Act 2013"
+    ]
+  },
+  "exclusion_criteria": [
+    "Income tax payees",
+    "Constitutional post holders (President, VP, Ministers, MPs, MLAs, etc.)",
+    "Serving/retired Central & State government employees (except Group D/MTS)",
+    "Government pensioners drawing Rs 10,000+/month",
+    "All professionals registered with professional bodies (doctors, lawyers, CAs, architects, engineers)",
+    "Pregnant women and lactating mothers in regular employment with the Central Government or State Government or Public Sector Undertaking or those who are in receipt of similar benefits under any law for the time being in force"
+  ],
+  "documents_en": [
+    "Aadhaar Card",
+    "Bank passbook or cancelled cheque",
+    "Eligibility proof",
+    "MCP/RCHI card",
+    "LMP date",
+    "ANC date",
+    "Child birth certificate",
+    "Ration Card",
+    "BPL Card",
+    "Income certificate"
+  ],
+  "apply_steps_en": [
+    "Step 1: Register on the official website of the Ministry of Women and Child Development",
+    "Step 2: Fill in the online application form with personal and bank account details",
+    "Step 3: Upload required documents",
+    "Step 4: Submit the application form",
+    "Step 5: Receive a confirmation message and wait for the verification process",
+    "Step 6: Receive the cash incentive in the bank or post office account through DBT",
+    "Step 7: Track the application status through the official website or helpline",
+    "Step 8: Receive the second installment of the cash incentive after the child's birth and completion of the first cycle of vaccinations",
+    "Step 9: Receive the benefit for the second child, if applicable",
+    "Step 10: Provide feedback and suggestions for improvement of the scheme"
+  ],
+  "application_url": "https://www.wcd.nic.in/schemes/pradhan-mantri-matru-vandana-yojana",
+  "helpline": "1800 111 666",
+  "ministry": "Ministry of Women and Child Development",
+  "nodal_department": "Department of Women and Child Development",
+  "scheme_type": "central",
+  "launch_year": 2017,
+  "last_updated": "2025",
+  "processing_time": "30 days",
+  "renewal_required": false,
+  "renewal_frequency": null,
+  "renewal_process": null,
+  "payment_mode": "DBT",
+  "payment_frequency": "one-time",
+  "payment_schedule": "after verification and approval of the application",
+  "related_schemes": [
+    "Janani Suraksha Yojana (JSY)",
+    "Pradhan Mantri Jan Aarogya Yojana (PMJAY) under Ayushman Bharat",
+    "Kisan Samman Nidhi",
+    "MGNREGA"
+  ],
+  "tags": [
+    "maternity benefit",
+    "pregnant women",
+    "lactating mothers",
+    "cash incentive",
+    "DBT",
+    "health and nutrition"
+  ],
+  "source_url": "https://www.wcd.nic.in/schemes/pradhan-mantri-matru-vandana-yojana",
+  "keywords": [
+    "Pradhan Mantri Matru Vandana Yojana",
+    "PMMVY",
+    "maternity benefit",
+    "pregnant women",
+    "lactating mothers",
+    "cash incentive",
+    "DBT",
+    "health and nutrition",
+    "Ministry of Women and Child Development",
+    "Department of Women and Child Development",
+    "central scheme",
+    "launch year 2017",
+    "last updated 2025",
+    "processing time 30 days",
+    "renewal not required",
+    "payment mode DBT",
+    "payment frequency one-time",
+    "payment schedule after verification and approval",
+    "related schemes JSY PMJAY Kisan Samman Nidhi MGNREGA",
+    "tags maternity benefit pregnant women lactating mothers cash incentive DBT health and nutrition"
+  ],
+  "name_hi": "प्रधान मंत्री मातृ वंदना योजना",
+  "name_ta": "பிரதான் மந்திரி மாத்ரு வந்தனா திட்டம்",
+  "name_bn": "প্রধানমন্ত্রী মাতৃ বন্দনা কর্মসূচি",
+  "name_mr": "प्रधानमंत्री मातृ वंदना योजना",
+  "description_hi": "प्रधान मंत्री मातृ वंदना योजना (पीएमएमवीवाई) महिला और बाल विकास मंत्रालय, भारत सरकार द्वारा केंद्रीय प्रायोजित एक प्रमुख योजना है, जो गर्भवती महिलाओं और स्तनपान कराने वाली माताओं का समर्थन करने के लिए डिज़ाइन की गई है। यह योजना समाज के सामाजिक और आर्थिक रूप से वंचित वर्गों से संबंधित महिलाओं को मातृत्व लाभ प्रदान करने के लिए है। मातृत्व लाभ को पहले दो जीवित बच्चों के लिए एक महिला को प्रदान किया जाना है, बशर्ते कि दूसरा बच्चा एक लड़की हो। यह योजना एक लड़की बच्चे के लिए अतिरिक्त नकद प्रोत्साहन प्रदान करके लड़की बच्चे के प्रति सकारात्मक व्यवहार परिवर्तन को बढ़ावा देने का उद्देश्य रखती है। जुलाई 2025 तक, इस योजना से 4.05 करोड़ से अधिक लाभार्थियों को लाभ हुआ है, जिसमें सीधे लाभ हस्तांतरण के माध्यम से 19,028 करोड़ रुपये की कुल राशि वितरित की गई है। यह योजना राष्ट्रीय खाद्य सुरक्षा अधिनियम, 2013 के तहत लागू की जाती है और गर्भवती और स्तनपान कराने वाली महिलाओं को उनके स्वास्थ्य और पोषण का समर्थन करने के लिए नकद प्रोत्साहन प्रदान करती है।",
+  "description_ta": "பிரதான் மந்திரி மாத்ரு வந்தனா திட்டம் (பிஎம்எம்விவாய்) என்பது பெண்கள் மற்றும் குழந்தை மேம்பாட்டு அமைச்சகத்தின் மையப் பங்களிப்புடன் இந்திய அரசால் வடிவமைக்கப்பட்ட ஒரு முக்கிய திட்டமாகும், இது கர்ப்பிணி பெண்கள் மற்றும் பாலூட்டும் தாய்மார்களுக்கு ஆதரவளிக்கும் வகையில் வடிவமைக்கப்பட்டுள்ளது. இந்த திட்டம் சமூகத்தின் சமூக மற்றும் பொருளாதார ரீதியாக பின்தங்கிய பிரிவினரிடமிருந்து பெண்களுக்கு தாய்மை நன்மைகளை வழங்குவதற்காகும். தாய்மை நன்மை முதல் இரண்டு உயிருள்ள குழந்தைகளுக்கு ஒரு பெண்ணுக்கு வழங்கப்பட வேண்டும், வழிகாட்டுதல் இரண்டாவது குழந்தை ஒரு பெண் குழந்தை என்றால். இந்த திட்டத்தின் நோக்கம் ஒரு பெண் குழந்தைக்கான கூடுதல் காசோலை ஊக்கத்தொகை வழங்குவதன் மூலம் பெண் குழந்தையை நோக்கிய நடத்தை மாற்றத்தை ஊக்குவிப்பதாகும். ஜூலை 2025 வரை, இந்த திட்டத்தின் மூலம் 4.05 கோடிக்கும் மேற்பட்ட நன்மையாளர்களுக்கு நன்மை ஏற்பட்டுள்ளது, நேரடி நன்மை பரிமாற்றம் மூலம் மொத்தம் ரூ. 19,028 கோடி விநியோகிக்கப்பட்டுள்ளது. இந்த திட்டம் தேசிய உணவுப் பாதுகாப்புச் சட்டம், 2013-ன் கீழ் செயல்படுத்தப்படுகிறது மற்றும் கர்ப்பிணி மற்றும் பாலூட்டும் பெண்களுக்கு அவர்களின் சுகாதாரம் மற்றும் ஊட்டச்சத்துக்கான ஆதரவை வழங்க காசோலை ஊக்கத்தொகைகளை வழங்குகிறது.",
+  "description_bn": "প্রধানমন্ত্রী মাতৃ বন্দনা কর্মসূচি (পিএমএমভিওয়াই) হল মহিলা ও শ",
+  "documents_hi": [
+    "आधार कार्ड",
+    "बैंक पासबुक या रद्द चेक",
+    "पात्रता प्रमाण",
+    "एमसीपी/आरसीएचआई कार्ड",
+    "एलएमपी तिथि",
+    "एएनसी तिथि",
+    "बाल जन्म प्रमाण पत्र",
+    "राशन कार्ड",
+    "बीपीएल कार्ड",
+    "आय प्रमाण पत्र"
+  ],
+  "documents_ta": [
+    "ஆதார் அட்டை",
+    "வங்கி பாஸ்புக் அல்லது ரத்து செய்யப்பட்ட செக்",
+    "தகுதி ஆவணம்",
+    "எம்சிபி/ஆர்சிஎச்ஐ அட்டை",
+    "எல்எம்பி தேதி",
+    "ஏஎன்சி தேதி",
+    "குழந்தை பிறப்பு சான்றிதழ்",
+    "ரேஷன் கார்டு",
+    "பிஐஎல் கார்டு",
+    "வருமான சான்றிதழ்"
+  ],
+  "documents_bn": [
+    "আধার কার্ড",
+    "ব্যাংক পাসবুক বা বাতিল চেক",
+    "যোগ্যতা প্রমাণ",
+    "এমসিপি/আরসিএইচআই কার্ড",
+    "এলএমপি তারিখ",
+    "এএনসি তারিখ",
+    "শিশু জন্ম প্রমাণপত্র",
+    "রেশন কার্ড",
+    "বিপিএল কার্ড",
+    "আয় প্রমাণপত্র"
+  ],
+  "documents_mr": [
+    "आधार कार्ड",
+    "बँक पासबुक किंवा रद्द चेक",
+    "पात्रता पुरावा",
+    "एमसीपी/आरसीएचआय कार्ड",
+    "एलएमपी तारीख",
+    "एएनसी तारीख",
+    "मुलगा जन्म प्रमाणपत्र",
+    "रेशन कार्ड",
+    "बीपीएल कार्ड",
+    "उत्पन्न प्रमाणपत्र"
+  ],
+  "apply_steps_hi": [
+    "चरण 1: महिला और बाल विकास मंत्रालय की आधिकारिक वेबसाइट पर पंजीकरण करें",
+    "चरण 2: व्यक्तिगत और बैंक खाता विवरण के साथ ऑनलाइन आवेदन पत्र भरें",
+    "चरण 3: आवश्यक दस्तावेज़ अपलोड करें",
+    "चरण 4: आवेदन पत्र जमा करें",
+    "चरण 5: पुष्टि संदेश प्राप्त करें और सत्यापन प्रक्रिया की प्रतीक्षा करें",
+    "चरण 6: डीबीटी के माध्यम से बैंक या डाकघर खाते में नकद प्रोत्साहन प्राप्त करें",
+    "चरण 7: आधिकारिक वेबसाइट या हेल्पलाइन के माध्यम से आवेदन स्थिति की जांच करें",
+    "चरण 8: बच्चे के जन्म और पहले टीकाकरण चक्र के पूरा होने के बाद दूसरी किश्त का नकद प्रोत्साहन प्राप्त करें",
+    "चरण 9: दूसरे बच्चे के लिए लाभ प्राप्त करें, यदि लागू हो",
+    "चरण 10: योजना में सुधार के लिए प्रतिक्रिया और सुझाव प्रदान करें"
+  ],
+  "apply_steps_ta": [
+    "படிநிலை 1: மகளிர் மற்றும் குழந்தைகள் மேம்பாட்டு அமைச்சகத்தின் அதிகாரப்பூர்வ இணையதளத்தில் பதிவு செய்யுங்கள்",
+    "படிநிலை 2: தனிநபர் மற்றும் வங்கி கணக்கு விவரங்களுடன் ஆன்லைன் விண்ணப்ப படிவத்தை நிரப்புங்கள்",
+    "படிநிலை 3: தேவையான ஆவணங்களை பதிவேற்றுங்கள்",
+    "படிநிலை 4: விண்ணப்ப படிவத்தை சமர்ப்பிக்கவும்",
+    "படிநிலை 5: உறுதிசெய்தல் செய்தி பெறுங்கள் மற்றும் சரிபார்ப்பு செயல்முறையைக் காத்திருங்கள்",
+    "படிநிலை 6: டிபிடி மூலம் வங்கி அல்லது அஞ்சல் அலுவலக கணக்கில் காசோலை ஊக்கத்தொகை பெறுங்கள்",
+    "படிநிலை 7: அதிகாரப்பூர்வ இணையதளம் அல்லது உதவி எண்ணுடன் விண்ணப்ப நிலையைக் கண்காணிக்கவும்",
+    "படிநிலை 8: குழந்தையின் பிறப்பு மற்றும் முதல் தடுப்பூசி சுழற்சியின் முடிவுக்குப் பிறகு இரண்டாவது கிச்சு காசோலை ஊக்கத்தொகை பெறுங்கள்",
+    "படிநிலை 9: இரண்டாவது குழந்தைக்கு நன்மை பெறுங்கள், பொருந்தும் போது",
+    "படிநிலை 10: திட்டத்தில் மேம்பாட்டுக்கான கருத்து மற்றும் பரிந்துரைகளை வழங்குங்கள்"
+  ],
+  "apply_steps_bn": [
+    "ধাপ 1: মহিলা ও শিশু উন্নয়ন মন্ত্রকের অফিসিয়াল ওয়েবসাইটে নিবন্ধন করুন",
+    "ধাপ 2: ব্যক্তিগত এবং ব্যাংক অ্যাকাউন্ট বিবরণের সাথে অনলাইন আবেদনপত্র পূরণ করুন",
+    "ধাপ 3: প্রয়োজনীয় নথিগুলি আপলোড করুন",
+    "ধাপ 4: আবেদনপত্র জমা দিন",
+    "ধাপ 5: নিশ্চিতকরণ বার্তা পান এবং যাচাইকরণ প্রক্রিয়ার জন্য অপেক্ষা করুন",
+    "ধাপ 6: ডিবিটির মাধ্যমে ব্যাংক বা ডাকঘর অ্যাকাউন্টে নগদ প্রোত্সাহন পান",
+    "ধাপ 7: অফিসিয়াল ওয়েবসাইট বা হেল্পলাইনের মাধ্যমে আবেদনের অবস্থা ট্র্যাক করুন",
+    "ধাপ 8: শিশুর জন্ম এবং প্রথম টিকা চক্র সম্পূর্ণ হওয়ার"
+  ],
+  "faq": [
+    {
+      "question_en": "What is the eligibility criteria for Pradhan Mantri Matru Vandana Yojana?",
+      "answer_en": "The scheme is available to all pregnant and lactating women, except those who are in regular employment with the Central Government or State Government or Public Sector Undertaking or those who are in receipt of similar benefits. The beneficiary must be 19 years or older and have a bank account.",
+      "question_hi": "प्रधान मंत्री मातृ वंदना योजना के लिए पात्रता मानदंड क्या है?",
+      "answer_hi": "यह योजना सभी गर्भवती और स्तनपान कराने वाली महिलाओं के लिए उपलब्ध है, जो केंद्र सरकार या राज्य सरकार या सार्वजनिक क्षेत्र के उपक्रम में नियमित रूप से नियोजित नहीं हैं या जो समान लाभ प्राप्त नहीं कर रही हैं। लाभार्थी की आयु 19 वर्ष या अधिक होनी चाहिए और उसके पास बैंक खाता होना चाहिए।"
+    },
+    {
+      "question_en": "How much cash incentive is provided under the Pradhan Mantri Matru Vandana Yojana?",
+      "answer_en": "The scheme provides a cash incentive of Rs. 5,000 for the first child, provided in three installments, and Rs. 6,000 for the second child if it's a girl, after birth.",
+      "question_hi": "प्रधान मंत्री मातृ वंदना योजना के तहत कितनी नकद प्रोत्साहन राशि प्रदान की जाती है?",
+      "answer_hi": "यह योजना पहले बच्चे के लिए 5,000 रुपये की नकद प्रोत्साहन राशि प्रदान करती है, जो तीन किश्तों में दी जाती है, और दूसरे बच्चे के लिए 6,000 रुपये यदि वह एक लड़की है, तो जन्म के बाद।"
+    },
+    {
+      "question_en": "What are the conditions for receiving the cash incentive under the Pradhan Mantri Matru Vandana Yojana?",
+      "answer_en": "The conditions for receiving the cash incentive include early registration of pregnancy, receiving at least one antenatal check-up, and child birth registration, among others.",
+      "question_hi": "प्रधान मंत्री मातृ वंदना योजना के तहत नकद प्रोत्साहन प्राप्त करने के लिए क्या शर्तें हैं?",
+      "answer_hi": "नकद प्रोत्साहन प्राप्त करने की शर्तों में गर्भावस्था का प्रारंभिक पंजीकरण, कम से कम एक प्रसव पूर्व जांच प्राप्त करना, और बच्चे के जन्म का पंजीकरण शामिल है, अन्य बातों के अलावा।"
+    },
+    {
+      "question_en": "How can I apply for the Pradhan Mantri Matru Vandana Yojana?",
+      "answer_en": "You can apply for the scheme through the official website or by visiting the nearest Anganwadi center or Common Service Center.",
+      "question_hi": "मैं प्रधान मंत्री मातृ वंदना योजना के लिए कैसे आवेदन कर सकता हूं?",
+      "answer_hi": "आप आधिकारिक वेबसाइट के माध्यम से या निकटतम आंगनवाड़ी केंद्र या सामान्य सेवा केंद्र पर जाकर योजना के लिए आवेदन कर सकते हैं।"
+    },
+    {
+      "question_en": "What documents are required to apply for the Pradhan Mantri Matru Vandana Yojana?",
+      "answer_en": "The required documents include a bank account passbook, Aadhaar card, and a certificate of pregnancy from a registered medical practitioner.",
+      "question_hi": "प्रधान मंत्री मातृ वंदना योजना के लिए आवेदन करने के लिए कौन से दस्तावेज़ आवश्यक हैं?",
+      "answer_hi": "आवश्यक दस्तावेजों में बैंक खाता पासबुक, आधार कार्ड, और एक पंजीकृत चिकित्सा पractioner से गर्भावस्था का प्रमाण पत्र शामिल है।"
+    },
+    {
+      "question_en": "How long does it take to receive the cash incentive under the Pradhan Mantri Matru Vandana Yojana?",
+      "answer_en": "The cash incentive is provided in three installments, and the payment is made directly to the beneficiary's bank account through the Direct Benefit Transfer (DBT) mode.",
+      "question_hi": "प्रधान मंत्री मातृ वंदना योजना के तहत नकद प्रोत्साहन प्राप्त करने में कितना समय लगता है?",
+      "answer_hi": "नकद प्रोत्साहन तीन किश्तों में दिया जाता है, और भुगतान सीधे लाभार्थी के बैंक खाते में डायरेक्ट बेनिफिट ट्रांसफर (डीबीटी) मोड के माध्यम से किया जाता है।"
+    },
+    {
+      "question_en": "What is the appeal process for rejected applications under the Pradhan Mantri Matru Vandana Yojana?",
+      "answer_en": "In case of rejected applications, the beneficiary can appeal to the District Program Officer or the State Program Officer, who will review the application and take a decision.",
+      "question_hi": "प्रधान मंत्री मातृ वंदना योजना के तहत अस्वीकृत आवेदनों के लिए अपील प्रक्रिया क्या है?",
+      "answer_hi": "अस्वीकृत आवेदनों के मामले में, लाभार्थी जिला कार्यक्रम अधिकारी या राज्य कार्यक्रम अधिकारी से अपील कर सकता है, जो आवेदन की समीक्षा करेगा और निर्णय लेगा।"
+    },
+    {
+      "question_en": "Can I receive the cash incentive under the Pradhan Mantri Matru Vandana Yojana if I am already receiving benefits under another scheme?",
+      "answer_en": "No, if you are already receiving benefits under another scheme, you are not eligible to receive the cash incentive under the Pradhan Mantri Matru Vandana Yojana.",
+      "question_hi": "क्या मैं प्रधान मंत्री मातृ वंदना योजना के तहत नकद प्रोत्साहन प्राप्त कर सकता हूं यदि मैं पहले से ही किसी अन्य योजना के तहत लाभ प्राप्त कर रहा हूं?",
+      "answer_hi": "नहीं, यदि आप पहले से ही किसी अन्य योजना के तहत लाभ प्राप्त कर रहे हैं, तो आप प्रधान मंत्री मातृ वंदना योजना के तहत नकद प्रोत्साहन प्राप्त करने के लिए पात्र नहीं हैं।"
+    }
+  ],
+  "common_mistakes": [
+    "Mistake 1: Delayed registration of pregnancy — Register early to avoid missing the first installment of Rs. 1,000",
+    "Mistake 2: Not receiving antenatal check-ups — Ensure at least one antenatal check-up to receive the second installment of Rs. 2,000",
+    "Mistake 3: Not registering child birth — Register the child's birth to receive the third installment of Rs. 2,000",
+    "Mistake 4: Not linking bank or post office account — Link your bank or post office account to receive the cash incentive through Direct Benefit Transfer (DBT) mode",
+    "Mistake 5: Not meeting the eligibility criteria — Ensure you meet the eligibility criteria, including being a pregnant woman, having an annual income of less than Rs. 8,00,000, and not being in regular employment with the Central Government or State Government",
+    "Mistake 6: Not providing required documents — Provide all required documents, including Aadhaar card, bank or post office account details, and pregnancy registration proof"
+  ],
+  "pro_tips": [
+    "Tip 1: Register for PMMVY as soon as possible after pregnancy confirmation to receive the first installment of Rs. 1,000",
+    "Tip 2: Ensure regular antenatal check-ups to receive the second installment of Rs. 2,000 and to maintain good health",
+    "Tip 3: Link your bank or post office account to receive the cash incentive through Direct Benefit Transfer (DBT) mode, ensuring timely and secure payment",
+    "Tip 4: Keep all required documents ready, including Aadhaar card, bank or post office account details, and pregnancy registration proof, to avoid delays in receiving the cash incentive"
+  ],
+  "state_wise_amounts": {
+    "note": "The cash incentive amount varies by state, with some states providing additional top-ups",
+    "varies_by": "amount",
+    "states": {
+      "andhra_pradesh": "same as central",
+      "assam": "same as central",
+      "bihar": "same as central",
+      "gujarat": "same as central",
+      "haryana": "same as central",
+      "jharkhand": "same as central",
+      "karnataka": "same as central",
+      "kerala": "same as central",
+      "madhya_pradesh": "same as central",
+      "maharashtra": "same as central",
+      "odisha": "same as central",
+      "punjab": "same as central",
+      "rajasthan": "same as central",
+      "tamil_nadu": "same as central",
+      "telangana": "same as central",
+      "uttar_pradesh": "same as central",
+      "uttarakhand": "same as central",
+      "west_bengal": "same as central"
+    }
+  },
+  "state_specific_portals": {
+    "note": "Some states have their own portals for applying to PMMVY",
+    "portals": {}
+  }
+}

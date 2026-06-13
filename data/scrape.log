@@ -1,0 +1,2293 @@
+11:40:00 [INFO] 
+────────────────────────────────────────────────────────────
+▶  pm_fasal_bima
+11:40:01 [INFO]   myscheme.gov.in: 15000 chars (fast)
+11:40:21 [WARNING]   Ministry site fast attempt 1/2 failed: Request Timeout: Failed to scrape URL as the request timed out. The scrape operation timed out before completing. This happens when a page takes too long to load, render, or process. Possible causes: (1) The website is slow or unresponsive, (2) The page has heavy JavaScript that takes time to execute, (3) The page is very large or has many resources to load, (4) Network latency is high. To fix this, try increasing the timeout parameter in your scrape request, or if using actions, ensure your selectors are correct and the page is ready before actions are executed. - No additional error details provided.. Retrying in 3s…
+11:40:41 [INFO]   Ministry site: 6399 chars (fast)
+11:40:46 [INFO]   Tavily: 24,344 chars from 6 queries
+11:45:33 [INFO] 
+────────────────────────────────────────────────────────────
+▶  pm_kisan
+11:45:35 [INFO]   myscheme.gov.in: 7570 chars (fast)
+11:45:35 [INFO]   Ministry site: 9197 chars (fast)
+11:45:42 [INFO]   Tavily: 33,520 chars from 7 queries
+12:00:25 [INFO]   [pm_kisan] FAQ: 7 items, mistakes: 7
+12:00:44 [INFO]   [pm_kisan] state_wise_amounts OK
+12:00:44 [INFO]   [pm_kisan] ✓ data\schemes\pm_kisan.json  docs=4 steps=5 faq=7 sw=✓
+12:00:45 [INFO] 
+────────────────────────────────────────────────────────────
+▶  pm_fasal_bima
+12:00:47 [INFO]   myscheme.gov.in: 15000 chars (fast)
+12:01:07 [WARNING]   Ministry site fast attempt 1/2 failed: Request Timeout: Failed to scrape URL as the request timed out. The scrape operation timed out before completing. This happens when a page takes too long to load, render, or process. Possible causes: (1) The website is slow or unresponsive, (2) The page has heavy JavaScript that takes time to execute, (3) The page is very large or has many resources to load, (4) Network latency is high. To fix this, try increasing the timeout parameter in your scrape request, or if using actions, ensure your selectors are correct and the page is ready before actions are executed. - No additional error details provided.. Retrying in 3s…
+12:01:32 [WARNING]   Ministry site fast scrape failed (HTTPError). Trying slow…
+12:01:55 [INFO]   Ministry site: 6325 chars (slow)
+12:01:57 [INFO]   Tavily: 29,744 chars from 6 queries
+12:07:13 [INFO]   [pm_fasal_bima] FAQ: 8 items, mistakes: 5
+12:08:49 [INFO]   [pm_fasal_bima] state_wise_amounts OK
+12:08:49 [INFO]   [pm_fasal_bima] ✓ data\schemes\pm_fasal_bima.json  docs=7 steps=6 faq=8 sw=✓
+12:08:51 [INFO] 
+────────────────────────────────────────────────────────────
+▶  kisan_credit_card
+12:09:11 [INFO]   myscheme.gov.in: 15000 chars (fast)
+12:09:12 [WARNING]   Ministry site fast attempt 1/2 failed: Request Timeout: Failed to scrape URL as the request timed out. The scrape operation timed out before completing. This happens when a page takes too long to load, render, or process. Possible causes: (1) The website is slow or unresponsive, (2) The page has heavy JavaScript that takes time to execute, (3) The page is very large or has many resources to load, (4) Network latency is high. To fix this, try increasing the timeout parameter in your scrape request, or if using actions, ensure your selectors are correct and the page is ready before actions are executed. - No additional error details provided.. Retrying in 3s…
+12:09:36 [WARNING]   Ministry site fast scrape failed (HTTPError). Trying slow…
+12:10:22 [WARNING]   Ministry site slow scrape also failed: Request Timeout: Failed to scrape URL as the request timed out. The scrape operation timed out before completing. This happens when a page takes too long to load, render, or process. Possible causes: (1) The website is slow or unresponsive, (2) The page has heavy JavaScript that takes time to execute, (3) The page is very large or has many resources to load, (4) Network latency is high. To fix this, try increasing the timeout parameter in your scrape request, or if using actions, ensure your selectors are correct and the page is ready before actions are executed. - No additional error details provided.. Skipping.
+12:10:30 [INFO]   Tavily: 30,198 chars from 6 queries
+12:21:40 [WARNING]   [kisan_credit_card] QUALITY: apply_steps_en < 5
+12:25:26 [INFO]   [kisan_credit_card] Pass 1 retry completed.
+12:38:58 [WARNING]   LLM attempt 1/3 failed: Connection error.. Retrying in 10s…
+12:52:40 [WARNING]   LLM attempt 2/3 failed: Connection error.. Retrying in 20s…
+13:06:32 [WARNING]   [kisan_credit_card] Pass 2a (FAQ) failed: Connection error.
+13:06:46 [INFO]   [kisan_credit_card] state_wise_amounts OK
+13:06:46 [INFO]   [kisan_credit_card] ✓ data\schemes\kisan_credit_card.json  docs=7 steps=7 faq=0 sw=✓
+13:06:47 [INFO] 
+────────────────────────────────────────────────────────────
+▶  pm_kusum
+13:07:01 [INFO]   myscheme.gov.in: 7570 chars (fast)
+13:07:03 [INFO]   Ministry site: 7020 chars (fast)
+13:07:08 [INFO]   Tavily: 24,997 chars from 5 queries
+13:20:40 [WARNING]   LLM attempt 1/3 failed: Connection error.. Retrying in 10s…
+13:35:38 [INFO] 
+────────────────────────────────────────────────────────────
+▶  pm_kusum
+13:35:39 [INFO]   Ministry site: 7,020 chars (fast)
+13:35:39 [INFO]   myscheme.gov.in: 7,570 chars (fast)
+13:35:43 [INFO]   Tavily: 16,145 chars from 4 queries
+13:37:14 [WARNING]   LLM attempt 1/3 connection error. Recreating NVIDIA client…
+13:38:50 [WARNING]   LLM attempt 2/3 connection error. Recreating NVIDIA client…
+13:40:30 [ERROR]   [pm_kusum] ❌ failed: Request timed out.
+13:40:30 [INFO] 
+────────────────────────────────────────────────────────────
+▶  nrega
+13:40:31 [INFO]   myscheme.gov.in: 7,570 chars (fast)
+13:40:36 [INFO]   Ministry site: 63 chars (fast)
+13:40:45 [INFO]   Tavily: 30,500 chars from 8 queries
+13:42:15 [WARNING]   LLM attempt 1/3 connection error. Recreating NVIDIA client…
+13:43:51 [WARNING]   LLM attempt 2/3 connection error. Recreating NVIDIA client…
+13:45:31 [ERROR]   [nrega] ❌ failed: Request timed out.
+13:45:31 [INFO] 
+────────────────────────────────────────────────────────────
+▶  ayushman_bharat
+13:45:34 [INFO]   myscheme.gov.in: 7,570 chars (fast)
+13:45:40 [INFO]   Ministry site: 125 chars (fast)
+13:45:50 [INFO]   Tavily: 22,910 chars from 6 queries
+13:47:20 [WARNING]   LLM attempt 1/3 connection error. Recreating NVIDIA client…
+13:48:55 [WARNING]   LLM attempt 2/3 connection error. Recreating NVIDIA client…
+13:50:36 [ERROR]   [ayushman_bharat] ❌ failed: Request timed out.
+13:50:36 [INFO] 
+────────────────────────────────────────────────────────────
+▶  pm_jan_arogya
+13:50:43 [INFO]   Ministry site: 125 chars (fast)
+13:50:50 [INFO]   myscheme.gov.in: 5,032 chars (fast)
+13:50:56 [INFO]   Tavily: 7,404 chars from 2 queries
+13:52:26 [WARNING]   LLM attempt 1/3 connection error. Recreating NVIDIA client…
+13:52:38 [WARNING]   LLM attempt 2/3 connection error. Recreating NVIDIA client…
+13:52:48 [ERROR]   [pm_jan_arogya] ❌ failed: Connection error.
+13:52:48 [INFO] 
+────────────────────────────────────────────────────────────
+▶  pmay_gramin
+13:52:49 [WARNING]   myscheme.gov.in fast failed: ConnectionError. Trying slow…
+13:52:49 [WARNING]   Ministry site fast failed: ConnectionError. Trying slow…
+13:52:49 [WARNING]   myscheme.gov.in slow failed: ConnectionError. Giving up.
+13:52:49 [WARNING]   myscheme.gov.in: all attempts failed, continuing without ministry data
+13:52:49 [WARNING]   Ministry site slow failed: ConnectionError. Giving up.
+13:52:49 [WARNING]   Ministry site: all attempts failed, continuing without ministry data
+14:12:16 [INFO] 
+────────────────────────────────────────────────────────────
+  pm_kisan
+14:12:18 [INFO]   myscheme.gov.in: 7,570 chars (fast)
+14:12:18 [INFO]   Ministry site: 9,197 chars (fast)
+14:12:25 [INFO]   Tavily: 26,854 chars from 7 queries
+14:12:37 [INFO]   LLM: Groq OK (6,242 chars)
+14:12:37 [WARNING]   [groq] attempt 1/3 failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01knr9vc05eszr05awqamaa0z6` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11397, Requested 5185. Please try again in 22.91s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}. Retrying...
+14:12:37 [WARNING]   [groq] attempt 1/3 failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01knr9vc05eszr05awqamaa0z6` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11384, Requested 2596. Please try again in 9.9s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}. Retrying...
+14:12:41 [WARNING]   [groq] attempt 2/3 failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01knr9vc05eszr05awqamaa0z6` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 10568, Requested 2596. Please try again in 5.82s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}. Retrying...
+14:12:41 [WARNING]   [groq] attempt 2/3 failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01knr9vc05eszr05awqamaa0z6` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 10569, Requested 5185. Please try again in 18.77s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}. Retrying...
+14:12:49 [WARNING]   Groq failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01knr9vc05eszr05awqamaa0z6` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 11493, Requested 5185. Please try again in 23.389999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}. Falling back to NVIDIA...
+14:12:49 [INFO]   LLM: Groq OK (89 chars)
+14:12:49 [INFO]   [pm_kisan] state_wise_amounts OK
+14:14:19 [WARNING]   [nvidia] attempt 1/3 connection error. Recreating client...
+14:15:54 [WARNING]   [nvidia] attempt 2/3 connection error. Recreating client...
+14:18:40 [INFO] 
+────────────────────────────────────────────────────────────
+  pm_kisan
+14:18:41 [INFO]   myscheme.gov.in: 7,570 chars (fast)
+14:18:41 [INFO]   Ministry site: 9,197 chars (fast)
+14:18:43 [INFO]   Tavily: 26,854 chars from 7 queries
+14:18:45 [WARNING]   Groq/llama-3.1-8b-instant rate-limited. Waiting 30s then trying next model...
+14:19:15 [WARNING]   Groq/llama3-70b-8192 failed: Error code: 400 - {'error': {'message': 'The model `llama3-70b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}. Trying next model...
+14:19:15 [WARNING]   Groq/mixtral-8x7b-32768 failed: Error code: 400 - {'error': {'message': 'The model `mixtral-8x7b-32768` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}. Trying next model...
+14:19:15 [WARNING]   All Groq models exhausted. Falling back to NVIDIA...
+14:20:46 [WARNING]   NVIDIA attempt 1/3 connection error. Recreating...
+14:22:06 [INFO] 
+────────────────────────────────────────────────────────────
+  pm_kisan
+14:22:07 [INFO]   myscheme.gov.in: 7,570 chars (fast)
+14:22:08 [INFO]   Ministry site: 9,197 chars (fast)
+14:22:10 [INFO]   Tavily: 26,854 chars from 7 queries
+14:22:11 [WARNING]   Groq/llama4-scout-17b-16e-instruct failed: Error code: 404 - {'error': {'message': 'The model `llama4-scout-17b-16e-instruct` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}. Trying next model...
+14:22:22 [INFO]   LLM: Groq/llama-3.3-70b-versatile OK (3,846 chars)
+14:22:22 [WARNING]   [pm_kisan] QUALITY: documents_en < 4
+14:22:22 [WARNING]   [pm_kisan] QUALITY: apply_steps_en < 5
+14:22:22 [WARNING]   [pm_kisan] QUALITY: helpline missing
+14:22:22 [WARNING]   [pm_kisan] QUALITY: exclusion_criteria missing
+14:22:22 [WARNING]   [pm_kisan] QUALITY: keywords missing
+14:22:22 [WARNING]   Groq/llama4-scout-17b-16e-instruct failed: Error code: 404 - {'error': {'message': 'The model `llama4-scout-17b-16e-instruct` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}. Trying next model...
+14:22:22 [WARNING]   Groq/llama-3.3-70b-versatile rate-limited. Waiting 47s then trying next model...
+14:23:09 [WARNING]   Groq/llama-3.1-8b-instant rate-limited. Waiting 30s then trying next model...
+14:23:39 [WARNING]   All Groq models exhausted. Falling back to NVIDIA...
+14:24:50 [INFO] 
+────────────────────────────────────────────────────────────
+  pm_kisan
+14:24:50 [WARNING]   myscheme.gov.in fast failed: TypeError. Trying slow...
+14:24:50 [WARNING]   Ministry site fast failed: TypeError. Trying slow...
+14:24:50 [WARNING]   myscheme.gov.in slow failed: TypeError. Giving up.
+14:24:50 [WARNING]   Ministry site slow failed: TypeError. Giving up.
+14:24:50 [WARNING]   myscheme.gov.in: all attempts failed, continuing without data
+14:24:50 [WARNING]   Ministry site: all attempts failed, continuing without data
+14:24:55 [INFO]   Tavily: 27,812 chars from 7 queries
+14:25:01 [INFO]   LLM: Groq/meta-llama/llama-4-scout-17b-16e-instruct OK (4,812 chars)
+14:25:01 [WARNING]   [pm_kisan] QUALITY: apply_steps_en < 5
+14:33:44 [INFO] 
+────────────────────────────────────────────────────────────
+  pm_kisan
+14:33:44 [WARNING]   myscheme.gov.in: Selenium failed — ModuleNotFoundError: No module named 'selenium'
+14:33:44 [WARNING]   Ministry site: Selenium failed — ModuleNotFoundError: No module named 'selenium'
+14:33:50 [INFO]   Tavily deep: 50,737 chars from 6 queries
+14:34:50 [INFO] 
+────────────────────────────────────────────────────────────
+  pm_kisan
+14:36:34 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmkisan...
+14:36:40 [INFO]   myscheme.gov.in: 86 chars
+14:36:44 [INFO]   Ministry site: loading https://pmkisan.gov.in...
+14:36:53 [INFO]   Ministry site: 5,763 chars
+14:36:58 [INFO]   Tavily deep: 49,498 chars from 6 queries
+14:38:59 [WARNING]   NVIDIA error (attempt 1/4): Request timed out.
+14:41:08 [WARNING]   NVIDIA error (attempt 2/4): Request timed out.
+14:43:24 [WARNING]   NVIDIA error (attempt 3/4): Request timed out.
+14:48:47 [INFO] Skipping 1 existing: kisan_credit_card
+14:48:51 [INFO] Browser launched: chromium 148.0.7778.96
+14:48:51 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_kisan
+14:48:51 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_fasal_bima
+14:48:51 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_kusum
+14:48:51 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmkisan...
+14:48:51 [INFO]   Ministry site: loading https://pmkisan.gov.in...
+14:48:51 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmfby...
+14:48:51 [INFO]   Ministry site: loading https://pmfby.gov.in...
+14:48:53 [INFO]   [pm_kisan] Tavily: 49,498 chars from 6 queries
+14:48:56 [INFO]   [pm_fasal_bima] Tavily: 34,181 chars from 4 queries
+14:48:56 [INFO]   Ministry site: 5,763 chars
+14:48:57 [INFO]   [pm_kusum] Tavily: 25,101 chars from 3 queries
+14:48:57 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmkusum...
+14:49:00 [INFO]   myscheme.gov.in: 86 chars
+14:49:01 [INFO]   Ministry site: loading https://mnre.gov.in/solar/schemes...
+14:49:01 [INFO]   myscheme.gov.in: 86 chars
+14:49:01 [INFO]   [pm_kisan] LLM pass 1 (core)...
+14:49:02 [INFO]   myscheme.gov.in: 86 chars
+14:49:02 [INFO]   Ministry site: 2,322 chars
+14:49:02 [INFO]   [pm_fasal_bima] LLM pass 1 (core)...
+14:49:03 [WARNING]   NVIDIA error (attempt 1/4): 404 page not found
+14:49:03 [WARNING]   NVIDIA error (attempt 1/4): 404 page not found
+14:49:04 [INFO]   Ministry site: 5,149 chars
+14:49:04 [INFO]   [pm_kusum] LLM pass 1 (core)...
+14:49:04 [WARNING]   NVIDIA error (attempt 1/4): 404 page not found
+14:49:11 [WARNING]   NVIDIA error (attempt 2/4): 404 page not found
+14:49:11 [WARNING]   NVIDIA error (attempt 2/4): 404 page not found
+14:49:12 [WARNING]   NVIDIA error (attempt 2/4): 404 page not found
+14:52:25 [INFO] Skipping 1 existing: kisan_credit_card
+14:52:26 [INFO] Browser launched: chromium 148.0.7778.96
+14:52:26 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_kisan
+14:52:26 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_fasal_bima
+14:52:26 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_kusum
+14:52:26 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmkisan...
+14:52:26 [INFO]   Ministry site: loading https://pmkisan.gov.in...
+14:52:26 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmfby...
+14:52:26 [INFO]   Ministry site: loading https://pmfby.gov.in...
+14:52:27 [INFO]   [pm_kusum] Tavily: 25,101 chars from 3 queries
+14:52:28 [INFO]   [pm_kisan] Tavily: 49,498 chars from 6 queries
+14:52:28 [INFO]   [pm_fasal_bima] Tavily: 34,181 chars from 4 queries
+14:52:28 [INFO]   Ministry site: 5,763 chars
+14:52:29 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmkusum...
+14:52:32 [INFO]   myscheme.gov.in: 86 chars
+14:52:32 [INFO]   [pm_kisan] LLM pass 1 (core)...
+14:52:32 [INFO]   myscheme.gov.in: 86 chars
+14:52:32 [INFO]   Ministry site: loading https://mnre.gov.in/solar/schemes...
+14:52:33 [INFO]   Ministry site: 2,322 chars
+14:52:33 [INFO]   [pm_fasal_bima] LLM pass 1 (core)...
+14:52:34 [INFO]   myscheme.gov.in: 86 chars
+14:52:36 [INFO]   Ministry site: 5,149 chars
+14:52:36 [INFO]   [pm_kusum] LLM pass 1 (core)...
+14:55:33 [WARNING]   NVIDIA error (attempt 1/4): Request timed out.
+14:55:34 [WARNING]   NVIDIA error (attempt 1/4): Request timed out.
+14:55:37 [WARNING]   NVIDIA error (attempt 1/4): Request timed out.
+14:58:36 [INFO] Skipping 1 existing: kisan_credit_card
+14:58:37 [INFO] Browser launched: chromium 148.0.7778.96
+14:58:37 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_kisan
+14:58:37 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_fasal_bima
+14:58:37 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_kusum
+14:58:37 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmkisan...
+14:58:37 [INFO]   Ministry site: loading https://pmkisan.gov.in...
+14:58:37 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmfby...
+14:58:37 [INFO]   Ministry site: loading https://pmfby.gov.in...
+14:58:39 [INFO]   [pm_kisan] Tavily: 49,498 chars from 6 queries
+14:58:39 [INFO]   [pm_fasal_bima] Tavily: 34,181 chars from 4 queries
+14:58:39 [INFO]   [pm_kusum] Tavily: 25,101 chars from 3 queries
+14:58:40 [INFO]   Ministry site: 5,763 chars
+14:58:40 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmkusum...
+14:58:51 [INFO]   myscheme.gov.in: 15,000 chars
+14:58:52 [INFO]   myscheme.gov.in: 86 chars
+14:58:52 [INFO]   [pm_kisan] LLM pass 1 (core)...
+14:58:58 [INFO]   Ministry site: loading https://mnre.gov.in/solar/schemes...
+14:58:59 [WARNING]   NVIDIA connection error (attempt 1/4). Recreating client...
+14:58:59 [INFO]   Ministry site: 41 chars
+14:58:59 [INFO]   [pm_fasal_bima] LLM pass 1 (core)...
+14:58:59 [WARNING]   NVIDIA connection error (attempt 1/4). Recreating client...
+14:58:59 [INFO]   myscheme.gov.in: 577 chars
+14:59:01 [WARNING]   Ministry site: Playwright failed — Error: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://mnre.gov.in/solar/schemes
+Call log:
+  - navigating to "https://mnre.gov.in/solar/schemes", waiting until "domcontentloaded"
+
+14:59:02 [INFO]   [pm_kusum] LLM pass 1 (core)...
+14:59:02 [WARNING]   NVIDIA connection error (attempt 1/4). Recreating client...
+15:03:35 [INFO] Skipping 1 existing: kisan_credit_card
+15:03:37 [INFO] Browser launched: chromium 148.0.7778.96
+15:03:37 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_kisan
+15:03:37 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_fasal_bima
+15:03:37 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_kusum
+15:03:37 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmkisan...
+15:03:37 [INFO]   Ministry site: loading https://pmkisan.gov.in...
+15:03:37 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmfby...
+15:03:37 [INFO]   Ministry site: loading https://pmfby.gov.in...
+15:03:38 [WARNING]   NVIDIA connection error (attempt 2/4). Recreating client...
+15:03:39 [INFO]   [pm_kusum] Tavily: 25,101 chars from 3 queries
+15:03:39 [INFO]   [pm_kisan] Tavily: 49,498 chars from 6 queries
+15:03:39 [INFO]   [pm_fasal_bima] Tavily: 34,181 chars from 4 queries
+15:03:39 [WARNING]   NVIDIA connection error (attempt 2/4). Recreating client...
+15:03:40 [INFO]   Ministry site: 5,763 chars
+15:03:40 [WARNING]   NVIDIA connection error (attempt 2/4). Recreating client...
+15:03:40 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmkusum...
+15:03:44 [INFO]   myscheme.gov.in: 86 chars
+15:03:44 [INFO]   [pm_kisan] LLM pass 1 (core)...
+15:03:44 [INFO]   Ministry site: loading https://mnre.gov.in/solar/schemes...
+15:03:44 [INFO]   myscheme.gov.in: 15,000 chars
+15:03:45 [INFO]   Ministry site: 2,322 chars
+15:03:45 [INFO]   [pm_fasal_bima] LLM pass 1 (core)...
+15:03:45 [INFO]   myscheme.gov.in: 86 chars
+15:03:47 [INFO]   Ministry site: 5,149 chars
+15:03:47 [INFO]   [pm_kusum] LLM pass 1 (core)...
+15:08:15 [WARNING]   [meta/llama-3.3-70b-instruct] attempt 1: Connection error.
+15:08:15 [WARNING]   [meta/llama-3.3-70b-instruct] attempt 1: Connection error.
+15:08:17 [WARNING]   [meta/llama-3.3-70b-instruct] attempt 1: Connection error.
+15:08:25 [WARNING]   NVIDIA connection error (attempt 3/4). Recreating client...
+15:08:26 [WARNING]   NVIDIA connection error (attempt 3/4). Recreating client...
+15:08:26 [WARNING]   NVIDIA connection error (attempt 3/4). Recreating client...
+15:11:52 [INFO]   NVIDIA OK — meta/llama-3.3-70b-instruct (6,538 chars)
+15:11:52 [WARNING]   [pm_kisan] QUALITY: documents_en < 5
+15:11:52 [WARNING]   [pm_kisan] QUALITY: faq missing
+15:11:52 [INFO]   [pm_kisan] Pass 1 retry (thin output)...
+15:12:01 [INFO]   NVIDIA OK — meta/llama-3.3-70b-instruct (6,299 chars)
+15:12:01 [WARNING]   [pm_kusum] QUALITY: documents_en < 5
+15:12:01 [WARNING]   [pm_kusum] QUALITY: apply_steps_en < 6
+15:12:01 [WARNING]   [pm_kusum] QUALITY: helpline missing
+15:12:01 [WARNING]   [pm_kusum] QUALITY: exclusion_criteria missing
+15:12:01 [WARNING]   [pm_kusum] QUALITY: keywords missing
+15:12:01 [WARNING]   [pm_kusum] QUALITY: faq missing
+15:12:01 [INFO]   [pm_kusum] Pass 1 retry (thin output)...
+15:12:03 [INFO]   NVIDIA OK — meta/llama-3.3-70b-instruct (6,464 chars)
+15:12:03 [WARNING]   [pm_fasal_bima] QUALITY: documents_en < 5
+15:12:03 [WARNING]   [pm_fasal_bima] QUALITY: apply_steps_en < 6
+15:12:03 [WARNING]   [pm_fasal_bima] QUALITY: helpline missing
+15:12:03 [WARNING]   [pm_fasal_bima] QUALITY: exclusion_criteria missing
+15:12:03 [WARNING]   [pm_fasal_bima] QUALITY: keywords missing
+15:12:03 [WARNING]   [pm_fasal_bima] QUALITY: faq missing
+15:12:03 [INFO]   [pm_fasal_bima] Pass 1 retry (thin output)...
+15:13:37 [ERROR]   [pm_kusum] timed out after 600s
+15:13:37 [ERROR]   [pm_fasal_bima] timed out after 600s
+15:13:37 [ERROR]   [pm_kisan] timed out after 600s
+15:13:37 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: nrega
+15:13:37 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: ayushman_bharat
+15:13:37 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_jan_arogya
+15:13:38 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/mgnregs...
+15:13:39 [INFO]   Ministry site: loading https://nrega.nic.in...
+15:13:39 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmjay...
+15:13:39 [INFO]   Ministry site: loading https://pmjay.gov.in...
+15:13:39 [INFO]   Ministry site: 49 chars
+15:13:40 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/ab-pmjay-sehat...
+15:13:41 [INFO]   [pm_jan_arogya] Tavily: 16,624 chars from 2 queries
+15:13:42 [INFO]   [ayushman_bharat] Tavily: 33,397 chars from 4 queries
+15:13:43 [INFO]   [nrega] Tavily: 34,066 chars from 4 queries
+15:13:47 [INFO]   NVIDIA OK — meta/llama-3.3-70b-instruct (6,678 chars)
+15:13:51 [INFO]   myscheme.gov.in: 86 chars
+15:13:51 [INFO]   myscheme.gov.in: 86 chars
+15:13:51 [INFO]   [nrega] LLM pass 1 (core)...
+15:13:51 [INFO]   myscheme.gov.in: 86 chars
+15:13:56 [INFO]   Ministry site: loading https://pmjay.gov.in/sehat...
+15:13:58 [WARNING]   Ministry site: HTTP 404
+15:13:58 [INFO]   [pm_jan_arogya] LLM pass 1 (core)...
+15:14:00 [INFO]   NVIDIA OK — meta/llama-3.3-70b-instruct (5,426 chars)
+15:14:00 [INFO]   Ministry site: 28 chars
+15:14:00 [INFO]   [ayushman_bharat] LLM pass 1 (core)...
+15:14:51 [INFO]   NVIDIA OK — meta/llama-3.3-70b-instruct (6,604 chars)
+15:16:17 [INFO]   NVIDIA OK — meta/llama-3.3-70b-instruct (7,695 chars)
+15:16:17 [WARNING]   [nrega] QUALITY: faq missing
+15:16:17 [INFO]   [nrega] Pass 2 (FAQ + state-wise)...
+15:16:26 [INFO]   NVIDIA OK — meta/llama-3.3-70b-instruct (1,003 chars)
+15:16:26 [INFO]   [nrega] state_wise_amounts OK
+15:16:36 [INFO]   NVIDIA OK — meta/llama-3.3-70b-instruct (6,142 chars)
+15:16:36 [WARNING]   [pm_jan_arogya] QUALITY: faq missing
+15:16:36 [INFO]   [pm_jan_arogya] Pass 2 (FAQ + state-wise)...
+15:16:52 [INFO]   NVIDIA OK — meta/llama-3.3-70b-instruct (825 chars)
+15:16:52 [INFO]   [pm_jan_arogya] state_wise_amounts OK
+15:17:46 [INFO]   NVIDIA OK — meta/llama-3.3-70b-instruct (6,166 chars)
+15:17:46 [WARNING]   [ayushman_bharat] QUALITY: documents_en < 5
+15:17:46 [WARNING]   [ayushman_bharat] QUALITY: apply_steps_en < 6
+15:17:46 [WARNING]   [ayushman_bharat] QUALITY: helpline missing
+15:17:46 [WARNING]   [ayushman_bharat] QUALITY: exclusion_criteria missing
+15:17:46 [WARNING]   [ayushman_bharat] QUALITY: keywords missing
+15:17:46 [WARNING]   [ayushman_bharat] QUALITY: faq missing
+15:17:46 [INFO]   [ayushman_bharat] Pass 1 retry (thin output)...
+15:18:22 [INFO]   NVIDIA OK — meta/llama-3.3-70b-instruct (4,319 chars)
+15:18:31 [INFO]   NVIDIA OK — meta/llama-3.3-70b-instruct (4,691 chars)
+15:20:01 [INFO]   NVIDIA OK — meta/llama-3.3-70b-instruct (5,496 chars)
+15:23:06 [INFO] Skipping 1 existing: kisan_credit_card
+15:23:07 [INFO] Browser launched: chromium 148.0.7778.96
+15:23:07 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_kisan
+15:23:07 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_fasal_bima
+15:23:07 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_kusum
+15:23:08 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmkisan...
+15:23:08 [INFO]   Ministry site: loading https://pmkisan.gov.in...
+15:23:08 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmfby...
+15:23:08 [INFO]   Ministry site: loading https://pmfby.gov.in...
+15:23:11 [INFO]   [pm_kisan] Tavily: 50,174 chars from 6 queries
+15:23:12 [INFO]   [pm_kusum] Tavily: 24,575 chars from 3 queries
+15:23:13 [INFO]   [pm_fasal_bima] Tavily: 33,746 chars from 4 queries
+15:23:13 [INFO]   Ministry site: 5,763 chars
+15:23:15 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmkusum...
+15:23:17 [INFO]   myscheme.gov.in: 86 chars
+15:23:17 [INFO]   [pm_kisan] LLM pass 1 (core)...
+15:23:17 [INFO]   Ministry site: loading https://mnre.gov.in/solar/schemes...
+15:23:17 [INFO]   myscheme.gov.in: 15,000 chars
+15:23:18 [INFO]   Ministry site: 2,322 chars
+15:23:18 [INFO]   [pm_fasal_bima] LLM pass 1 (core)...
+15:23:20 [INFO]   myscheme.gov.in: 86 chars
+15:23:20 [INFO]   Ministry site: 5,149 chars
+15:23:20 [INFO]   [pm_kusum] LLM pass 1 (core)...
+15:24:39 [INFO]   NVIDIA OK — mistralai/mistral-medium-3.5-128b (11,947 chars)
+15:24:39 [WARNING]   [pm_kisan] QUALITY: documents_en < 5
+15:24:39 [WARNING]   [pm_kisan] QUALITY: apply_steps_en < 6
+15:24:39 [WARNING]   [pm_kisan] QUALITY: helpline missing
+15:24:39 [WARNING]   [pm_kisan] QUALITY: benefit_en too short
+15:24:39 [WARNING]   [pm_kisan] QUALITY: exclusion_criteria missing
+15:24:39 [WARNING]   [pm_kisan] QUALITY: keywords missing
+15:24:39 [WARNING]   [pm_kisan] QUALITY: faq missing
+15:24:39 [INFO]   [pm_kisan] Pass 1 retry (thin output)...
+15:26:35 [INFO]   NVIDIA OK — mistralai/mistral-medium-3.5-128b (10,109 chars)
+15:26:35 [WARNING]   [pm_kusum] QUALITY: documents_en < 5
+15:26:35 [WARNING]   [pm_kusum] QUALITY: apply_steps_en < 6
+15:26:35 [WARNING]   [pm_kusum] QUALITY: helpline missing
+15:26:35 [WARNING]   [pm_kusum] QUALITY: benefit_en too short
+15:26:35 [WARNING]   [pm_kusum] QUALITY: exclusion_criteria missing
+15:26:35 [WARNING]   [pm_kusum] QUALITY: keywords missing
+15:26:35 [WARNING]   [pm_kusum] QUALITY: eligibility_rules missing
+15:26:35 [WARNING]   [pm_kusum] QUALITY: faq missing
+15:26:35 [INFO]   [pm_kusum] Pass 1 retry (thin output)...
+15:27:00 [INFO]   NVIDIA OK — mistralai/mistral-medium-3.5-128b (12,290 chars)
+15:27:00 [INFO]   [pm_kisan] pass 1 retry merged
+15:27:00 [INFO]   [pm_kisan] Pass 2 skipped (retry was needed — saving time)
+15:27:00 [INFO]   [pm_kisan] saved  docs=0 steps=0 faq=0
+15:27:00 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: nrega
+15:27:02 [INFO]   [nrega] Tavily: 34,066 chars from 4 queries
+15:27:03 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/mgnregs...
+15:27:03 [INFO]   Ministry site: loading https://nrega.nic.in...
+15:27:04 [INFO]   Ministry site: 49 chars
+15:27:07 [INFO]   myscheme.gov.in: 86 chars
+15:27:07 [INFO]   [nrega] LLM pass 1 (core)...
+15:27:41 [INFO]   NVIDIA OK — mistralai/mistral-medium-3.5-128b (10,369 chars)
+15:27:41 [WARNING]   [pm_fasal_bima] QUALITY: documents_en < 5
+15:27:41 [WARNING]   [pm_fasal_bima] QUALITY: apply_steps_en < 6
+15:27:41 [WARNING]   [pm_fasal_bima] QUALITY: helpline missing
+15:27:41 [WARNING]   [pm_fasal_bima] QUALITY: benefit_en too short
+15:27:41 [WARNING]   [pm_fasal_bima] QUALITY: exclusion_criteria missing
+15:27:41 [WARNING]   [pm_fasal_bima] QUALITY: keywords missing
+15:27:41 [WARNING]   [pm_fasal_bima] QUALITY: eligibility_rules missing
+15:27:41 [WARNING]   [pm_fasal_bima] QUALITY: faq missing
+15:27:41 [INFO]   [pm_fasal_bima] Pass 1 retry (thin output)...
+15:29:20 [INFO]   NVIDIA OK — mistralai/mistral-medium-3.5-128b (10,607 chars)
+15:29:20 [WARNING]   [nrega] QUALITY: documents_en < 5
+15:29:20 [WARNING]   [nrega] QUALITY: apply_steps_en < 6
+15:29:20 [WARNING]   [nrega] QUALITY: helpline missing
+15:29:20 [WARNING]   [nrega] QUALITY: benefit_en too short
+15:29:20 [WARNING]   [nrega] QUALITY: exclusion_criteria missing
+15:29:20 [WARNING]   [nrega] QUALITY: keywords missing
+15:29:20 [WARNING]   [nrega] QUALITY: eligibility_rules missing
+15:29:20 [WARNING]   [nrega] QUALITY: faq missing
+15:29:20 [INFO]   [nrega] Pass 1 retry (thin output)...
+15:30:45 [INFO]   NVIDIA OK — mistralai/mistral-medium-3.5-128b (10,144 chars)
+15:30:45 [INFO]   [pm_kusum] pass 1 retry merged
+15:30:45 [INFO]   [pm_kusum] Pass 2 skipped (retry was needed — saving time)
+15:30:45 [INFO]   [pm_kusum] saved  docs=0 steps=0 faq=0
+15:30:45 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: ayushman_bharat
+15:30:46 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmjay...
+15:30:46 [INFO]   Ministry site: loading https://pmjay.gov.in...
+15:30:47 [INFO]   [ayushman_bharat] Tavily: 33,397 chars from 4 queries
+15:30:53 [INFO]   myscheme.gov.in: 86 chars
+15:30:59 [INFO]   NVIDIA OK — mistralai/mistral-medium-3.5-128b (10,345 chars)
+15:30:59 [INFO]   [pm_fasal_bima] pass 1 retry merged
+15:30:59 [INFO]   [pm_fasal_bima] Pass 2 skipped (retry was needed — saving time)
+15:30:59 [INFO]   [pm_fasal_bima] saved  docs=0 steps=0 faq=0
+15:30:59 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_jan_arogya
+15:31:01 [INFO]   [pm_jan_arogya] Tavily: 16,624 chars from 2 queries
+15:31:03 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/ab-pmjay-sehat...
+15:31:03 [INFO]   Ministry site: loading https://pmjay.gov.in/sehat...
+15:31:06 [WARNING]   Ministry site: HTTP 404
+15:31:08 [INFO]   myscheme.gov.in: 86 chars
+15:31:08 [INFO]   [pm_jan_arogya] LLM pass 1 (core)...
+15:31:11 [INFO]   Ministry site: 28 chars
+15:31:11 [INFO]   [ayushman_bharat] LLM pass 1 (core)...
+15:32:41 [INFO]   NVIDIA OK — mistralai/mistral-medium-3.5-128b (11,068 chars)
+15:32:41 [INFO]   [nrega] pass 1 retry merged
+15:32:41 [INFO]   [nrega] Pass 2 skipped (retry was needed — saving time)
+15:32:41 [INFO]   [nrega] saved  docs=0 steps=0 faq=0
+15:32:41 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pmay_gramin
+15:32:42 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmayg...
+15:32:42 [INFO]   Ministry site: loading https://pmayg.nic.in...
+15:32:42 [WARNING]   Ministry site: Playwright failed — Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://pmayg.nic.in/
+Call log:
+  - navigating to "https://pmayg.nic.in/", waiting until "domcontentloaded"
+
+15:32:47 [INFO]   [pmay_gramin] Tavily: 25,740 chars from 3 queries
+15:32:50 [INFO]   myscheme.gov.in: 86 chars
+15:32:50 [INFO]   [pmay_gramin] LLM pass 1 (core)...
+15:34:32 [INFO]   NVIDIA OK — mistralai/mistral-medium-3.5-128b (10,712 chars)
+15:34:32 [WARNING]   [ayushman_bharat] QUALITY: documents_en < 5
+15:34:32 [WARNING]   [ayushman_bharat] QUALITY: apply_steps_en < 6
+15:34:32 [WARNING]   [ayushman_bharat] QUALITY: helpline missing
+15:34:32 [WARNING]   [ayushman_bharat] QUALITY: benefit_en too short
+15:34:32 [WARNING]   [ayushman_bharat] QUALITY: exclusion_criteria missing
+15:34:32 [WARNING]   [ayushman_bharat] QUALITY: keywords missing
+15:34:32 [WARNING]   [ayushman_bharat] QUALITY: eligibility_rules missing
+15:34:32 [WARNING]   [ayushman_bharat] QUALITY: faq missing
+15:34:32 [INFO]   [ayushman_bharat] Pass 1 retry (thin output)...
+15:34:45 [INFO]   NVIDIA OK — mistralai/mistral-medium-3.5-128b (11,349 chars)
+15:34:45 [WARNING]   [pm_jan_arogya] QUALITY: documents_en < 5
+15:34:45 [WARNING]   [pm_jan_arogya] QUALITY: apply_steps_en < 6
+15:34:45 [WARNING]   [pm_jan_arogya] QUALITY: helpline missing
+15:34:45 [WARNING]   [pm_jan_arogya] QUALITY: benefit_en too short
+15:34:45 [WARNING]   [pm_jan_arogya] QUALITY: exclusion_criteria missing
+15:34:45 [WARNING]   [pm_jan_arogya] QUALITY: keywords missing
+15:34:45 [WARNING]   [pm_jan_arogya] QUALITY: faq missing
+15:34:45 [INFO]   [pm_jan_arogya] Pass 1 retry (thin output)...
+15:34:46 [INFO]   NVIDIA OK — mistralai/mistral-medium-3.5-128b (10,435 chars)
+15:34:46 [WARNING]   [pmay_gramin] QUALITY: documents_en < 5
+15:34:46 [WARNING]   [pmay_gramin] QUALITY: apply_steps_en < 6
+15:34:46 [WARNING]   [pmay_gramin] QUALITY: helpline missing
+15:34:46 [WARNING]   [pmay_gramin] QUALITY: benefit_en too short
+15:34:46 [WARNING]   [pmay_gramin] QUALITY: exclusion_criteria missing
+15:34:46 [WARNING]   [pmay_gramin] QUALITY: keywords missing
+15:34:46 [WARNING]   [pmay_gramin] QUALITY: eligibility_rules missing
+15:34:46 [WARNING]   [pmay_gramin] QUALITY: faq missing
+15:34:46 [INFO]   [pmay_gramin] Pass 1 retry (thin output)...
+15:36:19 [INFO]   NVIDIA OK — mistralai/mistral-medium-3.5-128b (10,741 chars)
+15:36:29 [INFO]   NVIDIA OK — mistralai/mistral-medium-3.5-128b (10,245 chars)
+15:37:37 [INFO]   NVIDIA OK — mistralai/mistral-medium-3.5-128b (11,520 chars)
+15:38:09 [INFO] Skipping 5 existing: pm_kisan, pm_fasal_bima, kisan_credit_card, pm_kusum, nrega
+15:38:11 [INFO] Browser launched: chromium 148.0.7778.96
+15:38:11 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: ayushman_bharat
+15:38:11 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_jan_arogya
+15:38:11 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pmay_gramin
+15:38:11 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmjay...
+15:38:11 [INFO]   Ministry site: loading https://pmjay.gov.in...
+15:38:11 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/ab-pmjay-sehat...
+15:38:11 [INFO]   Ministry site: loading https://pmjay.gov.in/sehat...
+15:38:53 [INFO] Browser launched: chromium 148.0.7778.96
+15:38:53 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_kisan
+15:38:53 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_fasal_bima
+15:38:53 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: kisan_credit_card
+15:38:53 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmkisan...
+15:38:53 [INFO]   Ministry site: loading https://pmkisan.gov.in...
+15:38:53 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmfby...
+15:38:53 [INFO]   Ministry site: loading https://pmfby.gov.in...
+15:38:54 [INFO]   [pm_kisan] Tavily: 50,174 chars from 6 queries
+15:38:54 [INFO]   [pm_fasal_bima] Tavily: 33,746 chars from 4 queries
+15:38:55 [INFO]   Ministry site: 5,763 chars
+15:38:56 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/kcc...
+15:38:58 [INFO]   [kisan_credit_card] Tavily: 33,782 chars from 4 queries
+15:39:00 [INFO]   Ministry site: 2,322 chars
+15:39:00 [INFO]   Ministry site: loading https://www.nabard.org/content1.aspx?id=572...
+15:39:05 [INFO]   myscheme.gov.in: 86 chars
+15:39:05 [INFO]   [pm_kisan] LLM pass 1 (core)...
+15:39:06 [INFO]   myscheme.gov.in: 15,000 chars
+15:39:06 [INFO]   [pm_fasal_bima] LLM pass 1 (core)...
+15:39:06 [INFO]   myscheme.gov.in: 15,000 chars
+15:39:06 [INFO]   Ministry site: 1,122 chars
+15:39:06 [INFO]   [kisan_credit_card] LLM pass 1 (core)...
+15:43:36 [WARNING]   [deepseek-ai/deepseek-v4-flash] attempt 1: Connection error.
+15:43:36 [WARNING]   [deepseek-ai/deepseek-v4-flash] attempt 1: Connection error.
+15:43:37 [WARNING]   [deepseek-ai/deepseek-v4-flash] attempt 1: Connection error.
+15:48:11 [WARNING]   [deepseek-ai/deepseek-v4-flash] attempt 2: Connection error.
+15:48:13 [WARNING]   [deepseek-ai/deepseek-v4-flash] attempt 2: Connection error.
+15:48:13 [WARNING]   [deepseek-ai/deepseek-v4-flash] attempt 2: Connection error.
+15:48:21 [WARNING]   [deepseek-ai/deepseek-v4-flash] exhausted — trying next model...
+15:48:23 [WARNING]   [deepseek-ai/deepseek-v4-flash] exhausted — trying next model...
+15:48:23 [WARNING]   [deepseek-ai/deepseek-v4-flash] exhausted — trying next model...
+15:51:44 [INFO]   NVIDIA OK — meta/llama-3.1-70b-instruct (6,915 chars)
+15:52:52 [WARNING]   [meta/llama-3.1-70b-instruct] attempt 1: Connection error.
+15:52:53 [WARNING]   [meta/llama-3.1-70b-instruct] attempt 1: Connection error.
+15:54:52 [INFO] Browser launched: chromium 148.0.7778.96
+15:54:52 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_kisan
+15:54:52 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_fasal_bima
+15:54:52 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: kisan_credit_card
+15:54:52 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmfby...
+15:54:52 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmkisan...
+15:54:52 [INFO]   Ministry site: loading https://pmfby.gov.in...
+15:54:52 [INFO]   Ministry site: loading https://pmkisan.gov.in...
+15:54:55 [INFO]   [kisan_credit_card] Tavily: 33,782 chars from 4 queries
+15:54:58 [INFO]   [pm_kisan] Tavily: 50,524 chars from 6 queries
+15:54:58 [INFO]   [pm_fasal_bima] Tavily: 33,590 chars from 4 queries
+15:55:02 [INFO]   Ministry site: 5,763 chars
+15:55:03 [INFO]   myscheme.gov.in: 86 chars
+15:55:03 [INFO]   [pm_kisan] LLM pass 1 (core)...
+15:55:03 [INFO]   myscheme.gov.in: 15,000 chars
+15:55:04 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/kcc...
+15:55:04 [INFO]   Ministry site: loading https://www.nabard.org/content1.aspx?id=572...
+15:55:04 [INFO]   Ministry site: 2,322 chars
+15:55:04 [INFO]   [pm_fasal_bima] LLM pass 1 (core)...
+15:55:08 [INFO]   myscheme.gov.in: 15,000 chars
+15:55:09 [INFO]   Ministry site: 1,122 chars
+15:55:09 [INFO]   [kisan_credit_card] LLM pass 1 (core)...
+15:57:55 [INFO]   NVIDIA OK — qwen/qwen3-next-80b-a3b-instruct (5,042 chars)
+15:57:55 [WARNING]   [kisan_credit_card] QUALITY: documents_en < 5
+15:57:55 [WARNING]   [kisan_credit_card] QUALITY: apply_steps_en < 6
+15:57:55 [WARNING]   [kisan_credit_card] QUALITY: helpline missing
+15:57:55 [WARNING]   [kisan_credit_card] QUALITY: benefit_en too short
+15:57:55 [WARNING]   [kisan_credit_card] QUALITY: exclusion_criteria missing
+15:57:55 [WARNING]   [kisan_credit_card] QUALITY: keywords missing
+15:57:55 [WARNING]   [kisan_credit_card] QUALITY: eligibility_rules missing
+15:57:55 [WARNING]   [kisan_credit_card] QUALITY: faq missing
+15:57:55 [INFO]   [kisan_credit_card] Pass 1 retry (thin output)...
+15:59:34 [WARNING]   [qwen/qwen3-next-80b-a3b-instruct] attempt 1: Connection error.
+15:59:34 [WARNING]   [qwen/qwen3-next-80b-a3b-instruct] attempt 1: Connection error.
+15:59:58 [INFO]   NVIDIA OK — qwen/qwen3-next-80b-a3b-instruct (5,751 chars)
+15:59:58 [INFO]   [kisan_credit_card] pass 1 retry merged
+15:59:58 [INFO]   [kisan_credit_card] Pass 2 skipped (retry was needed — saving time)
+15:59:58 [INFO]   [kisan_credit_card] saved  docs=0 steps=0 faq=0
+15:59:58 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_kusum
+16:00:00 [INFO]   Ministry site: loading https://mnre.gov.in/solar/schemes...
+16:00:00 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmkusum...
+16:00:03 [INFO]   [pm_kusum] Tavily: 24,769 chars from 3 queries
+16:00:03 [INFO]   Ministry site: 5,149 chars
+16:00:05 [INFO]   myscheme.gov.in: 86 chars
+16:00:05 [INFO]   [pm_kusum] LLM pass 1 (core)...
+16:02:30 [INFO]   NVIDIA OK — qwen/qwen3-next-80b-a3b-instruct (5,978 chars)
+16:02:30 [WARNING]   [pm_fasal_bima] QUALITY: documents_en < 5
+16:02:30 [WARNING]   [pm_fasal_bima] QUALITY: apply_steps_en < 6
+16:02:30 [WARNING]   [pm_fasal_bima] QUALITY: helpline missing
+16:02:30 [WARNING]   [pm_fasal_bima] QUALITY: benefit_en too short
+16:02:30 [WARNING]   [pm_fasal_bima] QUALITY: exclusion_criteria missing
+16:02:30 [WARNING]   [pm_fasal_bima] QUALITY: keywords missing
+16:02:30 [WARNING]   [pm_fasal_bima] QUALITY: eligibility_rules missing
+16:02:30 [WARNING]   [pm_fasal_bima] QUALITY: faq missing
+16:02:30 [INFO]   [pm_fasal_bima] Pass 1 retry (thin output)...
+16:02:32 [INFO]   NVIDIA OK — qwen/qwen3-next-80b-a3b-instruct (5,277 chars)
+16:02:32 [WARNING]   [pm_kisan] QUALITY: documents_en < 5
+16:02:32 [WARNING]   [pm_kisan] QUALITY: apply_steps_en < 6
+16:02:32 [WARNING]   [pm_kisan] QUALITY: helpline missing
+16:02:32 [WARNING]   [pm_kisan] QUALITY: benefit_en too short
+16:02:32 [WARNING]   [pm_kisan] QUALITY: exclusion_criteria missing
+16:02:32 [WARNING]   [pm_kisan] QUALITY: keywords missing
+16:02:32 [WARNING]   [pm_kisan] QUALITY: eligibility_rules missing
+16:02:32 [WARNING]   [pm_kisan] QUALITY: faq missing
+16:02:32 [INFO]   [pm_kisan] Pass 1 retry (thin output)...
+16:04:35 [WARNING]   [qwen/qwen3-next-80b-a3b-instruct] attempt 1: Connection error.
+16:06:48 [INFO] Skipping 1 existing: kisan_credit_card
+16:06:52 [INFO] Browser launched: chromium 148.0.7778.96
+16:06:52 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_kisan
+16:06:52 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_fasal_bima
+16:06:52 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_kusum
+16:06:52 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmkisan...
+16:06:52 [INFO]   Ministry site: loading https://pmkisan.gov.in...
+16:06:52 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmfby...
+16:06:52 [INFO]   Ministry site: loading https://pmfby.gov.in...
+16:06:54 [INFO]   [pm_fasal_bima] Tavily: 33,590 chars from 4 queries
+16:06:54 [INFO]   [pm_kisan] Tavily: 50,524 chars from 6 queries
+16:06:55 [INFO]   [pm_kusum] Tavily: 24,769 chars from 3 queries
+16:07:02 [INFO]   Ministry site: 5,763 chars
+16:07:04 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmkusum...
+16:07:06 [INFO]   myscheme.gov.in: 15,000 chars
+16:07:07 [INFO]   myscheme.gov.in: 86 chars
+16:07:08 [INFO]   [pm_kisan] LLM pass 1 (core)...
+16:07:08 [INFO]   Ministry site: loading https://mnre.gov.in/solar/schemes...
+16:07:10 [INFO]   myscheme.gov.in: 86 chars
+16:07:12 [INFO]   Ministry site: 2,322 chars
+16:07:12 [INFO]   [pm_fasal_bima] LLM pass 1 (core)...
+16:07:12 [INFO]   Ministry site: 5,149 chars
+16:07:12 [INFO]   [pm_kusum] LLM pass 1 (core)...
+16:09:21 [WARNING]   [qwen/qwen3-next-80b-a3b-instruct] attempt 1: Connection error.
+16:09:21 [WARNING]   [qwen/qwen3-next-80b-a3b-instruct] attempt 1: Connection error.
+16:09:21 [WARNING]   [qwen/qwen3-next-80b-a3b-instruct] attempt 1: Connection error.
+16:09:27 [WARNING]   [qwen/qwen3-next-80b-a3b-instruct] attempt 2: Connection error.
+16:09:27 [WARNING]   [qwen/qwen3-next-80b-a3b-instruct] attempt 2: Connection error.
+16:09:27 [WARNING]   [qwen/qwen3-next-80b-a3b-instruct] attempt 2: Connection error.
+16:09:37 [WARNING]   [qwen/qwen3-next-80b-a3b-instruct] exhausted — trying next model...
+16:09:37 [WARNING]   [qwen/qwen3-next-80b-a3b-instruct] exhausted — trying next model...
+16:09:37 [WARNING]   [qwen/qwen3-next-80b-a3b-instruct] exhausted — trying next model...
+16:11:49 [INFO]   NVIDIA OK — moonshotai/kimi-k2.6 (8,103 chars)
+16:11:49 [WARNING]   [pm_fasal_bima] QUALITY: documents_en < 5
+16:11:49 [WARNING]   [pm_fasal_bima] QUALITY: apply_steps_en < 6
+16:11:49 [WARNING]   [pm_fasal_bima] QUALITY: helpline missing
+16:11:49 [WARNING]   [pm_fasal_bima] QUALITY: exclusion_criteria missing
+16:11:49 [WARNING]   [pm_fasal_bima] QUALITY: keywords missing
+16:11:49 [WARNING]   [pm_fasal_bima] QUALITY: eligibility_rules missing
+16:11:49 [WARNING]   [pm_fasal_bima] QUALITY: faq missing
+16:11:49 [INFO]   [pm_fasal_bima] Pass 1 retry (thin output)...
+16:11:49 [INFO]   NVIDIA OK — moonshotai/kimi-k2.6 (7,859 chars)
+16:11:49 [WARNING]   [pm_kusum] QUALITY: documents_en < 5
+16:11:49 [WARNING]   [pm_kusum] QUALITY: apply_steps_en < 6
+16:11:49 [WARNING]   [pm_kusum] QUALITY: helpline missing
+16:11:49 [WARNING]   [pm_kusum] QUALITY: exclusion_criteria missing
+16:11:49 [WARNING]   [pm_kusum] QUALITY: keywords missing
+16:11:49 [WARNING]   [pm_kusum] QUALITY: eligibility_rules missing
+16:11:49 [WARNING]   [pm_kusum] QUALITY: faq missing
+16:11:49 [INFO]   [pm_kusum] Pass 1 retry (thin output)...
+16:11:50 [INFO]   NVIDIA OK — moonshotai/kimi-k2.6 (7,949 chars)
+16:11:50 [WARNING]   [pm_kisan] QUALITY: documents_en < 5
+16:11:50 [WARNING]   [pm_kisan] QUALITY: apply_steps_en < 6
+16:11:50 [WARNING]   [pm_kisan] QUALITY: helpline missing
+16:11:50 [WARNING]   [pm_kisan] QUALITY: exclusion_criteria missing
+16:11:50 [WARNING]   [pm_kisan] QUALITY: keywords missing
+16:11:50 [WARNING]   [pm_kisan] QUALITY: eligibility_rules missing
+16:11:50 [WARNING]   [pm_kisan] QUALITY: faq missing
+16:11:50 [INFO]   [pm_kisan] Pass 1 retry (thin output)...
+16:16:19 [WARNING]   [qwen/qwen3-next-80b-a3b-instruct] attempt 1: Connection error.
+16:16:19 [WARNING]   [qwen/qwen3-next-80b-a3b-instruct] attempt 1: Connection error.
+16:16:20 [WARNING]   [qwen/qwen3-next-80b-a3b-instruct] attempt 1: Connection error.
+16:19:10 [INFO] Browser launched: chromium 148.0.7778.96
+16:19:10 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_kisan
+16:19:10 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmkisan...
+16:19:10 [INFO]   Ministry site: loading https://pmkisan.gov.in...
+16:19:13 [INFO]   [pm_kisan] Tavily: 50,524 chars from 6 queries
+16:19:15 [INFO]   Ministry site: 5,763 chars
+16:19:19 [INFO]   myscheme.gov.in: 86 chars
+16:19:19 [INFO]   [pm_kisan] LLM pass 1 (core)...
+16:21:46 [WARNING]   [moonshotai/kimi-k2.6] attempt 1: Connection error.
+16:21:52 [WARNING]   [moonshotai/kimi-k2.6] attempt 2: Connection error.
+16:22:02 [WARNING]   [moonshotai/kimi-k2.6] exhausted — trying next model...
+16:26:33 [WARNING]   [deepseek-ai/deepseek-v4-pro] attempt 1: Connection error.
+16:31:10 [WARNING]   [deepseek-ai/deepseek-v4-pro] attempt 2: Connection error.
+16:31:20 [WARNING]   [deepseek-ai/deepseek-v4-pro] exhausted — trying next model...
+16:32:29 [INFO]   NVIDIA OK — meta/llama-3.1-8b-instruct (11,911 chars)
+16:32:29 [INFO]   [pm_kisan] parsed keys: ['id', 'name_en', 'name_hi', 'name_ta', 'name_bn', 'name_mr', 'description_en', 'description_hi']
+16:32:29 [WARNING]   [pm_kisan] QUALITY: documents_en < 5
+16:32:29 [WARNING]   [pm_kisan] QUALITY: apply_steps_en < 6
+16:32:29 [WARNING]   [pm_kisan] QUALITY: helpline missing
+16:32:29 [WARNING]   [pm_kisan] QUALITY: exclusion_criteria missing
+16:32:29 [WARNING]   [pm_kisan] QUALITY: keywords missing
+16:32:29 [WARNING]   [pm_kisan] QUALITY: faq missing
+16:32:29 [INFO]   [pm_kisan] Pass 1 retry (thin output)...
+16:34:30 [ERROR]   [pm_kisan] timed out after 920s
+16:34:44 [INFO]   NVIDIA OK — moonshotai/kimi-k2.6 (7,911 chars)
+16:36:02 [INFO] Browser launched: chromium 148.0.7778.96
+16:36:02 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_kisan
+16:36:03 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmkisan...
+16:36:03 [INFO]   Ministry site: loading https://pmkisan.gov.in...
+16:36:06 [INFO]   [pm_kisan] Tavily: 50,356 chars from 6 queries
+16:36:13 [INFO]   Ministry site: 5,763 chars
+16:36:14 [INFO]   myscheme.gov.in: 86 chars
+16:36:14 [INFO]   [pm_kisan] LLM pass 1 (core)...
+16:37:05 [INFO]   NVIDIA OK — meta/llama-3.1-8b-instruct (11,277 chars)
+16:37:05 [INFO]   [pm_kisan] parsed keys: ['id', 'name_en', 'name_hi', 'name_ta', 'name_bn', 'name_mr', 'description_en', 'description_hi']
+16:37:05 [WARNING]   [pm_kisan] QUALITY: faq missing
+16:37:05 [INFO]   [pm_kisan] Pass 2 (FAQ + state-wise)...
+16:37:06 [INFO]   NVIDIA OK — meta/llama-3.1-8b-instruct (256 chars)
+16:37:06 [INFO]   [pm_kisan] state_wise_amounts OK
+16:37:28 [INFO]   NVIDIA OK — meta/llama-3.1-8b-instruct (3,303 chars)
+16:37:28 [INFO]   [pm_kisan] FAQ: 1 items
+16:37:28 [INFO]   [pm_kisan] saved  docs=6 steps=8 faq=1
+16:41:31 [INFO] Browser launched: chromium 148.0.7778.96
+16:41:31 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_kisan
+16:41:33 [INFO]   [pm_kisan] Tavily: 50,356 chars from 6 queries
+16:41:35 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmkisan...
+16:41:35 [INFO]   Ministry site: loading https://pmkisan.gov.in...
+16:41:38 [INFO]   Ministry site: 5,763 chars
+16:41:40 [INFO]   myscheme.gov.in: 86 chars
+16:41:40 [INFO]   [pm_kisan] LLM pass 1 (core)...
+16:46:12 [WARNING]   [meta/llama-3.3-70b-instruct] attempt 1: Connection error.
+16:50:48 [WARNING]   [meta/llama-3.3-70b-instruct] attempt 2: Connection error.
+16:50:58 [WARNING]   [meta/llama-3.3-70b-instruct] exhausted — trying next model...
+16:52:05 [INFO] Browser launched: chromium 148.0.7778.96
+16:52:05 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_kisan
+16:52:05 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmkisan...
+16:52:05 [INFO]   Ministry site: loading https://pmkisan.gov.in...
+16:52:07 [INFO]   [pm_kisan] Tavily: 50,356 chars from 6 queries
+16:52:10 [INFO]   Ministry site: 5,763 chars
+16:52:12 [INFO]   myscheme.gov.in: 86 chars
+16:52:12 [INFO]   [pm_kisan] LLM pass 1 (core)...
+16:55:04 [INFO]   NVIDIA OK — meta/llama-3.3-70b-instruct (7,649 chars)
+16:55:04 [INFO]   [pm_kisan] parsed keys: ['id', 'name_en', 'name_hi', 'name_ta', 'name_bn', 'name_mr', 'description_en', 'description_hi']
+16:55:04 [WARNING]   [pm_kisan] QUALITY: faq missing
+16:55:04 [INFO]   [pm_kisan] Pass 2 (FAQ + state-wise)...
+16:55:26 [INFO]   NVIDIA OK — meta/llama-3.3-70b-instruct (110 chars)
+16:55:26 [INFO]   [pm_kisan] state_wise_amounts OK
+16:56:10 [INFO]   NVIDIA OK — meta/llama-3.3-70b-instruct (5,092 chars)
+16:56:10 [INFO]   [pm_kisan] FAQ: 4 items
+16:56:10 [INFO]   [pm_kisan] saved  docs=6 steps=8 faq=4
+16:58:50 [INFO] Skipping 2 existing: pm_kisan, kisan_credit_card
+16:58:52 [INFO] Browser launched: chromium 148.0.7778.96
+16:58:52 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_fasal_bima
+16:58:52 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmfby...
+16:58:52 [INFO]   Ministry site: loading https://pmfby.gov.in...
+16:58:57 [INFO]   [pm_fasal_bima] Tavily: 34,085 chars from 4 queries
+16:58:58 [INFO]   myscheme.gov.in: 15,000 chars
+16:59:00 [INFO]   Ministry site: 2,322 chars
+16:59:00 [INFO]   [pm_fasal_bima] LLM pass 1 (core)...
+17:03:31 [WARNING]   [meta/llama-3.1-70b-instruct] attempt 1: Connection error.
+17:08:07 [WARNING]   [meta/llama-3.1-70b-instruct] attempt 2: Connection error.
+17:08:17 [WARNING]   [meta/llama-3.1-70b-instruct] exhausted — trying next model...
+17:12:47 [WARNING]   [microsoft/phi-4-mini-instruct] attempt 1: Connection error.
+17:14:56 [INFO] Browser launched: chromium 148.0.7778.96
+17:14:56 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_fasal_bima
+17:14:57 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmfby...
+17:14:57 [INFO]   Ministry site: loading https://pmfby.gov.in...
+17:14:58 [INFO]   [pm_fasal_bima] Tavily: 34,085 chars from 4 queries
+17:15:08 [INFO]   myscheme.gov.in: 15,000 chars
+17:15:12 [INFO]   Ministry site: 2,322 chars
+17:15:12 [INFO]   [pm_fasal_bima] LLM pass 1 (core)...
+17:19:43 [WARNING]   [meta/llama-3.1-70b-instruct] attempt 1: Connection error.
+17:21:23 [INFO] Browser launched: chromium 148.0.7778.96
+17:21:23 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_fasal_bima
+17:21:23 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmfby...
+17:21:23 [INFO]   Ministry site: loading https://pmfby.gov.in...
+17:21:25 [INFO]   [pm_fasal_bima] Tavily: 34,085 chars from 4 queries
+17:21:28 [INFO]   myscheme.gov.in: 15,000 chars
+17:21:29 [INFO]   Ministry site: 2,322 chars
+17:21:29 [INFO]   [pm_fasal_bima] LLM pass 1 (core)...
+17:25:56 [INFO]   NVIDIA OK — meta/llama-3.3-70b-instruct (10,272 chars)
+17:25:56 [INFO]   [pm_fasal_bima] parsed keys: ['id', 'name_en', 'name_hi', 'name_ta', 'name_bn', 'name_mr', 'description_en', 'description_hi']
+17:25:56 [WARNING]   [pm_fasal_bima] QUALITY: faq missing
+17:25:56 [INFO]   [pm_fasal_bima] Pass 2 (FAQ + state-wise)...
+17:25:57 [INFO]   NVIDIA OK — meta/llama-3.3-70b-instruct (238 chars)
+17:25:57 [INFO]   [pm_fasal_bima] state_wise_amounts OK
+17:30:26 [WARNING]   [meta/llama-3.3-70b-instruct] attempt 1: Connection error.
+17:35:01 [WARNING]   [meta/llama-3.3-70b-instruct] attempt 2: Connection error.
+17:35:11 [WARNING]   [meta/llama-3.3-70b-instruct] exhausted — trying next model...
+17:36:43 [ERROR]   [pm_fasal_bima] timed out after 920s
+17:39:42 [WARNING]   [meta/llama-3.1-70b-instruct] attempt 1: Connection error.
+17:42:53 [INFO] Browser launched: chromium 148.0.7778.96
+17:42:53 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_fasal_bima
+17:42:54 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmfby...
+17:42:54 [INFO]   Ministry site: loading https://pmfby.gov.in...
+17:43:02 [INFO]   [pm_fasal_bima] Tavily: 33,708 chars from 4 queries
+17:43:04 [INFO]   myscheme.gov.in: 15,000 chars
+17:43:05 [INFO]   Ministry site: 2,322 chars
+17:43:05 [INFO]   [pm_fasal_bima] LLM pass 1 (core)...
+17:47:37 [WARNING]   [meta/llama-3.3-70b-instruct] attempt 1: Connection error.
+17:52:13 [WARNING]   [meta/llama-3.3-70b-instruct] attempt 2: Connection error.
+17:52:23 [WARNING]   [meta/llama-3.3-70b-instruct] exhausted — trying next model...
+17:55:08 [INFO]   NVIDIA OK — meta/llama-3.1-70b-instruct (6,523 chars)
+17:55:08 [INFO]   [pm_fasal_bima] parsed keys: ['id', 'name_en', 'name_hi', 'name_ta', 'name_bn', 'name_mr', 'description_en', 'description_hi']
+17:55:08 [WARNING]   [pm_fasal_bima] QUALITY: documents_en < 5
+17:55:08 [WARNING]   [pm_fasal_bima] QUALITY: faq missing
+17:55:08 [INFO]   [pm_fasal_bima] Pass 1 retry (thin output)...
+17:59:38 [WARNING]   [meta/llama-3.3-70b-instruct] attempt 1: Connection error.
+18:02:22 [INFO] Browser launched: chromium 148.0.7778.96
+18:02:22 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_fasal_bima
+18:02:22 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmfby...
+18:02:22 [INFO]   Ministry site: loading https://pmfby.gov.in...
+18:02:23 [INFO]   [pm_fasal_bima] Tavily: 33,708 chars from 4 queries
+18:02:31 [INFO]   myscheme.gov.in: 15,000 chars
+18:02:32 [INFO]   Ministry site: 2,322 chars
+18:02:32 [INFO]   [pm_fasal_bima] LLM pass 1 (core)...
+18:07:03 [WARNING]   [minimaxai/minimax-m2.7] attempt 1: Connection error.
+18:11:39 [WARNING]   [minimaxai/minimax-m2.7] attempt 2: Connection error.
+18:11:49 [WARNING]   [minimaxai/minimax-m2.7] exhausted — trying next model...
+18:12:22 [INFO]   NVIDIA OK — openai/gpt-oss-20b (13,809 chars)
+18:12:22 [INFO]   [pm_fasal_bima] parsed keys: ['id', 'name_en', 'name_hi', 'name_ta', 'name_bn', 'name_mr', 'description_en', 'description_hi']
+18:12:22 [WARNING]   [pm_fasal_bima] QUALITY: documents_en < 5
+18:12:22 [WARNING]   [pm_fasal_bima] QUALITY: apply_steps_en < 6
+18:12:22 [WARNING]   [pm_fasal_bima] QUALITY: helpline missing
+18:12:22 [WARNING]   [pm_fasal_bima] QUALITY: exclusion_criteria missing
+18:12:22 [WARNING]   [pm_fasal_bima] QUALITY: keywords missing
+18:12:22 [WARNING]   [pm_fasal_bima] QUALITY: faq missing
+18:12:22 [INFO]   [pm_fasal_bima] Pass 1 retry (thin output)...
+18:15:30 [INFO]   NVIDIA OK — minimaxai/minimax-m2.7 (7,012 chars)
+18:15:30 [INFO]   [pm_fasal_bima] pass 1 retry merged
+18:15:30 [INFO]   [pm_fasal_bima] Pass 2 skipped (retry was needed — saving time)
+18:15:30 [INFO]   [pm_fasal_bima] saved  docs=0 steps=0 faq=0
+18:16:06 [INFO] Browser launched: chromium 148.0.7778.96
+18:16:06 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_kusum
+18:16:06 [INFO]   Ministry site: loading https://mnre.gov.in/solar/schemes...
+18:16:06 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmkusum...
+18:16:12 [INFO]   Ministry site: 5,149 chars
+18:16:12 [INFO]   [pm_kusum] Tavily: 24,181 chars from 3 queries
+18:16:13 [INFO]   myscheme.gov.in: 86 chars
+18:16:13 [INFO]   [pm_kusum] LLM pass 1 (core)...
+18:20:45 [WARNING]   [minimaxai/minimax-m2.7] attempt 1: Connection error.
+18:22:02 [INFO] Browser launched: chromium 148.0.7778.96
+18:22:02 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_kusum
+18:22:02 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmkusum...
+18:22:02 [INFO]   Ministry site: loading https://mnre.gov.in/solar/schemes...
+18:22:04 [INFO]   [pm_kusum] Tavily: 24,181 chars from 3 queries
+18:22:06 [INFO]   Ministry site: 5,149 chars
+18:22:07 [INFO]   myscheme.gov.in: 86 chars
+18:22:07 [INFO]   [pm_kusum] LLM pass 1 (core)...
+18:26:38 [WARNING]   [mistralai/mistral-small-4-119b-2603] attempt 1: Connection error.
+18:26:44 [WARNING]   [mistralai/mistral-small-4-119b-2603] attempt 2: Error code: 500 - {'type': 'urn:inference-connection:problem-details:internal-server-error', 'title': 'Internal Server Error', 'status': 500, 'detail': 'Inference connection error while making inference request'}
+18:26:54 [WARNING]   [mistralai/mistral-small-4-119b-2603] exhausted — trying next model...
+18:27:11 [WARNING]   [mistralai/mistral-nemotron] attempt 1: Error code: 500
+18:31:46 [WARNING]   [mistralai/mistral-nemotron] attempt 2: Connection error.
+18:31:56 [WARNING]   [mistralai/mistral-nemotron] exhausted — trying next model...
+18:31:59 [WARNING]   [openai/gpt-oss-20b] attempt 1: Connection error.
+18:32:04 [WARNING]   [openai/gpt-oss-20b] attempt 2: Connection error.
+18:32:14 [WARNING]   [openai/gpt-oss-20b] exhausted — trying next model...
+18:36:44 [WARNING]   [meta/llama-3.3-70b-instruct] attempt 1: Connection error.
+18:41:20 [WARNING]   [meta/llama-3.3-70b-instruct] attempt 2: Connection error.
+18:41:30 [WARNING]   [meta/llama-3.3-70b-instruct] exhausted — trying next model...
+18:44:57 [INFO] Skipping 1 existing: pm_fasal_bima
+18:44:57 [INFO] Nothing to do.
+18:45:19 [INFO] Browser launched: chromium 148.0.7778.96
+18:45:19 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: ayushman_bharat
+18:45:20 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmjay...
+18:45:20 [INFO]   Ministry site: loading https://pmjay.gov.in...
+18:45:25 [INFO]   [ayushman_bharat] Tavily: 33,513 chars from 4 queries
+18:45:35 [INFO]   myscheme.gov.in: 86 chars
+18:45:46 [INFO]   Ministry site: 28 chars
+18:45:46 [INFO]   [ayushman_bharat] LLM pass 1 (core)...
+18:45:48 [WARNING]   [OR:meta-llama/llama-3.3-70b-instruct] attempt 1: Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}}
+18:45:53 [WARNING]   [OR:meta-llama/llama-3.3-70b-instruct] attempt 2: Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}}
+18:46:03 [WARNING]   [OR:meta-llama/llama-3.3-70b-instruct] exhausted — falling back to NVIDIA...
+18:46:03 [INFO]   Switching to NVIDIA fallback chain...
+18:48:09 [INFO] Browser launched: chromium 148.0.7778.96
+18:48:09 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: ayushman_bharat
+18:48:09 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmjay...
+18:48:09 [INFO]   Ministry site: loading https://pmjay.gov.in...
+18:48:11 [INFO]   [ayushman_bharat] Tavily: 33,513 chars from 4 queries
+18:48:23 [INFO]   myscheme.gov.in: 86 chars
+18:48:37 [INFO]   Ministry site: 28 chars
+18:48:37 [INFO]   [ayushman_bharat] LLM pass 1 (core)...
+18:48:39 [WARNING]   [OR:meta-llama/llama-3.3-70b-instruct] attempt 1: Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}}
+18:48:48 [WARNING]   [OR:meta-llama/llama-3.3-70b-instruct] attempt 2: Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}}
+18:48:58 [WARNING]   [OR:meta-llama/llama-3.3-70b-instruct] exhausted — falling back to NVIDIA...
+18:48:58 [INFO]   Switching to NVIDIA fallback chain...
+18:49:25 [INFO] Browser launched: chromium 148.0.7778.96
+18:49:25 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: ayushman_bharat
+18:49:25 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmjay...
+18:49:25 [INFO]   Ministry site: loading https://pmjay.gov.in...
+18:49:29 [INFO]   [ayushman_bharat] Tavily: 33,513 chars from 4 queries
+18:49:48 [INFO]   myscheme.gov.in: 86 chars
+18:49:57 [INFO]   Ministry site: 28 chars
+18:49:57 [INFO]   [ayushman_bharat] LLM pass 1 (core)...
+18:49:58 [WARNING]   [OR:meta-llama/llama-3.3-70b-instruct] attempt 1: Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}}
+18:50:04 [WARNING]   [OR:meta-llama/llama-3.3-70b-instruct] attempt 2: Error code: 401 - {'error': {'message': 'User not found.', 'code': 401}}
+18:50:14 [WARNING]   [OR:meta-llama/llama-3.3-70b-instruct] exhausted — falling back to NVIDIA...
+18:50:14 [INFO]   Switching to NVIDIA fallback chain...
+18:50:33 [WARNING]   [NV:mistralai/mistral-small-4-119b-2603] attempt 1: Connection error.
+18:53:28 [WARNING]   [NV:mistralai/mistral-small-4-119b-2603] attempt 1: Connection error.
+18:54:44 [WARNING]   [NV:mistralai/mistral-small-4-119b-2603] attempt 1: Connection error.
+18:55:08 [WARNING]   [NV:mistralai/mistral-small-4-119b-2603] attempt 2: Connection error.
+18:55:18 [WARNING]   [NV:mistralai/mistral-small-4-119b-2603] exhausted — trying next NVIDIA model...
+18:56:49 [INFO]   NVIDIA OK — mistralai/mistral-nemotron (12,528 chars)
+18:58:04 [WARNING]   [NV:mistralai/mistral-small-4-119b-2603] attempt 2: Connection error.
+18:58:14 [WARNING]   [NV:mistralai/mistral-small-4-119b-2603] exhausted — trying next NVIDIA model...
+18:59:21 [WARNING]   [NV:mistralai/mistral-small-4-119b-2603] attempt 2: Connection error.
+18:59:25 [WARNING]   [NV:mistralai/mistral-nemotron] attempt 1: Error code: 500
+18:59:31 [WARNING]   [NV:mistralai/mistral-small-4-119b-2603] exhausted — trying next NVIDIA model...
+18:59:35 [WARNING]   [NV:mistralai/mistral-nemotron] attempt 1: Connection error.
+18:59:48 [WARNING]   [NV:mistralai/mistral-nemotron] attempt 2: Error code: 500 - {'type': 'urn:inference-connection:problem-details:internal-server-error', 'title': 'Internal Server Error', 'status': 500, 'detail': 'Inference connection error while making inference request'}
+18:59:48 [WARNING]   [NV:mistralai/mistral-nemotron] attempt 2: Error code: 500 - {'type': 'urn:inference-connection:problem-details:internal-server-error', 'title': 'Internal Server Error', 'status': 500, 'detail': 'Inference connection error while making inference request'}
+18:59:58 [WARNING]   [NV:mistralai/mistral-nemotron] exhausted — trying next NVIDIA model...
+18:59:58 [WARNING]   [NV:mistralai/mistral-nemotron] exhausted — trying next NVIDIA model...
+19:00:23 [WARNING]   [NV:openai/gpt-oss-20b] attempt 1: Connection error.
+19:00:23 [WARNING]   [NV:openai/gpt-oss-20b] attempt 1: Connection error.
+19:00:29 [WARNING]   [NV:openai/gpt-oss-20b] attempt 2: Connection error.
+19:00:29 [WARNING]   [NV:openai/gpt-oss-20b] attempt 2: Connection error.
+19:00:39 [WARNING]   [NV:openai/gpt-oss-20b] exhausted — trying next NVIDIA model...
+19:00:39 [WARNING]   [NV:openai/gpt-oss-20b] exhausted — trying next NVIDIA model...
+19:02:39 [INFO]   NVIDIA OK — meta/llama-3.3-70b-instruct (7,809 chars)
+19:02:43 [INFO] Browser launched: chromium 148.0.7778.96
+19:02:43 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: ayushman_bharat
+19:02:43 [INFO]   Ministry site: loading https://pmjay.gov.in...
+19:02:43 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmjay...
+19:02:45 [INFO]   [ayushman_bharat] Tavily: 33,513 chars from 4 queries
+19:02:56 [INFO]   myscheme.gov.in: 86 chars
+19:03:14 [INFO]   Ministry site: 28 chars
+19:03:14 [INFO]   [ayushman_bharat] LLM pass 1 (core)...
+19:03:47 [INFO]   NVIDIA OK — meta/llama-3.3-70b-instruct (9,039 chars)
+19:05:07 [WARNING]   [qwen/qwen3-next-80b-a3b-instruct] attempt 1: Connection error.
+19:05:14 [WARNING]   [qwen/qwen3-next-80b-a3b-instruct] attempt 2: Connection error.
+19:05:24 [WARNING]   [qwen/qwen3-next-80b-a3b-instruct] exhausted — trying next model...
+19:09:57 [WARNING]   [meta/llama-3.3-70b-instruct] attempt 1: Connection error.
+19:10:51 [WARNING]   [meta/llama-3.3-70b-instruct] attempt 2: Connection error.
+19:11:01 [WARNING]   [meta/llama-3.3-70b-instruct] exhausted — trying next model...
+19:11:03 [WARNING]   [meta/llama-3.1-70b-instruct] attempt 1: Connection error.
+19:15:41 [WARNING]   [meta/llama-3.1-70b-instruct] attempt 2: Connection error.
+19:15:51 [WARNING]   [meta/llama-3.1-70b-instruct] exhausted — trying next model...
+19:20:22 [WARNING]   [microsoft/phi-4-mini-instruct] attempt 1: Connection error.
+19:22:21 [INFO] Browser launched: chromium 148.0.7778.96
+19:22:21 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: ayushman_bharat
+19:22:22 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmjay...
+19:22:22 [INFO]   Ministry site: loading https://pmjay.gov.in...
+19:22:27 [INFO]   [ayushman_bharat] Tavily: 30,928 chars from 4 queries
+19:22:35 [INFO]   myscheme.gov.in: 86 chars
+19:22:49 [INFO]   Ministry site: 28 chars
+19:22:49 [INFO]   [ayushman_bharat] LLM pass 1 (core)...
+19:24:21 [INFO] Skipping 1 existing: pm_kisan
+19:24:22 [INFO] Browser launched: chromium 148.0.7778.96
+19:24:22 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_fasal_bima
+19:24:22 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: kisan_credit_card
+19:24:22 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_kusum
+19:24:22 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmfby...
+19:24:23 [INFO]   Ministry site: loading https://pmfby.gov.in...
+19:24:23 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/kcc...
+19:24:23 [INFO]   Ministry site: loading https://www.nabard.org/content1.aspx?id=572...
+19:24:23 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmkusum...
+19:24:23 [INFO]   Ministry site: loading https://mnre.gov.in/solar/schemes...
+19:24:26 [INFO]   [kisan_credit_card] Tavily: 33,311 chars from 4 queries
+19:24:27 [INFO]   [pm_kusum] Tavily: 24,686 chars from 3 queries
+19:24:28 [INFO]   [pm_fasal_bima] Tavily: 33,157 chars from 4 queries
+19:24:34 [INFO]   Ministry site: 5,149 chars
+19:24:34 [INFO]   Ministry site: 1,122 chars
+19:24:35 [INFO]   myscheme.gov.in: 15,000 chars
+19:24:35 [INFO]   myscheme.gov.in: 15,000 chars
+19:24:35 [INFO]   [kisan_credit_card] LLM pass 1 (core)...
+19:24:36 [INFO]   myscheme.gov.in: 86 chars
+19:24:36 [INFO]   [pm_kusum] LLM pass 1 (core)...
+19:24:36 [INFO]   Ministry site: 2,322 chars
+19:24:36 [INFO]   [pm_fasal_bima] LLM pass 1 (core)...
+19:26:36 [WARNING] [meta/llama-3.3-70b-instruct] connection error attempt 1
+19:26:36 [WARNING] [meta/llama-3.3-70b-instruct] connection error attempt 1
+19:26:37 [WARNING] [meta/llama-3.3-70b-instruct] connection error attempt 1
+19:28:39 [WARNING] [meta/llama-3.3-70b-instruct] connection error attempt 2
+19:28:39 [WARNING] [meta/llama-3.3-70b-instruct] connection error attempt 2
+19:28:39 [WARNING] [meta/llama-3.3-70b-instruct] connection error attempt 2
+19:30:41 [WARNING] [meta/llama-3.3-70b-instruct] connection error attempt 3
+19:30:41 [WARNING] [meta/llama-3.3-70b-instruct] connection error attempt 3
+19:30:41 [WARNING] [meta/llama-3.3-70b-instruct] connection error attempt 3
+19:32:46 [WARNING] [meta/llama-3.3-70b-instruct] connection error attempt 4
+19:32:46 [WARNING] [meta/llama-3.3-70b-instruct] connection error attempt 4
+19:32:46 [WARNING] [meta/llama-3.3-70b-instruct] connection error attempt 4
+19:32:54 [WARNING] meta/llama-3.3-70b-instruct disabled for 10 min
+19:34:54 [WARNING] [meta/llama-3.1-70b-instruct] connection error attempt 1
+19:34:54 [WARNING] [meta/llama-3.1-70b-instruct] connection error attempt 1
+19:34:54 [WARNING] [meta/llama-3.1-70b-instruct] connection error attempt 1
+19:36:55 [WARNING] [meta/llama-3.1-70b-instruct] connection error attempt 2
+19:36:55 [WARNING] [meta/llama-3.1-70b-instruct] connection error attempt 2
+19:36:55 [WARNING] [meta/llama-3.1-70b-instruct] connection error attempt 2
+19:50:05 [INFO] Browser launched: chromium 148.0.7778.96
+19:50:05 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: sukanya_samriddhi
+19:50:05 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/ssy...
+19:50:05 [INFO]   Ministry site: loading https://www.indiapost.gov.in/Financial/Pages/Content/Sukanya-Samriddhi...
+19:50:12 [INFO]   [sukanya_samriddhi] Tavily: 23,314 chars from 3 queries
+19:50:12 [WARNING]   Ministry site: HTTP 404
+19:50:25 [WARNING]   myscheme.gov.in: Playwright failed — TimeoutError: Page.goto: Timeout 20000ms exceeded.
+Call log:
+  - navigating to "https://myscheme.gov.in/schemes/ssy", waiting until "domcontentloaded"
+
+19:50:25 [INFO]   [sukanya_samriddhi] LLM pass 1 (core)...
+19:52:44 [WARNING] [meta/llama-3.3-70b-instruct] connection error attempt 1
+19:52:44 [WARNING] FULL ERROR: APITimeoutError('Request timed out.')
+19:52:44 [WARNING] CAUSE: ReadTimeout('')
+19:54:45 [WARNING] [meta/llama-3.3-70b-instruct] connection error attempt 2
+19:54:45 [WARNING] FULL ERROR: APITimeoutError('Request timed out.')
+19:54:45 [WARNING] CAUSE: ReadTimeout('')
+19:56:15 [INFO] Browser launched: chromium 148.0.7778.96
+19:56:15 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: nrega
+19:56:15 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/mgnregs...
+19:56:15 [INFO]   Ministry site: loading https://nrega.nic.in...
+19:56:19 [INFO]   Ministry site: 49 chars
+19:56:19 [INFO]   [nrega] Tavily: 33,722 chars from 4 queries
+19:56:30 [INFO]   myscheme.gov.in: 86 chars
+19:56:30 [INFO]   [nrega] LLM pass 1 (core)...
+19:58:57 [WARNING] [meta/llama-3.3-70b-instruct] connection error attempt 1
+19:58:57 [WARNING] FULL ERROR: APITimeoutError('Request timed out.')
+19:58:57 [WARNING] CAUSE: ReadTimeout('')
+20:00:59 [WARNING] [meta/llama-3.3-70b-instruct] connection error attempt 2
+20:00:59 [WARNING] FULL ERROR: APITimeoutError('Request timed out.')
+20:00:59 [WARNING] CAUSE: ReadTimeout('')
+20:02:26 [INFO] Browser launched: chromium 148.0.7778.96
+20:02:26 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: nrega
+20:02:26 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/mgnregs...
+20:02:26 [INFO]   Ministry site: loading https://nrega.nic.in...
+20:02:27 [INFO]   Ministry site: 49 chars
+20:02:28 [INFO]   [nrega] Tavily: 33,722 chars from 4 queries
+20:02:31 [INFO]   myscheme.gov.in: 86 chars
+20:02:31 [INFO]   [nrega] LLM pass 1 (core)...
+20:05:38 [INFO] NVIDIA OK [meta/llama-3.3-70b-instruct] 6,110 chars
+20:05:38 [INFO]   [nrega] parsed keys: ['id', 'name_en', 'name_hi', 'name_ta', 'name_bn', 'name_mr', 'description_en', 'description_hi']
+20:05:38 [WARNING]   [nrega] QUALITY: documents_en < 5
+20:05:38 [WARNING]   [nrega] QUALITY: apply_steps_en < 6
+20:05:38 [WARNING]   [nrega] QUALITY: helpline missing
+20:05:38 [WARNING]   [nrega] QUALITY: exclusion_criteria missing
+20:05:38 [WARNING]   [nrega] QUALITY: keywords missing
+20:05:38 [WARNING]   [nrega] QUALITY: faq missing
+20:05:38 [INFO]   [nrega] Pass 1 retry (thin output)...
+20:08:18 [INFO] NVIDIA OK [meta/llama-3.3-70b-instruct] 5,574 chars
+20:08:18 [INFO]   [nrega] pass 1 retry merged
+20:08:18 [INFO]   [nrega] Pass 2 skipped (retry was needed — saving time)
+20:08:18 [INFO]   [nrega] saved  docs=0 steps=0 faq=0
+20:40:50 [INFO] Skipping 2 existing: pm_kisan, nrega
+20:40:50 [INFO] Starting pipeline: 23 schemes, 2 concurrent, 4 llama-3.3 slots
+20:40:52 [INFO] Browser: chromium 148.0.7778.96
+20:40:52 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_fasal_bima
+20:40:52 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: kisan_credit_card
+20:40:52 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmfby...
+20:40:53 [INFO]   Ministry site: loading https://pmfby.gov.in...
+20:40:53 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/kcc...
+20:40:53 [INFO]   Ministry site: loading https://www.nabard.org/content1.aspx?id=572...
+20:40:56 [INFO]   [kisan_credit_card] Tavily: 39,395 chars from 4 queries
+20:40:58 [INFO]   [pm_fasal_bima] Tavily: 39,854 chars from 4 queries
+20:41:02 [INFO]   Ministry site: 1,122 chars
+20:41:03 [INFO]   myscheme.gov.in: 15,630 chars
+20:41:03 [INFO]   myscheme.gov.in: 16,196 chars
+20:41:03 [INFO]   [kisan_credit_card] Phase 1: Core English extraction (max_tokens=6500)...
+20:41:04 [INFO]   Ministry site: 2,322 chars
+20:41:04 [INFO]   [pm_fasal_bima] Phase 1: Core English extraction (max_tokens=6500)...
+20:43:54 [INFO]   slot[1] pm_fasal_bima/core: OK 5,302 chars
+20:43:54 [INFO]   [pm_fasal_bima] Core parsed: 10 docs, 10 steps
+20:43:54 [WARNING]   [pm_fasal_bima] Core thin: ['documents_hi missing', 'apply_steps_hi missing'] — retrying core once
+20:44:32 [INFO]   slot[0] kisan_credit_card/core: OK 5,071 chars
+20:44:32 [INFO]   [kisan_credit_card] Core parsed: 12 docs, 10 steps
+20:44:32 [WARNING]   [kisan_credit_card] Core thin: ['documents_hi missing', 'apply_steps_hi missing'] — retrying core once
+20:46:16 [INFO]   slot[2] pm_fasal_bima/core-retry: OK 5,972 chars
+20:46:16 [INFO]   [pm_fasal_bima] Core retry merged successfully
+20:46:16 [INFO]   [pm_fasal_bima] Phase 2: Translations ∥ FAQ+State (parallel)...
+20:46:35 [INFO]   slot[3] kisan_credit_card/core-retry: OK 5,071 chars
+20:46:35 [INFO]   [kisan_credit_card] Core retry merged successfully
+20:46:35 [INFO]   [kisan_credit_card] Phase 2: Translations ∥ FAQ+State (parallel)...
+20:50:01 [INFO]   slot[3] kisan_credit_card/faq-state: OK 6,481 chars
+20:50:01 [INFO]   [kisan_credit_card] FAQ: 8 items, mistakes: 6
+20:50:46 [WARNING]   slot[0] pm_fasal_bima/translations: connection error attempt 1 — APIConnectionError('Connection error.')
+20:50:46 [WARNING]   slot[1] pm_fasal_bima/faq-state: connection error attempt 1 — APIConnectionError('Connection error.')
+20:51:06 [WARNING]   slot[2] kisan_credit_card/translations: connection error attempt 1 — APIConnectionError('Connection error.')
+20:53:31 [INFO]   slot[1] pm_fasal_bima/faq-state: OK 4,741 chars
+20:53:31 [INFO]   [pm_fasal_bima] FAQ: 5 items, mistakes: 0
+20:53:51 [INFO]   slot[0] pm_fasal_bima/translations: OK 3,974 chars
+20:53:51 [INFO]   [pm_fasal_bima] Translations: 7 fields
+20:53:51 [WARNING]   [pm_fasal_bima] FINAL QUALITY: documents_hi missing
+20:53:51 [WARNING]   [pm_fasal_bima] FINAL QUALITY: apply_steps_hi missing
+20:53:51 [INFO]   [pm_fasal_bima] COMPLETE — docs=10 steps=10 faq=5 keywords=23 langs=hitabnmr
+20:53:51 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_kusum
+20:53:53 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmkusum...
+20:53:53 [INFO]   Ministry site: loading https://mnre.gov.in/solar/schemes...
+20:53:57 [INFO]   [pm_kusum] Tavily: 29,686 chars from 3 queries
+20:54:00 [INFO]   Ministry site: 5,149 chars
+20:54:04 [INFO]   myscheme.gov.in: 86 chars
+20:54:04 [INFO]   [pm_kusum] Phase 1: Core English extraction (max_tokens=6500)...
+20:54:20 [INFO]   slot[2] kisan_credit_card/translations: OK 4,438 chars
+20:54:20 [INFO]   [kisan_credit_card] Translations: 10 fields
+20:54:20 [WARNING]   [kisan_credit_card] FINAL QUALITY: keywords < 15
+20:54:20 [WARNING]   [kisan_credit_card] FINAL QUALITY: documents_hi missing
+20:54:20 [WARNING]   [kisan_credit_card] FINAL QUALITY: apply_steps_hi missing
+20:54:20 [INFO]   [kisan_credit_card] COMPLETE — docs=12 steps=10 faq=8 keywords=14 langs=hitabnmr
+20:54:20 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: ayushman_bharat
+20:54:21 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmjay...
+20:54:21 [INFO]   Ministry site: loading https://pmjay.gov.in...
+20:54:26 [INFO]   [ayushman_bharat] Tavily: 38,661 chars from 4 queries
+20:54:45 [INFO]   myscheme.gov.in: 86 chars
+20:54:54 [INFO]   Ministry site: 28 chars
+20:54:54 [INFO]   [ayushman_bharat] Phase 1: Core English extraction (max_tokens=6500)...
+20:55:26 [INFO]   slot[0] pm_kusum/core: OK 5,612 chars
+20:55:26 [INFO]   [pm_kusum] Core parsed: 10 docs, 10 steps
+20:55:26 [WARNING]   [pm_kusum] Core thin: ['documents_hi missing', 'apply_steps_hi missing'] — retrying core once
+20:56:06 [INFO]   slot[2] pm_kusum/core-retry: OK 5,102 chars
+20:56:06 [INFO]   [pm_kusum] Core retry merged successfully
+20:56:06 [INFO]   [pm_kusum] Phase 2: Translations ∥ FAQ+State (parallel)...
+20:56:15 [INFO]   slot[1] ayushman_bharat/core: OK 5,516 chars
+20:56:15 [INFO]   [ayushman_bharat] Core parsed: 10 docs, 10 steps
+20:56:15 [WARNING]   [ayushman_bharat] Core thin: ['documents_hi missing', 'apply_steps_hi missing'] — retrying core once
+20:57:44 [INFO]   slot[1] ayushman_bharat/core-retry: OK 5,579 chars
+20:57:44 [INFO]   [ayushman_bharat] Core retry merged successfully
+20:57:44 [INFO]   [ayushman_bharat] Phase 2: Translations ∥ FAQ+State (parallel)...
+20:58:53 [INFO]   slot[0] pm_kusum/faq-state: OK 4,516 chars
+20:58:53 [INFO]   [pm_kusum] FAQ: 4 items, mistakes: 0
+20:59:27 [INFO]   slot[3] pm_kusum/translations: OK 4,799 chars
+20:59:27 [INFO]   [pm_kusum] Translations: 10 fields
+20:59:27 [WARNING]   [pm_kusum] FINAL QUALITY: keywords < 15
+20:59:27 [WARNING]   [pm_kusum] FINAL QUALITY: faq < 5 items
+20:59:27 [WARNING]   [pm_kusum] FINAL QUALITY: documents_hi missing
+20:59:27 [WARNING]   [pm_kusum] FINAL QUALITY: apply_steps_hi missing
+20:59:27 [INFO]   [pm_kusum] COMPLETE — docs=10 steps=10 faq=4 keywords=13 langs=hitabnmr
+20:59:27 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_jan_arogya
+20:59:28 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/ab-pmjay-sehat...
+20:59:28 [INFO]   Ministry site: loading https://pmjay.gov.in/sehat...
+20:59:32 [WARNING]   Ministry site: HTTP 404
+20:59:33 [INFO]   [pm_jan_arogya] Tavily: 19,652 chars from 2 queries
+20:59:33 [INFO]   myscheme.gov.in: 86 chars
+20:59:33 [INFO]   [pm_jan_arogya] Phase 1: Core English extraction (max_tokens=6500)...
+21:01:43 [INFO]   slot[0] pm_jan_arogya/core: OK 5,345 chars
+21:01:43 [INFO]   [pm_jan_arogya] Core parsed: 10 docs, 10 steps
+21:01:43 [WARNING]   [pm_jan_arogya] Core thin: ['documents_hi missing', 'apply_steps_hi missing'] — retrying core once
+21:02:14 [WARNING]   slot[2] ayushman_bharat/translations: connection error attempt 1 — APIConnectionError('Connection error.')
+21:03:58 [WARNING]   slot[3] ayushman_bharat/faq-state: connection error attempt 1 — APIConnectionError('Connection error.')
+21:06:14 [WARNING]   slot[1] pm_jan_arogya/core-retry: connection error attempt 1 — APIConnectionError('Connection error.')
+21:06:46 [WARNING]   slot[2] ayushman_bharat/translations: connection error attempt 2 — APIConnectionError('Connection error.')
+21:07:44 [WARNING]   [ayushman_bharat] FAQ+State timed out — skipping
+21:08:57 [INFO]   slot[1] pm_jan_arogya/core-retry: OK 6,156 chars
+21:08:57 [INFO]   [pm_jan_arogya] Core retry merged successfully
+21:08:57 [INFO]   [pm_jan_arogya] Phase 2: Translations ∥ FAQ+State (parallel)...
+21:09:44 [WARNING]   [ayushman_bharat] Translations timed out — skipping
+21:09:44 [WARNING]   [ayushman_bharat] FINAL QUALITY: name_hi missing
+21:09:44 [WARNING]   [ayushman_bharat] FINAL QUALITY: name_ta missing
+21:09:44 [WARNING]   [ayushman_bharat] FINAL QUALITY: faq missing
+21:09:44 [WARNING]   [ayushman_bharat] FINAL QUALITY: faq < 5 items
+21:09:44 [WARNING]   [ayushman_bharat] FINAL QUALITY: documents_hi missing
+21:09:44 [WARNING]   [ayushman_bharat] FINAL QUALITY: apply_steps_hi missing
+21:09:44 [INFO]   [ayushman_bharat] COMPLETE — docs=10 steps=10 faq=0 keywords=18 langs=----
+21:09:44 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pmay_gramin
+21:09:46 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmayg...
+21:09:46 [INFO]   Ministry site: loading https://pmayg.nic.in...
+21:09:49 [WARNING]   Ministry site: Playwright failed — Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://pmayg.nic.in/
+Call log:
+  - navigating to "https://pmayg.nic.in/", waiting until "domcontentloaded"
+
+21:09:50 [INFO]   [pmay_gramin] Tavily: 30,033 chars from 3 queries
+21:09:55 [INFO]   myscheme.gov.in: 86 chars
+21:09:55 [INFO]   [pmay_gramin] Phase 1: Core English extraction (max_tokens=6500)...
+21:11:41 [INFO]   slot[0] pmay_gramin/core: OK 5,939 chars
+21:11:41 [INFO]   [pmay_gramin] Core parsed: 10 docs, 10 steps
+21:11:41 [WARNING]   [pmay_gramin] Core thin: ['documents_hi missing', 'apply_steps_hi missing'] — retrying core once
+21:13:00 [INFO]   slot[1] pmay_gramin/core-retry: OK 5,051 chars
+21:13:00 [INFO]   [pmay_gramin] Core retry merged successfully
+21:13:00 [INFO]   [pmay_gramin] Phase 2: Translations ∥ FAQ+State (parallel)...
+21:13:04 [INFO]   slot[3] pm_jan_arogya/faq-state: OK 4,718 chars
+21:13:04 [INFO]   [pm_jan_arogya] FAQ: 5 items, mistakes: 0
+21:14:15 [WARNING]   slot[2] pm_jan_arogya/translations: connection error attempt 1 — APIConnectionError('Connection error.')
+21:16:07 [INFO]   slot[3] pmay_gramin/faq-state: OK 4,964 chars
+21:16:07 [INFO]   [pmay_gramin] FAQ: 5 items, mistakes: 0
+21:16:45 [INFO]   slot[2] pm_jan_arogya/translations: OK 4,059 chars
+21:16:45 [INFO]   [pm_jan_arogya] Translations: 8 fields
+21:16:45 [WARNING]   [pm_jan_arogya] FINAL QUALITY: documents_hi missing
+21:16:45 [WARNING]   [pm_jan_arogya] FINAL QUALITY: apply_steps_hi missing
+21:16:45 [INFO]   [pm_jan_arogya] COMPLETE — docs=12 steps=10 faq=5 keywords=21 langs=hitabnmr
+21:16:45 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pmay_urban
+21:16:46 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmay-u...
+21:16:46 [INFO]   Ministry site: loading https://pmaymis.gov.in...
+21:16:51 [INFO]   [pmay_urban] Tavily: 28,144 chars from 3 queries
+21:16:52 [INFO]   Ministry site: 3,858 chars
+21:16:52 [INFO]   myscheme.gov.in: 11,036 chars
+21:16:52 [INFO]   [pmay_urban] Phase 1: Core English extraction (max_tokens=6500)...
+21:17:44 [INFO]   slot[0] pmay_urban/core: OK 5,668 chars
+21:17:44 [INFO]   [pmay_urban] Core parsed: 12 docs, 10 steps
+21:17:44 [WARNING]   [pmay_urban] Core thin: ['documents_hi missing', 'apply_steps_hi missing'] — retrying core once
+21:17:53 [INFO]   slot[2] pmay_gramin/translations: OK 4,555 chars
+21:17:53 [INFO]   [pmay_gramin] Translations: 10 fields
+21:17:53 [WARNING]   [pmay_gramin] FINAL QUALITY: documents_hi missing
+21:17:53 [WARNING]   [pmay_gramin] FINAL QUALITY: apply_steps_hi missing
+21:17:53 [INFO]   [pmay_gramin] COMPLETE — docs=10 steps=10 faq=5 keywords=21 langs=hitabnmr
+21:17:53 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_matru_vandana
+21:17:54 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmmvy...
+21:17:54 [INFO]   Ministry site: loading https://wcd.nic.in/schemes/pradhan-mantri-matru-vandana-yojana...
+21:17:54 [WARNING]   Ministry site: Playwright failed — Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://wcd.nic.in/schemes/pradhan-mantri-matru-vandana-yojana
+Call log:
+  - navigating to "https://wcd.nic.in/schemes/pradhan-mantri-matru-vandana-yojana", waiting until "domcontentloaded"
+
+21:17:59 [INFO]   [pm_matru_vandana] Tavily: 30,540 chars from 3 queries
+21:18:01 [INFO]   myscheme.gov.in: 15,426 chars
+21:18:02 [INFO]   [pm_matru_vandana] Phase 1: Core English extraction (max_tokens=6500)...
+21:21:22 [INFO]   slot[2] pm_matru_vandana/core: OK 5,405 chars
+21:21:22 [INFO]   [pm_matru_vandana] Core parsed: 10 docs, 10 steps
+21:21:22 [WARNING]   [pm_matru_vandana] Core thin: ['documents_hi missing', 'apply_steps_hi missing'] — retrying core once
+21:22:15 [WARNING]   slot[1] pmay_urban/core-retry: connection error attempt 1 — APIConnectionError('Connection error.')
+21:22:27 [INFO]   slot[3] pm_matru_vandana/core-retry: OK 6,359 chars
+21:22:27 [INFO]   [pm_matru_vandana] Core retry merged successfully
+21:22:27 [INFO]   [pm_matru_vandana] Phase 2: Translations ∥ FAQ+State (parallel)...
+21:23:59 [INFO]   slot[1] pmay_urban/core-retry: OK 6,211 chars
+21:23:59 [INFO]   [pmay_urban] Core retry merged successfully
+21:23:59 [INFO]   [pmay_urban] Phase 2: Translations ∥ FAQ+State (parallel)...
+21:26:58 [WARNING]   slot[0] pm_matru_vandana/translations: connection error attempt 1 — APIConnectionError('Connection error.')
+21:27:55 [INFO]   slot[1] pm_matru_vandana/faq-state: OK 4,939 chars
+21:27:55 [INFO]   [pm_matru_vandana] FAQ: 6 items, mistakes: 0
+21:28:29 [WARNING]   slot[3] pmay_urban/faq-state: connection error attempt 1 — APIConnectionError('Connection error.')
+21:28:29 [WARNING]   slot[2] pmay_urban/translations: connection error attempt 1 — APIConnectionError('Connection error.')
+21:31:30 [WARNING]   slot[0] pm_matru_vandana/translations: connection error attempt 2 — APIConnectionError('Connection error.')
+21:32:23 [INFO]   slot[3] pmay_urban/faq-state: OK 4,993 chars
+21:32:23 [INFO]   [pmay_urban] FAQ: 7 items, mistakes: 0
+21:33:01 [WARNING]   slot[2] pmay_urban/translations: connection error attempt 2 — APIConnectionError('Connection error.')
+21:34:27 [WARNING]   [pm_matru_vandana] Translations timed out — skipping
+21:34:27 [WARNING]   [pm_matru_vandana] FINAL QUALITY: name_hi missing
+21:34:27 [WARNING]   [pm_matru_vandana] FINAL QUALITY: name_ta missing
+21:34:27 [WARNING]   [pm_matru_vandana] FINAL QUALITY: documents_hi missing
+21:34:27 [WARNING]   [pm_matru_vandana] FINAL QUALITY: apply_steps_hi missing
+21:34:27 [INFO]   [pm_matru_vandana] COMPLETE — docs=15 steps=11 faq=6 keywords=22 langs=----
+21:34:27 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: sukanya_samriddhi
+21:34:29 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/ssy...
+21:34:29 [INFO]   Ministry site: loading https://www.indiapost.gov.in/Financial/Pages/Content/Sukanya-Samriddhi...
+21:34:35 [INFO]   [sukanya_samriddhi] Tavily: 30,499 chars from 3 queries
+21:34:35 [WARNING]   Ministry site: HTTP 404
+21:34:48 [INFO]   myscheme.gov.in: 86 chars
+21:34:48 [INFO]   [sukanya_samriddhi] Phase 1: Core English extraction (max_tokens=6500)...
+21:35:24 [WARNING]   slot[0] sukanya_samriddhi/core: connection error attempt 1 — APIConnectionError('Connection error.')
+21:35:25 [WARNING]   slot[2] pmay_urban/translations: connection error attempt 3 — APIConnectionError('Connection error.')
+21:35:38 [WARNING]   slot[0] sukanya_samriddhi/core: connection error attempt 2 — APIConnectionError('Connection error.')
+21:35:38 [WARNING]   slot[2] pmay_urban/translations: connection error attempt 4 — APIConnectionError('Connection error.')
+21:35:45 [WARNING]   slot[0] sukanya_samriddhi/core: connection error attempt 3 — APIConnectionError('Connection error.')
+21:35:47 [WARNING]   slot[2] pmay_urban/translations: connection error attempt 5 — APIConnectionError('Connection error.')
+21:35:59 [WARNING]   [pmay_urban] Translations timed out — skipping
+21:35:59 [WARNING]   [pmay_urban] FINAL QUALITY: name_hi missing
+21:35:59 [WARNING]   [pmay_urban] FINAL QUALITY: name_ta missing
+21:35:59 [WARNING]   [pmay_urban] FINAL QUALITY: documents_hi missing
+21:35:59 [WARNING]   [pmay_urban] FINAL QUALITY: apply_steps_hi missing
+21:35:59 [INFO]   [pmay_urban] COMPLETE — docs=14 steps=10 faq=7 keywords=22 langs=----
+21:35:59 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: beti_bachao
+21:36:00 [WARNING]   slot[0] sukanya_samriddhi/core: connection error attempt 4 — APIConnectionError('Connection error.')
+21:36:06 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/bbbp...
+21:36:12 [INFO]   Ministry site: loading https://wcd.nic.in/bbbp-schemes...
+21:36:13 [WARNING]   slot[0] sukanya_samriddhi/core: connection error attempt 5 — APIConnectionError('Connection error.')
+21:36:14 [WARNING]   myscheme.gov.in: Playwright failed — Error: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://myscheme.gov.in/schemes/bbbp
+Call log:
+  - navigating to "https://myscheme.gov.in/schemes/bbbp", waiting until "domcontentloaded"
+
+21:36:19 [WARNING]   Ministry site: Playwright failed — Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://wcd.nic.in/bbbp-schemes
+Call log:
+  - navigating to "https://wcd.nic.in/bbbp-schemes", waiting until "domcontentloaded"
+
+21:36:20 [WARNING]   Tavily 'Beti Bachao Beti Padhao eligibility bene' failed: HTTPSConnectionPool(host='api.tavily.com', port=443): Max retries exceeded with url: /search (Caused by NewConnectionError("HTTPSConnection(host='api.tavily.com', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions"))
+21:36:20 [WARNING]   Tavily 'BBBP Sukanya Samriddhi Anganwadi school ' failed: HTTPSConnectionPool(host='api.tavily.com', port=443): Max retries exceeded with url: /search (Caused by NewConnectionError("HTTPSConnection(host='api.tavily.com', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions"))
+21:36:29 [WARNING]   All llama-3.3 slots unavailable, trying fallback models
+21:36:29 [INFO]   [beti_bachao] Tavily: 0 chars from 2 queries
+21:36:29 [ERROR]   [beti_bachao] FAILED: [beti_bachao] Zero data from all three sources
+21:36:30 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: ujjwala
+21:36:30 [WARNING] fallback [meta/llama-3.1-70b-instruct] attempt 1: APIConnectionError
+21:36:37 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmuy...
+21:36:38 [INFO]   Ministry site: loading https://www.pmuy.gov.in...
+21:36:40 [INFO]   [ujjwala] Tavily: 23,312 chars from 3 queries
+21:36:52 [INFO]   Ministry site: 7,205 chars
+21:37:01 [INFO]   myscheme.gov.in: 9,432 chars
+21:37:01 [INFO]   [ujjwala] Phase 1: Core English extraction (max_tokens=6500)...
+21:38:18 [INFO]   slot[1] ujjwala/core: OK 5,560 chars
+21:38:18 [INFO]   [ujjwala] Core parsed: 10 docs, 10 steps
+21:38:18 [WARNING]   [ujjwala] Core thin: ['documents_hi missing', 'apply_steps_hi missing'] — retrying core once
+21:40:44 [INFO] 
+────────────────────────────────────────────────────────────
+▶  sukanya_samriddhi
+21:41:04 [INFO]   Ministry site: 15000 chars (fast)
+21:41:04 [INFO]   myscheme.gov.in: 7570 chars (fast)
+21:41:11 [INFO]   Tavily: 28,425 chars from 6 queries
+21:47:31 [INFO] Starting pipeline: 25 schemes, 1 concurrent (sequential), 2 llama-3.3 slots
+21:47:34 [INFO] Browser: chromium 148.0.7778.96
+21:47:34 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_kisan
+21:47:35 [INFO]   Ministry site: loading https://pmkisan.gov.in...
+21:47:35 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmkisan...
+21:47:37 [INFO]   [pm_kisan] Tavily: 59,433 chars from 6 queries
+21:47:40 [INFO]   Ministry site: 5,763 chars
+21:47:43 [INFO]   myscheme.gov.in: 86 chars
+21:47:43 [INFO]   [pm_kisan] Phase 1: Core English extraction (max_tokens=6500)...
+21:49:11 [INFO]   slot[0] pm_kisan/core: OK 6,902 chars
+21:49:11 [INFO]   [pm_kisan] Core parsed: 10 docs, 10 steps
+21:49:11 [INFO]   [pm_kisan] Phase 2: Translations (max_tokens=3000)...
+21:53:41 [WARNING]   slot[1] pm_kisan/translations: connection error attempt 1, retry in 10s
+21:53:41 [WARNING]   FULL ERROR: APIConnectionError('Connection error.')
+21:53:41 [WARNING]   CAUSE: RemoteProtocolError('Server disconnected without sending a response.')
+21:57:45 [INFO]   slot[1] pm_kisan/translations: OK 3,547 chars
+21:57:45 [INFO]   [pm_kisan] Translations: 11 fields
+21:57:45 [INFO]   [pm_kisan] Phase 3: FAQ + State (max_tokens=2500)...
+22:01:32 [INFO]   slot[0] pm_kisan/faq-state: OK 4,011 chars
+22:01:32 [INFO]   [pm_kisan] FAQ: 4 items, mistakes: 0
+22:01:32 [WARNING]   [pm_kisan] FINAL QUALITY: faq < 5 items
+22:01:32 [WARNING]   [pm_kisan] FINAL QUALITY: documents_hi missing
+22:01:32 [WARNING]   [pm_kisan] FINAL QUALITY: apply_steps_hi missing
+22:01:32 [INFO]   [pm_kisan] COMPLETE — docs=10 steps=10 faq=4 keywords=15 langs=hitabnmr
+22:01:32 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_fasal_bima
+22:01:32 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmfby...
+22:01:32 [INFO]   Ministry site: loading https://pmfby.gov.in...
+22:01:37 [INFO]   [pm_fasal_bima] Tavily: 39,917 chars from 4 queries
+22:01:40 [INFO]   myscheme.gov.in: 15,630 chars
+22:01:41 [INFO]   Ministry site: 2,322 chars
+22:01:41 [INFO]   [pm_fasal_bima] Phase 1: Core English extraction (max_tokens=6500)...
+22:04:10 [INFO] Skipping 1 existing: pm_kisan
+22:04:10 [INFO] Starting pipeline: 24 schemes, 1 concurrent (sequential), 2 llama-3.3 slots
+22:04:11 [INFO] Browser: chromium 148.0.7778.96
+22:04:11 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_fasal_bima
+22:04:11 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmfby...
+22:04:11 [INFO]   Ministry site: loading https://pmfby.gov.in...
+22:04:13 [INFO]   [pm_fasal_bima] Tavily: 39,917 chars from 4 queries
+22:04:23 [INFO]   myscheme.gov.in: 15,630 chars
+22:04:24 [INFO]   Ministry site: 2,322 chars
+22:04:24 [INFO]   [pm_fasal_bima] Phase 1: Core English extraction (max_tokens=6500)...
+22:04:46 [INFO]   slot[0] pm_fasal_bima/core: OK 6,020 chars
+22:04:46 [INFO]   [pm_fasal_bima] Core parsed: 10 docs, 10 steps
+22:04:46 [INFO]   [pm_fasal_bima] Phase 2: Translations (max_tokens=3000)...
+22:09:16 [WARNING]   slot[1] pm_fasal_bima/translations: connection error attempt 1, retry in 10s
+22:09:16 [WARNING]   FULL ERROR: APIConnectionError('Connection error.')
+22:09:16 [WARNING]   CAUSE: RemoteProtocolError('Server disconnected without sending a response.')
+22:10:23 [INFO] Skipping 1 existing: pm_kisan
+22:10:23 [INFO] Starting pipeline: 24 schemes, 1 concurrent (sequential), 2 llama-3.3 slots
+22:10:25 [INFO] Browser: chromium 148.0.7778.96
+22:10:25 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_fasal_bima
+22:10:25 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmfby...
+22:10:25 [INFO]   Ministry site: loading https://pmfby.gov.in...
+22:10:33 [INFO]   [pm_fasal_bima] Tavily: 39,917 chars from 4 queries
+22:10:36 [INFO]   Ministry site: 2,322 chars
+22:10:37 [INFO]   myscheme.gov.in: 15,630 chars
+22:10:37 [INFO]   [pm_fasal_bima] Phase 1: Core English extraction (max_tokens=6500)...
+22:11:13 [INFO]   slot[0] pm_fasal_bima/core: OK 6,324 chars
+22:11:13 [INFO]   [pm_fasal_bima] Core parsed: 10 docs, 10 steps
+22:11:13 [INFO]   [pm_fasal_bima] Phase 2: Translations (max_tokens=4400)...
+22:15:43 [WARNING]   slot[1] pm_fasal_bima/translations: connection error attempt 1, retry in 10s
+22:15:43 [WARNING]   FULL ERROR: APIConnectionError('Connection error.')
+22:15:43 [WARNING]   CAUSE: RemoteProtocolError('Server disconnected without sending a response.')
+22:19:35 [INFO] Skipping 1 existing: pm_kisan
+22:19:35 [INFO] Starting pipeline: 24 schemes, 1 concurrent (sequential), 2 llama-3.3 slots
+22:19:36 [INFO] Browser: chromium 148.0.7778.96
+22:19:36 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_fasal_bima
+22:19:36 [WARNING]   Ministry site: Playwright failed — TargetClosedError: BrowserContext.new_page: Target page, context or browser has been closed
+Browser logs:
+
+<launching> C:\Users\anshr\AppData\Local\ms-playwright\chromium_headless_shell-1223\chrome-headless-shell-win64\chrome-headless-shell.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --headless --hide-scrollbars --mute-audio --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --no-sandbox --no-sandbox --disable-dev-shm-usage --disable-gpu --disable-blink-features=AutomationControlled --disable-software-rasterizer --single-process --user-data-dir=C:\Users\anshr\AppData\Local\Temp\playwright_chromiumdev_profile-F7UTZ9 --remote-debugging-pipe --no-startup-window
+<launched> pid=45340
+[pid=45340][err] [0611/221936.310:ERROR:gpu\ipc\service\gpu_channel_manager.cc:927] ContextResult::kFatalFailure: Failed to create shared context for virtualization.
+22:19:36 [WARNING]   myscheme.gov.in: Playwright failed — TargetClosedError: BrowserContext.new_page: Target page, context or browser has been closed
+22:19:38 [INFO]   [pm_fasal_bima] Tavily: 39,917 chars from 4 queries
+22:19:38 [INFO]   [pm_fasal_bima] Phase 1: Core English extraction (max_tokens=6500)...
+22:21:09 [INFO] Skipping 1 existing: pm_kisan
+22:21:09 [INFO] Starting pipeline: 24 schemes, 1 concurrent (sequential), 2 llama-3.3 slots
+22:21:10 [INFO] Browser: chromium 148.0.7778.96
+22:21:10 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_fasal_bima
+22:21:11 [WARNING]   Ministry site: Playwright failed — TargetClosedError: BrowserContext.new_page: Target page, context or browser has been closed
+Browser logs:
+
+<launching> C:\Users\anshr\AppData\Local\ms-playwright\chromium_headless_shell-1223\chrome-headless-shell-win64\chrome-headless-shell.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --headless --hide-scrollbars --mute-audio --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --no-sandbox --no-sandbox --disable-dev-shm-usage --disable-gpu --disable-blink-features=AutomationControlled --disable-software-rasterizer --single-process --user-data-dir=C:\Users\anshr\AppData\Local\Temp\playwright_chromiumdev_profile-q2ST1t --remote-debugging-pipe --no-startup-window
+<launched> pid=17900
+[pid=17900][err] [0611/222111.013:ERROR:gpu\ipc\service\gpu_channel_manager.cc:927] ContextResult::kFatalFailure: Failed to create shared context for virtualization.
+22:21:11 [WARNING]   myscheme.gov.in: Playwright failed — TargetClosedError: BrowserContext.new_page: Target page, context or browser has been closed
+22:21:12 [INFO]   [pm_fasal_bima] Tavily: 39,917 chars from 4 queries
+22:21:12 [INFO]   [pm_fasal_bima] Phase 1: Core English extraction (max_tokens=6500)...
+22:21:35 [INFO] Skipping 1 existing: pm_kisan
+22:21:35 [INFO] Starting pipeline: 24 schemes, 1 concurrent (sequential), 2 llama-3.3 slots
+22:21:36 [INFO] Browser: chromium 148.0.7778.96
+22:21:36 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_fasal_bima
+22:21:36 [INFO]   Ministry site: loading https://pmfby.gov.in...
+22:21:36 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmfby...
+22:21:42 [INFO]   [pm_fasal_bima] Tavily: 39,917 chars from 4 queries
+22:21:47 [INFO]   myscheme.gov.in: 15,630 chars
+22:21:47 [INFO]   Ministry site: 2,322 chars
+22:21:47 [INFO]   [pm_fasal_bima] Phase 1: Core English extraction (max_tokens=6500)...
+22:24:15 [INFO]   slot[0] pm_fasal_bima/core: OK 5,623 chars
+22:24:15 [INFO]   [pm_fasal_bima] Core parsed: 10 docs, 10 steps
+22:24:15 [INFO]   [pm_fasal_bima] Phase 2: Translations (max_tokens=4400)...
+22:28:48 [WARNING]   slot[1] pm_fasal_bima/translations: connection error attempt 1, retry in 10s
+22:28:48 [WARNING]   FULL ERROR: APIConnectionError('Connection error.')
+22:28:48 [WARNING]   CAUSE: RemoteProtocolError('Server disconnected without sending a response.')
+22:28:58 [WARNING]   slot[1] pm_fasal_bima/translations: connection error attempt 2, retry in 20s
+22:28:58 [WARNING]   FULL ERROR: APIConnectionError('Connection error.')
+22:28:58 [WARNING]   CAUSE: ConnectError('All connection attempts failed')
+22:29:23 [WARNING]   slot[1] pm_fasal_bima/translations: connection error attempt 3, retry in 30s
+22:29:23 [WARNING]   FULL ERROR: APIConnectionError('Connection error.')
+22:29:23 [WARNING]   CAUSE: ConnectError('[Errno 11002] getaddrinfo failed')
+22:30:15 [WARNING]   slot[1] pm_fasal_bima/translations: connection error attempt 4, retry in 40s
+22:30:15 [WARNING]   FULL ERROR: APIConnectionError('Connection error.')
+22:30:15 [WARNING]   CAUSE: ConnectError('')
+22:32:34 [INFO] Skipping 1 existing: pm_kisan
+22:32:34 [INFO] Starting pipeline: 24 schemes, 1 concurrent (sequential), 2 llama-3.3 slots
+22:32:41 [INFO] Browser: chromium 148.0.7778.96
+22:32:41 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_fasal_bima
+22:32:57 [WARNING]   Tavily 'PMFBY crop insurance eligibility premium' failed: HTTPSConnectionPool(host='api.tavily.com', port=443): Max retries exceeded with url: /search (Caused by NewConnectionError("HTTPSConnection(host='api.tavily.com', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions"))
+22:32:57 [WARNING]   Tavily 'PMFBY enrollment deadline CSC banks last' failed: HTTPSConnectionPool(host='api.tavily.com', port=443): Max retries exceeded with url: /search (Caused by NewConnectionError("HTTPSConnection(host='api.tavily.com', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions"))
+22:32:57 [WARNING]   Tavily 'PMFBY claim process documents flood drou' failed: HTTPSConnectionPool(host='api.tavily.com', port=443): Max retries exceeded with url: /search (Caused by NewConnectionError("HTTPSConnection(host='api.tavily.com', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions"))
+22:32:57 [WARNING]   Tavily 'PMFBY premium rate state-wise kharif rab' failed: HTTPSConnectionPool(host='api.tavily.com', port=443): Max retries exceeded with url: /search (Caused by NewConnectionError("HTTPSConnection(host='api.tavily.com', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions"))
+22:33:02 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmfby...
+22:33:03 [INFO]   Ministry site: loading https://pmfby.gov.in...
+22:33:06 [INFO]   [pm_fasal_bima] Tavily: 0 chars from 4 queries
+22:36:10 [INFO] Skipping 1 existing: pm_kisan
+22:36:10 [INFO] Starting pipeline: 24 schemes, 1 concurrent (sequential), 2 llama-3.3 slots
+22:36:17 [INFO] Browser: chromium 148.0.7778.96
+22:36:17 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_fasal_bima
+22:36:38 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmfby...
+22:36:39 [WARNING]   Tavily 'PMFBY enrollment deadline CSC banks last' failed: HTTPSConnectionPool(host='api.tavily.com', port=443): Max retries exceeded with url: /search (Caused by NameResolutionError("HTTPSConnection(host='api.tavily.com', port=443): Failed to resolve 'api.tavily.com' ([Errno 11001] getaddrinfo failed)"))
+22:36:39 [WARNING]   Tavily 'PMFBY premium rate state-wise kharif rab' failed: HTTPSConnectionPool(host='api.tavily.com', port=443): Max retries exceeded with url: /search (Caused by NameResolutionError("HTTPSConnection(host='api.tavily.com', port=443): Failed to resolve 'api.tavily.com' ([Errno 11001] getaddrinfo failed)"))
+22:36:39 [WARNING]   Tavily 'PMFBY crop insurance eligibility premium' failed: HTTPSConnectionPool(host='api.tavily.com', port=443): Max retries exceeded with url: /search (Caused by NameResolutionError("HTTPSConnection(host='api.tavily.com', port=443): Failed to resolve 'api.tavily.com' ([Errno 11001] getaddrinfo failed)"))
+22:36:39 [WARNING]   Tavily 'PMFBY claim process documents flood drou' failed: HTTPSConnectionPool(host='api.tavily.com', port=443): Max retries exceeded with url: /search (Caused by NameResolutionError("HTTPSConnection(host='api.tavily.com', port=443): Failed to resolve 'api.tavily.com' ([Errno 11001] getaddrinfo failed)"))
+22:36:41 [WARNING]   myscheme.gov.in: Playwright failed — Error: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://myscheme.gov.in/schemes/pmfby
+Call log:
+  - navigating to "https://myscheme.gov.in/schemes/pmfby", waiting until "domcontentloaded"
+
+22:36:46 [INFO]   Ministry site: loading https://pmfby.gov.in...
+22:36:46 [WARNING]   Ministry site: Playwright failed — Error: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://pmfby.gov.in/
+Call log:
+  - navigating to "https://pmfby.gov.in/", waiting until "domcontentloaded"
+
+22:36:48 [INFO]   [pm_fasal_bima] Tavily: 0 chars from 4 queries
+22:36:48 [ERROR]   [pm_fasal_bima] FAILED: [pm_fasal_bima] Zero data from all three sources
+22:36:48 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: kisan_credit_card
+22:36:59 [WARNING]   Tavily 'KCC apply online PM Kisan beneficiaries ' failed: HTTPSConnectionPool(host='api.tavily.com', port=443): Max retries exceeded with url: /search (Caused by NewConnectionError("HTTPSConnection(host='api.tavily.com', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions"))
+22:36:59 [WARNING]   Tavily 'Kisan Credit Card ATM withdrawal insuran' failed: HTTPSConnectionPool(host='api.tavily.com', port=443): Max retries exceeded with url: /search (Caused by NewConnectionError("HTTPSConnection(host='api.tavily.com', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions"))
+22:36:59 [WARNING]   Tavily 'KCC loan limit interest rate 4% subventi' failed: HTTPSConnectionPool(host='api.tavily.com', port=443): Max retries exceeded with url: /search (Caused by NewConnectionError("HTTPSConnection(host='api.tavily.com', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions"))
+22:36:59 [WARNING]   Tavily 'Kisan Credit Card KCC eligibility docume' failed: HTTPSConnectionPool(host='api.tavily.com', port=443): Max retries exceeded with url: /search (Caused by NewConnectionError("HTTPSConnection(host='api.tavily.com', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions"))
+22:37:47 [INFO] Skipping 1 existing: pm_kisan
+22:37:47 [INFO] Starting pipeline: 24 schemes, 1 concurrent (sequential), 2 llama-3.3 slots
+22:37:48 [INFO] Browser: chromium 148.0.7778.96
+22:37:48 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_fasal_bima
+22:37:48 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmfby...
+22:37:48 [INFO]   Ministry site: loading https://pmfby.gov.in...
+22:37:54 [INFO]   [pm_fasal_bima] Tavily: 39,983 chars from 4 queries
+22:37:54 [INFO]   Ministry site: 2,322 chars
+22:37:55 [INFO]   myscheme.gov.in: 15,630 chars
+22:37:55 [INFO]   [pm_fasal_bima] Phase 1: Core English extraction (max_tokens=6500)...
+22:39:50 [INFO]   slot[0] pm_fasal_bima/core: OK 5,363 chars
+22:39:50 [INFO]   [pm_fasal_bima] Core parsed: 10 docs, 10 steps
+22:39:50 [INFO]   [pm_fasal_bima] Phase 2: Translations (max_tokens=4400)...
+22:42:39 [WARNING]   slot[1] pm_fasal_bima/translations: connection error attempt 1, retry in 10s
+22:42:39 [WARNING]   FULL ERROR: APIConnectionError('Connection error.')
+22:42:39 [WARNING]   CAUSE: ReadError('')
+22:42:51 [WARNING]   slot[1] pm_fasal_bima/translations: connection error attempt 2, retry in 20s
+22:42:51 [WARNING]   FULL ERROR: APIConnectionError('Connection error.')
+22:42:51 [WARNING]   CAUSE: ConnectError('All connection attempts failed')
+22:47:02 [INFO] Skipping 1 existing: pm_kisan
+22:47:02 [INFO] Starting pipeline: 24 schemes, 1 concurrent (sequential), 2 llama-3.3 slots
+22:47:04 [INFO] Browser: chromium 148.0.7778.96
+22:47:04 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_fasal_bima
+22:47:04 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmfby...
+22:47:04 [INFO]   Ministry site: loading https://pmfby.gov.in...
+22:47:06 [INFO]   [pm_fasal_bima] Tavily: 39,983 chars from 4 queries
+22:47:18 [INFO]   myscheme.gov.in: 15,630 chars
+22:47:21 [INFO]   Ministry site: 2,322 chars
+22:47:21 [INFO]   [pm_fasal_bima] Phase 1: Core English extraction (max_tokens=6500)...
+22:48:55 [INFO]   slot[0] pm_fasal_bima/core: OK 6,092 chars
+22:48:55 [INFO]   [pm_fasal_bima] Core parsed: 10 docs, 10 steps
+22:48:55 [INFO]   [pm_fasal_bima] Phase 2: Translations (max_tokens=4400)...
+22:53:25 [WARNING]   slot[1] pm_fasal_bima/translations: connection error attempt 1, retry in 10s
+22:53:25 [WARNING]   FULL ERROR: APIConnectionError('Connection error.')
+22:53:25 [WARNING]   CAUSE: RemoteProtocolError('Server disconnected without sending a response.')
+22:55:33 [INFO]   slot[1] pm_fasal_bima/translations: OK 3,017 chars
+22:55:33 [INFO]   [pm_fasal_bima] Translations: 7 fields
+22:55:33 [INFO]   [pm_fasal_bima] Phase 3: FAQ + State (max_tokens=3500)...
+23:00:03 [WARNING]   slot[0] pm_fasal_bima/faq-state: connection error attempt 1, retry in 10s
+23:00:03 [WARNING]   FULL ERROR: APIConnectionError('Connection error.')
+23:00:03 [WARNING]   CAUSE: RemoteProtocolError('Server disconnected without sending a response.')
+23:04:43 [WARNING]   slot[0] pm_fasal_bima/faq-state: connection error attempt 2, retry in 20s
+23:04:43 [WARNING]   FULL ERROR: APIConnectionError('Connection error.')
+23:04:43 [WARNING]   CAUSE: RemoteProtocolError('Server disconnected without sending a response.')
+23:05:33 [WARNING]   [pm_fasal_bima] FAQ+State timed out — skipping
+23:05:33 [WARNING]   [pm_fasal_bima] FINAL QUALITY: faq missing
+23:05:33 [WARNING]   [pm_fasal_bima] FINAL QUALITY: faq < 5 items
+23:05:33 [WARNING]   [pm_fasal_bima] FINAL QUALITY: documents_hi missing
+23:05:33 [WARNING]   [pm_fasal_bima] FINAL QUALITY: apply_steps_hi missing
+23:05:33 [INFO]   [pm_fasal_bima] COMPLETE — docs=10 steps=10 faq=0 keywords=46 langs=hitabnmr
+23:05:33 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: kisan_credit_card
+23:05:34 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/kcc...
+23:05:34 [INFO]   Ministry site: loading https://www.nabard.org/content1.aspx?id=572...
+23:05:37 [INFO]   [kisan_credit_card] Tavily: 39,137 chars from 4 queries
+23:05:40 [INFO]   Ministry site: 1,122 chars
+23:05:42 [INFO]   myscheme.gov.in: 16,196 chars
+23:05:42 [INFO]   [kisan_credit_card] Phase 1: Core English extraction (max_tokens=6500)...
+23:09:12 [INFO]   slot[1] kisan_credit_card/core: OK 5,786 chars
+23:09:12 [INFO]   [kisan_credit_card] Core parsed: 10 docs, 10 steps
+23:09:12 [INFO]   [kisan_credit_card] Phase 2: Translations (max_tokens=4400)...
+23:09:39 [WARNING]   slot[0] kisan_credit_card/translations: connection error attempt 1, retry in 10s
+23:09:39 [WARNING]   FULL ERROR: APIConnectionError('Connection error.')
+23:09:39 [WARNING]   CAUSE: ReadError('')
+23:09:51 [WARNING]   slot[0] kisan_credit_card/translations: connection error attempt 2, retry in 20s
+23:09:52 [WARNING]   FULL ERROR: APIConnectionError('Connection error.')
+23:09:52 [WARNING]   CAUSE: ConnectError('All connection attempts failed')
+23:12:53 [WARNING]   slot[0] kisan_credit_card/translations: connection error attempt 3, retry in 30s
+23:12:53 [WARNING]   FULL ERROR: APIConnectionError('Connection error.')
+23:12:53 [WARNING]   CAUSE: ReadError('')
+23:17:53 [WARNING]   slot[0] kisan_credit_card/translations: connection error attempt 4, retry in 40s
+23:17:53 [WARNING]   FULL ERROR: APIConnectionError('Connection error.')
+23:17:53 [WARNING]   CAUSE: RemoteProtocolError('Server disconnected without sending a response.')
+23:21:12 [WARNING]   [kisan_credit_card] Translations timed out — skipping
+23:21:12 [INFO]   [kisan_credit_card] Phase 3: FAQ + State (max_tokens=3500)...
+23:55:56 [INFO] Skipping 2 existing: pm_kisan, pm_fasal_bima
+23:55:56 [INFO] Starting pipeline: 23 schemes, 1 concurrent (sequential), 2 llama-3.3 slots, 5 LLM calls/scheme (core + trans-a + trans-b + faq-a + faq-b)
+23:55:58 [INFO] Browser: chromium 148.0.7778.96
+23:55:58 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: kisan_credit_card
+23:55:58 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/kcc...
+23:55:58 [INFO]   Ministry site: loading https://www.nabard.org/content1.aspx?id=572...
+23:56:07 [INFO]   myscheme.gov.in: 16,196 chars
+23:56:07 [INFO]   [kisan_credit_card] Tavily: 39,066 chars from 4 queries
+23:56:23 [WARNING]   Ministry site: Playwright failed — TimeoutError: Page.goto: Timeout 25000ms exceeded.
+Call log:
+  - navigating to "https://www.nabard.org/content1.aspx?id=572", waiting until "domcontentloaded"
+
+23:56:23 [INFO]   [kisan_credit_card] Phase 1: Core English extraction (max_tokens=6500)...
+23:58:10 [INFO]   slot[0] kisan_credit_card/core: OK 6,131 chars
+23:58:10 [INFO]   [kisan_credit_card] Core parsed: 12 docs, 10 steps
+23:58:10 [INFO]   [kisan_credit_card] Phase 2a: Trans-A name/desc/benefit (max_tokens=2200)...
+23:59:58 [INFO]   slot[1] kisan_credit_card/trans-a: OK 2,592 chars
+23:59:58 [INFO]   [kisan_credit_card] Trans-A: 12 fields (name×4, description×4, benefit×4)
+23:59:58 [INFO]   [kisan_credit_card] Phase 2b: Trans-B docs(12)/steps(10) (max_tokens=2800)...
+00:03:16 [INFO]   slot[0] kisan_credit_card/trans-b: OK 3,080 chars
+00:03:16 [INFO]   [kisan_credit_card] Trans-B: 7 fields (documents×4, apply_steps×4)
+00:03:16 [INFO]   [kisan_credit_card] Phase 3a: FAQ-A Q&A×8 with hi+ta (max_tokens=2200)...
+00:06:34 [INFO]   slot[1] kisan_credit_card/faq-a: OK 5,131 chars
+00:06:34 [INFO]   [kisan_credit_card] FAQ-A: 8 Q&A items with hi+ta
+00:06:34 [INFO]   [kisan_credit_card] Phase 3b: FAQ-B mistakes/tips/state (max_tokens=1800)...
+00:07:27 [INFO]   slot[0] kisan_credit_card/faq-b: OK 2,480 chars
+00:07:27 [INFO]   [kisan_credit_card] FAQ-B: mistakes=6 tips=4 states=18
+00:07:27 [INFO]   [kisan_credit_card] ✓ All quality checks passed
+00:07:27 [INFO]   [kisan_credit_card] COMPLETE — docs=12 steps=10 faq=8 keywords=17 langs=hitabnmr
+00:07:27 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_kusum
+00:07:28 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmkusum...
+00:07:28 [INFO]   Ministry site: loading https://mnre.gov.in/solar/schemes...
+00:07:33 [INFO]   [pm_kusum] Tavily: 29,256 chars from 3 queries
+00:07:37 [INFO]   Ministry site: 5,149 chars
+00:07:40 [INFO]   myscheme.gov.in: 86 chars
+00:07:40 [INFO]   [pm_kusum] Phase 1: Core English extraction (max_tokens=6500)...
+00:08:16 [WARNING]   slot[1] pm_kusum/core: connection error attempt 1, retry in 10s
+00:08:16 [WARNING]   FULL ERROR: APIConnectionError('Connection error.')
+00:08:16 [WARNING]   CAUSE: ReadError('')
+00:08:27 [WARNING]   slot[1] pm_kusum/core: connection error attempt 2, retry in 20s
+00:08:27 [WARNING]   FULL ERROR: APIConnectionError('Connection error.')
+00:08:27 [WARNING]   CAUSE: ConnectError('All connection attempts failed')
+00:09:25 [INFO] Skipping 3 existing: pm_kisan, pm_fasal_bima, kisan_credit_card
+00:09:25 [INFO] Starting pipeline: 22 schemes, 1 concurrent (sequential), 2 llama-3.3 slots, 5 LLM calls/scheme (core + trans-a + trans-b + faq-a + faq-b)
+00:09:27 [INFO] Browser: chromium 148.0.7778.96
+00:09:27 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_kusum
+00:09:27 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmkusum... (timeout=25s)
+00:09:27 [INFO]   Ministry site: loading https://mnre.gov.in/solar/schemes... (timeout=35s)
+00:09:29 [INFO]   [pm_kusum] Tavily: 29,256 chars from 3 queries
+00:09:32 [INFO]   Ministry site: 5,149 chars
+00:09:33 [INFO]   myscheme.gov.in: 86 chars
+00:09:33 [INFO]   [pm_kusum] Phase 1: Core English extraction (max_tokens=6500)...
+00:11:36 [INFO]   slot[0] pm_kusum/core: OK 5,317 chars
+00:11:36 [INFO]   [pm_kusum] Core parsed: 10 docs, 10 steps
+00:11:36 [INFO]   [pm_kusum] Phase 2a: Trans-A name/desc/benefit (max_tokens=2200)...
+00:13:36 [INFO]   slot[1] pm_kusum/trans-a: OK 2,364 chars
+00:13:36 [INFO]   [pm_kusum] Trans-A: 7 fields (name×4, description×4, benefit×4)
+00:13:36 [INFO]   [pm_kusum] Phase 2b: Trans-B docs(10)/steps(10) (max_tokens=2800)...
+00:15:45 [INFO]   slot[0] pm_kusum/trans-b: OK 3,055 chars
+00:15:45 [INFO]   [pm_kusum] Trans-B: 7 fields (documents×4, apply_steps×4)
+00:15:45 [INFO]   [pm_kusum] Phase 3a: FAQ-A Q&A×8 with hi+ta (max_tokens=2200)...
+00:17:02 [INFO]   slot[1] pm_kusum/faq-a: OK 3,703 chars
+00:17:02 [INFO]   [pm_kusum] FAQ-A: 3 Q&A items with hi+ta
+00:17:02 [INFO]   [pm_kusum] Phase 3b: FAQ-B mistakes/tips/state (max_tokens=1800)...
+00:17:31 [INFO]   slot[0] pm_kusum/faq-b: OK 2,567 chars
+00:17:31 [INFO]   [pm_kusum] FAQ-B: mistakes=6 tips=4 states=18
+00:17:31 [WARNING]   [pm_kusum] FINAL QUALITY: faq < 5 items
+00:17:31 [INFO]   [pm_kusum] COMPLETE — docs=10 steps=10 faq=3 keywords=15 langs=hitabnmr
+00:17:31 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: nrega
+00:17:31 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/mgnregs... (timeout=25s)
+00:17:31 [INFO]   Ministry site: loading https://nrega.nic.in... (timeout=35s)
+00:17:33 [INFO]   Ministry site: 49 chars
+00:17:36 [INFO]   [nrega] Tavily: 39,728 chars from 4 queries
+00:17:36 [INFO]   myscheme.gov.in: 86 chars
+00:17:36 [INFO]   [nrega] Phase 1: Core English extraction (max_tokens=6500)...
+00:18:05 [INFO]   slot[1] nrega/core: OK 5,950 chars
+00:18:05 [INFO]   [nrega] Core parsed: 10 docs, 10 steps
+00:18:05 [INFO]   [nrega] Phase 2a: Trans-A name/desc/benefit (max_tokens=2200)...
+00:20:20 [WARNING]   slot[0] nrega/trans-a: server error, wait 20s
+00:24:55 [INFO]   slot[0] nrega/trans-a: OK 2,307 chars
+00:24:55 [INFO]   [nrega] Trans-A: 7 fields (name×4, description×4, benefit×4)
+00:24:55 [INFO]   [nrega] Phase 2b: Trans-B docs(10)/steps(10) (max_tokens=2800)...
+00:29:25 [WARNING]   slot[1] nrega/trans-b: connection error attempt 1, retry in 10s
+00:29:25 [WARNING]   FULL ERROR: APIConnectionError('Connection error.')
+00:29:25 [WARNING]   CAUSE: RemoteProtocolError('Server disconnected without sending a response.')
+00:32:32 [INFO]   slot[1] nrega/trans-b: OK 3,210 chars
+00:32:32 [INFO]   [nrega] Trans-B: 6 fields (documents×4, apply_steps×4)
+00:32:32 [INFO]   [nrega] Phase 3a: FAQ-A Q&A×8 with hi+ta (max_tokens=2200)...
+00:34:12 [INFO]   slot[0] nrega/faq-a: OK 3,238 chars
+00:34:12 [INFO]   [nrega] FAQ-A: 2 Q&A items with hi+ta
+00:34:12 [INFO]   [nrega] Phase 3b: FAQ-B mistakes/tips/state (max_tokens=1800)...
+00:35:11 [INFO]   slot[1] nrega/faq-b: OK 3,322 chars
+00:35:11 [INFO]   [nrega] FAQ-B: mistakes=6 tips=4 states=18
+00:35:11 [WARNING]   [nrega] FINAL QUALITY: faq < 5 items
+00:35:11 [INFO]   [nrega] COMPLETE — docs=10 steps=10 faq=2 keywords=19 langs=hitabnmr
+00:35:11 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: ayushman_bharat
+00:35:11 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmjay... (timeout=25s)
+00:35:11 [INFO]   Ministry site: loading https://pmjay.gov.in... (timeout=25s)
+00:35:16 [INFO]   [ayushman_bharat] Tavily: 37,509 chars from 4 queries
+00:35:21 [INFO]   myscheme.gov.in: 86 chars
+00:35:37 [INFO]   Ministry site: 28 chars
+00:35:37 [INFO]   [ayushman_bharat] Phase 1: Core English extraction (max_tokens=6500)...
+00:36:25 [INFO]   slot[0] ayushman_bharat/core: OK 6,196 chars
+00:36:25 [INFO]   [ayushman_bharat] Core parsed: 10 docs, 10 steps
+00:36:25 [INFO]   [ayushman_bharat] Phase 2a: Trans-A name/desc/benefit (max_tokens=2200)...
+00:40:55 [WARNING]   slot[1] ayushman_bharat/trans-a: connection error attempt 1, retry in 10s
+00:40:55 [WARNING]   FULL ERROR: APIConnectionError('Connection error.')
+00:40:55 [WARNING]   CAUSE: RemoteProtocolError('Server disconnected without sending a response.')
+00:44:25 [WARNING]   [ayushman_bharat] Trans-A timed out — skipping
+00:44:25 [INFO]   [ayushman_bharat] Phase 2b: Trans-B docs(10)/steps(10) (max_tokens=2800)...
+00:48:53 [INFO]   slot[0] ayushman_bharat/trans-b: OK 3,006 chars
+00:48:53 [INFO]   [ayushman_bharat] Trans-B: 5 fields (documents×4, apply_steps×4)
+00:48:53 [INFO]   [ayushman_bharat] Phase 3a: FAQ-A Q&A×8 with hi+ta (max_tokens=2200)...
+00:51:54 [INFO]   slot[1] ayushman_bharat/faq-a: OK 3,308 chars
+00:51:54 [INFO]   [ayushman_bharat] FAQ-A: 2 Q&A items with hi+ta
+00:51:54 [INFO]   [ayushman_bharat] Phase 3b: FAQ-B mistakes/tips/state (max_tokens=1800)...
+00:52:58 [INFO]   slot[0] ayushman_bharat/faq-b: OK 2,460 chars
+00:52:58 [INFO]   [ayushman_bharat] FAQ-B: mistakes=6 tips=4 states=18
+00:52:58 [WARNING]   [ayushman_bharat] FINAL QUALITY: name_hi missing
+00:52:58 [WARNING]   [ayushman_bharat] FINAL QUALITY: name_ta missing
+00:52:58 [WARNING]   [ayushman_bharat] FINAL QUALITY: faq < 5 items
+00:52:58 [INFO]   [ayushman_bharat] COMPLETE — docs=10 steps=10 faq=2 keywords=22 langs=----
+00:52:58 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_jan_arogya
+00:52:58 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/ab-pmjay-sehat... (timeout=25s)
+00:52:58 [INFO]   Ministry site: loading https://pmjay.gov.in/sehat... (timeout=25s)
+00:53:02 [INFO]   [pm_jan_arogya] Tavily: 20,162 chars from 2 queries
+00:53:04 [WARNING]   Ministry site: HTTP 404
+00:53:07 [INFO]   myscheme.gov.in: 86 chars
+00:53:07 [INFO]   [pm_jan_arogya] Phase 1: Core English extraction (max_tokens=6500)...
+00:54:27 [INFO]   slot[1] pm_jan_arogya/core: OK 5,338 chars
+00:54:27 [INFO]   [pm_jan_arogya] Core parsed: 10 docs, 10 steps
+00:54:27 [INFO]   [pm_jan_arogya] Phase 2a: Trans-A name/desc/benefit (max_tokens=2200)...
+00:55:37 [INFO]   slot[0] pm_jan_arogya/trans-a: OK 2,312 chars
+00:55:37 [INFO]   [pm_jan_arogya] Trans-A: 7 fields (name×4, description×4, benefit×4)
+00:55:37 [INFO]   [pm_jan_arogya] Phase 2b: Trans-B docs(10)/steps(10) (max_tokens=2800)...
+00:56:36 [INFO]   slot[1] pm_jan_arogya/trans-b: OK 3,070 chars
+00:56:36 [INFO]   [pm_jan_arogya] Trans-B: 8 fields (documents×4, apply_steps×4)
+00:56:36 [INFO]   [pm_jan_arogya] Phase 3a: FAQ-A Q&A×8 with hi+ta (max_tokens=2200)...
+00:57:14 [INFO]   slot[0] pm_jan_arogya/faq-a: OK 3,418 chars
+00:57:14 [INFO]   [pm_jan_arogya] FAQ-A: 2 Q&A items with hi+ta
+00:57:14 [INFO]   [pm_jan_arogya] Phase 3b: FAQ-B mistakes/tips/state (max_tokens=1800)...
+00:57:45 [INFO]   slot[1] pm_jan_arogya/faq-b: OK 2,526 chars
+00:57:45 [INFO]   [pm_jan_arogya] FAQ-B: mistakes=6 tips=4 states=19
+00:57:45 [WARNING]   [pm_jan_arogya] FINAL QUALITY: faq < 5 items
+00:57:45 [INFO]   [pm_jan_arogya] COMPLETE — docs=10 steps=10 faq=2 keywords=27 langs=hitabnmr
+00:57:45 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pmay_gramin
+00:57:45 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmayg... (timeout=25s)
+00:57:45 [INFO]   Ministry site: loading https://pmayg.nic.in... (timeout=25s)
+00:57:46 [WARNING]   Ministry site: Tier-1 failed (Error) — retrying with wait_until=commit
+00:57:46 [WARNING]   Ministry site: Tier-2 failed (Error) — falling back to httpx
+00:57:46 [WARNING]   Ministry site: httpx fallback failed — ConnectError: [Errno 11001] getaddrinfo failed
+00:57:50 [INFO]   myscheme.gov.in: 86 chars
+00:57:51 [INFO]   [pmay_gramin] Tavily: 30,125 chars from 3 queries
+00:57:51 [INFO]   [pmay_gramin] Phase 1: Core English extraction (max_tokens=6500)...
+01:00:24 [INFO]   slot[0] pmay_gramin/core: OK 5,334 chars
+01:00:24 [INFO]   [pmay_gramin] Core parsed: 10 docs, 10 steps
+01:00:24 [INFO]   [pmay_gramin] Phase 2a: Trans-A name/desc/benefit (max_tokens=2200)...
+01:03:27 [INFO]   slot[1] pmay_gramin/trans-a: OK 2,227 chars
+01:03:27 [INFO]   [pmay_gramin] Trans-A: 7 fields (name×4, description×4, benefit×4)
+01:03:27 [INFO]   [pmay_gramin] Phase 2b: Trans-B docs(10)/steps(10) (max_tokens=2800)...
+01:07:21 [INFO]   slot[0] pmay_gramin/trans-b: OK 2,897 chars
+01:07:21 [INFO]   [pmay_gramin] Trans-B: 7 fields (documents×4, apply_steps×4)
+01:07:21 [INFO]   [pmay_gramin] Phase 3a: FAQ-A Q&A×8 with hi+ta (max_tokens=2200)...
+01:09:53 [INFO]   slot[1] pmay_gramin/faq-a: OK 3,481 chars
+01:09:53 [INFO]   [pmay_gramin] FAQ-A: 3 Q&A items with hi+ta
+01:09:53 [INFO]   [pmay_gramin] Phase 3b: FAQ-B mistakes/tips/state (max_tokens=1800)...
+01:10:45 [INFO]   slot[0] pmay_gramin/faq-b: OK 1,896 chars
+01:10:45 [INFO]   [pmay_gramin] FAQ-B: mistakes=6 tips=4 states=18
+01:10:45 [WARNING]   [pmay_gramin] FINAL QUALITY: faq < 5 items
+01:10:45 [INFO]   [pmay_gramin] COMPLETE — docs=10 steps=10 faq=3 keywords=15 langs=hitabnmr
+01:10:45 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pmay_urban
+01:10:45 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmay-u... (timeout=25s)
+01:10:45 [INFO]   Ministry site: loading https://pmaymis.gov.in... (timeout=25s)
+01:10:51 [INFO]   [pmay_urban] Tavily: 29,152 chars from 3 queries
+01:10:51 [INFO]   Ministry site: 3,858 chars
+01:10:52 [INFO]   myscheme.gov.in: 11,036 chars
+01:10:52 [INFO]   [pmay_urban] Phase 1: Core English extraction (max_tokens=6500)...
+01:13:02 [INFO]   slot[1] pmay_urban/core: OK 6,129 chars
+01:13:02 [INFO]   [pmay_urban] Core parsed: 14 docs, 10 steps
+01:13:02 [INFO]   [pmay_urban] Phase 2a: Trans-A name/desc/benefit (max_tokens=2200)...
+01:14:49 [INFO]   slot[0] pmay_urban/trans-a: OK 2,306 chars
+01:14:49 [INFO]   [pmay_urban] Trans-A: 7 fields (name×4, description×4, benefit×4)
+01:14:49 [INFO]   [pmay_urban] Phase 2b: Trans-B docs(14)/steps(10) (max_tokens=2800)...
+01:19:19 [WARNING]   slot[1] pmay_urban/trans-b: connection error attempt 1, retry in 10s
+01:19:19 [WARNING]   FULL ERROR: APIConnectionError('Connection error.')
+01:19:19 [WARNING]   CAUSE: RemoteProtocolError('Server disconnected without sending a response.')
+01:22:40 [INFO]   slot[1] pmay_urban/trans-b: OK 3,393 chars
+01:22:40 [INFO]   [pmay_urban] Trans-B: 5 fields (documents×4, apply_steps×4)
+01:22:40 [INFO]   [pmay_urban] Phase 3a: FAQ-A Q&A×8 with hi+ta (max_tokens=2200)...
+01:25:10 [INFO]   slot[0] pmay_urban/faq-a: OK 3,330 chars
+01:25:10 [INFO]   [pmay_urban] FAQ-A: 3 Q&A items with hi+ta
+01:25:10 [INFO]   [pmay_urban] Phase 3b: FAQ-B mistakes/tips/state (max_tokens=1800)...
+01:25:59 [INFO]   slot[1] pmay_urban/faq-b: OK 2,544 chars
+01:25:59 [INFO]   [pmay_urban] FAQ-B: mistakes=6 tips=4 states=18
+01:25:59 [WARNING]   [pmay_urban] FINAL QUALITY: faq < 5 items
+01:25:59 [INFO]   [pmay_urban] COMPLETE — docs=14 steps=10 faq=3 keywords=23 langs=hitabnmr
+01:25:59 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_matru_vandana
+01:25:59 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmmvy... (timeout=25s)
+01:25:59 [INFO]   Ministry site: loading https://wcd.nic.in/schemes/pradhan-mantri-matru-vandana-yojana... (timeout=35s)
+01:26:02 [WARNING]   Ministry site: Tier-1 failed (Error) — retrying with wait_until=commit
+01:26:03 [WARNING]   Ministry site: Tier-2 failed (Error) — falling back to httpx
+01:26:03 [WARNING]   Ministry site: httpx fallback failed — ConnectError: [Errno 11001] getaddrinfo failed
+01:26:05 [INFO]   [pm_matru_vandana] Tavily: 29,103 chars from 3 queries
+01:26:07 [INFO]   myscheme.gov.in: 15,426 chars
+01:26:07 [INFO]   [pm_matru_vandana] Phase 1: Core English extraction (max_tokens=6500)...
+01:28:35 [INFO]   slot[0] pm_matru_vandana/core: OK 5,914 chars
+01:28:35 [INFO]   [pm_matru_vandana] Core parsed: 10 docs, 10 steps
+01:28:35 [INFO]   [pm_matru_vandana] Phase 2a: Trans-A name/desc/benefit (max_tokens=2200)...
+01:32:41 [INFO]   slot[1] pm_matru_vandana/trans-a: OK 2,376 chars
+01:32:41 [INFO]   [pm_matru_vandana] Trans-A: 7 fields (name×4, description×4, benefit×4)
+01:32:41 [INFO]   [pm_matru_vandana] Phase 2b: Trans-B docs(10)/steps(10) (max_tokens=2800)...
+01:34:39 [INFO]   slot[0] pm_matru_vandana/trans-b: OK 2,978 chars
+01:34:39 [INFO]   [pm_matru_vandana] Trans-B: 7 fields (documents×4, apply_steps×4)
+01:34:39 [INFO]   [pm_matru_vandana] Phase 3a: FAQ-A Q&A×8 with hi+ta (max_tokens=2200)...
+01:36:48 [INFO]   slot[1] pm_matru_vandana/faq-a: OK 5,070 chars
+01:36:48 [INFO]   [pm_matru_vandana] FAQ-A: 8 Q&A items with hi+ta
+01:36:48 [INFO]   [pm_matru_vandana] Phase 3b: FAQ-B mistakes/tips/state (max_tokens=1800)...
+01:40:24 [INFO]   slot[0] pm_matru_vandana/faq-b: OK 2,646 chars
+01:40:24 [INFO]   [pm_matru_vandana] FAQ-B: mistakes=6 tips=4 states=18
+01:40:24 [INFO]   [pm_matru_vandana] ✓ All quality checks passed
+01:40:24 [INFO]   [pm_matru_vandana] COMPLETE — docs=10 steps=10 faq=8 keywords=20 langs=hitabnmr
+01:40:24 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: sukanya_samriddhi
+01:40:24 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/ssy... (timeout=25s)
+01:40:24 [INFO]   Ministry site: loading https://www.indiapost.gov.in/Financial/Pages/Content/Sukanya-Samriddhi... (timeout=40s)
+01:40:29 [WARNING]   Ministry site: HTTP 404
+01:40:29 [INFO]   [sukanya_samriddhi] Tavily: 30,500 chars from 3 queries
+01:40:33 [INFO]   myscheme.gov.in: 86 chars
+01:40:33 [INFO]   [sukanya_samriddhi] Phase 1: Core English extraction (max_tokens=6500)...
+01:42:42 [INFO]   slot[1] sukanya_samriddhi/core: OK 5,173 chars
+01:42:42 [INFO]   [sukanya_samriddhi] Core parsed: 10 docs, 10 steps
+01:42:42 [INFO]   [sukanya_samriddhi] Phase 2a: Trans-A name/desc/benefit (max_tokens=2200)...
+01:46:21 [INFO]   slot[0] sukanya_samriddhi/trans-a: OK 2,604 chars
+01:46:21 [INFO]   [sukanya_samriddhi] Trans-A: 10 fields (name×4, description×4, benefit×4)
+01:46:21 [INFO]   [sukanya_samriddhi] Phase 2b: Trans-B docs(10)/steps(10) (max_tokens=2800)...
+01:50:50 [INFO]   slot[1] sukanya_samriddhi/trans-b: OK 3,012 chars
+01:50:50 [INFO]   [sukanya_samriddhi] Trans-B: 7 fields (documents×4, apply_steps×4)
+01:50:50 [INFO]   [sukanya_samriddhi] Phase 3a: FAQ-A Q&A×8 with hi+ta (max_tokens=2200)...
+01:53:36 [INFO]   slot[0] sukanya_samriddhi/faq-a: OK 3,726 chars
+01:53:36 [INFO]   [sukanya_samriddhi] FAQ-A: 3 Q&A items with hi+ta
+01:53:36 [INFO]   [sukanya_samriddhi] Phase 3b: FAQ-B mistakes/tips/state (max_tokens=1800)...
+01:54:02 [INFO]   slot[1] sukanya_samriddhi/faq-b: OK 2,564 chars
+01:54:02 [INFO]   [sukanya_samriddhi] FAQ-B: mistakes=6 tips=4 states=18
+01:54:02 [WARNING]   [sukanya_samriddhi] FINAL QUALITY: keywords < 15
+01:54:02 [WARNING]   [sukanya_samriddhi] FINAL QUALITY: faq < 5 items
+01:54:02 [INFO]   [sukanya_samriddhi] COMPLETE — docs=10 steps=10 faq=3 keywords=14 langs=hitabnmr
+01:54:02 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: beti_bachao
+01:54:02 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/bbbp... (timeout=25s)
+01:54:02 [INFO]   Ministry site: loading https://wcd.nic.in/bbbp-schemes... (timeout=35s)
+01:54:07 [WARNING]   Ministry site: Tier-1 failed (Error) — retrying with wait_until=commit
+01:54:07 [WARNING]   Ministry site: Tier-2 failed (Error) — falling back to httpx
+01:54:07 [WARNING]   Ministry site: httpx fallback failed — ConnectError: [Errno 11001] getaddrinfo failed
+01:54:07 [INFO]   [beti_bachao] Tavily: 20,358 chars from 2 queries
+01:54:12 [INFO]   myscheme.gov.in: 86 chars
+01:54:12 [INFO]   [beti_bachao] Phase 1: Core English extraction (max_tokens=6500)...
+01:55:20 [INFO]   slot[0] beti_bachao/core: OK 5,837 chars
+01:55:20 [INFO]   [beti_bachao] Core parsed: 10 docs, 10 steps
+01:55:20 [INFO]   [beti_bachao] Phase 2a: Trans-A name/desc/benefit (max_tokens=2200)...
+01:58:43 [INFO]   slot[1] beti_bachao/trans-a: OK 2,380 chars
+01:58:43 [INFO]   [beti_bachao] Trans-A: 8 fields (name×4, description×4, benefit×4)
+01:58:43 [INFO]   [beti_bachao] Phase 2b: Trans-B docs(10)/steps(10) (max_tokens=2800)...
+02:03:13 [WARNING]   slot[0] beti_bachao/trans-b: connection error attempt 1, retry in 10s
+02:03:13 [WARNING]   FULL ERROR: APIConnectionError('Connection error.')
+02:03:13 [WARNING]   CAUSE: RemoteProtocolError('Server disconnected without sending a response.')
+02:07:21 [WARNING]   slot[0] beti_bachao/trans-b: connection error attempt 2, retry in 20s
+02:07:21 [WARNING]   FULL ERROR: APIConnectionError('Connection error.')
+02:07:21 [WARNING]   CAUSE: ReadError('')
+02:07:43 [WARNING]   slot[0] beti_bachao/trans-b: connection error attempt 3, retry in 30s
+02:07:43 [WARNING]   FULL ERROR: APIConnectionError('Connection error.')
+02:07:43 [WARNING]   CAUSE: ConnectError('All connection attempts failed')
+02:08:43 [WARNING]   [beti_bachao] Trans-B timed out — skipping
+02:08:43 [INFO]   [beti_bachao] Phase 3a: FAQ-A Q&A×8 with hi+ta (max_tokens=2200)...
+02:12:12 [INFO]   slot[1] beti_bachao/faq-a: OK 3,369 chars
+02:12:12 [INFO]   [beti_bachao] FAQ-A: 3 Q&A items with hi+ta
+02:12:12 [INFO]   [beti_bachao] Phase 3b: FAQ-B mistakes/tips/state (max_tokens=1800)...
+02:12:54 [INFO]   slot[0] beti_bachao/faq-b: OK 2,535 chars
+02:12:54 [INFO]   [beti_bachao] FAQ-B: mistakes=6 tips=4 states=18
+02:12:54 [WARNING]   [beti_bachao] FINAL QUALITY: faq < 5 items
+02:12:54 [WARNING]   [beti_bachao] FINAL QUALITY: documents_hi missing
+02:12:54 [WARNING]   [beti_bachao] FINAL QUALITY: apply_steps_hi missing
+02:12:54 [INFO]   [beti_bachao] COMPLETE — docs=10 steps=10 faq=3 keywords=15 langs=hitabnmr
+02:12:54 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: ujjwala
+02:12:54 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmuy... (timeout=25s)
+02:12:54 [INFO]   Ministry site: loading https://www.pmuy.gov.in... (timeout=25s)
+02:13:00 [INFO]   [ujjwala] Tavily: 30,269 chars from 3 queries
+02:13:02 [INFO]   Ministry site: 7,204 chars
+02:13:04 [INFO]   myscheme.gov.in: 9,432 chars
+02:13:04 [INFO]   [ujjwala] Phase 1: Core English extraction (max_tokens=6500)...
+02:15:47 [INFO]   slot[1] ujjwala/core: OK 5,568 chars
+02:15:47 [INFO]   [ujjwala] Core parsed: 10 docs, 10 steps
+02:15:47 [INFO]   [ujjwala] Phase 2a: Trans-A name/desc/benefit (max_tokens=2200)...
+02:19:07 [INFO]   slot[0] ujjwala/trans-a: OK 2,350 chars
+02:19:07 [INFO]   [ujjwala] Trans-A: 7 fields (name×4, description×4, benefit×4)
+02:19:07 [INFO]   [ujjwala] Phase 2b: Trans-B docs(10)/steps(10) (max_tokens=2800)...
+02:22:44 [INFO]   slot[1] ujjwala/trans-b: OK 3,512 chars
+02:22:44 [INFO]   [ujjwala] Trans-B: 6 fields (documents×4, apply_steps×4)
+02:22:44 [INFO]   [ujjwala] Phase 3a: FAQ-A Q&A×8 with hi+ta (max_tokens=2200)...
+02:25:18 [INFO]   slot[0] ujjwala/faq-a: OK 6,416 chars
+02:25:18 [INFO]   [ujjwala] FAQ-A: 8 Q&A items with hi+ta
+02:25:18 [INFO]   [ujjwala] Phase 3b: FAQ-B mistakes/tips/state (max_tokens=1800)...
+02:26:10 [INFO]   slot[1] ujjwala/faq-b: OK 2,373 chars
+02:26:10 [INFO]   [ujjwala] FAQ-B: mistakes=6 tips=4 states=18
+02:26:10 [INFO]   [ujjwala] ✓ All quality checks passed
+02:26:10 [INFO]   [ujjwala] COMPLETE — docs=10 steps=10 faq=8 keywords=21 langs=hitabnmr
+02:26:10 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: atal_pension
+02:26:10 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/apyvp... (timeout=25s)
+02:26:10 [INFO]   Ministry site: loading https://www.npscra.nsdl.co.in/scheme-details.php... (timeout=40s)
+02:26:14 [WARNING]   Ministry site: Tier-1 failed (Error) — retrying with wait_until=commit
+02:26:14 [WARNING]   Ministry site: Tier-2 failed (Error) — falling back to httpx
+02:26:14 [WARNING]   Ministry site: httpx fallback failed — ConnectError: [Errno 11001] getaddrinfo failed
+02:26:15 [INFO]   [atal_pension] Tavily: 29,930 chars from 3 queries
+02:26:18 [INFO]   myscheme.gov.in: 86 chars
+02:26:18 [INFO]   [atal_pension] Phase 1: Core English extraction (max_tokens=6500)...
+02:28:21 [INFO]   slot[0] atal_pension/core: OK 5,720 chars
+02:28:21 [INFO]   [atal_pension] Core parsed: 12 docs, 10 steps
+02:28:21 [INFO]   [atal_pension] Phase 2a: Trans-A name/desc/benefit (max_tokens=2200)...
+02:32:23 [INFO]   slot[1] atal_pension/trans-a: OK 2,546 chars
+02:32:23 [INFO]   [atal_pension] Trans-A: 11 fields (name×4, description×4, benefit×4)
+02:32:23 [INFO]   [atal_pension] Phase 2b: Trans-B docs(12)/steps(10) (max_tokens=2800)...
+02:36:53 [WARNING]   slot[0] atal_pension/trans-b: connection error attempt 1, retry in 10s
+02:36:53 [WARNING]   FULL ERROR: APIConnectionError('Connection error.')
+02:36:53 [WARNING]   CAUSE: RemoteProtocolError('Server disconnected without sending a response.')
+02:40:22 [INFO]   slot[0] atal_pension/trans-b: OK 3,192 chars
+02:40:22 [INFO]   [atal_pension] Trans-B: 7 fields (documents×4, apply_steps×4)
+02:40:22 [INFO]   [atal_pension] Phase 3a: FAQ-A Q&A×8 with hi+ta (max_tokens=2200)...
+02:43:04 [INFO]   slot[1] atal_pension/faq-a: OK 3,565 chars
+02:43:04 [INFO]   [atal_pension] FAQ-A: 3 Q&A items with hi+ta
+02:43:04 [INFO]   [atal_pension] Phase 3b: FAQ-B mistakes/tips/state (max_tokens=1800)...
+02:43:33 [INFO]   slot[0] atal_pension/faq-b: OK 2,374 chars
+02:43:33 [INFO]   [atal_pension] FAQ-B: mistakes=6 tips=4 states=18
+02:43:33 [WARNING]   [atal_pension] FINAL QUALITY: faq < 5 items
+02:43:33 [INFO]   [atal_pension] COMPLETE — docs=12 steps=10 faq=3 keywords=19 langs=hitabnmr
+02:43:33 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_jeevan_jyoti
+02:43:33 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmjjby... (timeout=25s)
+02:43:33 [INFO]   Ministry site: loading https://jansuraksha.gov.in... (timeout=25s)
+02:43:39 [INFO]   [pm_jeevan_jyoti] Tavily: 13,971 chars from 2 queries
+02:43:45 [INFO]   Ministry site: 184 chars
+02:43:48 [INFO]   myscheme.gov.in: 7,589 chars
+02:43:48 [INFO]   [pm_jeevan_jyoti] Phase 1: Core English extraction (max_tokens=6500)...
+02:44:41 [INFO]   slot[1] pm_jeevan_jyoti/core: OK 5,058 chars
+02:44:41 [INFO]   [pm_jeevan_jyoti] Core parsed: 10 docs, 10 steps
+02:44:41 [INFO]   [pm_jeevan_jyoti] Phase 2a: Trans-A name/desc/benefit (max_tokens=2200)...
+02:49:07 [INFO]   slot[0] pm_jeevan_jyoti/trans-a: OK 2,265 chars
+02:49:07 [INFO]   [pm_jeevan_jyoti] Trans-A: 7 fields (name×4, description×4, benefit×4)
+02:49:07 [INFO]   [pm_jeevan_jyoti] Phase 2b: Trans-B docs(10)/steps(10) (max_tokens=2800)...
+02:50:44 [INFO]   slot[1] pm_jeevan_jyoti/trans-b: OK 2,883 chars
+02:50:44 [INFO]   [pm_jeevan_jyoti] Trans-B: 6 fields (documents×4, apply_steps×4)
+02:50:44 [INFO]   [pm_jeevan_jyoti] Phase 3a: FAQ-A Q&A×8 with hi+ta (max_tokens=2200)...
+02:51:19 [INFO]   slot[0] pm_jeevan_jyoti/faq-a: OK 3,455 chars
+02:51:19 [INFO]   [pm_jeevan_jyoti] FAQ-A: 3 Q&A items with hi+ta
+02:51:19 [INFO]   [pm_jeevan_jyoti] Phase 3b: FAQ-B mistakes/tips/state (max_tokens=1800)...
+02:51:28 [INFO]   slot[1] pm_jeevan_jyoti/faq-b: OK 2,048 chars
+02:51:28 [INFO]   [pm_jeevan_jyoti] FAQ-B: mistakes=6 tips=4 states=18
+02:51:28 [WARNING]   [pm_jeevan_jyoti] FINAL QUALITY: faq < 5 items
+02:51:28 [INFO]   [pm_jeevan_jyoti] COMPLETE — docs=10 steps=10 faq=3 keywords=15 langs=hitabnmr
+02:51:28 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_suraksha_bima
+02:51:28 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmsby... (timeout=25s)
+02:51:28 [INFO]   Ministry site: loading https://jansuraksha.gov.in... (timeout=25s)
+02:51:34 [INFO]   [pm_suraksha_bima] Tavily: 20,299 chars from 2 queries
+02:51:37 [INFO]   Ministry site: 184 chars
+02:51:38 [INFO]   myscheme.gov.in: 10,168 chars
+02:51:38 [INFO]   [pm_suraksha_bima] Phase 1: Core English extraction (max_tokens=6500)...
+02:51:56 [INFO]   slot[0] pm_suraksha_bima/core: OK 4,517 chars
+02:51:56 [INFO]   [pm_suraksha_bima] Core parsed: 10 docs, 10 steps
+02:51:56 [INFO]   [pm_suraksha_bima] Phase 2a: Trans-A name/desc/benefit (max_tokens=2200)...
+02:52:29 [INFO]   slot[1] pm_suraksha_bima/trans-a: OK 2,277 chars
+02:52:29 [INFO]   [pm_suraksha_bima] Trans-A: 7 fields (name×4, description×4, benefit×4)
+02:52:29 [INFO]   [pm_suraksha_bima] Phase 2b: Trans-B docs(10)/steps(10) (max_tokens=2800)...
+02:53:17 [INFO]   slot[0] pm_suraksha_bima/trans-b: OK 2,207 chars
+02:53:17 [INFO]   [pm_suraksha_bima] Trans-B: 7 fields (documents×4, apply_steps×4)
+02:53:17 [INFO]   [pm_suraksha_bima] Phase 3a: FAQ-A Q&A×8 with hi+ta (max_tokens=2200)...
+02:54:48 [INFO]   slot[1] pm_suraksha_bima/faq-a: OK 3,609 chars
+02:54:48 [INFO]   [pm_suraksha_bima] FAQ-A: 3 Q&A items with hi+ta
+02:54:48 [INFO]   [pm_suraksha_bima] Phase 3b: FAQ-B mistakes/tips/state (max_tokens=1800)...
+02:55:10 [INFO]   slot[0] pm_suraksha_bima/faq-b: OK 2,742 chars
+02:55:10 [INFO]   [pm_suraksha_bima] FAQ-B: mistakes=6 tips=4 states=18
+02:55:10 [WARNING]   [pm_suraksha_bima] FINAL QUALITY: faq < 5 items
+02:55:10 [INFO]   [pm_suraksha_bima] COMPLETE — docs=10 steps=10 faq=3 keywords=16 langs=hitabnmr
+02:55:10 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: nsap_old_age
+02:55:10 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/ignoaps... (timeout=25s)
+02:55:10 [INFO]   Ministry site: loading https://nsap.nic.in... (timeout=35s)
+02:55:11 [WARNING]   Ministry site: Tier-1 failed (Error) — retrying with wait_until=commit
+02:55:11 [WARNING]   Ministry site: Tier-2 failed (Error) — falling back to httpx
+02:55:11 [WARNING]   Ministry site: httpx fallback failed — ConnectError: [Errno 11001] getaddrinfo failed
+02:55:15 [INFO]   myscheme.gov.in: 86 chars
+02:55:15 [INFO]   [nsap_old_age] Tavily: 18,289 chars from 2 queries
+02:55:15 [INFO]   [nsap_old_age] Phase 1: Core English extraction (max_tokens=6500)...
+02:55:38 [INFO]   slot[1] nsap_old_age/core: OK 4,710 chars
+02:55:38 [INFO]   [nsap_old_age] Core parsed: 10 docs, 10 steps
+02:55:38 [INFO]   [nsap_old_age] Phase 2a: Trans-A name/desc/benefit (max_tokens=2200)...
+02:56:16 [INFO]   slot[0] nsap_old_age/trans-a: OK 2,408 chars
+02:56:16 [INFO]   [nsap_old_age] Trans-A: 8 fields (name×4, description×4, benefit×4)
+02:56:16 [INFO]   [nsap_old_age] Phase 2b: Trans-B docs(10)/steps(10) (max_tokens=2800)...
+02:57:06 [INFO]   slot[1] nsap_old_age/trans-b: OK 3,188 chars
+02:57:06 [INFO]   [nsap_old_age] Trans-B: 8 fields (documents×4, apply_steps×4)
+02:57:06 [INFO]   [nsap_old_age] Phase 3a: FAQ-A Q&A×8 with hi+ta (max_tokens=2200)...
+02:57:59 [INFO]   slot[0] nsap_old_age/faq-a: OK 3,457 chars
+02:57:59 [INFO]   [nsap_old_age] FAQ-A: 2 Q&A items with hi+ta
+02:57:59 [INFO]   [nsap_old_age] Phase 3b: FAQ-B mistakes/tips/state (max_tokens=1800)...
+02:58:29 [INFO]   slot[1] nsap_old_age/faq-b: OK 2,390 chars
+02:58:29 [INFO]   [nsap_old_age] FAQ-B: mistakes=6 tips=4 states=19
+02:58:29 [WARNING]   [nsap_old_age] FINAL QUALITY: faq < 5 items
+02:58:29 [INFO]   [nsap_old_age] COMPLETE — docs=10 steps=10 faq=2 keywords=20 langs=hitabnmr
+02:58:29 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: nsap_widow
+02:58:29 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/ignwps... (timeout=25s)
+02:58:29 [INFO]   Ministry site: loading https://nsap.nic.in... (timeout=35s)
+02:58:30 [WARNING]   Ministry site: Tier-1 failed (Error) — retrying with wait_until=commit
+02:58:30 [WARNING]   Ministry site: Tier-2 failed (Error) — falling back to httpx
+02:58:30 [WARNING]   Ministry site: httpx fallback failed — ConnectError: [Errno 11001] getaddrinfo failed
+02:58:35 [INFO]   myscheme.gov.in: 7,199 chars
+02:58:35 [INFO]   [nsap_widow] Tavily: 16,380 chars from 2 queries
+02:58:35 [INFO]   [nsap_widow] Phase 1: Core English extraction (max_tokens=6500)...
+02:59:13 [INFO]   slot[0] nsap_widow/core: OK 5,553 chars
+02:59:13 [INFO]   [nsap_widow] Core parsed: 10 docs, 10 steps
+02:59:13 [INFO]   [nsap_widow] Phase 2a: Trans-A name/desc/benefit (max_tokens=2200)...
+02:59:59 [INFO]   slot[1] nsap_widow/trans-a: OK 2,418 chars
+02:59:59 [INFO]   [nsap_widow] Trans-A: 7 fields (name×4, description×4, benefit×4)
+02:59:59 [INFO]   [nsap_widow] Phase 2b: Trans-B docs(10)/steps(10) (max_tokens=2800)...
+03:00:54 [INFO]   slot[0] nsap_widow/trans-b: OK 2,896 chars
+03:00:54 [INFO]   [nsap_widow] Trans-B: 6 fields (documents×4, apply_steps×4)
+03:00:54 [INFO]   [nsap_widow] Phase 3a: FAQ-A Q&A×8 with hi+ta (max_tokens=2200)...
+03:01:43 [INFO]   slot[1] nsap_widow/faq-a: OK 3,774 chars
+03:01:43 [INFO]   [nsap_widow] FAQ-A: 3 Q&A items with hi+ta
+03:01:43 [INFO]   [nsap_widow] Phase 3b: FAQ-B mistakes/tips/state (max_tokens=1800)...
+03:01:53 [INFO]   slot[0] nsap_widow/faq-b: OK 2,749 chars
+03:01:53 [INFO]   [nsap_widow] FAQ-B: mistakes=6 tips=4 states=20
+03:01:53 [WARNING]   [nsap_widow] FINAL QUALITY: faq < 5 items
+03:01:53 [INFO]   [nsap_widow] COMPLETE — docs=10 steps=10 faq=3 keywords=30 langs=hitabnmr
+03:01:53 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: nsap_disability
+03:01:53 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/igndps... (timeout=25s)
+03:01:53 [INFO]   Ministry site: loading https://nsap.nic.in... (timeout=35s)
+03:01:53 [WARNING]   Ministry site: Tier-1 failed (Error) — retrying with wait_until=commit
+03:01:54 [WARNING]   Ministry site: Tier-2 failed (Error) — falling back to httpx
+03:01:54 [WARNING]   Ministry site: httpx fallback failed — ConnectError: [Errno 11001] getaddrinfo failed
+03:01:57 [INFO]   [nsap_disability] Tavily: 17,698 chars from 2 queries
+03:01:58 [INFO]   myscheme.gov.in: 8,397 chars
+03:01:58 [INFO]   [nsap_disability] Phase 1: Core English extraction (max_tokens=6500)...
+03:02:14 [INFO]   slot[1] nsap_disability/core: OK 5,467 chars
+03:02:14 [INFO]   [nsap_disability] Core parsed: 9 docs, 10 steps
+03:02:14 [INFO]   [nsap_disability] Phase 2a: Trans-A name/desc/benefit (max_tokens=2200)...
+03:02:51 [INFO]   slot[0] nsap_disability/trans-a: OK 2,311 chars
+03:02:51 [INFO]   [nsap_disability] Trans-A: 7 fields (name×4, description×4, benefit×4)
+03:02:51 [INFO]   [nsap_disability] Phase 2b: Trans-B docs(9)/steps(10) (max_tokens=2800)...
+03:03:54 [INFO]   slot[1] nsap_disability/trans-b: OK 3,033 chars
+03:03:54 [INFO]   [nsap_disability] Trans-B: 5 fields (documents×4, apply_steps×4)
+03:03:54 [INFO]   [nsap_disability] Phase 3a: FAQ-A Q&A×8 with hi+ta (max_tokens=2200)...
+03:04:26 [INFO]   slot[0] nsap_disability/faq-a: OK 3,769 chars
+03:04:26 [INFO]   [nsap_disability] FAQ-A: 3 Q&A items with hi+ta
+03:04:26 [INFO]   [nsap_disability] Phase 3b: FAQ-B mistakes/tips/state (max_tokens=1800)...
+03:04:38 [INFO]   slot[1] nsap_disability/faq-b: OK 3,231 chars
+03:04:38 [INFO]   [nsap_disability] FAQ-B: mistakes=6 tips=4 states=18
+03:04:38 [WARNING]   [nsap_disability] FINAL QUALITY: faq < 5 items
+03:04:38 [INFO]   [nsap_disability] COMPLETE — docs=9 steps=10 faq=3 keywords=16 langs=hitabnmr
+03:04:38 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: nsp_scholarship
+03:04:38 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/nsp... (timeout=25s)
+03:04:38 [INFO]   Ministry site: loading https://scholarships.gov.in... (timeout=25s)
+03:04:41 [INFO]   Ministry site: 2,996 chars
+03:04:44 [INFO]   [nsp_scholarship] Tavily: 24,319 chars from 3 queries
+03:04:44 [INFO]   myscheme.gov.in: 86 chars
+03:04:44 [INFO]   [nsp_scholarship] Phase 1: Core English extraction (max_tokens=6500)...
+03:05:14 [INFO]   slot[0] nsp_scholarship/core: OK 6,103 chars
+03:05:14 [INFO]   [nsp_scholarship] Core parsed: 10 docs, 10 steps
+03:05:14 [INFO]   [nsp_scholarship] Phase 2a: Trans-A name/desc/benefit (max_tokens=2200)...
+03:06:06 [INFO]   slot[1] nsp_scholarship/trans-a: OK 2,426 chars
+03:06:06 [INFO]   [nsp_scholarship] Trans-A: 6 fields (name×4, description×4, benefit×4)
+03:06:06 [INFO]   [nsp_scholarship] Phase 2b: Trans-B docs(10)/steps(10) (max_tokens=2800)...
+03:06:52 [INFO]   slot[0] nsp_scholarship/trans-b: OK 3,378 chars
+03:06:52 [INFO]   [nsp_scholarship] Trans-B: 6 fields (documents×4, apply_steps×4)
+03:06:52 [INFO]   [nsp_scholarship] Phase 3a: FAQ-A Q&A×8 with hi+ta (max_tokens=2200)...
+03:07:45 [INFO]   slot[1] nsp_scholarship/faq-a: OK 5,161 chars
+03:07:45 [INFO]   [nsp_scholarship] FAQ-A: 8 Q&A items with hi+ta
+03:07:45 [INFO]   [nsp_scholarship] Phase 3b: FAQ-B mistakes/tips/state (max_tokens=1800)...
+03:07:55 [INFO]   slot[0] nsp_scholarship/faq-b: OK 2,474 chars
+03:07:55 [INFO]   [nsp_scholarship] FAQ-B: mistakes=6 tips=4 states=18
+03:07:55 [INFO]   [nsp_scholarship] ✓ All quality checks passed
+03:07:55 [INFO]   [nsp_scholarship] COMPLETE — docs=10 steps=10 faq=8 keywords=19 langs=hitabnmr
+03:07:55 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_yasasvi
+03:07:55 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmyasasvi... (timeout=25s)
+03:07:55 [INFO]   Ministry site: loading https://yet.nta.ac.in... (timeout=35s)
+03:07:56 [WARNING]   Ministry site: Tier-1 failed (Error) — retrying with wait_until=commit
+03:07:56 [WARNING]   Ministry site: Tier-2 failed (Error) — falling back to httpx
+03:07:56 [WARNING]   Ministry site: httpx fallback failed — ConnectError: [Errno 11001] getaddrinfo failed
+03:07:59 [INFO]   myscheme.gov.in: 86 chars
+03:08:00 [INFO]   [pm_yasasvi] Tavily: 16,061 chars from 2 queries
+03:08:00 [INFO]   [pm_yasasvi] Phase 1: Core English extraction (max_tokens=6500)...
+03:08:39 [INFO]   slot[1] pm_yasasvi/core: OK 5,174 chars
+03:08:39 [INFO]   [pm_yasasvi] Core parsed: 10 docs, 10 steps
+03:08:39 [INFO]   [pm_yasasvi] Phase 2a: Trans-A name/desc/benefit (max_tokens=2200)...
+03:09:30 [INFO]   slot[0] pm_yasasvi/trans-a: OK 2,400 chars
+03:09:30 [INFO]   [pm_yasasvi] Trans-A: 7 fields (name×4, description×4, benefit×4)
+03:09:30 [INFO]   [pm_yasasvi] Phase 2b: Trans-B docs(10)/steps(10) (max_tokens=2800)...
+03:10:10 [INFO]   slot[1] pm_yasasvi/trans-b: OK 3,024 chars
+03:10:10 [INFO]   [pm_yasasvi] Trans-B: 7 fields (documents×4, apply_steps×4)
+03:10:10 [INFO]   [pm_yasasvi] Phase 3a: FAQ-A Q&A×8 with hi+ta (max_tokens=2200)...
+03:10:40 [INFO]   slot[0] pm_yasasvi/faq-a: OK 4,379 chars
+03:10:40 [INFO]   [pm_yasasvi] FAQ-A: 8 Q&A items with hi+ta
+03:10:40 [INFO]   [pm_yasasvi] Phase 3b: FAQ-B mistakes/tips/state (max_tokens=1800)...
+03:10:56 [INFO]   slot[1] pm_yasasvi/faq-b: OK 3,217 chars
+03:10:56 [INFO]   [pm_yasasvi] FAQ-B: mistakes=6 tips=4 states=18
+03:10:56 [WARNING]   [pm_yasasvi] FINAL QUALITY: keywords < 15
+03:10:56 [INFO]   [pm_yasasvi] COMPLETE — docs=10 steps=10 faq=8 keywords=13 langs=hitabnmr
+03:10:56 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_jan_dhan
+03:10:56 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmjdy... (timeout=25s)
+03:10:56 [INFO]   Ministry site: loading https://pmjdy.gov.in... (timeout=25s)
+03:11:01 [INFO]   myscheme.gov.in: 15,117 chars
+03:11:02 [INFO]   Ministry site: 1,345 chars
+03:11:02 [INFO]   [pm_jan_dhan] Tavily: 15,241 chars from 2 queries
+03:11:02 [INFO]   [pm_jan_dhan] Phase 1: Core English extraction (max_tokens=6500)...
+03:11:39 [INFO]   slot[0] pm_jan_dhan/core: OK 5,581 chars
+03:11:39 [INFO]   [pm_jan_dhan] Core parsed: 10 docs, 10 steps
+03:11:39 [INFO]   [pm_jan_dhan] Phase 2a: Trans-A name/desc/benefit (max_tokens=2200)...
+03:12:15 [INFO]   slot[1] pm_jan_dhan/trans-a: OK 2,331 chars
+03:12:15 [INFO]   [pm_jan_dhan] Trans-A: 7 fields (name×4, description×4, benefit×4)
+03:12:15 [INFO]   [pm_jan_dhan] Phase 2b: Trans-B docs(10)/steps(10) (max_tokens=2800)...
+03:13:03 [INFO]   slot[0] pm_jan_dhan/trans-b: OK 3,314 chars
+03:13:03 [INFO]   [pm_jan_dhan] Trans-B: 6 fields (documents×4, apply_steps×4)
+03:13:03 [INFO]   [pm_jan_dhan] Phase 3a: FAQ-A Q&A×8 with hi+ta (max_tokens=2200)...
+03:13:55 [INFO]   slot[1] pm_jan_dhan/faq-a: OK 3,844 chars
+03:13:55 [INFO]   [pm_jan_dhan] FAQ-A: 3 Q&A items with hi+ta
+03:13:55 [INFO]   [pm_jan_dhan] Phase 3b: FAQ-B mistakes/tips/state (max_tokens=1800)...
+03:14:22 [INFO]   slot[0] pm_jan_dhan/faq-b: OK 2,254 chars
+03:14:22 [INFO]   [pm_jan_dhan] FAQ-B: mistakes=6 tips=4 states=18
+03:14:22 [WARNING]   [pm_jan_dhan] FINAL QUALITY: faq < 5 items
+03:14:22 [INFO]   [pm_jan_dhan] COMPLETE — docs=10 steps=10 faq=3 keywords=21 langs=hitabnmr
+03:14:22 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_mudra
+03:14:22 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/mudra... (timeout=25s)
+03:14:22 [INFO]   Ministry site: loading https://www.mudra.org.in... (timeout=25s)
+03:14:25 [INFO]   Ministry site: 9,744 chars
+03:14:27 [INFO]   myscheme.gov.in: 86 chars
+03:14:27 [INFO]   [pm_mudra] Tavily: 14,922 chars from 2 queries
+03:14:27 [INFO]   [pm_mudra] Phase 1: Core English extraction (max_tokens=6500)...
+03:15:02 [INFO]   slot[1] pm_mudra/core: OK 6,153 chars
+03:15:02 [INFO]   [pm_mudra] Core parsed: 10 docs, 10 steps
+03:15:02 [INFO]   [pm_mudra] Phase 2a: Trans-A name/desc/benefit (max_tokens=2200)...
+03:16:01 [INFO]   slot[0] pm_mudra/trans-a: OK 2,359 chars
+03:16:01 [INFO]   [pm_mudra] Trans-A: 7 fields (name×4, description×4, benefit×4)
+03:16:01 [INFO]   [pm_mudra] Phase 2b: Trans-B docs(10)/steps(10) (max_tokens=2800)...
+03:16:37 [INFO]   slot[1] pm_mudra/trans-b: OK 3,537 chars
+03:16:37 [INFO]   [pm_mudra] Trans-B: 6 fields (documents×4, apply_steps×4)
+03:16:37 [INFO]   [pm_mudra] Phase 3a: FAQ-A Q&A×8 with hi+ta (max_tokens=2200)...
+03:17:52 [INFO]   slot[0] pm_mudra/faq-a: OK 3,439 chars
+03:17:52 [INFO]   [pm_mudra] FAQ-A: 3 Q&A items with hi+ta
+03:17:52 [INFO]   [pm_mudra] Phase 3b: FAQ-B mistakes/tips/state (max_tokens=1800)...
+03:18:02 [INFO]   slot[1] pm_mudra/faq-b: OK 2,214 chars
+03:18:02 [INFO]   [pm_mudra] FAQ-B: mistakes=6 tips=4 states=18
+03:18:02 [WARNING]   [pm_mudra] FINAL QUALITY: faq < 5 items
+03:18:02 [INFO]   [pm_mudra] COMPLETE — docs=10 steps=10 faq=3 keywords=18 langs=hitabnmr
+03:18:02 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: pm_svanidhi
+03:18:02 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/pmsvanidhi... (timeout=25s)
+03:18:02 [INFO]   Ministry site: loading https://pmsvanidhi.mohua.gov.in... (timeout=35s)
+03:18:06 [INFO]   myscheme.gov.in: 86 chars
+03:18:07 [INFO]   Ministry site: 4,215 chars
+03:18:07 [INFO]   [pm_svanidhi] Tavily: 14,890 chars from 2 queries
+03:18:07 [INFO]   [pm_svanidhi] Phase 1: Core English extraction (max_tokens=6500)...
+03:18:27 [INFO]   slot[0] pm_svanidhi/core: OK 5,134 chars
+03:18:27 [INFO]   [pm_svanidhi] Core parsed: 10 docs, 10 steps
+03:18:27 [INFO]   [pm_svanidhi] Phase 2a: Trans-A name/desc/benefit (max_tokens=2200)...
+03:19:09 [INFO]   slot[1] pm_svanidhi/trans-a: OK 2,456 chars
+03:19:09 [INFO]   [pm_svanidhi] Trans-A: 7 fields (name×4, description×4, benefit×4)
+03:19:09 [INFO]   [pm_svanidhi] Phase 2b: Trans-B docs(10)/steps(10) (max_tokens=2800)...
+03:21:28 [INFO]   slot[0] pm_svanidhi/trans-b: OK 3,080 chars
+03:21:28 [INFO]   [pm_svanidhi] Trans-B: 7 fields (documents×4, apply_steps×4)
+03:21:28 [INFO]   [pm_svanidhi] Phase 3a: FAQ-A Q&A×8 with hi+ta (max_tokens=2200)...
+03:22:06 [INFO]   slot[1] pm_svanidhi/faq-a: OK 3,517 chars
+03:22:06 [INFO]   [pm_svanidhi] FAQ-A: 3 Q&A items with hi+ta
+03:22:06 [INFO]   [pm_svanidhi] Phase 3b: FAQ-B mistakes/tips/state (max_tokens=1800)...
+03:22:25 [INFO]   slot[0] pm_svanidhi/faq-b: OK 2,536 chars
+03:22:25 [INFO]   [pm_svanidhi] FAQ-B: mistakes=6 tips=4 states=18
+03:22:25 [WARNING]   [pm_svanidhi] FINAL QUALITY: keywords < 15
+03:22:25 [WARNING]   [pm_svanidhi] FINAL QUALITY: faq < 5 items
+03:22:25 [INFO]   [pm_svanidhi] COMPLETE — docs=10 steps=10 faq=3 keywords=11 langs=hitabnmr
+03:22:25 [INFO] 
+────────────────────────────────────────────────────────────
+  Processing: e_shram
+03:22:25 [INFO]   myscheme.gov.in: loading https://myscheme.gov.in/schemes/eshram... (timeout=25s)
+03:22:25 [INFO]   Ministry site: loading https://eshram.gov.in... (timeout=25s)
+03:22:27 [INFO]   Ministry site: 535 chars
+03:22:29 [INFO]   myscheme.gov.in: 86 chars
+03:22:30 [INFO]   [e_shram] Tavily: 17,541 chars from 2 queries
+03:22:30 [INFO]   [e_shram] Phase 1: Core English extraction (max_tokens=6500)...
+03:22:54 [INFO]   slot[1] e_shram/core: OK 5,024 chars
+03:22:54 [INFO]   [e_shram] Core parsed: 10 docs, 10 steps
+03:22:54 [INFO]   [e_shram] Phase 2a: Trans-A name/desc/benefit (max_tokens=2200)...
+03:23:27 [INFO]   slot[0] e_shram/trans-a: OK 2,321 chars
+03:23:27 [INFO]   [e_shram] Trans-A: 8 fields (name×4, description×4, benefit×4)
+03:23:27 [INFO]   [e_shram] Phase 2b: Trans-B docs(10)/steps(10) (max_tokens=2800)...
+03:24:32 [INFO]   slot[1] e_shram/trans-b: OK 3,068 chars
+03:24:32 [INFO]   [e_shram] Trans-B: 6 fields (documents×4, apply_steps×4)
+03:24:32 [INFO]   [e_shram] Phase 3a: FAQ-A Q&A×8 with hi+ta (max_tokens=2200)...
+03:25:19 [INFO]   slot[0] e_shram/faq-a: OK 3,751 chars
+03:25:19 [INFO]   [e_shram] FAQ-A: 3 Q&A items with hi+ta
+03:25:19 [INFO]   [e_shram] Phase 3b: FAQ-B mistakes/tips/state (max_tokens=1800)...
+03:25:28 [INFO]   slot[1] e_shram/faq-b: OK 2,794 chars
+03:25:28 [INFO]   [e_shram] FAQ-B: mistakes=6 tips=4 states=18
+03:25:28 [WARNING]   [e_shram] FINAL QUALITY: faq < 5 items
+03:25:28 [INFO]   [e_shram] COMPLETE — docs=10 steps=10 faq=3 keywords=16 langs=hitabnmr
+09:51:20 [INFO] Skipping 25 existing: pm_kisan, pm_fasal_bima, kisan_credit_card, pm_kusum, nrega, ayushman_bharat, pm_jan_arogya, pmay_gramin, pmay_urban, pm_matru_vandana, sukanya_samriddhi, beti_bachao, ujjwala, atal_pension, pm_jeevan_jyoti, pm_suraksha_bima, nsap_old_age, nsap_widow, nsap_disability, nsp_scholarship, pm_yasasvi, pm_jan_dhan, pm_mudra, pm_svanidhi, e_shram
+09:51:20 [INFO] Nothing to do.

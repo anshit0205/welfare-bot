@@ -1,0 +1,247 @@
+{
+  "id": "pm_jeevan_jyoti",
+  "name_en": "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+  "description_en": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) is a life insurance scheme offering life insurance cover for death due to any reason. It is a one-year cover, renewable from year to year. The scheme is offered by banks/post offices and administered through life insurance companies. All individuals who are account holders of participating banks/ post office in the age group of 18 to 50 years are entitled to join. The scheme aims to provide affordable life insurance to low-income groups, with a coverage of Rs. 2 lakh for an annual premium of Rs. 436. The scheme has enrolled over 23 crore beneficiaries and has provided claims to over 9 lakh families.",
+  "benefit_en": "The primary benefit of PMJJBY is the life insurance cover of Rs. 2 lakh in the event of the insured's death due to any reason. The scheme also provides a simple and affordable way for low-income groups to access life insurance. The premium payable is Rs. 436 per annum, which is auto-debited from the subscriber's bank account. The scheme does not provide any maturity benefit or surrender value, and the benefit is payable only to the nominee of the insured in the event of the insured's death.",
+  "eligibility_rules": {
+    "occupation": [
+      "any"
+    ],
+    "gender": "any",
+    "bpl_required": false,
+    "land_ownership_required": false,
+    "girl_child_required": false,
+    "pregnant_woman_only": false,
+    "age_min": 18,
+    "age_max": 50,
+    "income_max_annual": null,
+    "caste_preference": [
+      "any"
+    ],
+    "bank_account_required": true,
+    "aadhaar_required": true,
+    "other_conditions": [
+      "The applicant must hold an individual bank / post office account",
+      "The applicant must be in the age group of 18 to 50 years",
+      "The applicant must agree to join / allow auto-debit",
+      "The primary KYC for the bank account would be Aadhar",
+      "The applicant must not have any other life insurance policy"
+    ]
+  },
+  "exclusion_criteria": [
+    "Income tax payees (previous assessment year)",
+    "Constitutional post holders (President, VP, Ministers, MPs, MLAs, etc.)",
+    "Serving/retired Central & State government employees (except Group D/MTS)",
+    "Government pensioners drawing Rs 10,000+/month",
+    "All professionals registered with professional bodies (doctors, lawyers, CAs, architects, engineers)",
+    "Any other explicitly stated exclusion from the scheme guidelines"
+  ],
+  "documents_en": [
+    "01. Aadhaar Card — mandatory for eKYC and DBT",
+    "02. Bank passbook or cancelled cheque — for DBT linkage",
+    "03. Consent-cum-declaration form",
+    "04. Claim form",
+    "05. Nominee details",
+    "06. Bank account details",
+    "07. Post office account details",
+    "08. Identity proof",
+    "09. Address proof",
+    "10. Age proof"
+  ],
+  "apply_steps_en": [
+    "Step 01: Download and take print of the “CONSENT-CUM-DECLARATION FORM” from the official website",
+    "Step 02: Duly fill and sign the application form",
+    "Step 03: Attach the self-attested copies of the required documents",
+    "Step 04: Submit the case to the authorised official of Bank / Post Office",
+    "Step 05: The official will return you the “ACKNOWLEDGEMENT SLIP CUM CERTIFICATE OF INSURANCE”",
+    "Step 06: The premium will be auto-debited from the account holder’s bank / Post office account",
+    "Step 07: The coverage under PMJJBY is valid for one year from 1st June to 31st May on payment of annual premium",
+    "Step 08: The claim forms can be accessed from the official website",
+    "Step 09: The claim benefit will be paid to the nominee/ beneficiary only in Indian currency",
+    "Step 10: The grievance redressal mechanism is available on the official website"
+  ],
+  "application_url": "https://www.jansuraksha.gov.in/",
+  "helpline": "National Toll-Free - 1800-180-1111 / 1800-110-001",
+  "ministry": "Ministry Of Finance",
+  "nodal_department": "Department of Financial Services",
+  "scheme_type": "central",
+  "launch_year": 2015,
+  "last_updated": "2025",
+  "processing_time": "Immediate",
+  "renewal_required": true,
+  "renewal_frequency": "annual",
+  "renewal_process": "The premium will be auto-debited from the account holder’s bank / Post office account",
+  "payment_mode": "auto debit",
+  "payment_frequency": "annual",
+  "payment_schedule": "on or before the 31st of May of each annual coverage period",
+  "related_schemes": [
+    "Pradhan Mantri Suraksha Bima Yojana (PMSBY)"
+  ],
+  "tags": [
+    "life insurance",
+    "low-income groups",
+    "affordable insurance",
+    "central government scheme"
+  ],
+  "source_url": "https://www.jansuraksha.gov.in/",
+  "keywords": [
+    "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+    "PMJJBY",
+    "life insurance",
+    "low-income groups",
+    "affordable insurance",
+    "central government scheme",
+    "Rs. 2 lakh coverage",
+    "Rs. 436 premium",
+    "auto debit",
+    "bank account",
+    "post office account",
+    "Aadhaar card",
+    "nominee details",
+    "claim form",
+    "grievance redressal"
+  ],
+  "name_hi": "प्रधान मंत्री जीवन ज्योति बीमा योजना",
+  "name_ta": "பிரதான் மந்திரி ஜீவன் ஜோதி பீமா திட்டம்",
+  "name_bn": "প্রধানমন্ত্রী জীবন জ্যোতি বীমা প্রকল্প",
+  "name_mr": "प्रधानमंत्री जीवन ज्योति बीमा योजना",
+  "description_hi": "प्रधान मंत्री जीवन ज्योति बीमा योजना (पीएमजेजेबीवाई) एक जीवन बीमा योजना है जो किसी भी कारण से मृत्यु होने पर जीवन बीमा कवर प्रदान करती है। यह एक वर्ष का कवर है, जो वर्ष-दर-वर्ष नवीनीकृत किया जा सकता है। यह योजना बैंकों/डाकघरों द्वारा पेश की जाती है और जीवन बीमा कंपनियों के माध्यम से प्रशासित की जाती है। सभी व्यक्ति जो भाग लेने वाले बैंकों/डाकघर के खाताधारक हैं और 18 से 50 वर्ष की आयु वर्ग में हैं, वे इस योजना में शामिल होने के पात्र हैं। यह योजना कम आय वर्ग को सस्ती जीवन बीमा प्रदान करने के उद्देश्य से बनाई गई है, जिसमें रु. 2 लाख का कवरेज है जो रु. 436 के वार्षिक प्रीमियम के लिए है। इस योजना में 23 करोड़ से अधिक लाभार्थियों को नामांकित किया गया है और 9 लाख से अधिक परिवारों को दावे प्रदान किए गए हैं।",
+  "description_ta": "பிரதான் மந்திரி ஜீவன் ஜோதி பீமா திட்டம் (பிஎம்ஜெஜெபிஒய்) எந்த காரணத்திற்காகவும் இறப்பு ஏற்பட்டால் உயிர் காப்பீடு அளிக்கும் ஒரு உயிர் காப்பீட்டுத் திட்டமாகும். இது ஒரு வருட காப்பீடு ஆகும், ஒவ்வொரு ஆண்டும் புதுப்பிக்கப்படும். இந்தத் திட்டம் வங்கிகள்/அஞ்சலகங்களால் வழங்கப்படுகிறது மற்றும் உயிர் காப்பீட்டு நிறுவனங்கள் மூலம் நிர்வகிக்கப்படுகிறது. பங்கேற்பு வங்கிகள்/அஞ்சலகங்களின் கணக்கு வைத்திருக்கும் அனைத்து நபர்களும் 18 முதல் 50 வயது வரை உள்ளவர்கள் இந்தத் திட்டத்தில் சேர தகுதியுடையவர்கள். இந்தத் திட்டம் குறைந்த வருமான குழுக்களுக்கு வசதியான உயிர் காப்பீட்டை வழங்குவதை நோக்கமாகக் கொண்டுள்ளது, அதில் ரூ. 2 லட்சம் கவரேஜ் ரூ. 436 ஆண்டு பிரீமியம் செலுத்துவதற்கு. இந்தத் திட்டத்தில் 23 கோடிக்கும் மேற்பட்ட நன்மைகளைப் பெற்றவர்கள் பதிவு செய்யப்பட்டுள்ளனர் மற்றும் 9 லட்சத்திற்கும் மேற்பட்ட குடும்பங்களுக்கு தேவைகள் வழங்கப்பட்டுள்ளன.",
+  "description_bn": "প্রধানমন্ত্রী জীবন জ্যোতি বীমা প্রকল্প (পিএমজেজেবিওয়াই) একটি জীবন বীমা প্রকল্প যা যে কোনও কারণে মৃত্যু হলে জীবন বীমা কভার প্রদান করে। এটি এক বছরের কভার, যা প্রতি বছর নবায়ন করা যেতে পারে। এই প্রকল্পটি ব্যাঙ্ক / ডাকঘর দ্বারা প্রদান করা হয় এবং জীবন বীমা কোম্পানিগুলির মাধ্যমে পরিচালিত হয়। সমস্ত ব্যক্তি যারা অংশগ্রহণকারী ব্যাঙ্ক / ডাকঘরের অ্যাকাউন্ট হোল্ডার এবং 18 থেকে 50 বছর বয়সী তারা এই প্রকল্পে যোগদানের যোগ্য। এই প্রকল্পটি কম আয়ের গোষ্ঠীগুলিকে সাশ্রয়",
+  "documents_hi": [
+    "आधार कार्ड — ईकेवाईसी और डीबीटी के लिए अनिवार्य",
+    "बैंक पासबुक या रद्द चेक — डीबीटी लिंकेज के लिए",
+    "सहमति-सह-घोषणा फॉर्म",
+    "दावा फॉर्म",
+    "नामांकित व्यक्ति का विवरण",
+    "बैंक खाता विवरण",
+    "डाकघर खाता विवरण",
+    "पहचान प्रमाण",
+    "पता प्रमाण",
+    "आयु प्रमाण"
+  ],
+  "documents_ta": [
+    "ஆதார் அட்டை — இ-கையொப்பம் மற்றும் டிபிடி க்கு அவசியம்",
+    "வங்கி பாஸ்புக் அல்லது ரத்து செய்யப்பட்ட செக் — டிபிடி இணைப்புக்கு",
+    "ஒப்புதல்-சான்றிதழ் வடிவம்",
+    "கேட்பு வடிவம்",
+    "பெயரிடப்பட்ட நபரின் விவரங்கள்",
+    "வங்கி கணக்கு விவரங்கள்",
+    "அஞ்சலக கணக்கு விவரங்கள்",
+    "அடையாள ஆவணம்",
+    "முகவரி ஆவணம்",
+    "வயது ஆவணம்"
+  ],
+  "documents_bn": [
+    "আধার কার্ড — ইকেওয়াইসি এবং ডিবিটি এর জন্য বাধ্যতামূলক",
+    "ব্যাংক পাসবুক বা বাতিল চেক — ডিবিটি লিঙ্কেজ এর জন্য",
+    "সম্মতি-সহ-ঘোষণা ফর্ম",
+    "দাবি ফর্ম",
+    "নামাঙ্কিত ব্যক্তির বিবরণ",
+    "ব্যাংক অ্যাকাউন্ট বিবরণ",
+    "পোস্ট অফিস অ্যাকাউন্ট বিবরণ",
+    "পরিচয় প্রমাণ",
+    "ঠিকানা প্রমাণ",
+    "বয়স প্রমাণ"
+  ],
+  "apply_steps_hi": [
+    "आधिकारिक वेबसाइट से \"सहमति-सह-घोषणा फॉर्म\" डाउनलोड करें और प्रिंट लें",
+    "आवेदन फॉर्म को धार्मिक रूप से भरें और हस्ताक्षर करें",
+    "आवश्यक दस्तावेजों की स्व-हस्ताक्षरित प्रतियां संलग्न करें",
+    "बैंक / डाकघर के अधिकृत अधिकारी को मामला जमा करें",
+    "अधिकारी आपको \"स्वीकृति स्लिप सह प्रमाण पत्र\" वापस करेगा",
+    "प्रीमियम खाताधारक के बैंक / डाकघर खाते से स्वचालित रूप से डेबिट हो जाएगा",
+    "पीएमजेजेबीवाई के तहत कवरेज एक वर्ष के लिए 1 जून से 31 मई तक वार्षिक प्रीमियम के भुगतान पर मान्य है",
+    "दावा फॉर्म आधिकारिक वेबसाइट से एक्सेस किए जा सकते हैं",
+    "दावा लाभ केवल नामांकित व्यक्ति / लाभार्थी को भारतीय मुद्रा में दिया जाएगा",
+    "शिकायत निवारण तंत्र आधिकारिक वेबसाइट पर उपलब्ध है"
+  ],
+  "apply_steps_ta": [
+    "அதிகாரப்பூர்வ இணையதளத்திலிருந்து \"ஒப்புதல்-சான்றிதழ் வடிவம்\" பதிவிறக்கவும் மற்றும் அச்சிடவும்",
+    "விண்ணப்ப வடிவத்தை முறையாக நிரப்பி கையெழுத்திடவும்",
+    "தேவையான ஆவணங்களின் தனி-கையெழுத்திட்ட நகல்களை இணைக்கவும்",
+    "வங்கி / அஞ்சலகத்தின் அதிகாரப்பூர்வ அதிகாரியிடம் விண்ணப்பத்தை சமர்ப்பிக்கவும்",
+    "அதிகாரி உங்களுக்கு \"ஏற்றுக்கொள்ளப்பட்ட ஸ்லிப் சான்றிதழ்\" திருப்பித் தருவார்",
+    "பிரீமியம் கணக்குத் தாரரின் வங்கி / அஞ்சலக கணக்கிலிருந்து தானாகவே திரும்பப் பெறப்படும்",
+    "பிஎம்ஜேஜேபிவाई இன் கீழ் கவரேஜ் ஒரு வருடம் ஆகும், ஜூன் 1 முதல் மே 31 வரை வருடாந்திர பிரீமியம் செலுத்தும்போது செல்லுபடியாகும்",
+    "விண்ணப்ப வடிவங்கள் அதிகாரப்பூர்வ இணையதளத்திலிருந்து அணுகப்படலாம்",
+    "விண்ணப்ப நன்மை அனுமதிக்கப்பட்ட நபர் / நன்மைக்கு மட்டும் இந்திய நாணயத்தில் வழங்கப்படும்",
+    "புகார் தீர்வு முறைமை அதிகாரப்பூர்வ இணையதளத்தில் கிடைக்கிறது"
+  ],
+  "apply_steps_bn": [
+    "অফিসিয়াল ওয়েবসাইট থেকে \"সম্মতি-সহ-ঘোষণা ফর্ম\" ডাউনলোড করুন এবং প্রিন্ট করুন",
+    "আবেদন ফর্মটি ধার্মিকভাবে পূরণ করুন এবং স্বাক্ষর করুন",
+    "প্রয়োজনীয় নথিগুলির স্ব-স্বাক্ষরিত অনুলিপিগুলি সংযুক্ত করুন",
+    "ব্যাংক / পোস্ট অফিসের কর্তৃপক্ষপ্রাপ্ত কর্মকর্তার কাছে মামলাটি জমা দিন",
+    "কর্মকর্তা আপনাকে \"স্বীকৃতি স্লিপ সহ প্রমাণপত্র\" ফেরত দেবেন",
+    "প্রিমিয়াম অ্যাকাউন্ট হোল্ডারের ব্যাঙ্ক / পোস্ট অফিস অ্যাকাউন্ট থেকে স্বয়ংক্রিয়ভাবে ডেবিট হয়ে"
+  ],
+  "faq": [
+    {
+      "question_en": "What is the age eligibility criteria for Pradhan Mantri Jeevan Jyoti Bima Yojana?",
+      "answer_en": "The age eligibility criteria for Pradhan Mantri Jeevan Jyoti Bima Yojana is between 18 and 50 years. The coverage will continue till the age of 55.",
+      "question_hi": "प्रधान मंत्री जीवन ज्योति बीमा योजना के लिए आयु पात्रता मानदंड क्या है?",
+      "answer_hi": "प्रधान मंत्री जीवन ज्योति बीमा योजना के लिए आयु पात्रता मानदंड 18 से 50 वर्ष के बीच है। 55 वर्ष की आयु तक कवरेज जारी रहेगा।",
+      "question_ta": "பிரதான் மந்திரி ஜீவன் ஜோதி பீமா திட்டத்திற்கான வயது தகுதி அளவுரை என்ன?",
+      "answer_ta": "பிரதான் மந்திரி ஜீவன் ஜோதி பீமா திட்டத்திற்கான வயது தகுதி அளவுரை 18 முதல் 50 வயது வரை. 55 வயது வரை கவரேஜ் தொடரும்."
+    },
+    {
+      "question_en": "What is the premium amount payable for Pradhan Mantri Jeevan Jyoti Bima Yojana?",
+      "answer_en": "The premium amount payable for Pradhan Mantri Jeevan Jyoti Bima Yojana is Rs. 436 per annum, which is auto-debited from the subscriber's bank account.",
+      "question_hi": "प्रधान मंत्री जीवन ज्योति बीमा योजना के लिए भुगतान की जाने वाली प्रीमियम राशि क्या है?",
+      "answer_hi": "प्रधान मंत्री जीवन ज्योति बीमा योजना के लिए भुगतान की जाने वाली प्रीमियम राशि प्रति वर्ष 436 रुपये है, जो ग्राहक के बैंक खाते से स्वचालित रूप से डेबिट हो जाती है।",
+      "question_ta": "பிரதான் மந்திரி ஜீவன் ஜோதி பீமா திட்டத்திற்கான பிரிமியம் தொகை என்ன?",
+      "answer_ta": "பிரதான் மந்திரி ஜீவன் ஜோதி பீமா திட்டத்திற்கான பிரிமியம் தொகை ஒரு வருடத்திற்கு 436 ரூபாய், இது சந்தாதாரரின் வங்கி கணக்கிலிருந்து தானாக வர்த்தக வங்கியில் செலுத்தப்படுகிறது."
+    },
+    {
+      "question_en": "What is the death benefit payable under Pradhan Mantri Jeevan Jyoti Bima Yojana?",
+      "answer_en": "The death benefit payable under Pradhan Mantri Jeevan Jyoti Bima Yojana is Rs. 2 lakh, which is payable to the nominee of the insured in the event of the insured's death due to any reason.",
+      "question_hi": "प्रधान मंत्री जीवन ज्योति बीमा योजना के तहत मृत्यु लाभ क्या है?",
+      "answer_hi": "प्रधान मंत्री जीवन ज्योति बीमा योजना के तहत मृत्यु लाभ 2 लाख रुपये है, जो बीमाकृत व्यक्ति की मृत्यु की स्थिति में किसी भी कारण से बीमाकृत व्यक्ति के नामांकित व्यक्ति को भुगतान किया जाता है।",
+      "question_ta": "பிரதான் மந்திரி ஜீவன் ஜோதி பீமா திட்டத்தின் கீழ் இறப்பு நிகழ்ச்சி என்ன?",
+      "answer_ta": "பிரதான் மந்திரி ஜீவன் ஜோதி பீமா திட்டத்தின் கீழ் இறப்பு நிகழ்ச்சி 2 லட்சம் ரூபாய், இது எந்த காரணத்திற்காகவும் பீமாப் பெற்றவரின் மரணத்தின் சமயத்தில் பீமாப் பெற்றவரின் பெயரிடப்பட்ட நபருக்கு வழங்கப்படுகிறது."
+    }
+  ],
+  "common_mistakes": [
+    "Mistake 1: Not having a valid Aadhar card linked to the bank account — Ensure that your Aadhar card is linked to your bank account to avoid rejection",
+    "Mistake 2: Not having a valid bank account or post office account — Ensure that you have a valid bank or post office account to enroll in the scheme",
+    "Mistake 3: Not being within the eligible age group of 18-50 years — Check your age eligibility before enrolling in the scheme",
+    "Mistake 4: Not agreeing to auto-debit of the premium — Agree to auto-debit of the premium to avoid payment failure",
+    "Mistake 5: Having multiple life insurance policies — Check if you already have a life insurance policy before enrolling in PMJJBY",
+    "Mistake 6: Not providing correct nominee details — Ensure that you provide correct nominee details to avoid claim settlement issues"
+  ],
+  "pro_tips": [
+    "Tip 1: Enroll in the scheme at the beginning of the policy period to avoid pro-rata premium payment",
+    "Tip 2: Ensure that your bank account has sufficient balance to avoid auto-debit failure",
+    "Tip 3: Keep your nominee details up-to-date to avoid claim settlement issues",
+    "Tip 4: Check your eligibility and enroll in the scheme through a bank or post office to avoid any mistakes"
+  ],
+  "state_wise_amounts": {
+    "note": "The premium amount and benefit amount may vary by state",
+    "varies_by": "none",
+    "states": {
+      "andhra_pradesh": "same as central",
+      "assam": "same as central",
+      "bihar": "same as central",
+      "gujarat": "same as central",
+      "haryana": "same as central",
+      "jharkhand": "same as central",
+      "karnataka": "same as central",
+      "kerala": "same as central",
+      "madhya_pradesh": "same as central",
+      "maharashtra": "same as central",
+      "odisha": "same as central",
+      "punjab": "same as central",
+      "rajasthan": "same as central",
+      "tamil_nadu": "same as central",
+      "telangana": "same as central",
+      "uttar_pradesh": "same as central",
+      "uttarakhand": "same as central",
+      "west_bengal": "same as central"
+    }
+  },
+  "state_specific_portals": {
+    "note": "State-level application portals may vary",
+    "portals": {}
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "id": "e_shram",
+  "name_en": "E-Shram Card",
+  "description_en": "The E-Shram Card is a government initiative to create a national database of unorganized workers, providing access to various social security schemes. The Ministry of Labour and Employment launched the E-Shram portal, which has registered over 30.58 crore unorganized workers as of January 2025. The portal aims to provide welfare cover to unorganized workers through its key features, including integration with the National Career Service (NCS) Portal. The E-Shram Card offers a wide range of social security benefits and government assistance to unorganized workers across India, including accident insurance under the Pradhan Mantri Suraksha Bima Yojana (PMSBY).",
+  "benefit_en": "The primary financial benefit of the E-Shram Card is accident insurance under the Pradhan Mantri Suraksha Bima Yojana (PMSBY), which provides insurance coverage of up to Rs 2 lakh in the event of a serious accident. Additionally, the E-Shram Card provides access to various social security schemes, including the PM-SYM pension, PMSBY accident insurance, PMJJBY life insurance, and MGNREGA employment. The card also serves as a vital link between workers and the nation's social protection system, ensuring a safer and more secure future for them.",
+  "eligibility_rules": {
+    "occupation": [
+      "unorganized worker",
+      "construction worker",
+      "migrant laborer",
+      "street vendor",
+      "domestic worker",
+      "agricultural laborer"
+    ],
+    "gender": "any",
+    "bpl_required": false,
+    "land_ownership_required": false,
+    "girl_child_required": false,
+    "pregnant_woman_only": false,
+    "age_min": 16,
+    "age_max": 59,
+    "income_max_annual": null,
+    "caste_preference": [
+      "any"
+    ],
+    "bank_account_required": false,
+    "aadhaar_required": true,
+    "other_conditions": [
+      "not an income tax payee",
+      "not a member of EPFO & ESIC",
+      "not a government employee",
+      "not a professional registered with a professional body"
+    ]
+  },
+  "exclusion_criteria": [
+    "income tax payees",
+    "members of EPFO & ESIC",
+    "government employees",
+    "professionals registered with professional bodies",
+    "workers already covered under other social security schemes",
+    "workers who are not citizens of India"
+  ],
+  "documents_en": [
+    "01. Aadhaar Card — mandatory for eKYC and registration",
+    "02. Aadhaar linked Mobile number",
+    "03. Bank passbook or cancelled cheque — for DBT linkage",
+    "04. Income certificate — for income verification",
+    "05. Caste certificate — for caste verification",
+    "06. Disability certificate — for disability verification",
+    "07. Death certificate — for death verification",
+    "08. Birth certificate — for age verification",
+    "09. Address proof — for address verification",
+    "10. Identity proof — for identity verification"
+  ],
+  "apply_steps_en": [
+    "Step 01: Visit the e-Shram portal (eshram.gov.in) and click on 'Register'",
+    "Step 02: Enter Aadhaar number and Aadhaar linked mobile number for authentication",
+    "Step 03: Fill in the registration form with personal and occupational details",
+    "Step 04: Upload required documents and submit the application",
+    "Step 05: Verify the application through OTP sent to the registered mobile number",
+    "Step 06: Download and print the E-Shram Card",
+    "Step 07: Link the E-Shram Card to the bank account for DBT",
+    "Step 08: Track the application status through the e-Shram portal",
+    "Step 09: Contact the helpdesk number (14434/18008896811) for any queries or issues",
+    "Step 10: Update the profile and documents as required"
+  ],
+  "application_url": "https://eshram.gov.in",
+  "helpline": "14434/18008896811",
+  "ministry": "Ministry of Labour and Employment",
+  "nodal_department": "Ministry of Labour and Employment",
+  "scheme_type": "central",
+  "launch_year": 2020,
+  "last_updated": "2025",
+  "processing_time": "immediate",
+  "renewal_required": false,
+  "renewal_frequency": null,
+  "renewal_process": "not applicable",
+  "payment_mode": "DBT",
+  "payment_frequency": "one-time",
+  "payment_schedule": "immediate",
+  "related_schemes": [
+    "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+    "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+    "Atal Pension Yojana (APY)",
+    "National Pension System (NPS)",
+    "MGNREGA"
+  ],
+  "tags": [
+    "unorganized worker",
+    "social security",
+    "accident insurance",
+    "pension",
+    "life insurance",
+    "employment",
+    "MGNREGA"
+  ],
+  "source_url": "https://eshram.gov.in",
+  "keywords": [
+    "E-Shram Card",
+    "unorganized worker",
+    "social security",
+    "accident insurance",
+    "pension",
+    "life insurance",
+    "employment",
+    "MGNREGA",
+    "Pradhan Mantri Suraksha Bima Yojana",
+    "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+    "Atal Pension Yojana",
+    "National Pension System",
+    "how to apply for E-Shram Card",
+    "E-Shram Card benefits",
+    "E-Shram Card eligibility",
+    "E-Shram Card documents required"
+  ],
+  "name_hi": "ई-श्रम कार्ड",
+  "name_ta": "இ-தொழிலாளர் அட்டை",
+  "name_bn": "ই-শ্রম কার্ড",
+  "name_mr": "ई-श्रम कार्ड",
+  "description_hi": "ई-श्रम कार्ड एक सरकारी पहल है जिसका उद्देश्य असंगठित श्रमिकों का एक राष्ट्रीय डेटाबेस तैयार करना है, जिससे विभिन्न सामाजिक सुरक्षा योजनाओं तक पहुंच प्रदान की जा सके। श्रम और रोजगार मंत्रालय ने ई-श्रम पोर्टल लॉन्च किया है, जिस पर जनवरी 2025 तक 30.58 करोड़ से अधिक असंगठित श्रमिक पंजीकृत हैं। पोर्टल का उद्देश्य राष्ट्रीय कैरियर सेवा (एनसीएस) पोर्टल के साथ एकीकरण सहित अपनी प्रमुख विशेषताओं के माध्यम से असंगठित श्रमिकों को कल्याणकारी कवर प्रदान करना है। ई-श्रम कार्ड पूरे भारत में असंगठित श्रमिकों को विभिन्न सामाजिक सुरक्षा लाभ और सरकारी सहायता प्रदान करता है, जिसमें प्रधान मंत्री सुरक्षा बीमा योजना (पीएमएसबीवाई) के तहत दुर्घटना बीमा भी शामिल है।",
+  "description_ta": "இ-தொழிலாளர் அட்டை என்பது ஒழுங்கற்ற தொழிலாளர்களின் தேசிய தரவுத்தளத்தை உருவாக்குவதற்கான ஒரு அரசாங்க முயற்சியாகும், இது பல்வேறு சமூக பாதுகாப்புத் திட்டங்களுக்கு அணுகலை வழங்குகிறது. தொழிலாளர் மற்றும் வேலைவாய்ப்பு அமைச்சகம் இ-தொழிலாளர் இணையதளத்தை தொடங்கியுள்ளது, இதில் சனவரி 2025 வரை 30.58 கோடிக்கும் மேற்பட்ட ஒழுங்கற்ற தொழிலாளர்கள் பதிவு செய்யப்பட்டுள்ளனர். தளம் தேசிய வாழ்க்கை சேவை (என்சிஎஸ்) தளத்துடன் ஒருங்கிணைப்பு உள்ளிட்ட அதன் முக்கிய அம்சங்கள் மூலம் ஒழுங்கற்ற தொழிலாளர்களுக்கு நலன்புரி கவரேஜை வழங்க நோக்கமாக உள்ளது. இ-தொழிலாளர் அட்டை பிரதான மந்திரி பிமா யோஜனா (பிஎம்எஸ்பிஒய்) ஆகியவற்றில் தொழிலாளர்களுக்கு பல்வேறு சமூக பாதுகாப்பு நன்மைகளையும் அரசாங்க உதவியையும் வழங்குகிறது.",
+  "description_bn": "ই-শ্রম কার্ড হল অসংগঠিত শ্রমিকদের একটি জাতীয ডাটাবেস তৈরি করার জন্য একটি সরকারি উদ্যোগ, যা বিভিন্ন সামাজিক নিরাপত্তা পরিকল্পনাগুলিতে অ্যাক্সেস প্রদান করে। শ্রম ও কর্মসংস্থান মন্ত্রক ই-শ্রম পোর্টাল চালু করেছে, যেখানে জানুয়ারী 2025 পর্যন্ত 30.58 কোটিরও বেশি অসংগঠিত শ্রমিক নিবন্ধিত হয়েছে। পোর্টালটির লক্ষ্য হল জাতীয ক্যারিয়ার সার্ভিস (এনসিএস) পোর্টালের সাথে একীকরণ সহ এর মূল বৈশিষ্ট্যগুলির মাধ্যমে অসংগঠিত শ্রমিকদের কল্যাণমূলক কভার প্রদান করা। ই-শ্রম কার্ডটি সমগ্র ভারতে অসংগঠিত শ্রমিকদের বিভিন্ন সামাজিক নিরাপত্তা সুবিধা এবং সরকারি সহাযতা প্রদান করে, যার মধ্যে প্রধানমন্ত্রী সুরক্ষা বীমা যোজনা (পিএমএসবিওয়াই) এর অধীনে দুর্ঘটনা বীমাও রয়েছে।",
+  "description_mr": "ई-श्रम कार्ड ही एक सरकारी उपक्रम आहे ज्याचा उद्देश्य असंघटित कामगारांचे राष्ट्रीय डेटाबेस तयार करणे आहे, ज्यामुळे विविध सामाजिक सुरक्षा योजनांना प्रवेश दिल",
+  "documents_hi": [
+    "आधार कार्ड — ईकेवाईसी और पंजीकरण के लिए अनिवार्य",
+    "आधार से जुड़ा मोबाइल नंबर",
+    "बैंक पासबुक या रद्द किया गया चेक — डीबीटी लिंकेज के लिए",
+    "आय प्रमाण पत्र — आय सत्यापन के लिए",
+    "जाति प्रमाण पत्र — जाति सत्यापन के लिए",
+    "विकलांगता प्रमाण पत्र — विकलांगता सत्यापन के लिए",
+    "मृत्यु प्रमाण पत्र — मृत्यु सत्यापन के लिए",
+    "जन्म प्रमाण पत्र — आयु सत्यापन के लिए",
+    "पता प्रमाण — पता सत्यापन के लिए",
+    "पहचान प्रमाण — पहचान सत्यापन के लिए"
+  ],
+  "documents_ta": [
+    "ஆதார் அட்டை — இ-கையொப்பம் மற்றும் பதிவுக்கு அவசியம்",
+    "ஆதார் இணைக்கப்பட்ட கைப்பேசி எண்",
+    "வங்கி பாஸ்புக் அல்லது ரத்து செய்யப்பட்ட ஆணை — நேரடி வங்கி மூலம் இணைப்புக்கு",
+    "வருமான சான்றிதழ் — வருமான சரிபார்ப்புக்கு",
+    "சாதி சான்றிதழ் — சாதி சரிபார்ப்புக்கு",
+    "ஊனம் சான்றிதழ் — ஊனம் சரிபார்ப்புக்கு",
+    "இறப்பு சான்றிதழ் — இறப்பு சரிபார்ப்புக்கு",
+    "பிறப்பு சான்றிதழ் — வயது சரிபார்ப்புக்கு",
+    "முகவரி சான்று — முகவரி சரிபார்ப்புக்கு",
+    "அடையாள சான்று — அடையாள சரிபார்ப்புக்கு"
+  ],
+  "documents_bn": [
+    "আধার কার্ড — ই-কেওয়াইসি এবং নিবন্ধনের জন্য বাধ্যতামূলক",
+    "আধার লিঙ্কযুক্ত মোবাইল নম্বর",
+    "ব্যাঙ্ক পাসবুক বা বাতিল চেক — ডিবিটি লিঙ্কেজের জন্য",
+    "আয় প্রমাণপত্র — আয় যাচাইয়ের জন্য",
+    "জাতি প্রমাণপত্র — জাতি যাচাইয়ের জন্য",
+    "প্রতিবন্ধকতা প্রমাণপত্র — প্রতিবন্ধকতা যাচাইয়ের জন্য",
+    "মৃত্যু প্রমাণপত্র — মৃত্যু যাচাইয়ের জন্য",
+    "জন্ম প্রমাণপত্র — বয়স যাচাইয়ের জন্য",
+    "ঠিকানা প্রমাণ — ঠিকানা যাচাইয়ের জন্য",
+    "পরিচয় প্রমাণ — পরিচয় যাচাইয়ের জন্য"
+  ],
+  "apply_steps_hi": [
+    "चरण 01: ई-श्रम पोर्टल (eshram.gov.in) पर जाएं और 'पंजीकरण' पर क्लिक करें",
+    "चरण 02: प्रमाणीकरण के लिए आधार नंबर और आधार से जुड़ा मोबाइल नंबर दर्ज करें",
+    "चरण 03: व्यक्तिगत और व्यावसायिक विवरण के साथ पंजीकरण फॉर्म भरें",
+    "चरण 04: आवश्यक दस्तावेज़ अपलोड करें और आवेदन जमा करें",
+    "चरण 05: पंजीकृत मोबाइल नंबर पर भेजे गए ओटीपी के माध्यम से आवेदन की पुष्टि करें",
+    "चरण 06: ई-श्रम कार्ड डाउनलोड और प्रिंट करें",
+    "चरण 07: ई-श्रम कार्ड को बैंक खाते से जोड़ें",
+    "चरण 08: ई-श्रम पोर्टल के माध्यम से आवेदन की स्थिति की जांच करें",
+    "चरण 09: किसी भी प्रश्न या समस्या के लिए हेल्पडेस्क नंबर (14434/18008896811) से संपर्क करें",
+    "चरण 10: आवश्यकतानुसार प्रोफाइल और दस्तावेज़ अपडेट करें"
+  ],
+  "apply_steps_ta": [
+    "படி 01: இ-சிரம தளத்திற்கு (eshram.gov.in) செல்லவும் மற்றும் 'பதிவு' ஐக்கிளிக் செய்யவும்",
+    "படி 02: உறுதிப்படுத்தலுக்கான ஆதார் எண் மற்றும் ஆதார் இணைக்கப்பட்ட கைப்பேசி எண்ணை உள்ளிடவும்",
+    "படி 03: தனிப்பட்ட மற்றும் தொழில்முறை விவரங்களுடன் பதிவு படிவத்தை நிரப்பவும்",
+    "படி 04: தேவையான ஆவணங்களை பதிவேற்றி விண்ணப்பத்தை சமர்ப்பிக்கவும்",
+    "படி 05: பதிவு செய்யப்பட்ட கைப்பேசி எண்ணுக்கு அனுப்பப்பட்ட ஒரு கடவு மூலம் விண்ணப்பத்தை உறுதிப்படுத்தவும்",
+    "படி 06: இ-சிரம அட்டையை பதிவிறக்கி அச்சிடவும்",
+    "படி 07: இ-சிரம அட்டையை வங்கி கணக்கில் இணைக்கவும்",
+    "படி 08: இ-சிரம தளம் மூலம் விண்ணப்ப நிலையைக் கண்காணிக்கவும்",
+    "படி 09: எந்தவொரு கேள்வி அல்லது பிரச்சினைக்காக உதவி எண் (14434/18008896811) ஐ தொடர்பு கொள்ளவும்",
+    "படி 10: தேவைப்பட்டால் சுயவிவரம் மற்றும் ஆவணங்களை புதுப்பிக்கவும்"
+  ],
+  "apply_steps_bn": [
+    "ধাপ 01: ই-শ্রম পোর্টালে (eshram.gov.in) যান এবং 'রেজিস্টার' এ ক্লিক করুন",
+    "ধাপ 02: যাচাইকরণের জন্য আধার নম্বর এবং আধার লিঙ্কযুক্ত মোবাইল নম্বর প্রব"
+  ],
+  "faq": [
+    {
+      "question_en": "What is the age eligibility criteria for registering for an e-Shram Card?",
+      "answer_en": "Any individual between 16 and 59 years of age is eligible to apply for the e-Shram Card. This age range ensures that active workers can benefit from the scheme.",
+      "question_hi": "ई-श्रम कार्ड के लिए पंजीकरण के लिए आयु पात्रता मानदंड क्या है?",
+      "answer_hi": "16 और 59 वर्ष की आयु के बीच का कोई भी व्यक्ति ई-श्रम कार्ड के लिए आवेदन करने के लिए पात्र है। यह आयु सीमा सुनिश्चित करती है कि सक्रिय कार्यकर्ता योजना से लाभान्वित हो सकें।",
+      "question_ta": "இ-ஷ்ரம் அட்டைக்கு பதிவு செய்ய வயது தகுதி அளவுரை என்ன?",
+      "answer_ta": "16 மற்றும் 59 வயது வரையிலான எவரும் இ-ஷ்ரம் அட்டைக்கு விண்ணப்பிக்க தகுதியுடையவர். இந்த வயது எல்லை செயல்படும் தொழிலாளர்கள் திட்டத்திலிருந்து பயனடைய உறுதி செய்கிறது."
+    },
+    {
+      "question_en": "What are the benefits of having an e-Shram Card?",
+      "answer_en": "The primary financial benefit of the e-Shram Card is accident insurance under the Pradhan Mantri Suraksha Bima Yojana (PMSBY), which provides insurance coverage of up to Rs 2 lakh in the event of a serious accident. Additionally, the e-Shram Card provides access to various social security schemes.",
+      "question_hi": "ई-श्रम कार्ड होने के क्या लाभ हैं?",
+      "answer_hi": "ई-श्रम कार्ड का प्राथमिक वित्तीय लाभ प्रधानमंत्री सुरक्षा बीमा योजना (पीएमएसबीवाई) के तहत दुर्घटना बीमा है, जो गंभीर दुर्घटना की स्थिति में 2 लाख रुपये तक का बीमा कवर प्रदान करता है। इसके अलावा, ई-श्रम कार्ड विभिन्न सामाजिक सुरक्षा योजनाओं तक पहुंच प्रदान करता है।",
+      "question_ta": "இ-ஷ்ரம் அட்டை இருப்பதால் என்ன நன்மைகள்?",
+      "answer_ta": "இ-ஷ்ரம் அட்டையின் முதன்மை நிதி நன்மை பிரதம மந்திரி பாதுகாப்பு காப்பீட்டுத் திட்டத்தின் (பிஎம்எஸ்பிஒய்) கீழ் விபத்து காப்பீடு ஆகும், இது கடுமையான விபத்து ஏற்பட்டால் ரூ .2 லட்சம் வரை காப்பீட்டு அடையாளம் அளிக்கிறது. கூடுதலாக, இ-ஷ்ரம் அட்டை பல்வேறு சமூக பாதுகாப்புத் திட்டங்களுக்கு அணுகலை வழங்குகிறது."
+    },
+    {
+      "question_en": "How can I register for an e-Shram Card?",
+      "answer_en": "You can register for an e-Shram Card by visiting the official e-Shram portal (eshram.gov.in) and following the step-by-step registration process, which requires your Aadhaar number and a mobile number linked to it.",
+      "question_hi": "मैं ई-श्रम कार्ड के लिए कैसे पंजीकरण कर सकता हूं?",
+      "answer_hi": "आप ई-श्रम पोर्टल (eshram.gov.in) पर जाकर और अपने आधार नंबर और उससे जुड़े मोबाइल नंबर की आवश्यकता वाली चरण-दर-चरण पंजीकरण प्रक्रिया का पालन करके ई-श्रम कार्ड के लिए पंजीकरण कर सकते हैं।",
+      "question_ta": "நான் இ-ஷ்ரம் அட்டைக்கு எவ்வாறு பதிவு செய்யலாம்?",
+      "answer_ta": "நீங்கள் அதிகாரப்பூர்வ இ-ஷ்ரம் போர்டலை (eshram.gov.in) பார்வையிடுவதன் மூலமும், உங்கள் ஆதார் எண்ணும், அதில் இணைக்கப்பட்ட மொபைல் எண்ணும் தேவைப்படும் படிப்படியான பதிவு செயல்முறையைப் பின்பற்றுவதன் மூலமும் இ-ஷ்ரம் அட்டைக்கு பதிவு செய்யலாம்."
+    }
+  ],
+  "common_mistakes": [
+    "Mistake 1: Incorrect Aadhaar details — Ensure that the Aadhaar number and linked mobile number are correctly entered to avoid authentication issues",
+    "Mistake 2: Incomplete or inaccurate personal details — Double-check all personal information, including name, date of birth, and address, to prevent registration rejection",
+    "Mistake 3: Failure to meet eligibility criteria — Verify that the applicant meets the age requirement (16-59 years) and is not an income tax payee or a member of EPFO & ESIC",
+    "Mistake 4: Insufficient or incorrect occupational information — Provide accurate details about the applicant's occupation to ensure seamless registration",
+    "Mistake 5: Non-linkage of mobile number with Aadhaar — Ensure that the mobile number is linked to the Aadhaar number to facilitate smooth registration",
+    "Mistake 6: Inability to upload required documents — Ensure that all necessary documents are uploaded in the correct format to avoid registration issues"
+  ],
+  "pro_tips": [
+    "Tip 1: Register for the E-Shram Card through the official portal (eshram.gov.in) to avoid any potential scams or misinformation",
+    "Tip 2: Ensure that the mobile number is linked to the Aadhaar number before initiating the registration process to prevent authentication issues",
+    "Tip 3: Keep all required documents and information readily available before starting the registration process to ensure a smooth and efficient experience",
+    "Tip 4: Verify the eligibility criteria and ensure that the applicant meets all the requirements before initiating the registration process to avoid rejection"
+  ],
+  "state_wise_amounts": {
+    "note": "The accident insurance benefit under the Pradhan Mantri Suraksha Bima Yojana (PMSBY) is uniform across all states, with coverage of up to Rs 2 lakh in the event of a serious accident",
+    "varies_by": "none",
+    "states": {
+      "andhra_pradesh": "same as central",
+      "assam": "same as central",
+      "bihar": "same as central",
+      "gujarat": "same as central",
+      "haryana": "same as central",
+      "jharkhand": "same as central",
+      "karnataka": "same as central",
+      "kerala": "same as central",
+      "madhya_pradesh": "same as central",
+      "maharashtra": "same as central",
+      "odisha": "same as central",
+      "punjab": "same as central",
+      "rajasthan": "same as central",
+      "tamil_nadu": "same as central",
+      "telangana": "same as central",
+      "uttar_pradesh": "same as central",
+      "uttarakhand": "same as central",
+      "west_bengal": "same as central"
+    }
+  },
+  "state_specific_portals": {
+    "note": "The E-Shram Card registration portal is uniform across all states, with the official portal being eshram.gov.in",
+    "portals": {}
+  }
+}

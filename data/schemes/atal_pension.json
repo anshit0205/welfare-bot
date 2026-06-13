@@ -1,0 +1,280 @@
+{
+  "id": "atal_pension",
+  "name_en": "Atal Pension Yojana",
+  "description_en": "The Atal Pension Yojana (APY) is a pension scheme launched by the Government of India to provide a guaranteed minimum pension to the unorganized sector workers. The scheme is administered by the Pension Fund Regulatory and Development Authority (PFRDA) and is available to all citizens of India between the ages of 18 and 40. The scheme aims to provide a minimum guaranteed pension of Rs. 1000 to Rs. 5000 per month, depending on the contribution amount. The scheme is funded by the contributions made by the subscribers and is managed by professional fund managers. The APY scheme has a wide coverage and is expected to benefit millions of workers in the unorganized sector. The scheme was launched in 2015 and has been widely acclaimed for its simplicity and flexibility. The APY scheme is a significant step towards providing social security to the unorganized sector workers and is expected to have a positive impact on the overall economic development of the country.",
+  "benefit_en": "The primary financial benefit of the Atal Pension Yojana is a guaranteed minimum pension of Rs. 1000 to Rs. 5000 per month, depending on the contribution amount. The pension amount is paid to the subscriber on attaining the age of 60 years. In addition to the pension amount, the scheme also provides a death benefit to the nominee of the subscriber, which is equal to the corpus amount. The scheme also provides a disability benefit to the subscriber, which is equal to the pension amount. The APY scheme also provides an option to the subscriber to increase or decrease the pension amount, subject to certain conditions. The scheme also provides a tax benefit to the subscriber, as the contributions made to the scheme are eligible for tax deduction under Section 80CCD of the Income Tax Act.",
+  "eligibility_rules": {
+    "occupation": [
+      "unorganized sector worker",
+      "farmer",
+      "agricultural labourer",
+      "rural household",
+      "self-employed",
+      "small trader"
+    ],
+    "gender": "any",
+    "bpl_required": false,
+    "land_ownership_required": false,
+    "girl_child_required": false,
+    "pregnant_woman_only": false,
+    "age_min": 18,
+    "age_max": 40,
+    "income_max_annual": null,
+    "caste_preference": [
+      "any"
+    ],
+    "bank_account_required": true,
+    "aadhaar_required": true,
+    "other_conditions": [
+      "The subscriber should not be a member of any statutory social security scheme.",
+      "The subscriber should not be an income tax payer.",
+      "The subscriber should have a savings bank account.",
+      "The subscriber should have a valid mobile number.",
+      "The subscriber should have a valid email ID.",
+      "The subscriber should not have any pending loans or debts."
+    ]
+  },
+  "exclusion_criteria": [
+    "Income tax payees",
+    "Constitutional post holders (President, VP, Ministers, MPs, MLAs, etc.)",
+    "Serving/retired Central & State government employees (except Group D/MTS)",
+    "Government pensioners drawing Rs 10,000+/month",
+    "All professionals registered with professional bodies (doctors, lawyers, CAs, architects, engineers)",
+    "Any other explicitly stated exclusion from the scheme guidelines"
+  ],
+  "documents_en": [
+    "01. Aadhaar Card — mandatory for eKYC and DBT",
+    "02. Bank passbook or cancelled cheque — for DBT linkage",
+    "03. PAN Card — for income tax purposes",
+    "04. Voter ID Card — for identity verification",
+    "05. Passport — for identity verification",
+    "06. Driving License — for identity verification",
+    "07. Ration Card — for address verification",
+    "08. Utility bills — for address verification",
+    "09. Income certificate — for income verification",
+    "10. Caste certificate — for caste verification",
+    "11. Disability certificate — for disability verification",
+    "12. Death certificate — for death benefit claim"
+  ],
+  "apply_steps_en": [
+    "Step 01: Visit the official website of the Atal Pension Yojana scheme",
+    "Step 02: Click on the 'Apply Now' button",
+    "Step 03: Fill in the online application form with personal and bank account details",
+    "Step 04: Upload the required documents",
+    "Step 05: Pay the initial contribution amount",
+    "Step 06: Submit the application form",
+    "Step 07: Receive the acknowledgement receipt",
+    "Step 08: Wait for the verification process to be completed",
+    "Step 09: Receive the APY account number and PRAN",
+    "Step 10: Start making regular contributions"
+  ],
+  "application_url": "https://www.nps.gov.in.portal.apy.html",
+  "helpline": "1800 110 069",
+  "ministry": "Ministry of Finance",
+  "nodal_department": "Department of Financial Services",
+  "scheme_type": "central",
+  "launch_year": 2015,
+  "last_updated": "2024",
+  "processing_time": "1-2 days",
+  "renewal_required": false,
+  "renewal_frequency": null,
+  "renewal_process": "Not applicable",
+  "payment_mode": "DBT / direct bank transfer",
+  "payment_frequency": "monthly",
+  "payment_schedule": "1st of every month",
+  "related_schemes": [
+    "National Pension Scheme",
+    "Pradhan Mantri Shram Yogi Maan-Dhan Yojana"
+  ],
+  "tags": [
+    "pension",
+    "retirement",
+    "social security",
+    "unorganized sector",
+    "workers"
+  ],
+  "source_url": "https://www.nps.gov.in.portal.apy.html",
+  "keywords": [
+    "Atal Pension Yojana",
+    "APY",
+    "pension scheme",
+    "retirement scheme",
+    "social security scheme",
+    "unorganized sector workers",
+    "workers",
+    "pension",
+    "retirement",
+    "investment",
+    "savings",
+    "financial planning",
+    "money",
+    "income",
+    "tax benefit",
+    "government scheme",
+    "central government scheme",
+    "ministry of finance",
+    "department of financial services"
+  ],
+  "name_hi": "अटल पेंशन योजना",
+  "name_ta": "அடல் ஓய்வூதிய திட்டம்",
+  "name_bn": "অটল পেনশন যোজনা",
+  "name_mr": "अटल पेंशन योजना",
+  "description_hi": "अटल पेंशन योजना (एपीवाई) भारत सरकार द्वारा असंगठित क्षेत्र के श्रमिकों को न्यूनतम पेंशन प्रदान करने के लिए शुरू की गई एक पेंशन योजना है। यह योजना पेंशन फंड नियामक और विकास प्राधिकरण (पीएफआरडीए) द्वारा प्रशासित है और 18 से 40 वर्ष की आयु के बीच के सभी भारतीय नागरिकों के लिए उपलब्ध है। यह योजना न्यूनतम गारंटीकृत पेंशन के रूप में 1000 रुपये से 5000 रुपये प्रति माह प्रदान करने का उद्देश्य रखती है, जो योगदान राशि पर निर्भर करती है। यह योजना गैर-सरकारी क्षेत्र के लाखों श्रमिकों को लाभान्वित करने की उम्मीद है और 2015 में शुरू की गई थी।",
+  "description_ta": "அடல் ஓய்வூதியத் திட்டம் (ஏபிவाई) என்பது சங்கமிக்கப்படாத துறையில் உள்ள தொழிலாளர்களுக்கு குறைந்தபட்ச ஓய்வூதியத்தை வழங்குவதற்காக இந்திய அரசால் தொடங்கப்பட்ட ஒரு ஓய்வூதியத் திட்டமாகும். இந்தத் திட்டம் ஓய்வூதிய நிதி ஒழுங்குமுறை மற்றும் மேம்பாட்டு ஆணையத்தால் (பிஎஃப்ஆர்டிஏ) நிர்வகிக்கப்படுகிறது மற்றும் 18 முதல் 40 வயது வரையிலான அனைத்து இந்திய குடிமக்களுக்கும் கிடைக்கிறது.",
+  "description_bn": "অটল পেনশন যোজনা (এপিওয়াই) হল ভারত সরকার কর্তৃক অসংগঠিত খাতের শ্রমিকদের ন্যূনতম পেনশন প্রদানের জন্য চালু করা একটি পেনশন স্কিম। এই স্কিমটি পেনশন ফান্ড রেগুলেটরি অ্যান্ড ডেভেলপমেন্ট অথোরিটি (পিএফআরডিএ) দ্বারা পরিচালিত হয় এবং ১৮ থেকে ৪০ বছর বয়সের মধ্যে সকল ভারতীয় নাগরিকদের জন্য উপলব্ধ।",
+  "description_mr": "अटल पेंशन योजना (एपीवाई) ही भारत सरकारद्वारे असंघटित क्षेत्रातील कामगारांना किमान पेन्शन देण्यासाठी सुरू केलेली पेन्शन योजना आहे. ही योजना पेन्शन फंड रेग्युलेटरी अँड डेव्हलपमेंट अथॉरिटी (पीएफआरडीए) द्वारे प्रशासित केली जाते आणि १८ ते ४० वयोगटातील सर्व भारतीय नागरिकांसाठी उपलब्ध आहे.",
+  "benefit_hi": "अटल पेंशन योजना का प्राथमिक वित्तीय लाभ 1000 रुपये से 5000 रुपये प्रति माह की गारंटीकृत न्यूनतम पेंशन है, जो योगदान राशि पर निर्भर करती है। पेंशन राशि 60 वर्ष की आयु प्राप्त करने पर ग्राहक को दी जाती है। पेंशन राशि के अलावा, यह योजना ग्राहक के नामिनी को मृत्यु लाभ भी प्रदान करती है, जो कॉर्पस राशि के बराबर होती है।",
+  "benefit_ta": "அடல் ஓய்வூதியத் திட்டத்தின் முக்கிய நன்மை யோகதான தொகையைப் பொறுத்து 1000 ரூபாய் முதல் 5000 ரூபாய் வரை குறைந்தபட்ச ஓய்வூதியமாகும். ஓய்வூதியத் தொகை 60 வயதை அடையும்போது சந்தாதாரருக்கு வழங்கப்படுகிறது. ஓய்வூதியத் தொகையுடன், இந்தத் திட்டம் சந்தாதாரரின் பெயரிடப்பட்டவருக்கு இறப்பு நன்மையையும் வழங்குகிறது, அது கார்பஸ் தொகைக்கு சமம்.",
+  "benefit_bn": "অটল পেনশন যোজনার প্রাথমিক আর্থিক সুবিধা হল যোগদানের পরিমাণের উপর নির্ভর করে 1000 টাকা থেকে 5000 টাকা পর্যন্ত ন্যূনতম পেনশন। পেনশনের পরিমাণ 60 বছর বয়সে পৌঁছান",
+  "documents_hi": [
+    "आधार कार्ड — ईकेवाईसी और डीबीटी के लिए अनिवार्य",
+    "बैंक पासबुक या रद्द चेक — डीबीटी लिंकेज के लिए",
+    "पैन कार्ड — आयकर उद्देश्यों के लिए",
+    "वोटर आईडी कार्ड — पहचान सत्यापन के लिए",
+    "पासपोर्ट — पहचान सत्यापन के लिए",
+    "ड्राइविंग लाइसेंस — पहचान सत्यापन के लिए",
+    "राशन कार्ड — पता सत्यापन के लिए",
+    "यूटिलिटी बिल — पता सत्यापन के लिए",
+    "आय प्रमाण पत्र — आय सत्यापन के लिए",
+    "जाति प्रमाण पत्र — जाति सत्यापन के लिए",
+    "विकलांगता प्रमाण पत्र — विकलांगता सत्यापन के लिए",
+    "मृत्यु प्रमाण पत्र — मृत्यु लाभ दावा के लिए"
+  ],
+  "documents_ta": [
+    "ஆதார் அட்டை — இ-கையொப்பம் மற்றும் டிபிடி க்கு அவசியம்",
+    "வங்கி பாஸ்புக் அல்லது ரத்து செய்யப்பட்ட செக் — டிபிடி இணைப்புக்கு",
+    "பான் கார்ட் — வருமான வரி நோக்கங்களுக்காக",
+    "வாக்காளர் அடையாள அட்டை — அடையாள சரிபார்ப்புக்கு",
+    "பாஸ்போர்ட் — அடையாள சரிபார்ப்புக்கு",
+    "ஓட்டுநர் உரிமம் — அடையாள சரிபார்ப்புக்கு",
+    "ரேஷன் கார்ட் — முகவரி சரிபார்ப்புக்கு",
+    "பயனுள்ள கட்டணங்கள் — முகவரி சரிபார்ப்புக்கு",
+    "வருமான சான்றிதழ் — வருமான சரிபார்ப்புக்கு",
+    "சாதி சான்றிதழ் — சாதி சரிபார்ப்புக்கு",
+    "ஊனம் சான்றிதழ் — ஊனம் சரிபார்ப்புக்கு",
+    "இறப்பு சான்றிதழ் — இறப்பு நன்மை தாவளத்துக்கு"
+  ],
+  "documents_bn": [
+    "আধার কার্ড — ই-কেওয়াইসি এবং ডিবিটি এর জন্য বাধ্যতামূলক",
+    "ব্যাঙ্ক পাসবুক বা বাতিল চেক — ডিবিটি লিংকেজের জন্য",
+    "প্যান কার্ড — আয়কর উদ্দেশ্যে",
+    "ভোটার আইডি কার্ড — পরিচয় যাচাইয়ের জন্য",
+    "পাসপোর্ট — পরিচয় যাচাইয়ের জন্য",
+    "ড্রাইভিং লাইসেন্স — পরিচয় যাচাইয়ের জন্য",
+    "রেশন কার্ড — ঠিকানা যাচাইয়ের জন্য",
+    "ইউটিলিটি বিল — ঠিকানা যাচাইয়ের জন্য",
+    "আয় প্রমাণ পত্র — আয় যাচাইয়ের জন্য",
+    "জাতি প্রমাণ পত্র — জাতি যাচাইয়ের জন্য",
+    "প্রতিবন্ধকতা প্রমাণ পত্র — প্রতিবন্ধকতা যাচাইয়ের জন্য",
+    "মৃত্যু প্রমাণ পত্র — মৃত্যু সুবিধা দাবির জন্য"
+  ],
+  "documents_mr": [
+    "आधार कार्ड — ईकेवाईसी आणि डीबीटी साठी अनिवार्य",
+    "बँक पासबुक किंवा रद्द चेक — डीबीटी लिंकेज साठी",
+    "पॅन कार्ड — उत्पन्न कर उद्देशांसाठी",
+    "मतदार ओळख कार्ड — ओळख पडताळणीसाठी",
+    "पासपोर्ट — ओळख पडताळणीसाठी",
+    "ड्रायव्हिंग परवाना — ओळख पडताळणीसाठी",
+    "रेशन कार्ड — संबंधित पत्ता पडताळणीसाठी",
+    "यूटिलिटी बिल — संबंधित पत्ता पडताळणीसाठी",
+    "उत्पन्न प्रमाणपत्र — उत्पन्न पडताळणीसाठी",
+    "जाती प्रमाणपत्र — जाती पडताळणीसाठी",
+    "विकलांगता प्रमाणपत्र — विकलांगता पडताळणीसाठी",
+    "मृत्यू प्रमाणपत्र — मृत्यू लाभ दाव्यासाठी"
+  ],
+  "apply_steps_hi": [
+    "आतल पेंशन योजना योजना की आधिकारिक वेबसाइट पर जाएं",
+    "अब लागू करें बटन पर क्लिक करें",
+    "व्यक्तिगत और बैंक खाता विवरण के साथ ऑनलाइन आवेदन पत्र भरें",
+    "आवश्यक दस्तावेज अपलोड करें",
+    "प्रारंभिक योगदान राशि का भुगतान करें",
+    "आवेदन पत्र जमा करें",
+    "स्वीकृति प्राप्ति प्राप्त करें",
+    "सत्यापन प्रक्रिया पूरी होने की प्रतीक्षा करें",
+    "एपीवाई खाता संख्या और पीआरएएन प्राप्त करें",
+    "नियमित योगदान देना शुरू करें"
+  ],
+  "apply_steps_ta": [
+    "அதல் பென்ஷன் யோஜனா திட்டத்தின் அதிகாரப்பூர்வ இணையதளத்திற்குச் செல்லுங்கள்",
+    "இப்போது விண்ணப்பிக்கவும் பொத்தானைக் கிளிக் செய்யவும்",
+    "தனிநபர் மற்றும் வங்கி கணக்கு விவரங்களுடன் ஆன்லைன் விண்ணப்ப படிவத்தை நிரப்பவும்",
+    "தேவையான ஆவணங்களை மேலே சுமத்துங்கள்",
+    "ஆரம்ப பங்களிப்பு தொகையை செலுத்தவும்",
+    "விண்ணப்ப படிவத்தை சமர்ப்பிக்கவும்",
+    "ஒப்புதல் ரசீதைப் பெறுங்கள்",
+    "சரிபார்ப்பு செயல்முறை முடிந்ததும் காத்திருங்கள்",
+    "எபிவाई கணக்கு எண் மற்றும் பிஆர்ஏஎன் பெறுங்கள்",
+    "தொடர்ச்சியான பங்களிப்புகளை வழங்கத் தொடங்குங்கள்"
+  ],
+  "apply_steps_bn": [
+    "অটল পেনশন যোজনা"
+  ],
+  "faq": [
+    {
+      "question_en": "What is the minimum guaranteed pension amount under the Atal Pension Yojana scheme?",
+      "answer_en": "The minimum guaranteed pension amount under the Atal Pension Yojana scheme is Rs. 1000 per month. The scheme provides a guaranteed minimum pension of Rs. 1000 to Rs. 5000 per month, depending on the contribution amount.",
+      "question_hi": "अटल पेंशन योजना योजना के तहत न्यूनतम गारंटीकृत पेंशन राशि क्या है?",
+      "answer_hi": "अटल पेंशन योजना योजना के तहत न्यूनतम गारंटीकृत पेंशन राशि रु. 1000 प्रति माह है। यह योजना रु. 1000 से रु. 5000 प्रति माह की गारंटीकृत न्यूनतम पेंशन प्रदान करती है, जो योगदान राशि पर निर्भर करती है।",
+      "question_ta": "அடால் ஓய்வூதிய திட்டத்தின் கீழ் குறைந்தபட்ச உறுதியளிக்கப்பட்ட ஓய்வூதிய தொகை என்ன?",
+      "answer_ta": "அடால் ஓய்வூதிய திட்டத்தின் கீழ் குறைந்தபட்ச உறுதியளிக்கப்பட்ட ஓய்வூதிய தொகை ரூ. 1000 ஆகும். இந்த திட்டம் ரூ. 1000 முதல் ரூ. 5000 வரை குறைந்தபட்ச உறுதியளிக்கப்பட்ட ஓய்வூதியத்தை வழங்குகிறது, இது பங்களிப்பு தொகையைப் பொறுத்தது."
+    },
+    {
+      "question_en": "What is the age limit for joining the Atal Pension Yojana scheme?",
+      "answer_en": "The age limit for joining the Atal Pension Yojana scheme is between 18 and 40 years. The subscriber can join the scheme at any age between 18 and 40 years, and the contribution period will be determined based on the age of entry.",
+      "question_hi": "अटल पेंशन योजना योजना में शामिल होने के लिए आयु सीमा क्या है?",
+      "answer_hi": "अटल पेंशन योजना योजना में शामिल होने के लिए आयु सीमा 18 से 40 वर्ष के बीच है। ग्राहक 18 से 40 वर्ष की आयु के बीच किसी भी आयु में योजना में शामिल हो सकता है, और योगदान अवधि प्रवेश आयु के आधार पर निर्धारित की जाएगी।",
+      "question_ta": "அடால் ஓய்வூதிய திட்டத்தில் சேர்வதற்கான வயது வரம்பு என்ன?",
+      "answer_ta": "அடால் ஓய்வூதிய திட்டத்தில் சேர்வதற்கான வயது வரம்பு 18 முதல் 40 வயது வரையிலான அளவில் உள்ளது. பங்களிப்பாளர் 18 முதல் 40 வயது வரையிலான எந்த வயதிலும் திட்டத்தில் சேரலாம், மேலும் பங்களிப்பு காலம் நுழைவு வயதின் அடிப்படையில் தீர்மானிக்கப்படும்."
+    },
+    {
+      "question_en": "What is the contribution amount for a monthly pension of Rs. 1000 under the Atal Pension Yojana scheme?",
+      "answer_en": "The contribution amount for a monthly pension of Rs. 1000 under the Atal Pension Yojana scheme varies based on the age of entry. For example, if the subscriber joins the scheme at the age of 18, the monthly contribution amount would be Rs. 42, and if the subscriber joins at the age of 40, the monthly contribution amount would be Rs. 291.",
+      "question_hi": "अटल पेंशन योजना योजना के तहत रु. 1000 की मासिक पेंशन के लिए योगदान राशि क्या है?",
+      "answer_hi": "अटल पेंशन योजना योजना के तहत रु. 1000 की मासिक पेंशन के लिए योगदान राशि प्रवेश आयु के आधार पर भिन्न होती है। उदाहरण के लिए, यदि ग्राहक 18 वर्ष की आयु में योजना में शामिल होता है, तो मासिक योगदान राशि रु. 42 होगी, और यदि ग्राहक 40 वर्ष की आयु में शामिल होता है, तो मासिक योगदान राशि रु. 291 होगी।",
+      "question_ta": "அடால் ஓய்வூதிய திட்டத்தின் கீழ் ரூ. 1000 மாதாந்த ஓய்வூதியத்திற்கான பங்களிப்பு தொகை என்ன?",
+      "answer_ta": "அடால் ஓய்வூதிய திட்டத்தின் கீழ் ரூ. 1000 மாதாந்த ஓய்வூதியத்திற்கான பங்களிப்பு தொகை நுழைவு வயதின் அடிப்படையில் மாறுபடும். எடுத்துக்காட்டாக, பங்களிப்பாளர் 18 வயதில் திட்டத்தில் சேர்ந்தால், மாதாந்த பங்களிப்பு தொகை ரூ. 42 ஆக இருக்கும், மேலும் பங்களிப்பாளர் 40 வயதில் சேர்ந்தால், மாதாந்த பங்களிப்பு தொகை ரூ. 291 ஆக இருக்கும்."
+    }
+  ],
+  "common_mistakes": [
+    "Mistake 1: Not having a valid mobile number — Ensure you have a valid mobile number to receive important updates and notifications",
+    "Mistake 2: Not having a valid email ID — Provide a valid email ID to receive important communications and updates",
+    "Mistake 3: Not meeting the eligibility criteria — Ensure you meet the eligibility criteria, including age, occupation, and not being a member of any statutory social security scheme",
+    "Mistake 4: Not having a savings bank account — Ensure you have a savings bank account to receive the pension amount",
+    "Mistake 5: Not providing accurate information — Ensure you provide accurate information, including name, date of birth, and address",
+    "Mistake 6: Not submitting required documents — Ensure you submit all required documents, including Aadhaar card, bank account details, and income proof"
+  ],
+  "pro_tips": [
+    "Tip 1: Join the scheme early to maximize benefits — The earlier you join, the more you can contribute and the higher your pension amount will be",
+    "Tip 2: Contribute regularly to avoid penalties — Ensure you contribute regularly to avoid penalties and maintain your eligibility for the scheme",
+    "Tip 3: Increase your pension amount over time — Consider increasing your pension amount over time to keep pace with inflation and increasing living costs",
+    "Tip 4: Monitor your account regularly — Regularly monitor your account to ensure your contributions are being deducted correctly and your pension amount is being paid out correctly"
+  ],
+  "state_wise_amounts": {
+    "note": "Some states provide additional benefits or top-ups to the central pension amount",
+    "varies_by": "amount",
+    "states": {
+      "andhra_pradesh": "same as central",
+      "assam": "same as central",
+      "bihar": "same as central",
+      "gujarat": "same as central",
+      "haryana": "same as central",
+      "jharkhand": "same as central",
+      "karnataka": "same as central",
+      "kerala": "same as central",
+      "madhya_pradesh": "same as central",
+      "maharashtra": "same as central",
+      "odisha": "same as central",
+      "punjab": "same as central",
+      "rajasthan": "same as central",
+      "tamil_nadu": "same as central",
+      "telangana": "same as central",
+      "uttar_pradesh": "same as central",
+      "uttarakhand": "same as central",
+      "west_bengal": "same as central"
+    }
+  },
+  "state_specific_portals": {
+    "note": "Some states have their own portals for applying to the scheme",
+    "portals": {}
+  }
+}

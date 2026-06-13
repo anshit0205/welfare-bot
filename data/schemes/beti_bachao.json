@@ -1,0 +1,181 @@
+{
+  "id": "beti_bachao",
+  "name_en": "Beti Bachao Beti Padhao",
+  "description_en": "The Beti Bachao Beti Padhao scheme is a government initiative launched by the Ministry of Women and Child Development to promote the education and empowerment of the girl child in India. The scheme aims to improve the sex ratio at birth and reduce female foeticide. It also provides financial security to parents of girl children through the Sukanya Samriddhi Yojana scheme. The scheme has been implemented across the country, with a focus on districts with low sex ratios. The Ministry of Women and Child Development is the nodal ministry for the scheme, and it is funded by the Central Government. The scheme has shown positive results, with an improvement in the sex ratio at birth and an increase in the number of girls enrolled in schools. The scheme is an important step towards promoting gender equality and empowering women in India. The scheme was launched in 2015 and has been in operation for over 10 years, with a significant impact on the lives of millions of girls in India. The scheme is a part of the government's broader efforts to promote women's empowerment and gender equality. The scheme has been successful in raising awareness about the importance of educating girls and has led to an increase in the number of girls pursuing higher education. The scheme has also helped to reduce female foeticide and improve the sex ratio at birth. Overall, the Beti Bachao Beti Padhao scheme is an important initiative that has made a significant contribution to promoting gender equality and empowering women in India.",
+  "benefit_en": "The primary benefit of the Beti Bachao Beti Padhao scheme is financial security for parents of girl children through the Sukanya Samriddhi Yojana scheme. The scheme provides an interest rate of 8.2% per annum, and the maturity amount is tax-free. The scheme also provides tax benefits under Section 80C of the Income Tax Act, 1961. The scheme encourages parents to save for their daughter's education and marriage, and it provides a safe and secure way to do so. The scheme also promotes awareness about the importance of educating girls and reduces female foeticide. The scheme has a number of secondary benefits, including improved sex ratios at birth, increased enrollment of girls in schools, and increased awareness about the importance of educating girls. The scheme also has a number of linked scheme benefits, including the ability to open a Sukanya Samriddhi Yojana account for a girl child, and the ability to claim tax benefits under Section 80C of the Income Tax Act, 1961. The scheme also provides top-up benefits, including the ability to deposit up to Rs 1.5 lakh per annum in a Sukanya Samriddhi Yojana account. The scheme also provides insurance coverage, including a life insurance cover of Rs 50,000 for the girl child. The scheme also provides subsidy details, including a subsidy of up to Rs 50,000 for the education of the girl child.",
+  "eligibility_rules": {
+    "occupation": [
+      "any"
+    ],
+    "gender": "female",
+    "bpl_required": false,
+    "land_ownership_required": false,
+    "girl_child_required": true,
+    "pregnant_woman_only": false,
+    "age_min": 0,
+    "age_max": 10,
+    "income_max_annual": null,
+    "caste_preference": [
+      "any"
+    ],
+    "bank_account_required": true,
+    "aadhaar_required": true,
+    "other_conditions": [
+      "resident Indians only",
+      "maximum of two accounts per family",
+      "NRIs and HUFs not eligible"
+    ]
+  },
+  "exclusion_criteria": [
+    "NRIs",
+    "HUFs",
+    "families with more than two girl children",
+    "families with a high income",
+    "families with a high social status",
+    "families with a history of female foeticide"
+  ],
+  "documents_en": [
+    "01. Birth certificate of the girl child",
+    "02. Identity proof of the parent or guardian",
+    "03. Address proof of the parent or guardian",
+    "04. Income proof of the parent or guardian",
+    "05. Bank account details of the parent or guardian",
+    "06. Aadhaar card of the parent or guardian",
+    "07. PAN card of the parent or guardian",
+    "08. Passport-sized photograph of the girl child",
+    "09. Passport-sized photograph of the parent or guardian",
+    "10. Domicile certificate of the parent or guardian"
+  ],
+  "apply_steps_en": [
+    "Step 01: Visit the official website of the Ministry of Women and Child Development",
+    "Step 02: Click on the link for the Beti Bachao Beti Padhao scheme",
+    "Step 03: Fill in the online application form",
+    "Step 04: Upload the required documents",
+    "Step 05: Submit the application form",
+    "Step 06: Receive a confirmation message or email",
+    "Step 07: Visit a bank or post office to open a Sukanya Samriddhi Yojana account",
+    "Step 08: Deposit the initial amount in the account",
+    "Step 09: Receive a passbook or account statement",
+    "Step 10: Monitor the account and make regular deposits"
+  ],
+  "application_url": "https://www.wcd.nic.in/scheme/beti-bachao-beti-padhao",
+  "helpline": "1800 11 6666",
+  "ministry": "Ministry of Women and Child Development",
+  "nodal_department": "Department of Women and Child Development",
+  "scheme_type": "central",
+  "launch_year": 2015,
+  "last_updated": "2025",
+  "processing_time": "30 days",
+  "renewal_required": false,
+  "renewal_frequency": null,
+  "renewal_process": "Not applicable",
+  "payment_mode": "DBT",
+  "payment_frequency": "annual",
+  "payment_schedule": "March 31st of every year",
+  "related_schemes": [
+    "Sukanya Samriddhi Yojana",
+    "Pradhan Mantri Matru Vandana Yojana",
+    "Pradhan Mantri Suraksha Bima Yojana"
+  ],
+  "tags": [
+    "girl child",
+    "education",
+    "empowerment",
+    "financial security",
+    "sukanya samriddhi yojana"
+  ],
+  "source_url": "https://www.wcd.nic.in/scheme/beti-bachao-beti-padhao",
+  "keywords": [
+    "Beti Bachao Beti Padhao",
+    "BBBP",
+    "girl child",
+    "education",
+    "empowerment",
+    "financial security",
+    "Sukanya Samriddhi Yojana",
+    "SSY",
+    "how to apply",
+    "eligibility criteria",
+    "benefits",
+    "documents required",
+    "application process",
+    "helpline number",
+    "official website"
+  ],
+  "name_hi": "बेटी बचाओ बेटी पढ़ाओ",
+  "name_ta": "பெண் குழந்தைகளைக் காப்பாற்றுங்கள் பெண் குழந்தைகளுக்குக் கல்வி",
+  "name_bn": "মেয়েদের বাঁচাও মেয়েদের শিক্ষা",
+  "name_mr": "बेटी बचाव बेटी शिक्षा",
+  "description_hi": "बेटी बचाओ बेटी पढ़ाओ योजना भारत में बालिकाओं की शिक्षा और सशक्तिकरण को बढ़ावा देने के लिए महिला और बाल विकास मंत्रालय द्वारा शुरू की गई एक सरकारी पहल है। यह योजना जन्म के समय लिंग अनुपात में सुधार करने और महिला भ्रूण हत्या को कम करने का उद्देश्य रखती है। यह योजना सुकन्या समृद्धि योजना के माध्यम से बालिकाओं के माता-पिता को वित्तीय सुरक्षा प्रदान करती है। यह योजना पूरे देश में लागू की गई है, जिसमें कम लिंग अनुपात वाले जिलों पर ध्यान केंद्रित किया गया है। महिला और बाल विकास मंत्रालय इस योजना के लिए नोडल मंत्रालय है, और यह केंद्र सरकार द्वारा वित्त पोषित है। इस योजना ने सकारात्मक परिणाम दिखाए हैं, जिसमें जन्म के समय लिंग अनुपात में सुधार हुआ है और स्कूलों में लड़कियों के नामांकन में वृद्धि हुई है। यह योजना लिंग समानता को बढ़ावा देने और भारत में महिलाओं को सशक्त बनाने के लिए एक महत्वपूर्ण कदम है।",
+  "description_ta": "பெண் குழந்தைகளைக் காப்பாற்றுங்கள் பெண் குழந்தைகளுக்குக் கல்வி திட்டம் என்பது இந்தியாவில் பெண் குழந்தைகளின் கல்வி மற்றும் அதிகாரமளித்தலை ஊக்குவிக்க மகளிர் மற்றும் குழந்தை மேம்பாட்டு அமைச்சகத்தால் தொடங்கப்பட்ட ஒரு அரசாங்க முன்முயற்சியாகும். இந்த திட்டத்தின் நோக்கம் பிறப்பின் போது பாலின விகிதத்தில் மேம்பாடு மற்றும் பெண் கருக்கலைப்பு குறைத்தல் ஆகும். இது சுகன்யா சம்ரிதி திட்டம் மூலம் பெண் குழந்தைகளின் பெற்றோருக்கு நிதி பாதுகாப்பை வழங்குகிறது. இந்த திட்டம் முழு நாட்டிலும் செயல்படுத்தப்பட்டுள்ளது, இதில் குறைந்த பாலின விகிதம் கொண்ட மாவட்டங்களில் கவனம் செலுத்தப்படுகிறது. மகளிர் மற்றும் குழந்தை மேம்பாட்டு அமைச்சகம் இந்த திட்டத்திற்கான மைய அமைச்சகமாகும், மேலும் இது மத்திய அரசால் நிதியுதவி செய்யப்படுகிறது.",
+  "description_bn": "মেয়েদের বাঁচাও মেয়েদের শিক্ষা প্রকল্পটি ভারতে কন্যাদের শিক্ষা ও ক্ষমতায়নের প্রচারের জন্য মহিলা ও শিশু উন্নয়ন মন্ত্রক কর্তৃক চালু করা একটি সরকারি উদ্যোগ। এই প্রকল্পটির লক্ষ্য জন্মের সময় লিঙ্গ অনুপাতে উন্নতি এবং মহিলা ভ্রূণহত্যা হ্রাস করা। এটি সুকন্যা সমৃদ্ধি প্রকল্পের মাধ্যমে কন্যাদের পিতামাতাদের জন্য আর্থিক নিরাপত্তা প্রদান করে। এই প্রকল্পটি সমগ্র দেশে বাস্তবায়িত হয়েছে, যার মধ্যে কম লিঙ্গ অনুপাত সহ জেলাগুলিতে ফোকাস করা হয়েছে। মহিলা ও শিশু উন্নয়ন মন্ত্রক এই প্রকল্পের জন্য নোডাল মন্ত্রক, এবং এটি কেন্দ্রীয় সরকার দ্বারা অর্থায়ন করা হয়।",
+  "description_mr": "बेटी बचाव बेटी शिक्षा योजना ही भारतातील मुलीं",
+  "faq": [
+    {
+      "question_en": "What is the primary benefit of the Beti Bachao Beti Padhao scheme?",
+      "answer_en": "The primary benefit of the Beti Bachao Beti Padhao scheme is financial security for parents of girl children through the Sukanya Samriddhi Yojana scheme, which provides an interest rate of 8.2% per annum and tax-free maturity amount.",
+      "question_hi": "बेटी बचाओ बेटी पढ़ाओ योजना का मुख्य लाभ क्या है?",
+      "answer_hi": "बेटी बचाओ बेटी पढ़ाओ योजना का मुख्य लाभ लड़की बच्चों के माता-पिता के लिए वित्तीय सुरक्षा है, जो सुकन्या समृद्धि योजना के माध्यम से प्रदान की जाती है, जो 8.2% प्रति वर्ष की ब्याज दर और कर-मुक्त परिपक्वता राशि प्रदान करती है।",
+      "question_ta": "பெண் குழந்தைகளைக் காப்பாற்றுங்கள், பெண் குழந்தைகளுக்குக் கல்வி அளிக்கவும் திட்டத்தின் முக்கிய நன்மை என்ன?",
+      "answer_ta": "பெண் குழந்தைகளைக் காப்பாற்றுங்கள், பெண் குழந்தைகளுக்குக் கல்வி அளிக்கவும் திட்டத்தின் முக்கிய நன்மை என்னவென்றால், சுகந்யா சம்ரிதி திட்டம் மூலம் பெண் குழந்தைகளின் பெற்றோருக்கு நிதி பாதுகாப்பு வழங்கப்படுகிறது, இது 8.2% வருடாந்திர வட்டியையும் வரி-இலவச தொகுப்பு தொகையையும் வழங்குகிறது."
+    },
+    {
+      "question_en": "What is the interest rate provided by the Sukanya Samriddhi Yojana scheme?",
+      "answer_en": "The Sukanya Samriddhi Yojana scheme provides an interest rate of 8.2% per annum.",
+      "question_hi": "सुकन्या समृद्धि योजना योजना द्वारा प्रदान की जाने वाली ब्याज दर क्या है?",
+      "answer_hi": "सुकन्या समृद्धि योजना योजना 8.2% प्रति वर्ष की ब्याज दर प्रदान करती है।",
+      "question_ta": "சுகந்யா சம்ரிதி திட்டத்தால் வழங்கப்படும் வட்டிக் குத்தகை என்ன?",
+      "answer_ta": "சுகந்யா சம்ரிதி திட்டம் ஆண்டுக்கு 8.2% வட்டியை வழங்குகிறது."
+    },
+    {
+      "question_en": "What are the tax benefits provided by the Beti Bachao Beti Padhao scheme?",
+      "answer_en": "The Beti Bachao Beti Padhao scheme provides tax benefits under Section 80C of the Income Tax Act, 1961, and the maturity amount is tax-free.",
+      "question_hi": "बेटी बचाओ बेटी पढ़ाओ योजना द्वारा प्रदान किए जाने वाले कर लाभ क्या हैं?",
+      "answer_hi": "बेटी बचाओ बेटी पढ़ाओ योजना आय कर अधिनियम, 1961 की धारा 80सी के तहत कर लाभ प्रदान करती है, और परिपक्वता राशि कर-मुक्त है।",
+      "question_ta": "பெண் குழந்தைகளைக் காப்பாற்றுங்கள், பெண் குழந்தைகளுக்குக் கல்வி அளிக்கவும் திட்டத்தால் வழங்கப்படும் வரி நன்மைகள் யாவை?",
+      "answer_ta": "பெண் குழந்தைகளைக் காப்பாற்றுங்கள், பெண் குழந்தைகளுக்குக் கல்வி அளிக்கவும் திட்டம் வருமான வரி சட்டம், 1961 இன் பிரிவு 80சி இன் கீழ் வரி நன்மைகளை வழங்குகிறது, மேலும் தொகுப்பு தொகை வரி-இலவசமாகும்."
+    }
+  ],
+  "common_mistakes": [
+    "Mistake 1: Not meeting the age criteria of 0-10 years for the girl child — Ensure the girl child is within the specified age range before applying",
+    "Mistake 2: Not having a valid bank account — Open a bank account in the name of the girl child or the guardian before applying for the scheme",
+    "Mistake 3: Not providing required documents such as birth certificate, Aadhaar card, etc. — Gather all necessary documents before submitting the application",
+    "Mistake 4: Not adhering to the maximum limit of two accounts per family — Ensure that the family does not already have two accounts under the scheme",
+    "Mistake 5: Not being a resident Indian — Only resident Indians are eligible for the scheme, ensure eligibility before applying",
+    "Mistake 6: Not understanding the tax implications and benefits — Understand the tax benefits under Section 80C of the Income Tax Act, 1961, before investing"
+  ],
+  "pro_tips": [
+    "Tip 1: Apply for the scheme as early as possible to maximize the benefits of the high-interest rate",
+    "Tip 2: Ensure all documents are in order and meet the eligibility criteria before submitting the application to avoid rejection",
+    "Tip 3: Take advantage of the tax benefits under Section 80C of the Income Tax Act, 1961, to reduce tax liability",
+    "Tip 4: Regularly review and update the account to ensure it remains active and to maximize the benefits of the scheme"
+  ],
+  "state_wise_amounts": {
+    "note": "The interest rate and tax benefits may vary by state, but the core benefits of the scheme remain the same",
+    "varies_by": "none",
+    "states": {
+      "andhra_pradesh": "same as central",
+      "assam": "same as central",
+      "bihar": "same as central",
+      "gujarat": "same as central",
+      "haryana": "same as central",
+      "jharkhand": "same as central",
+      "karnataka": "same as central",
+      "kerala": "same as central",
+      "madhya_pradesh": "same as central",
+      "maharashtra": "same as central",
+      "odisha": "same as central",
+      "punjab": "same as central",
+      "rajasthan": "same as central",
+      "tamil_nadu": "same as central",
+      "telangana": "same as central",
+      "uttar_pradesh": "same as central",
+      "uttarakhand": "same as central",
+      "west_bengal": "same as central"
+    }
+  },
+  "state_specific_portals": {
+    "note": "There are no state-specific portals for the Beti Bachao Beti Padhao scheme, applications can be made through the central portal",
+    "portals": {}
+  }
+}

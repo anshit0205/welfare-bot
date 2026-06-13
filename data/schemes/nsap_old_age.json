@@ -1,0 +1,278 @@
+{
+  "id": "nsap_old_age",
+  "name_en": "Indira Gandhi National Old Age Pension Scheme",
+  "description_en": "The Indira Gandhi National Old Age Pension Scheme (IGNOAPS) is a central government scheme that provides financial assistance to elderly citizens aged 60 years and above who belong to families living below the poverty line. The scheme was launched in 2007 and is implemented by the Ministry of Rural Development. The scheme aims to provide a minimum level of financial security to elderly citizens who are living below the poverty line. The scheme is funded by the central government and the states/UTs are encouraged to supplement the central share by contributing an equivalent or higher top-up amount. The scheme has a wide coverage and benefits over 2 crore beneficiaries across the country. The key impact metric of the scheme is the reduction of poverty among elderly citizens.",
+  "benefit_en": "The primary financial benefit under the scheme is a monthly pension of Rs.200 for beneficiaries aged between 60 and 79 years, and Rs.500 for those aged 80 years and above. The pension is provided to help the beneficiaries meet their basic living expenses. In addition to the central government contribution, some states also provide a top-up amount to the beneficiaries. The scheme also has a provision for convergence with other social security schemes, such as the National Family Benefit Scheme and the Annapurna Scheme.",
+  "eligibility_rules": {
+    "occupation": [
+      "any"
+    ],
+    "gender": "any",
+    "bpl_required": true,
+    "land_ownership_required": false,
+    "girl_child_required": false,
+    "pregnant_woman_only": false,
+    "age_min": 60,
+    "age_max": null,
+    "income_max_annual": null,
+    "caste_preference": [
+      "any"
+    ],
+    "bank_account_required": true,
+    "aadhaar_required": true,
+    "other_conditions": [
+      "The applicant must be an Indian citizen",
+      "The applicant must not be receiving any other pension",
+      "The applicant must be living below the poverty line",
+      "The applicant must not be a serving/retired government employee",
+      "The applicant must not be a professional registered with a professional body",
+      "The applicant must not be a constitutional post holder"
+    ]
+  },
+  "exclusion_criteria": [
+    "Income tax payees",
+    "Constitutional post holders",
+    "Serving/retired Central & State government employees",
+    "Government pensioners drawing Rs 10,000+/month",
+    "Professionals registered with professional bodies",
+    "Individuals receiving any other pension"
+  ],
+  "documents_en": [
+    "01. Aadhaar Card — mandatory for eKYC and DBT",
+    "02. Bank passbook or cancelled cheque — for DBT linkage",
+    "03. BPL certificate",
+    "04. Age proof",
+    "05. Income proof",
+    "06. Residence proof",
+    "07. Identity proof",
+    "08. Pensioner's life certificate",
+    "09. Disability certificate (if applicable)",
+    "10. Medical certificate (if applicable)"
+  ],
+  "apply_steps_en": [
+    "Step 01: Visit the official website of the Ministry of Rural Development",
+    "Step 02: Click on the link for the Indira Gandhi National Old Age Pension Scheme",
+    "Step 03: Fill in the online application form",
+    "Step 04: Upload the required documents",
+    "Step 05: Submit the application form",
+    "Step 06: Wait for the verification process",
+    "Step 07: Receive the pension amount in the bank account",
+    "Step 08: Submit the life certificate every year",
+    "Step 09: Renew the pension every year",
+    "Step 10: Contact the grievance redressal cell in case of any issues"
+  ],
+  "application_url": "https://rural.nic.in/",
+  "helpline": "1800 111 555",
+  "ministry": "Ministry of Rural Development",
+  "nodal_department": "Department of Rural Development",
+  "scheme_type": "central",
+  "launch_year": 2007,
+  "last_updated": "2024",
+  "processing_time": "30 days",
+  "renewal_required": true,
+  "renewal_frequency": "annual",
+  "renewal_process": "The pensioner needs to submit a life certificate every year to continue receiving the pension",
+  "payment_mode": "DBT",
+  "payment_frequency": "monthly",
+  "payment_schedule": "The pension amount is credited to the beneficiary's bank account on a monthly basis",
+  "related_schemes": [
+    "National Family Benefit Scheme",
+    "Annapurna Scheme",
+    "Indira Gandhi National Disability Pension Scheme"
+  ],
+  "tags": [
+    "old age pension",
+    "social security",
+    "rural development",
+    "poverty alleviation",
+    "financial assistance"
+  ],
+  "source_url": "https://rural.nic.in/",
+  "keywords": [
+    "Indira Gandhi National Old Age Pension Scheme",
+    "IGNOAPS",
+    "old age pension",
+    "social security",
+    "rural development",
+    "poverty alleviation",
+    "financial assistance",
+    "pension scheme",
+    "central government scheme",
+    "ministry of rural development",
+    "department of rural development",
+    "DBT",
+    "direct benefit transfer",
+    "BPL",
+    "below poverty line",
+    "Aadhaar card",
+    "bank account",
+    "life certificate",
+    "renewal process",
+    "grievance redressal cell"
+  ],
+  "name_hi": "इंदिरा गांधी राष्ट्रीय वृद्धावस्था पेंशन योजना",
+  "name_ta": "இந்திரா காந்தி தேசிய முதியோர் ஓய்வூதிய திட்டம்",
+  "name_bn": "ইন্দিরা গান্ধী জাতীয় বৃদ্ধাবস্থা পেনশন স্কিম",
+  "name_mr": "इंदिरा गांधी राष्ट्रीय वृद्धाप्राथमिक पेन्शन योजना",
+  "description_hi": "इंदिरा गांधी राष्ट्रीय वृद्धावस्था पेंशन योजना (IGNOAPS) एक केंद्र सरकार की योजना है जो 60 वर्ष और उससे अधिक आयु के वरिष्ठ नागरिकों को वित्तीय सहायता प्रदान करती है जो गरीबी रेखा से नीचे रहने वाले परिवारों से संबंधित हैं। यह योजना 2007 में शुरू की गई थी और इसका कार्यान्वयन ग्रामीण विकास मंत्रालय द्वारा किया जाता है। इस योजना का उद्देश्य गरीबी रेखा से नीचे रहने वाले वरिष्ठ नागरिकों को एक न्यूनतम स्तर की वित्तीय सुरक्षा प्रदान करना है। यह योजना केंद्र सरकार द्वारा वित्तपोषित है और राज्यों/केंद्र शासित प्रदेशों को केंद्रीय हिस्से को पूरक करने के लिए एक समान या उच्च टॉप-अप राशि का योगदान करने के लिए प्रोत्साहित किया जाता है। इस योजना का व्यापक कवरेज है और देश भर में 2 करोड़ से अधिक लाभार्थियों को लाभ पहुंचाती है।",
+  "description_ta": "இந்திரா காந்தி தேசிய முதியோர் ஓய்வூதியத் திட்டம் (IGNOAPS) என்பது குறைந்த வருமானம் கொண்ட குடும்பங்களில் வாழும் 60 வயது மற்றும் அதற்கு மேற்பட்ட முதியோருக்கு நிதி உதவி வழங்கும் ஒரு மத்திய அரசுத் திட்டமாகும். இந்தத் திட்டம் 2007 ஆம் ஆண்டில் தொடங்கப்பட்டது, மேலும் இது கிராம மேம்பாட்டு அமைச்சகத்தால் செயல்படுத்தப்படுகிறது. குறைந்த வருமானம் கொண்ட முதியோருக்கு குறைந்தபட்ச நிதி பாதுகாப்பை வழங்குவது இந்தத் திட்டத்தின் நோக்கமாகும். இந்தத் திட்டம் மத்திய அரசால் நிதியுதவி செய்யப்படுகிறது, மேலும் மாநிலங்கள்/யூனியன் பிரதேசங்கள் மத்திய அரசின் பங்கைப் பூர்த்தி செய்ய ஒரு சமமான அல்லது அதிக மேல்-அப் தொகையை பங்களிக்க ஊக்குவிக்கப்படுகின்றன.",
+  "description_bn": "ইন্দিরা গান্ধী জাতীয় বৃদ্ধাবস্থা পেনশন স্কিম (IGNOAPS) হলো একটি কেন্দ্রীয় সরকারের প্রকল্প যা ৬০ বছর বা তার বেশি বয়সী বয়স্ক নাগরিকদের আর্থিক সহায়তা প্রদান করে যারা দারিদ্র্য রেখার নিচে বসবাসকারী পরিবারের সাথে সম্পর্কিত। এই প্রকল্পটি ২০০৭ সালে চালু হয়েছিল এবং এটি গ্রামীণ উন্নয়ন মন্ত্রক দ্বারা বাস্তবায়িত হয়। দারিদ্র্য রেখার নিচে বসবাসকারী বয়স্ক নাগরিকদের একটি ন্যূনতম পর্যায়ের আর্থিক নিরাপত্তা প্রদান করা এই প্রকল্পের লক্ষ্য। এই প্রকল্পটি কেন্দ্রীয় সরকার দ্বারা অর্থায়ন করা হয় এবং রাজ্য/কেন্দ্রশাসিত অঞ্চলগুলিকে কেন্দ্রীয় অংশকে সম্পূরক করার জন্য একটি সমান বা উচ্চ টপ-আপ পরিমাণে অবদান রাখতে উত্সাহিত করা হয়।",
+  "description_mr": "इंदिरा गांधी राष्ट्रीय वृद्धाप्राथमिक पेन्शन योजना (IGNOAPS) ही एक केंद्र शासनाची योजना आहे जी ६० वर्षे व त्य",
+  "documents_hi": [
+    "आधार कार्ड — ईकेवाईसी और डीबीटी के लिए अनिवार्य",
+    "बैंक पासबुक या रद्दी चेक — डीबीटी लिंकेज के लिए",
+    "बीपीएल प्रमाण पत्र",
+    "आयु प्रमाण",
+    "आय प्रमाण",
+    "निवास प्रमाण",
+    "पहचान प्रमाण",
+    "पेंशनर का जीवन प्रमाण पत्र",
+    "विकलांगता प्रमाण पत्र (यदि लागू हो)",
+    "चिकित्सा प्रमाण पत्र (यदि लागू हो)"
+  ],
+  "documents_ta": [
+    "ஆதார் அட்டை - இ-கையொப்பம் மற்றும் டிபிடி க்கு அவசியம்",
+    "வங்கி பாஸ்புக் அல்லது ரத்து செய்யப்பட்ட செக் - டிபிடி இணைப்புக்கு",
+    "பிஐஎல் சான்றிதழ்",
+    "வயது சான்று",
+    "வருமான சான்று",
+    "வசிப்பிட சான்று",
+    "அடையாள சான்று",
+    "ஓய்வூதியர் உயிர் சான்றிதழ்",
+    "ஊனம் சான்றிதழ் (பொருந்தும் என்றால்)",
+    "மருத்துவ சான்றிதழ் (பொருந்தும் என்றால்)"
+  ],
+  "documents_bn": [
+    "আধার কার্ড — ইলেকট্রনিক কেওয়াইসি এবং ডিবিটি এর জন্য বাধ্যতামূলক",
+    "ব্যাংক পাসবুক বা বাতিল চেক — ডিবিটি লিংকেজের জন্য",
+    "বিপিএল শংসাপত্র",
+    "বয়স প্রমাণ",
+    "আয় প্রমাণ",
+    "বাসস্থান প্রমাণ",
+    "পরিচয় প্রমাণ",
+    "পেনশনারের জীবন শংসাপত্র",
+    "প্রতিবন্ধকতা শংসাপত্র (যদি প্রযোজ্য হয়)",
+    "চিকিৎসা শংসাপত্র (যদি প্রযোজ্য হয়)"
+  ],
+  "documents_mr": [
+    "आधार कार्ड — ईकेवाईसी आणि डीबीटी साठी अनिवार्य",
+    "बँक पासबुक किंवा रद्द केलेली चेक — डीबीटी लिंकेज साठी",
+    "बीपीएल प्रमाणपत्र",
+    "वय प्रमाण",
+    "उत्पन्न प्रमाण",
+    "राहण्याचा पुरावा",
+    "ओळख प्रमाण",
+    "पेंशनधारकाचे जीवन प्रमाणपत्र",
+    "विकलांगता प्रमाणपत्र (योग्य असल्यास)",
+    "वैद्यकीय प्रमाणपत्र (योग्य असल्यास)"
+  ],
+  "apply_steps_hi": [
+    "आधिकारिक वेबसाइट पर जाएं ग्रामीण विकास मंत्रालय की",
+    "इंदिरा गांधी राष्ट्रीय वृद्धावस्था पेंशन योजना के लिंक पर क्लिक करें",
+    "ऑनलाइन आवेदन पत्र भरें",
+    "आवश्यक दस्तावेज़ अपलोड करें",
+    "आवेदन पत्र जमा करें",
+    "सत्यापन प्रक्रिया की प्रतीक्षा करें",
+    "बैंक खाते में पेंशन राशि प्राप्त करें",
+    "प्रत्येक वर्ष जीवन प्रमाण पत्र जमा करें",
+    "प्रत्येक वर्ष पेंशन को नवीनीकृत करें",
+    "किसी भी समस्या के मामले में शिकायत निवारण कक्ष से संपर्क करें"
+  ],
+  "apply_steps_ta": [
+    "கிராம வளர்ச்சி அமைச்சகத்தின் அதிகாரப்பூர்வ இணையதளத்திற்குச் செல்லுங்கள்",
+    "இந்திரா காந்தி தேசிய முதியோர் ஓய்வூதியத் திட்டத்தின் இணைப்பைக் கிளிக் செய்யுங்கள்",
+    "ஆன்லைன் விண்ணப்பத்தை நிரப்புங்கள்",
+    "தேவையான ஆவணங்களை பதிவேற்றுங்கள்",
+    "விண்ணப்பத்தை சமர்ப்பிக்கவும்",
+    "சரிபார்ப்பு செயல்முறையைக் காத்திருங்கள்",
+    "வங்கி கணக்கில் ஓய்வூதிய தொகையைப் பெறுங்கள்",
+    "ஒவ்வொரு ஆண்டும் உயிர் சான்றிதழை சமர்ப்பிக்கவும்",
+    "ஒவ்வொரு ஆண்டும் ஓய்வூதியத்தை புதுப்பிக்கவும்",
+    "ஏதேனும் சிக்கல் இருந்தால் புகார் தீர்வு கலத்தைத் தொடர்பு கொள்ளுங்கள்"
+  ],
+  "apply_steps_bn": [
+    "গ্রামীণ উন্নয়ন মন্ত্রকের আধিকারিক ওয়েবসাইটে যান",
+    "ইন্দিরা গান্ধী জাতীয় বৃদ্ধাবস্থা পেনশন স্কিমের লিংকে ক্লিক করুন",
+    "অনলাইন আবেদনপত্র পূরণ করুন",
+    "প্রয়োজনীয় নথি আপলোড করুন",
+    "আবেদনপত্র জমা দিন",
+    "যাচাইকরণ প্রক্রিয়ার অপেক্ষা করুন",
+    "ব্যাংক অ্যাকাউন্টে পেনশন পরিমাণ প্রাপ্ত করুন",
+    "প্রতি বছর জীবন প্রমাণ পত্র জমা দিন",
+    "প্রতি বছর পেনশন নবায়ন করুন",
+    "যেকোনো সমস্যা হলে অভিযোগ নিষ্পত্তি কক্ষের সাথে যোগাযোগ করুন"
+  ],
+  "apply_steps_mr": [
+    "ग्रामीण विकास मंत्रालयाच्या अधिकृत वेबसाइटवर जा",
+    "इंदिरा गांधी राष्ट्रीय वृद्धावस्था पेंशन योजनेच्या दुव्यावर क्लिक करा",
+    "ऑनलाइन अर्ज भरणे",
+    "आवश्यक कागदपत्रे अपलोड करा",
+    "अर्ज सादर करा",
+    "सत्यापन प्रक्रियेची वाट पाहा",
+    "बँक खात्यात पेंशन रकमे मिळवा",
+    "प्रत्येक वर्षी जीवन प्रमाणपत्र सादर करा",
+    "प्रत्येक वर्षी पेंशनचे नूतनीकरण करा",
+    "कोणत्याही समस्येच्या बाबतीत तक्रार निवारण प्रकोष्ठाशी संपर्क साधा"
+  ],
+  "faq": [
+    {
+      "question_en": "What is the eligibility age for the Indira Gandhi National Old Age Pension Scheme?",
+      "answer_en": "The eligibility age for the Indira Gandhi National Old Age Pension Scheme is 60 years and above, with different pension amounts for those between 60-79 years and those 80 years and above. Beneficiaries between 60 and 79 years receive Rs.200 per month, while those aged 80 years and above receive Rs.500 per month.",
+      "question_hi": "इंदिरा गांधी राष्ट्रीय वृद्धावस्था पेंशन योजना के लिए पात्रता आयु क्या है?",
+      "answer_hi": "इंदिरा गांधी राष्ट्रीय वृद्धावस्था पेंशन योजना के लिए पात्रता आयु 60 वर्ष और अधिक है, जिसमें 60-79 वर्ष और 80 वर्ष और अधिक आयु वर्ग के लिए अलग-अलग पेंशन राशि है। 60-79 वर्ष के बीच के लाभार्थियों को प्रति माह Rs.200 मिलते हैं, जबकि 80 वर्ष और अधिक आयु के लोगों को प्रति माह Rs.500 मिलते हैं।",
+      "question_ta": "இந்திரா காந்தி தேசிய முதியோர் ஓய்வூதிய திட்டத்திற்கான தகுதி வயது என்ன?",
+      "answer_ta": "இந்திரா காந்தி தேசிய முதியோர் ஓய்வூதிய திட்டத்திற்கான தகுதி வயது 60 வயது மற்றும் அதற்கு மேற்பட்டவர்கள், 60-79 வயதுக்கு இடையிலான நபர்களுக்கும், 80 வயது மற்றும் அதற்கு மேற்பட்ட நபர்களுக்கும் வெவ்வேறு ஓய்வூதிய தொகைகள் உள்ளன. 60-79 வயதுக்கு இடையிலான நன்மைகள் பெறுபவர்களுக்கு ரூ.200 கிடைக்கிறது, அதேசமயம் 80 வயது மற்றும் அதற்கு மேற்பட்ட நபர்களுக்கு ரூ.500 கிடைக்கிறது."
+    },
+    {
+      "question_en": "How much pension does a beneficiary receive under the Indira Gandhi National Old Age Pension Scheme?",
+      "answer_en": "Under the Indira Gandhi National Old Age Pension Scheme, beneficiaries between 60 and 79 years receive a monthly pension of Rs.200, while those aged 80 years and above receive a monthly pension of Rs.500.",
+      "question_hi": "इंदिरा गांधी राष्ट्रीय वृद्धावस्था पेंशन योजना के तहत एक लाभार्थी को कितनी पेंशन मिलती है?",
+      "answer_hi": "इंदिरा गांधी राष्ट्रीय वृद्धावस्था पेंशन योजना के तहत, 60-79 वर्ष के बीच के लाभार्थियों को प्रति माह Rs.200 की मासिक पेंशन मिलती है, जबकि 80 वर्ष और अधिक आयु के लोगों को प्रति माह Rs.500 की मासिक पेंशन मिलती है।",
+      "question_ta": "இந்திரா காந்தி தேசிய முதியோர் ஓய்வூதிய திட்டத்தின் கீழ் ஒரு நன்மைகள் பெறுபவருக்கு எத்தனை ஓய்வூதிய கிடைக்கிறது?",
+      "answer_ta": "இந்திரா காந்தி தேசிய முதியோர் ஓய்வூதிய திட்டத்தின் கீழ், 60-79 வயதுக்கு இடையிலான நன்மைகள் பெறுபவர்களுக்கு மாதாந்திர ஓய்வூதியாக ரூ.200 கிடைக்கிறது, அதேசமயம் 80 வயது மற்றும் அதற்கு மேற்பட்ட நபர்களுக்கு மாதாந்திர ஓய்வூதியாக ரூ.500 கிடைக்கிறது."
+    }
+  ],
+  "common_mistakes": [
+    "Mistake 1: Not meeting the Below Poverty Line (BPL) criteria — Ensure the applicant's income is below the poverty line as defined by the Government of India",
+    "Mistake 2: Not being an Indian citizen — Verify the applicant's citizenship before applying",
+    "Mistake 3: Receiving another pension — Ensure the applicant is not receiving any other pension to avoid ineligibility",
+    "Mistake 4: Incorrect age — Verify the applicant is 60 years or older to meet the age criteria",
+    "Mistake 5: Not having a bank account — Open a bank account in the applicant's name to receive the pension",
+    "Mistake 6: Not having an Aadhaar card — Ensure the applicant has an Aadhaar card for identification and verification purposes"
+  ],
+  "pro_tips": [
+    "Tip 1: Apply through the official government portal or authorized state portals to speed up the application process",
+    "Tip 2: Ensure all required documents are attached and verified to avoid rejection",
+    "Tip 3: Check the state-specific top-up amounts to maximize the benefit",
+    "Tip 4: Regularly check the status of the application to ensure timely processing and disbursement of the pension"
+  ],
+  "state_wise_amounts": {
+    "note": "The state-wise top-up amounts vary, with some states providing additional financial assistance to beneficiaries",
+    "varies_by": "amount",
+    "states": {
+      "andhra_pradesh": "same as central",
+      "assam": "same as central",
+      "bihar": "same as central",
+      "gujarat": "same as central",
+      "haryana": "same as central",
+      "jharkhand": "same as central",
+      "karnataka": "same as central",
+      "kerala": "same as central",
+      "madhya_pradesh": "same as central",
+      "maharashtra": "same as central",
+      "mizoram": "Rs 100 (60-79 years), Rs 500 (80 years and above) from the state, in addition to the central government contribution",
+      "odisha": "same as central",
+      "punjab": "same as central",
+      "rajasthan": "same as central",
+      "tamil_nadu": "same as central",
+      "telangana": "same as central",
+      "uttar_pradesh": "same as central",
+      "uttarakhand": "same as central",
+      "west_bengal": "same as central"
+    }
+  },
+  "state_specific_portals": {
+    "note": "Some states have their own portals for applying to the Indira Gandhi National Old Age Pension Scheme",
+    "portals": {}
+  }
+}

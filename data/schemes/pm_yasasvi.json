@@ -1,0 +1,290 @@
+{
+  "id": "pm_yasasvi",
+  "name_en": "PM Young Achievers Scholarship Award Scheme for Vibrant India",
+  "description_en": "The PM Young Achievers Scholarship Award Scheme for Vibrant India, also known as PM YASASVI, is a central government scheme implemented by the Ministry of Social Justice and Empowerment. The scheme aims to provide financial assistance to meritorious students from OBC, EBC, and DNT categories studying in Class 9 and Class 11. The scholarship offers ₹75,000 annually for Class 9 students and ₹1,25,000 for Class 11 students to support their education in government or recognized private schools. The scheme covers tuition fees, hostel charges, books, and related expenses. The application process is merit-based, and at least 30% of the scholarships are reserved for girls. The scheme has a total of 15,000 scholarships available, with an annual income limit of ₹2.5 lakh per annum. The application deadline is generally around August 31 each year.",
+  "benefit_en": "The PM YASASVI scholarship provides financial assistance to meritorious students from OBC, EBC, and DNT categories studying in Class 9 and Class 11. The scholarship offers ₹75,000 annually for Class 9 students and ₹1,25,000 for Class 11 students to support their education in government or recognized private schools. The scheme covers tuition fees, hostel charges, books, and related expenses. The scholarship is provided for a period of one year, and the payment is made in installments, with the first installment released before 15th August each year. The scheme also has a separate Pre-Matric scheme, which provides ₹4,000 per year for students in Classes 9-10 in government schools.",
+  "eligibility_rules": {
+    "occupation": [
+      "students"
+    ],
+    "gender": "any",
+    "bpl_required": false,
+    "land_ownership_required": false,
+    "girl_child_required": false,
+    "pregnant_woman_only": false,
+    "age_min": null,
+    "age_max": null,
+    "income_max_annual": 250000,
+    "caste_preference": [
+      "OBC",
+      "EBC",
+      "DNT"
+    ],
+    "bank_account_required": true,
+    "aadhaar_required": true,
+    "other_conditions": [
+      "Minimum 60% marks required in previous exam",
+      "Enrolled in Class 9 or Class 11",
+      "Studying in a government or recognized private school",
+      "Belonging to OBC, EBC, or DNT category",
+      "Annual income limit of ₹2.5 lakh per annum"
+    ]
+  },
+  "exclusion_criteria": [
+    "Income tax payees",
+    "Constitutional post holders",
+    "Serving or retired Central and State government employees (except Group D/MTS)",
+    "Government pensioners drawing ₹10,000 or more per month",
+    "Professionals registered with professional bodies",
+    "Students already receiving a scholarship from any other scheme"
+  ],
+  "documents_en": [
+    "Aadhaar Card",
+    "Income Certificate",
+    "Caste Certificate",
+    "Bank Passbook or Cancelled Cheque",
+    "Mark Sheet of previous exam",
+    "Certificate of enrollment in Class 9 or Class 11",
+    "School ID Card",
+    "Address Proof",
+    "Parent's Income Certificate",
+    "Student's Bank Account Details"
+  ],
+  "apply_steps_en": [
+    "Step 1: Visit the National Scholarship Portal (NSP) website",
+    "Step 2: Register and create a login ID and password",
+    "Step 3: Fill out the application form and upload required documents",
+    "Step 4: Submit the application form before the deadline",
+    "Step 5: Verify the application form and documents",
+    "Step 6: Wait for the selection process to be completed",
+    "Step 7: Check the status of the application on the NSP website",
+    "Step 8: Receive the scholarship amount in the bank account",
+    "Step 9: Submit the renewal application form for the next year",
+    "Step 10: Follow up with the NSP helpdesk for any queries or issues"
+  ],
+  "application_url": "https://scholarships.gov.in/",
+  "helpline": "0120-6619540",
+  "ministry": "Ministry of Social Justice and Empowerment",
+  "nodal_department": "Department of Social Justice and Empowerment",
+  "scheme_type": "central",
+  "launch_year": 2022,
+  "last_updated": "2026",
+  "processing_time": "30-60 days",
+  "renewal_required": true,
+  "renewal_frequency": "annual",
+  "renewal_process": "Submit renewal application form on NSP website",
+  "payment_mode": "DBT (Direct Bank Transfer)",
+  "payment_frequency": "annual",
+  "payment_schedule": "Installments, with the first installment released before 15th August each year",
+  "related_schemes": [
+    "National Means Cum Merit Scholarship",
+    "National Scholarship Scheme"
+  ],
+  "tags": [
+    "scholarship",
+    "OBC",
+    "EBC",
+    "DNT",
+    "education",
+    "financial assistance"
+  ],
+  "source_url": "https://www.socialjustice.gov.in/",
+  "keywords": [
+    "PM YASASVI",
+    "PM Young Achievers Scholarship Award Scheme for Vibrant India",
+    "OBC scholarship",
+    "EBC scholarship",
+    "DNT scholarship",
+    "education scholarship",
+    "financial assistance for students",
+    "scholarship for Class 9 and Class 11 students",
+    "how to apply for PM YASASVI scholarship",
+    "PM YASASVI scholarship amount",
+    "PM YASASVI scholarship eligibility criteria",
+    "PM YASASVI scholarship application form",
+    "PM YASASVI scholarship last date to apply"
+  ],
+  "name_hi": "पीएम यंग अचीवर्स स्कॉलरशिप अवार्ड योजना फॉर वाइब्रेंट इंडिया",
+  "name_ta": "பிரதமர் இளம் சாதனையாளர் உதவித்தொகை விருது திட்டம் வைப்ரண்ட் இந்தியாவுக்கான",
+  "name_bn": "পিএম ইয়াং অচিভার্স স্কলারশিপ অ্যাওয়ার্ড স্কিম ফর ভাইব্রেন্ট ইন্ডিয়া",
+  "name_mr": "पीएम यंग अचीवर्स शिष्यवृत्ती पुरस्कार योजना फॉर वायब्रंट इंडिया",
+  "description_hi": "पीएम यंग अचीवर्स स्कॉलरशिप अवार्ड योजना फॉर वाइब्रेंट इंडिया, जिसे पीएम यासस्वी के नाम से भी जाना जाता है, एक केंद्र सरकार की योजना है जिसे सामाजिक न्याय और अधिकारिता मंत्रालय द्वारा लागू किया गया है। यह योजना ओबीसी, ईबीसी और डीएनटी श्रेणियों के मेरिटोरियस छात्रों को वित्तीय सहायता प्रदान करने के लिए है, जो कक्षा 9 और कक्षा 11 में पढ़ रहे हैं। छात्रवृत्ति सरकारी या मान्यता प्राप्त निजी स्कूलों में उनकी शिक्षा के लिए कक्षा 9 के छात्रों के लिए ₹75,000 और कक्षा 11 के छात्रों के लिए ₹1,25,000 प्रति वर्ष प्रदान करती है। यह योजना ट्यूशन फीस, छात्रावास शुल्क, पुस्तकों और संबंधित खर्चों को कवर करती है। आवेदन प्रक्रिया मेरिट-आधारित है, और कम से कम 30% छात्रवृत्तियां लड़कियों के लिए आरक्षित हैं। इस योजना में कुल 15,000 छात्रवृत्तियां उपलब्ध हैं, जिनकी वार्षिक आय सीमा ₹2.5 लाख प्रति वर्ष है। आवेदन की समय सीमा आमतौर पर प्रति वर्ष 31 अगस्त के आसपास होती है।",
+  "description_ta": "பிரதமர் இளம் சாதனையாளர் உதவித்தொகை விருது திட்டம் வைப்ரண்ட் இந்தியாவுக்கான, பிரதமர் யாஸ்வி என்றும் அழைக்கப்படும் இது ஒரு மத்திய அரசு திட்டமாகும், இது சமூக நீதி மற்றும் அதிகாரமளித்தல் அமைச்சகத்தால் செயல்படுத்தப்படுகிறது. இந்த திட்டம் ஒபிசி, ஈபிசி மற்றும் டிஎன்டி பிரிவுகளில் படிக்கும் மேதகைமை வாய்ந்த மாணவர்களுக்கு நிதி உதவி வழங்க வேண்டும், அவர்கள் 9 மற்றும் 11 வகுப்புகளில் படிக்கின்றனர். உதவித்தொகை அரசு அல்லது அங்கீகரிக்கப்பட்ட தனியார் பள்ளிகளில் அவர்களின் கல்விக்கான ஆதரவுக்காக 9 வகுப்பு மாணவர்களுக்கு ரூ.75,000 மற்றும் வகுப்பு 11 மாணவர்களுக்கு ரூ.1,25,000 ஆண்டுக்கு வழங்குகிறது. இந்தத் திட்டம் கல்வி கட்டணம், விடுதி கட்டணம், புத்தகங்கள் மற்றும் தொடர்புடைய செலவுகளை உள்ளடக்கியது. விண்ணப்ப செயல்முறை திறமை அடிப்படையில் உள்ளது, மேலும் குறைந்தபட்சம் 30% உதவித்தொகைகள் பெண்களுக்கு ஒதுக்கப்பட்டுள்ளன. இந்தத் திட்டத்தில் மொத்தம் 15,000 உதவித்தொகைகள் கிடைக்கின்றன, அவற்றின் வருடாந்திர வருமான வரம்பு ரூ.2.5 லட்சம் ஆகும். விண்ணப்பத்தின் காலக்கெடு பொதுவாக ஒவ்வொரு ஆண்டும் ஆகஸ்ட் 31 அன்று இருக்கும்.",
+  "description_bn": "পিএম ইয়াং অচিভার্স স্কলারশিপ অ্যাওয়ার্ড স্কিম ফর ভাইব্রেন্ট ইন্ডিয়া, পিএম যাসভি নামেও পরিচিত, একটি কেন্দ্রীয় সরকারি পরিকল্পনা যা সামাজিক ন্যায ও ক্ষমতায়ন মন",
+  "documents_hi": [
+    "आधार कार्ड",
+    "आय प्रमाण पत्र",
+    "जाति प्रमाण पत्र",
+    "बैंक पासबुक या रद्द चेक",
+    "पिछली परीक्षा की मार्कशीट",
+    "कक्षा 9 या कक्षा 11 में नामांकन का प्रमाण पत्र",
+    "स्कूल आईडी कार्ड",
+    "पते का प्रमाण",
+    "माता-पिता का आय प्रमाण पत्र",
+    "छात्र के बैंक खाते का विवरण"
+  ],
+  "documents_ta": [
+    "ஆதார் அட்டை",
+    "வருமான சான்றிதழ்",
+    "சாதி சான்றிதழ்",
+    "வங்கி பாஸ்புக் அல்லது ரத்து செய்யப்பட்ட ஆணை",
+    "முந்தைய தேர்வின் மதிப்பெண் பட்டியல்",
+    "9வது அல்லது 11வது வகுப்பில் சேர்க்கையின் சான்றிதழ்",
+    "பள்ளி அடையாள அட்டை",
+    "முகவரி சான்று",
+    "பெற்றோரின் வருமான சான்றிதழ்",
+    "மாணவரின் வங்கி கணக்கு விவரங்கள்"
+  ],
+  "documents_bn": [
+    "আধার কার্ড",
+    "আয় প্রমাণ পত্র",
+    "জাতি প্রমাণ পত্র",
+    "ব্যাংক পাসবুক বা বাতিল চেক",
+    "পূর্ববর্তী পরীক্ষার মার্কশীট",
+    "9ম বা 11শ শ্রেণিতে ভর্তির প্রমাণ পত্র",
+    "স্কুল আইডি কার্ড",
+    "ঠিকানা প্রমাণ",
+    "পিতামাতার আয় প্রমাণ পত্র",
+    "ছাত্রের ব্যাংক অ্যাকাউন্ট বিবরণ"
+  ],
+  "documents_mr": [
+    "आधार कार्ड",
+    "उत्पन्न प्रमाण पत्र",
+    "जाती प्रमाण पत्र",
+    "बँक पासबुक किंवा रद्द केलेली चेक",
+    "मागील परीक्षेची मार्कशीट",
+    "९वी किंवा ११वी इयत्तेत प्रवेशाचे प्रमाण पत्र",
+    "शाळा आयडी कार्ड",
+    "संबंधित पत्ता प्रमाण",
+    "पालकांचे उत्पन्न प्रमाण पत्र",
+    "विद्यार्थ्याच्या बँक खात्याची माहिती"
+  ],
+  "apply_steps_hi": [
+    "चरण 1: नेशनल स्कॉलरशिप पोर्टल (एनएसपी) की वेबसाइट पर जाएं",
+    "चरण 2: पंजीकरण करें और लॉगिन आईडी और पासवर्ड बनाएं",
+    "चरण 3: आवेदन पत्र भरें और आवश्यक दस्तावेज अपलोड करें",
+    "चरण 4: आवेदन पत्र को समय सीमा से पहले जमा करें",
+    "चरण 5: आवेदन पत्र और दस्तावेजों की जांच करें",
+    "चरण 6: चयन प्रक्रिया पूरी होने की प्रतीक्षा करें",
+    "चरण 7: एनएसपी वेबसाइट पर आवेदन की स्थिति की जांच करें",
+    "चरण 8: बैंक खाते में छात्रवृत्ति राशि प्राप्त करें",
+    "चरण 9: अगले वर्ष के लिए नवीनीकरण आवेदन पत्र जमा करें",
+    "चरण 10: किसी भी प्रश्न या समस्या के लिए एनएसपी हेल्पडेस्क से संपर्क करें"
+  ],
+  "apply_steps_ta": [
+    "படிநிலை 1: தேசிய உதவித்தொகை தளம் (NSP) இணையதளத்திற்குச் செல்லுங்கள்",
+    "படிநிலை 2: பதிவு செய்யுங்கள் மற்றும் பயனர் அடையாளம் மற்றும் கடவுச்சொல்லை உருவாக்குங்கள்",
+    "படிநிலை 3: விண்ணப்பத்தை நிரப்புங்கள் மற்றும் தேவையான ஆவணங்களை மேலே சுமத்துங்கள்",
+    "படிநிலை 4: விண்ணப்பத்தை காலக்கெடுவிற்கு முன் சமர்ப்பிக்கவும்",
+    "படிநிலை 5: விண்ணப்பம் மற்றும் ஆவணங்களை சரிபார்க்கவும்",
+    "படிநிலை 6: தேர்வு செயல்முறை முடியும் வரை காத்திருங்கள்",
+    "படிநிலை 7: NSP இணையதளத்தில் விண்ணப்ப நிலையைப் பார்க்கவும்",
+    "படிநிலை 8: வங்கி கணக்கில் உதவித்தொகை தொகையைப் பெறுங்கள்",
+    "படிநிலை 9: அடுத்த ஆண்டிற்கான புதுப்பித்தல் விண்ணப்பத்தை சமர்ப்பிக்கவும்",
+    "படிநிலை 10: எந்தவொரு கேள்வி அல்லது பிரச்சினைக்காக NSP உதவி மையத்தைத் தொடர்பு கொள்ளுங்கள்"
+  ],
+  "apply_steps_bn": [
+    "ধাপ 1: জাতীয বৃত্তি পোর্টাল (NSP) ওয়েবসাইটে যান",
+    "ধাপ 2: নিবন্ধন করুন এবং লগইন আইডি এবং পাসওয়ার্ড তৈরি করুন",
+    "ধাপ 3: আবেদনপত্র পূরণ করুন এবং প্রয়োজনীয় নথিগুলি আপলোড করুন",
+    "ধাপ 4: সময়সীমার আগে আবেদনপত্র জমা দিন",
+    "ধাপ 5: আবেদনপত্র এবং নথিগুলি যাচাই করুন",
+    "ধাপ 6: নির্বাচন প্রক্রিয়া সম্পূর্ণ হওয়ার জন্য অপেক্ষা করুন",
+    "ধাপ 7: NSP ওয়েবসাইটে আবেদনের অবস্থা পরীক্ষা করুন",
+    "ধাপ 8: ব্যাংক অ্যাকাউন্টে বৃত্তি পরিমাণ প্রাপ্ত করুন",
+    "ধাপ 9: পরের বছরের জন্য নবায়ন আবেদনপত্র জমা দিন",
+    "ধাপ 10: যেকোনো প্র"
+  ],
+  "faq": [
+    {
+      "question_en": "What is the eligibility criteria for the PM Young Achievers Scholarship Award Scheme for Vibrant India?",
+      "answer_en": "The scholarship is open to students from OBC, EBC, and DNT categories studying in Class 9 and Class 11, with a minimum of 60% marks in the previous exam and an annual income limit of ₹2.5 lakh per annum.",
+      "question_hi": "पीएम यंग अचीवर्स स्कॉलरशिप अवार्ड स्कीम फॉर वाइब्रेंट इंडिया के लिए पात्रता मानदंड क्या है?",
+      "answer_hi": "स्कॉलरशिप ओबीसी, ईबीसी और डीएनटी श्रेणियों के छात्रों के लिए खुली है, जो कक्षा 9 और कक्षा 11 में पढ़ रहे हैं, जिनके पास पिछली परीक्षा में न्यूनतम 60% अंक हैं और ₹2.5 लाख प्रति वर्ष की आय सीमा है।"
+    },
+    {
+      "question_en": "What is the amount of scholarship provided under the PM YASASVI scheme?",
+      "answer_en": "The scholarship offers ₹75,000 annually for Class 9 students and ₹1,25,000 for Class 11 students to support their education in government or recognized private schools.",
+      "question_hi": "पीएम यासस्वी योजना के तहत प्रदान की जाने वाली स्कॉलरशिप की राशि क्या है?",
+      "answer_hi": "स्कॉलरशिप कक्षा 9 के छात्रों के लिए ₹75,000 प्रति वर्ष और कक्षा 11 के छात्रों के लिए ₹1,25,000 प्रति वर्ष सरकारी या मान्यता प्राप्त निजी स्कूलों में उनकी शिक्षा के लिए प्रदान करती है।"
+    },
+    {
+      "question_en": "How can I apply for the PM YASASVI scholarship?",
+      "answer_en": "The application for the PM YASASVI scholarship can be made through the National Scholarship Portal (NSP), and the deadline for application is 31 August 2026.",
+      "question_hi": "मैं पीएम यासस्वी स्कॉलरशिप के लिए कैसे आवेदन कर सकता हूं?",
+      "answer_hi": "पीएम यासस्वी स्कॉलरशिप के लिए आवेदन राष्ट्रीय स्कॉलरशिप पोर्टल (एनएसपी) के माध्यम से किया जा सकता है, और आवेदन की समय सीमा 31 अगस्त 2026 है।"
+    },
+    {
+      "question_en": "What documents are required to apply for the PM YASASVI scholarship?",
+      "answer_en": "The required documents include a bank account passbook, Aadhaar card, income certificate, and mark sheet of the previous exam, among others.",
+      "question_hi": "पीएम यासस्वी स्कॉलरशिप के लिए आवेदन करने के लिए कौन से दस्तावेज़ आवश्यक हैं?",
+      "answer_hi": "आवश्यक दस्तावेजों में बैंक खाता पासबुक, आधार कार्ड, आय प्रमाण पत्र और पिछली परीक्षा की मार्कशीट शामिल हैं, अन्य लोगों के बीच।"
+    },
+    {
+      "question_en": "Can I edit my application after submitting it on the NSP portal?",
+      "answer_en": "No, once the application is submitted on the NSP portal, it cannot be edited, so it is advised to fill the application form carefully before submitting it.",
+      "question_hi": "क्या मैं एनएसपी पोर्टल पर आवेदन जमा करने के बाद इसे संपादित कर सकता हूं?",
+      "answer_hi": "नहीं, एक बार आवेदन एनएसपी पोर्टल पर जमा हो जाने के बाद, इसे संपादित नहीं किया जा सकता है, इसलिए आवेदन पत्र को जमा करने से पहले सावधानी से भरने की सलाह दी जाती है।"
+    },
+    {
+      "question_en": "What is the payment mode for the PM YASASVI scholarship?",
+      "answer_en": "The payment is made directly into the bank account of the beneficiary through DBT mode, and the first installment is released before 15th August each year.",
+      "question_hi": "पीएम यासस्वी स्कॉलरशिप के लिए भुगतान मोड क्या है?",
+      "answer_hi": "भुगतान लाभार्थी के बैंक खाते में डीबीटी मोड के माध्यम से सीधे किया जाता है, और पहली किस्त प्रत्येक वर्ष 15 अगस्त से पहले जारी की जाती है।"
+    },
+    {
+      "question_en": "Can I appeal if my application is rejected?",
+      "answer_en": "Yes, if the application is rejected, the applicant can appeal to the concerned authority, and the appeal will be considered as per the guidelines of the scheme.",
+      "question_hi": "क्या मैं अपील कर सकता हूं अगर मेरा आवेदन अस्वीकार कर दिया जाता है?",
+      "answer_hi": "हां, यदि आवेदन अस्वीकार कर दिया जाता है, तो आवेदक संबंधित प्राधिकरण से अपील कर सकता है, और अपील योजना के दिशानिर्देशों के अनुसार विचार की जाएगी।"
+    },
+    {
+      "question_en": "Is there any reservation for girls under the PM YASASVI scheme?",
+      "answer_en": "Yes, at least 30% of the scholarships are reserved for girls, ensuring gender inclusivity in the scheme.",
+      "question_hi": "क्या पीएम यासस्वी योजना के तहत लड़कियों के लिए कोई आरक्षण है?",
+      "answer_hi": "हां, स्कॉलरशिप में से कम से कम 30% लड़कियों के लिए आरक्षित हैं, जो योजना में लिंग समावेशिता सुनिश्चित करती हैं।"
+    }
+  ],
+  "common_mistakes": [
+    "Mistake 1: Not meeting the minimum 60% marks requirement in the previous exam — Ensure that the student has achieved at least 60% marks in their previous year's exam to avoid rejection.",
+    "Mistake 2: Incorrectly filled application form — Double-check all details, especially income, caste, and educational qualifications, to avoid errors that could lead to rejection.",
+    "Mistake 3: Not having a valid bank account — Ensure the student or their guardian has a valid bank account for direct benefit transfer, as this is a mandatory requirement.",
+    "Mistake 4: Missing the deadline for application submission — Be aware of the application deadline (31 Aug 2026) and submit the application well in advance to avoid last-minute issues.",
+    "Mistake 5: Not belonging to the specified categories (OBC, EBC, DNT) — Confirm that the applicant belongs to one of the eligible categories, as this is a critical eligibility criterion.",
+    "Mistake 6: Exceeding the annual income limit of ₹2.5 lakh — Ensure the applicant's household income does not exceed ₹2.5 lakh per annum, as this is a key eligibility condition."
+  ],
+  "pro_tips": [
+    "Tip 1: Apply early to avoid last-minute rush and technical issues — Submit the application as soon as possible after the application window opens to minimize the risk of facing technical glitches or missing the deadline.",
+    "Tip 2: Ensure all required documents are ready and in the correct format — Gather all necessary documents, including income certificates, caste certificates, and mark sheets, and ensure they are in the required format to avoid delays or rejection.",
+    "Tip 3: Double-check the application for accuracy and completeness — Review the application form carefully before submission to ensure all details are accurate and all required fields are filled, reducing the chance of rejection due to errors.",
+    "Tip 4: Keep track of the application status — Regularly check the status of the application on the National Scholarship Portal (NSP) to stay updated on its progress and address any issues promptly."
+  ],
+  "state_wise_amounts": {
+    "note": "The scholarship amount varies by class but not by state; all states follow the central guidelines for the PM YASASVI scheme.",
+    "varies_by": "none",
+    "states": {
+      "andhra_pradesh": "same as central",
+      "assam": "same as central",
+      "bihar": "same as central",
+      "gujarat": "same as central",
+      "haryana": "same as central",
+      "jharkhand": "same as central",
+      "karnataka": "same as central",
+      "kerala": "same as central",
+      "madhya_pradesh": "same as central",
+      "maharashtra": "same as central",
+      "odisha": "same as central",
+      "punjab": "same as central",
+      "rajasthan": "same as central",
+      "tamil_nadu": "same as central",
+      "telangana": "same as central",
+      "uttar_pradesh": "same as central",
+      "uttarakhand": "same as central",
+      "west_bengal": "same as central"
+    }
+  },
+  "state_specific_portals": {
+    "note": "All states use the National Scholarship Portal (NSP) for PM YASASVI applications; there are no state-specific portals for this scheme.",
+    "portals": {}
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "id": "ayushman_bharat",
+  "name_en": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB PM-JAY)",
+  "description_en": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB PM-JAY) is a flagship scheme by the Ministry of Health and Family Welfare, Government of India, aimed at providing health insurance coverage of up to ₹5 lakh per family per year to over 10 crore poor and vulnerable families, approximately 50 crore beneficiaries. The scheme was launched in 2018 and has been expanded to cover additional beneficiaries, including senior citizens aged 70 and above. As of March 24, 2025, more than 36.9 crore Ayushman cards have been issued under the scheme. The scheme has led to a significant increase in Government Health Expenditure (GHE) and a decline in Out-of-Pocket Expenditure (OOPE), resulting in recorded savings of over ₹1.25 lakh crore. The scheme is implemented by the National Health Agency (NHA) and has been expanded to cover 36 states and union territories.",
+  "benefit_en": "The primary financial benefit under Ayushman Bharat PMJAY is a health insurance coverage of up to ₹5 lakh per family per year for secondary and tertiary care. This benefit is provided on a family floater basis, meaning that the entire amount can be utilized by one or more family members. The scheme also provides cashless and hassle-free transactions, eliminating the need for out-of-pocket expenses for covered procedures. Additionally, the scheme offers benefits such as pre-existing disease coverage, hospitalization expenses, and post-hospitalization expenses. The scheme has also been expanded to include free treatment benefits of up to ₹5 lakh per year to around 6 crore senior citizens aged 70 and above, regardless of their socio-economic status.",
+  "eligibility_rules": {
+    "occupation": [
+      "farmer",
+      "agricultural labourer",
+      "rural household",
+      "domestic worker",
+      "street vendor",
+      "sanitation worker",
+      "construction labourer",
+      "transport worker"
+    ],
+    "gender": "any",
+    "bpl_required": false,
+    "land_ownership_required": false,
+    "girl_child_required": false,
+    "pregnant_woman_only": false,
+    "age_min": null,
+    "age_max": null,
+    "income_max_annual": null,
+    "caste_preference": [
+      "any",
+      "SC",
+      "ST",
+      "OBC",
+      "minority"
+    ],
+    "bank_account_required": true,
+    "aadhaar_required": true,
+    "other_conditions": [
+      "Families listed in the SECC 2011 database",
+      "RSBY beneficiaries",
+      "Senior citizens aged 70 and above",
+      "Accredited Social Health Activists (ASHAs), Anganwadi Workers (AWWs), Anganwadi Helpers (AWHs), and their families",
+      "Low-income families identified through the Socio-Economic Caste Census (SECC)"
+    ]
+  },
+  "exclusion_criteria": [
+    "Income tax payees",
+    "Constitutional post holders (President, VP, Ministers, MPs, MLAs, etc.)",
+    "Serving/retired Central & State government employees (except Group D/MTS)",
+    "Government pensioners drawing ₹10,000+/month",
+    "All professionals registered with professional bodies (doctors, lawyers, CAs, architects, engineers)",
+    "Families with a member who is an income tax payee or a government employee"
+  ],
+  "documents_en": [
+    "01. Aadhaar Card — mandatory for eKYC and DBT",
+    "02. Ration Card or other government-recognized ID",
+    "03. Mobile number",
+    "04. Proof of address",
+    "05. Caste certificate (if applicable)",
+    "06. Bank passbook or cancelled cheque — for DBT linkage",
+    "07. Land ownership documents / Khasra-Khatauni / Patta",
+    "08. Income certificate (if required)",
+    "09. Age proof (for senior citizens)",
+    "10. Photo ID proof"
+  ],
+  "apply_steps_en": [
+    "Step 01: Visit the official portal pmjay.gov.in or mera.pmjay.gov.in to check eligibility and apply for the scheme",
+    "Step 02: Enter registered mobile number / ration card number or SECC-2011 ID to check eligibility",
+    "Step 03: Fill in the application form and upload required documents",
+    "Step 04: Verify the application and documents through an empaneled hospital or a Common Service Centre (CSC)",
+    "Step 05: Receive the Ayushman card and benefit from the scheme",
+    "Step 06: Use the Ayushman card to avail cashless treatment at empaneled hospitals",
+    "Step 07: Track the status of the application and benefits through the official portal or helpline",
+    "Step 08: Renew the Ayushman card as required",
+    "Step 09: Provide feedback and suggestions to improve the scheme",
+    "Step 10: Contact the helpline or grievance redressal mechanism in case of any issues or concerns"
+  ],
+  "application_url": "https://pmjay.gov.in/",
+  "helpline": "14555 (Toll-free) / 1800 111 565 (Toll-free)",
+  "ministry": "Ministry of Health and Family Welfare",
+  "nodal_department": "National Health Agency (NHA)",
+  "scheme_type": "central",
+  "launch_year": 2018,
+  "last_updated": "2025",
+  "processing_time": "Estimated 10-15 days from application to first benefit",
+  "renewal_required": true,
+  "renewal_frequency": "Annual",
+  "renewal_process": "Renewal can be done through the official portal or empaneled hospitals",
+  "payment_mode": "DBT / direct bank transfer",
+  "payment_frequency": "Annual",
+  "payment_schedule": "Specific dates, triggers, or installment breakdown as per the scheme guidelines",
+  "related_schemes": [
+    "Rashtriya Swasthya Bima Yojana (RSBY)",
+    "National Health Mission (NHM)",
+    "Pradhan Mantri Jan Arogya Yojana (PMJAY)"
+  ],
+  "tags": [
+    "health insurance",
+    "Ayushman Bharat",
+    "PMJAY",
+    "National Health Agency",
+    "NHA",
+    "Ministry of Health and Family Welfare",
+    "central scheme",
+    "government-funded",
+    "healthcare"
+  ],
+  "source_url": "https://pmjay.gov.in/",
+  "keywords": [
+    "Ayushman Bharat",
+    "PMJAY",
+    "health insurance",
+    "central scheme",
+    "government-funded",
+    "healthcare",
+    "National Health Agency",
+    "NHA",
+    "Ministry of Health and Family Welfare",
+    "eligibility criteria",
+    "application process",
+    "benefits",
+    "documents required",
+    "helpline number",
+    "renewal process",
+    "payment mode",
+    "payment frequency",
+    "related schemes",
+    "Ayushman card",
+    "SECC 2011",
+    "RSBY",
+    "NHM"
+  ],
+  "documents_hi": [
+    "आधार कार्ड — ईकेवाईसी और डीबीटी के लिए अनिवार्य",
+    "राशन कार्ड या अन्य सरकार द्वारा मान्यता प्राप्त आईडी",
+    "मोबाइल नंबर",
+    "पते का प्रमाण",
+    "जाति प्रमाण पत्र (यदि लागू हो)",
+    "बैंक पासबुक या रद्द चेक — डीबीटी लिंकेज के लिए",
+    "भूमि स्वामित्व दस्तावेज / खसरा-खतौनी / पट्टा",
+    "आय प्रमाण पत्र (यदि आवश्यक हो)",
+    "आयु प्रमाण (वरिष्ठ नागरिकों के लिए)",
+    "फोटो आईडी प्रमाण"
+  ],
+  "documents_ta": [
+    "ஆதார் அட்டை — இ-கேவாய்சி மற்றும் டிபிடி ஆகியவற்றிற்கு அவசியம்",
+    "அரிசி அட்டை அல்லது அரசாங்கத்தால் அங்கீகரிக்கப்பட்ட அடையாள அட்டை",
+    "கைப்பேசி எண்",
+    "முகவரி தெளிவு",
+    "சாதி சான்றிதழ் (பொருந்தும் போது)",
+    "வங்கி பாஸ்புக் அல்லது ரத்து செய்யப்பட்ட ஆலோசனை — டிபிடி இணைப்புக்கு",
+    "நில உடைமை ஆவணங்கள் / காசா-கத்தானி / பட்டா",
+    "வருமான சான்றிதழ் (தேவைப்பட்டால்)",
+    "வயது தெளிவு (முதியோருக்கானது)",
+    "புகைப்பட அடையாள அட்டை"
+  ],
+  "documents_bn": [
+    "আধার কার্ড — ই-কেওয়াইসি এবং ডিবিটি এর জন্য বাধ্যতামূলক",
+    "রেশন কার্ড বা অন্য সরকার কর্তৃক স্বীকৃত আইডি",
+    "মোবাইল নম্বর",
+    "ঠিকানা প্রমাণ",
+    "জাতি প্রমাণপত্র (যদি প্রযোজ্য হয়)",
+    "ব্যাংক পাসবুক বা বাতিল চেক — ডিবিটি লিংকেজের জন্য",
+    "জমি মালিকানা নথি / খতিয়ান / পাট্টা",
+    "আয় প্রমাণপত্র (যদি প্রয়োজন হয়)",
+    "বয়স প্রমাণ (সিনিয়র নাগরিকদের জন্য)",
+    "ফটো আইডি প্রমাণ"
+  ],
+  "apply_steps_hi": [
+    "आयुष्मान भारत प्रधान मंत्री जन आरोग्य योजना के लिए पात्रता की जांच करने और आवेदन करने के लिए आधिकारिक पोर्टल pmjay.gov.in या mera.pmjay.gov.in पर जाएं",
+    "पंजीकृत मोबाइल नंबर / राशन कार्ड नंबर या एसईसीसी-2011 आईडी दर्ज करें और पात्रता की जांच करें",
+    "आवेदन पत्र भरें और आवश्यक दस्तावेज अपलोड करें",
+    "एक पैनल में शामिल अस्पताल या सामान्य सेवा केंद्र (सीएससी) के माध्यम से आवेदन और दस्तावेजों को सत्यापित करें",
+    "आयुष्मान कार्ड प्राप्त करें और योजना का लाभ उठाएं",
+    "आयुष्मान कार्ड का उपयोग करके पैनल में शामिल अस्पतालों में नगद रहित उपचार प्राप्त करें",
+    "आधिकारिक पोर्टल या हेल्पलाइन के माध्यम से आवेदन और लाभों की स्थिति को ट्रैक करें",
+    "आवश्यकतानुसार आयुष्मान कार्ड को नवीनीकृत करें",
+    "योजना में सुधार के लिए प्रतिक्रिया और सुझाव प्रदान करें",
+    "किसी भी मुद्दे या चिंता के मामले में हेल्पलाइन या शिकायत निवारण तंत्र से संपर्क करें"
+  ],
+  "apply_steps_ta": [
+    "ஆயுஷ்மான் பாரத் பிரதம மந்திரி ஜன் ஆரோக்ய யோஜனாவிற்கான தகுதியைப் பரிசோதிக்கவும், திட்டத்திற்கு விண்ணப்பிக்கவும் அதிகாரப்பூர்வ இணையதளமான pmjay.gov.in அல்லது mera.pmjay.gov.in இல் செல்லுங்கள்",
+    "பதிவு செய்யப்பட்ட கைப்பேசி எண் / அரிசி அட்டை எண் அல்லது எஸ்இசிசி-2011 ஐடி இனை உள்ளிட்டு தகுதியைப் பரிசோதிக்கவும்",
+    "விண்ணப்ப படிவத்தை நிரப்பி தேவையான ஆவணங்களை மேலேற்றவும்",
+    "ஒரு பணியாளர் சேர்க்கப்பட்ட மருத்துவமனை அல்லது பொது சேவை மையம் (சிஎஸ்சி) மூலம் விண்ணப்பத்தையும் ஆவணங்களையும் சரிபார்க்கவும்",
+    "ஆயுஷ்மான் அட்டையைப் பெறுங்கள் மற்றும் திட்டத்தின் நன்மைகளைப் பெறுங்கள்",
+    "ஆயுஷ்மான் அட்டையைப் பயன்படுத்தி பணியாளர் சேர்க்கப்பட்ட மருத்துவமனைகளில் காசு ரஹித சிகிச்சையைப் பெறுங்கள்",
+    "அதிகாரப்பூர்வ இணையதளம் அல்லது உதவி எண்ணத்தின் மூலம் விண்ணப்பத்தின் நிலைமையையும் நன்மைகளையும் தொடர்ந்து கண்காணிக்கவும்",
+    "தேவைப்பட்டால் ஆயுஷ்மான் அட்டையை புதுப்பிக்கவும்",
+    "திட்டத்தை மேம்படுத்துவதற்கான கருத்துக்களையும் பரிந்துரைகளையும் வழங்குங்கள்",
+    "எந்த"
+  ],
+  "faq": [
+    {
+      "question_en": "What is the eligibility criteria for Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB PM-JAY)?",
+      "answer_en": "The eligibility criteria for AB PM-JAY is based on the Socio-Economic Caste Census (SECC) 2011, and includes families listed in the SECC 2011 database, RSBY beneficiaries, senior citizens aged 70 and above, and Accredited Social Health Activists (ASHAs), Anganwadi Workers (AWWs), Anganwadi Helpers (AWHs), and their families.",
+      "question_hi": "आयुष्मान भारत प्रधान मंत्री जन आरोग्य योजना (एबी पीएम-जेएवाई) के लिए पात्रता मानदंड क्या है?",
+      "answer_hi": "एबी पीएम-जेएवाई के लिए पात्रता मानदंड सामाजिक-आर्थिक जाति जनगणना (एसईसीसी) 2011 पर आधारित है, और एसईसीसी 2011 डेटाबेस में सूचीबद्ध परिवारों, आरएसबीवाई लाभार्थियों, 70 वर्ष से अधिक आयु के वरिष्ठ नागरिकों, और प्रत्यायन सामाजिक स्वास्थ्य कार्यकर्ताओं (एएसएचए), आंगनवाड़ी कार्यकर्ताओं (एडब्ल्यूडब्ल्यू), आंगनवाड़ी सहायकों (एडब्ल्यूएच) और उनके परिवारों को शामिल करता है।",
+      "question_ta": "ஆயுஷ்மான் பாரத் பிரதம மந்திரி ஜன் ஆரோக்ய யோஜனா (ஏபி பிஎம்-ஜேஏவाई) திட்டத்திற்கு தகுதி கருத்துக்கள் என்ன?",
+      "answer_ta": "ஏபி பிஎம்-ஜேஏவाई திட்டத்திற்கான தகுதி கருத்துக்கள் சமூக-பொருளாதார சாதி மக்கள் தொகை கணக்கெடுப்பு (எஸ்இசிசி) 2011 அடிப்படையில் அமைந்துள்ளது, மேலும் எஸ்இசிசி 2011 தரவுத்தளத்தில் பட்டியலிடப்பட்ட குடும்பங்கள், ஆர்எஸ்பிவाई நன்மைகள், 70 வயது மற்றும் அதற்கு மேற்பட்ட மூத்த குடிமக்கள், மற்றும் அங்கன்வாடி தொழிலாளர்கள் (ஏஎச்எச்ஏ), ஆங்கன்வாடி ஊழியர்கள் (எஏடபிள்யு), ஆங்கன்வாடி உதவியாளர்கள் (எஏடபிள்யுஎச்) மற்றும் அவர்களின் குடும்பங்களை உள்ளடக்கியது."
+    },
+    {
+      "question_en": "What documents are required to apply for Ayushman Bharat card?",
+      "answer_en": "The required documents to apply for Ayushman Bharat card include Aadhaar Card, Ration Card or other government-recognized ID, Mobile number, Proof of address, and Caste certificate (if applicable).",
+      "question_hi": "आयुष्मान भारत कार्ड के लिए आवेदन करने के लिए कौन से दस्तावेज़ आवश्यक हैं?",
+      "answer_hi": "आयुष्मान भारत कार्ड के लिए आवेदन करने के लिए आवश्यक दस्तावेज़ में आधार कार्ड, राशन कार्ड या अन्य सरकार द्वारा मान्यता प्राप्त आईडी, मोबाइल नंबर, पते का प्रमाण, और जाति प्रमाण पत्र (यदि लागू हो) शामिल हैं।",
+      "question_ta": "ஆயுஷ்மான் பாரத் அட்டைக்கு விண்ணப்பிக்க என்ன ஆவணங்கள் தேவை?",
+      "answer_ta": "ஆயுஷ்மான் பாரத் அட்டைக்கு விண்ணப்பிக்க தேவையான ஆவணங்களில் ஆதார் அட்டை, ரேஷன் கார்டு அல்லது பிற அரசாங்கத்தால் அங்கீகரிக்கப்பட்ட அடையாள அட்டை, கைப்பேசி எண், முகவரி ஆதாரம், மற்றும் சாதி சான்றிதழ் (பயன்படுத்தப்பட்டால்) ஆகியவை அடங்கும்."
+    }
+  ],
+  "common_mistakes": [
+    "Mistake 1: Incomplete or incorrect documentation — Ensure all required documents such as Aadhaar Card, Ration Card, and caste certificate (if applicable) are available and accurate to avoid rejection",
+    "Mistake 2: Not checking eligibility criteria — Verify eligibility based on the Socio-Economic Caste Census (SECC) 2011 database, occupation, and other specified criteria to avoid application failure",
+    "Mistake 3: Incorrectly filled application form — Carefully fill out the application form, ensuring all details are correct and up-to-date to prevent processing delays",
+    "Mistake 4: Not having a valid mobile number — Provide a valid mobile number for communication and verification purposes to avoid issues with application processing",
+    "Mistake 5: Not checking hospital empanelment — Verify that the chosen hospital is empaneled under the Ayushman Bharat scheme to ensure cashless treatment",
+    "Mistake 6: Not understanding the scheme's benefits and limitations — Familiarize yourself with the scheme's coverage, including the ₹5 lakh per family per year limit, to avoid unexpected expenses"
+  ],
+  "pro_tips": [
+    "Tip 1: Apply through the official portal or authorized centers to ensure a smooth and genuine application process",
+    "Tip 2: Keep all required documents ready and organized to expedite the application process",
+    "Tip 3: Regularly check the scheme's official website for updates on eligibility, benefits, and empaneled hospitals to stay informed",
+    "Tip 4: Utilize the Ayushman Bharat helpline or support services for assistance with applications, claims, or any queries regarding the scheme"
+  ],
+  "state_wise_amounts": {
+    "note": "State-specific top-ups or additional benefits may vary",
+    "varies_by": "amount",
+    "states": {
+      "andhra_pradesh": "same as central",
+      "assam": "same as central",
+      "bihar": "same as central",
+      "gujarat": "same as central",
+      "haryana": "same as central",
+      "jharkhand": "same as central",
+      "karnataka": "same as central",
+      "kerala": "same as central",
+      "madhya_pradesh": "same as central",
+      "maharashtra": "same as central",
+      "odisha": "same as central",
+      "punjab": "same as central",
+      "rajasthan": "same as central",
+      "tamil_nadu": "same as central",
+      "telangana": "same as central",
+      "uttar_pradesh": "same as central",
+      "uttarakhand": "same as central",
+      "west_bengal": "same as central"
+    }
+  },
+  "state_specific_portals": {
+    "note": "State-level application portals may differ from the central portal",
+    "portals": {}
+  }
+}

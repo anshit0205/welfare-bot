@@ -1,0 +1,273 @@
+{
+  "id": "nrega",
+  "name_en": "Mahatma Gandhi National Rural Employment Guarantee Act",
+  "description_en": "The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) is a social welfare scheme implemented by the Government of India to guarantee employment to rural laborers. The scheme aims to provide a legal guarantee of employment to rural laborers, protecting them from poverty and hunger. The Ministry of Rural Development is the implementing ministry, and the scheme was launched in 2006. The scheme covers all rural areas of the country, with over 28 crore beneficiaries. The funding pattern is a mix of central and state government funds, with a key impact metric being the number of person-days of employment generated. The scheme has been successful in providing employment to rural laborers, especially during times of drought or other natural disasters.",
+  "benefit_en": "The primary financial benefit under MGNREGA is a wage employment of Rs 202 per day, with a payment schedule of weekly payments. The scheme also provides secondary benefits such as a guarantee of 100 days of employment per household per year, with a provision for unemployment allowance if employment is not provided. The scheme is linked to other social welfare schemes such as the Pradhan Mantri Awas Yojana and the Deen Dayal Upadhyaya Antyodaya Yojana, providing convergence benefits. Additionally, the scheme provides top-up benefits such as a provision for skill training and a pension scheme for laborers. The scheme also provides insurance coverage under the Pradhan Mantri Suraksha Bima Yojana and the Pradhan Mantri Jeevan Jyoti Bima Yojana.",
+  "eligibility_rules": {
+    "occupation": [
+      "farmer",
+      "agricultural labourer",
+      "rural household",
+      "unskilled manual worker"
+    ],
+    "gender": "any",
+    "bpl_required": false,
+    "land_ownership_required": false,
+    "girl_child_required": false,
+    "pregnant_woman_only": false,
+    "age_min": null,
+    "age_max": null,
+    "income_max_annual": null,
+    "caste_preference": [
+      "any",
+      "SC/ST/OBC/Minority"
+    ],
+    "bank_account_required": true,
+    "aadhaar_required": true,
+    "other_conditions": [
+      "The applicant must be a resident of a rural area",
+      "The applicant must be willing to do unskilled manual work",
+      "The applicant must not be a income tax payee",
+      "The applicant must not be a government employee or pensioner",
+      "The applicant must not be a registered professional"
+    ]
+  },
+  "exclusion_criteria": [
+    "Income tax payees (previous assessment year)",
+    "Constitutional post holders (President, VP, Ministers, MPs, MLAs, etc.)",
+    "Serving/retired Central & State government employees (except Group D/MTS)",
+    "Government pensioners drawing Rs 10,000+/month",
+    "All professionals registered with professional bodies (doctors, lawyers, CAs, architects, engineers)",
+    "Any other explicitly stated exclusion from the scheme guidelines"
+  ],
+  "documents_en": [
+    "01. Aadhaar Card — mandatory for eKYC and DBT",
+    "02. Land ownership documents / Khasra-Khatauni / Patta",
+    "03. Bank passbook or cancelled cheque — for DBT linkage",
+    "04. Job Card application form",
+    "05. Proof of residence (voter ID, ration card, etc.)",
+    "06. Proof of age (birth certificate, school certificate, etc.)",
+    "07. Proof of income (income certificate, salary slip, etc.)",
+    "08. Caste certificate (if applicable)",
+    "09. Disability certificate (if applicable)",
+    "10. Passport size photograph"
+  ],
+  "apply_steps_en": [
+    "Step 01: Visit the official website of MGNREGA (nrega.dord.gov.in) and click on the 'Job Card' tab",
+    "Step 02: Fill in the online application form with required details such as name, address, age, etc.",
+    "Step 03: Upload required documents such as Aadhaar card, land ownership documents, etc.",
+    "Step 04: Submit the application form and take a printout of the acknowledgement slip",
+    "Step 05: Visit the Gram Panchayat office and submit the application form and required documents",
+    "Step 06: The Gram Panchayat will verify the application and documents",
+    "Step 07: If the application is approved, a Job Card will be issued to the applicant",
+    "Step 08: The applicant can then demand employment under the scheme",
+    "Step 09: The applicant can track the status of their application online",
+    "Step 10: The applicant can also file a grievance if they are not satisfied with the service"
+  ],
+  "application_url": "https://nrega.dord.gov.in/",
+  "helpline": "1800 111 555",
+  "ministry": "Ministry of Rural Development",
+  "nodal_department": "Department of Rural Development",
+  "scheme_type": "central",
+  "launch_year": 2006,
+  "last_updated": "2024",
+  "processing_time": "15 days",
+  "renewal_required": false,
+  "renewal_frequency": null,
+  "renewal_process": "Not applicable",
+  "payment_mode": "DBT / direct bank transfer",
+  "payment_frequency": "weekly",
+  "payment_schedule": "Every Thursday",
+  "related_schemes": [
+    "Pradhan Mantri Awas Yojana",
+    "Deen Dayal Upadhyaya Antyodaya Yojana",
+    "Pradhan Mantri Suraksha Bima Yojana",
+    "Pradhan Mantri Jeevan Jyoti Bima Yojana"
+  ],
+  "tags": [
+    "rural employment",
+    "wage employment",
+    "social welfare",
+    "poverty alleviation",
+    "hunger alleviation",
+    "rural development"
+  ],
+  "source_url": "https://nrega.dord.gov.in/",
+  "keywords": [
+    "MGNREGA",
+    "NREGA",
+    "Mahatma Gandhi National Rural Employment Guarantee Act",
+    "rural employment",
+    "wage employment",
+    "social welfare",
+    "poverty alleviation",
+    "hunger alleviation",
+    "rural development",
+    "Job Card",
+    "employment guarantee",
+    "unemployment allowance",
+    "skill training",
+    "pension scheme",
+    "insurance coverage",
+    "Pradhan Mantri Awas Yojana",
+    "Deen Dayal Upadhyaya Antyodaya Yojana",
+    "Pradhan Mantri Suraksha Bima Yojana",
+    "Pradhan Mantri Jeevan Jyoti Bima Yojana"
+  ],
+  "name_hi": "महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार गारंटी अधिनियम",
+  "name_ta": "மகாத்மா காந்தி தேசிய கிராம வேலை உறுதிச்சீட்டு சட்டம்",
+  "name_bn": "মহাত্মা গান্ধী জাতীয় গ্রামীণ কর্মসংস্থান গ্যারান্টি আইন",
+  "name_mr": "महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार हमी अधिनियम",
+  "description_hi": "महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार गारंटी अधिनियम (एमजीएनआरईजीए) भारत सरकार द्वारा ग्रामीण श्रमिकों को रोजगार की गारंटी देने के लिए लागू की गई एक सामाजिक कल्याण योजना है। इस योजना का उद्देश्य ग्रामीण श्रमिकों को कानूनी रूप से रोजगार की गारंटी प्रदान करना है, जिससे उन्हें गरीबी और भुखमरी से बचाया जा सके। ग्रामीण विकास मंत्रालय इस योजना को लागू करने वाला मंत्रालय है, और यह योजना 2006 में शुरू की गई थी। यह योजना देश के सभी ग्रामीण क्षेत्रों में लागू होती है, जिसमें 28 करोड़ से अधिक लाभार्थी हैं। वित्तपोषण पैटर्न केंद्र और राज्य सरकारों के फंड का मिश्रण है, जिसमें रोजगार के व्यक्ति-दिवसों की संख्या एक प्रमुख प्रभाव मीट्रिक है। यह योजना ग्रामीण श्रमिकों को रोजगार प्रदान करने में सफल रही है, विशेष रूप से सूखा या अन्य प्राकृतिक आपदाओं के समय में।",
+  "description_ta": "மகாத்மா காந்தி தேசிய கிராம வேலை உறுதிச்சீட்டு சட்டம் (எம்ஜிஎன்ஆர்இஜிஏ) என்பது கிராமப்புற தொழிலாளர்களுக்கு வேலைவாய்ப்பை உறுதிசெய்யும் வகையில் இந்திய அரசால் செயல்படுத்தப்பட்ட ஒரு சமூக நலத்திட்டமாகும். இந்தத் திட்டத்தின் நோக்கம் கிராமப்புற தொழிலாளர்களுக்கு சட்டப்பூர்வமாக வேலைவாய்ப்பின் உறுதியை வழங்குவதாகும், இதன் மூலம் அவர்களை வறுமை மற்றும் பசியிலிருந்து காப்பாற்ற முடியும். கிராமப்புற மேம்பாட்டு அமைச்சகம் இந்தத் திட்டத்தை செயல்படுத்தும் அமைச்சகமாகும், மேலும் இந்தத் திட்டம் 2006 ஆம் ஆண்டில் தொடங்கப்பட்டது. இந்தத் திட்டம் நாட்டின் அனைத்து கிராமப்புற பகுதிகளிலும் பொருந்தும், இதில் 28 கோடிக்கும் மேற்பட்ட நன்மையாளர்கள் உள்ளனர். நிதியளிப்பு வடிவமைப்பு மத்திய மற்றும் மாநில அரசுகளின் நிதிகளின் கலவையாகும், இதில் வேலைவாய்ப்பின் நபர்-நாட்களின் எண்ணிக்கை ஒரு முக்கிய தாக்க அளவீடாகும். இந்தத் திட்டம் கிராமப்புற தொழிலாளர்களுக்கு வேலைவாய்ப்பை வழங்குவதில் வெற்றிகரமாக இருந்துள்ளது, குறிப்பாக வறட்சி அல்லது பிற இயற்கை பேரழிவுகளின் போது.",
+  "description_bn": "মহাত্মা গান্ধী জাতীয গ্রামীণ কর্মসংস্থান গ্যারান্টি আইন (এমজিএনআরইজিএ) ভারত সরকার কর্তৃক গ্রামীণ শ্রমিকদের কর্মসংস্থানের গ্যারান্টি প্রদানের জন্য বাস্তবায়িত একটি সামাজিক কল্যাণ প্রকল্প। এই প্রকল্পের উদ্দেশ্য হল গ্রামীণ শ্রমিকদের আইনগতভাবে কর্মসংস্থানের গ্যারান্টি প্রদান করা, যাতে তাদের দার",
+  "documents_hi": [
+    "आधार कार्ड — ईकेवाईसी और डीबीटी के लिए अनिवार्य",
+    "भूमि स्वामित्व दस्तावेज / खसरा-खतौनी / पट्टा",
+    "बैंक पासबुक या रद्द चेक — डीबीटी लिंकेज के लिए",
+    "जॉब कार्ड आवेदन पत्र",
+    "निवास प्रमाण (वोटर आईडी, राशन कार्ड आदि)",
+    "आयु प्रमाण (जन्म प्रमाण पत्र, स्कूल प्रमाण पत्र आदि)",
+    "आय प्रमाण (आय प्रमाण पत्र, वेतन पर्ची आदि)",
+    "जाति प्रमाण पत्र (यदि लागू हो)",
+    "विकलांगता प्रमाण पत्र (यदि लागू हो)",
+    "पासपोर्ट आकार की फोटो"
+  ],
+  "documents_ta": [
+    "ஆதார் அட்டை — இ-கேவाईசி மற்றும் டிபிடி க்கு அவசியம்",
+    "நில உடைமை ஆவணங்கள் / கஸ்ரா-கத்தானி / பட்டா",
+    "வங்கி பாஸ்புக் அல்லது ரத்து செய்யப்பட்ட ஆணை — டிபிடி இணைப்புக்கு",
+    "வேலை அட்டை விண்ணப்ப படிவம்",
+    "வசிப்பிட ஆதாரம் (வாக்காளர் அட்டை, ரேஷன் கார்டு முதலியன)",
+    "வயது ஆதாரம் (பிறப்பு சான்றிதழ், பள்ளி சான்றிதழ் முதலியன)",
+    "வருமான ஆதாரம் (வருமான சான்றிதழ், ஊதிய தாள் முதலியன)",
+    "சாதி சான்றிதழ் (பொருந்தும் போது)",
+    "ஊனம் சான்றிதழ் (பொருந்தும் போது)",
+    "பாஸ்போர்ட் அளவு புகைப்படம்"
+  ],
+  "documents_bn": [
+    "আধার কার্ড — ইকেওয়াইসি এবং ডিবিটি এর জন্য বাধ্যতামূলক",
+    "জমির মালিকানা নথি / খতিযান / পাট্টা",
+    "ব্যাংক পাসবুক বা বাতিল চেক — ডিবিটি লিংকেজের জন্য",
+    "চাকরি কার্ড আবেদনপত্র",
+    "বাসস্থানের প্রমাণ (ভোটার আইডি, রেশন কার্ড ইত্যাদি)",
+    "বয়সের প্রমাণ (জন্ম নিবন্ধন প্রমাণপত্র, স্কুল প্রমাণপত্র ইত্যাদি)",
+    "আয়ের প্রমাণ (আয় প্রমাণপত্র, বেতন স্লিপ ইত্যাদি)",
+    "জাতি প্রমাণপত্র (যদি প্রযোজ্য হয়)",
+    "প্রতিবন্ধকতা প্রমাণপত্র (যদি প্রযোজ্য হয়)",
+    "পাসপোর্ট আকারের ছবি"
+  ],
+  "documents_mr": [
+    "आधार कार्ड — ईकेवाईसी आणि डीबीटी साठी अनिवार्य",
+    "जमीन मालकी दस्तावेज / खतौनी / पट्टा",
+    "बँक पासबुक किंवा रद्द केलेली चेक — डीबीटी लिंकेज साठी",
+    "नोकरी कार्ड अर्ज फॉर्म",
+    "राहिवाशी पुरावा (मतदार ओळखपत्र, रेशन कार्ड इ.)",
+    "वय पुरावा (जन्म प्रमाणपत्र, शाळा प्रमाणपत्र इ.)",
+    "उत्पन्न पुरावा (उत्पन्न प्रमाणपत्र, वेतन पत्र इ.)",
+    "जाती प्रमाणपत्र (योग्य असल्यास)",
+    "विकलांगता प्रमाणपत्र (योग्य असल्यास)",
+    "पासपोर्ट आकाराचा फोटो"
+  ],
+  "apply_steps_hi": [
+    "एमजीएनआरईजीए (nrega.dord.gov.in) की आधिकारिक वेबसाइट पर जाएं और 'जॉब कार्ड' टैब पर क्लिक करें",
+    "ऑनलाइन आवेदन पत्र भरें जिसमें नाम, पता, आयु आदि जानकारी शामिल हो",
+    "आधार कार्ड, भूमि स्वामित्व दस्तावेज आदि आवश्यक दस्तावेज अपलोड करें",
+    "आवेदन पत्र जमा करें और पावती पर्ची का प्रिंटआउट लें",
+    "ग्राम पंचायत कार्यालय में जाएं और आवेदन पत्र और आवश्यक दस्तावेज जमा करें",
+    "ग्राम पंचायत आवेदन और दस्तावेजों की जांच करेगा",
+    "यदि आवेदन स्वीकृत हो जाता है, तो आवेदक को जॉब कार्ड जारी किया जाएगा",
+    "आवेदक योजना के तहत रोजगार की मांग कर सकता है",
+    "आवेदक ऑनलाइन आवेदन की स्थिति की जांच कर सकता है",
+    "आवेदक सेवा से संतुष्ट नहीं होने पर शिकायत दर्ज करा सकता है"
+  ],
+  "apply_steps_ta": [
+    "எம்ஜிஎன்ஆர்இஜிஏ (nrega.dord.gov.in) அதிகாரப்பூர்வ இணையதளத்திற்குச் செல்லுங்கள் மற்றும் 'வேலை அட்டை' தாவரத்தைக் கிளிக் செய்யுங்கள்",
+    "நிரந்தர விண்ணப்ப படிவத்தை நிரப்புங்கள், அதில் பெயர், முகவரி, வயது முதலியன அடங்கும்",
+    "ஆதார் அட்டை, நில உடைமை ஆவணங்கள் முதலியன தேவையான ஆவணங்களை பதிவேற்றுங்கள்",
+    "விண்ணப்ப படிவத்தை சமர்ப்பிக்கவும் மற்றும் பதிவு சீட்டின் அச்சுப்பிரதியை எடுக்கவும்",
+    "கிராம பஞ்சாயத்து அலுவலகத்திற்குச் செல்லுங்கள் மற்றும் விண்ணப்ப படிவத்தையும் தேவையான ஆவணங்களையும் சமர்ப்பிக்கவும்",
+    "கிராம பஞ்சாயத்து விண்ணப்பத்தையும் ஆவணங்களையும் பரிசீலிக்கும்",
+    "விண்ணப்பம் ஏற்றுக்கொள்ளப்பட்டால், விண்ணப்பத்தாருக்கு வேலை அட்டை வழங்கப்படும்",
+    "விண்ணப்பத்தார் திட்டத்தின்"
+  ],
+  "faq": [
+    {
+      "question_en": "What is the entitlement of rural households under MGNREGA?",
+      "answer_en": "Every rural household is entitled to a Job Card, which contains names and photos of adult members, enabling them to demand and receive work. The Job Card is a key document that records work demanded/received, wages paid, and must be kept updated and in the possession of the household. Gram Panchayats have a duty to issue a Job Card within 15 days of a household applying for one.",
+      "question_hi": "एमजीएनआरईजीए के तहत ग्रामीण परिवारों का हक क्या है?",
+      "answer_hi": "प्रत्येक ग्रामीण परिवार को एक जॉब कार्ड का हक है, जिसमें वयस्क सदस्यों के नाम और फोटो होते हैं, जिससे वे काम मांग सकते हैं और प्राप्त कर सकते हैं। जॉब कार्ड एक महत्वपूर्ण दस्तावेज है जो मांगे गए/प्राप्त किए गए काम, भुगतान की गई मजदूरी का रिकॉर्ड रखता है, और इसका अद्यतन संस्करण परिवार के पास होना चाहिए। ग्राम पंचायतों को परिवार द्वारा आवेदन करने के 15 दिनों के भीतर जॉब कार्ड जारी करने का कर्तव्य है।",
+      "question_ta": "மகாத்மா காந்தி தேசிய ஊரக வேலை உறுதிச்சீட்டு சட்டத்தின் கீழ் கிராமப்புற குடும்பங்களின் உரிமை என்ன?",
+      "answer_ta": "ஒவ்வொரு கிராமப்புற குடும்பத்திற்கும் வேலை அட்டை உரிமை உண்டு, இதில் பெரியவர் உறுப்பினர்களின் பெயர்களும் புகைப்படங்களும் இருக்கும், இதன் மூலம் அவர்கள் வேலையைக் கோரவும் பெறவும் முடியும். வேலை அட்டை ஒரு முக்கிய ஆவணமாகும், இது கோரப்பட்ட/பெறப்பட்ட வேலை, செலுத்தப்பட்ட கூலி ஆகியவற்றின் சான்றைக் கொண்டுள்ளது, மேலும் இது குடும்பத்தின் வசம் புதுப்பிக்கப்பட்ட நிலையில் இருக்க வேண்டும். கிராம பஞ்சாயத்துகளுக்கு குடும்பம் விண்ணப்பித்த 15 நாட்களுக்குள் வேலை அட்டையை வழங்குவதற்கான கடமை உண்டு."
+    },
+    {
+      "question_en": "What is the daily wage under MGNREGA?",
+      "answer_en": "The primary financial benefit under MGNREGA is a wage employment of Rs 202 per day, with a payment schedule of weekly payments.",
+      "question_hi": "एमजीएनआरईजीए के तहत दैनिक वेतन क्या है?",
+      "answer_hi": "एमजीएनआरईजीए के तहत प्राथमिक वित्तीय लाभ प्रति दिन 202 रुपये का वेतन रोजगार है, जिसमें साप्ताहिक भुगतान का कार्यक्रम है।",
+      "question_ta": "மகாத்மா காந்தி தேசிய ஊரக வேலை உறுதிச்சீட்டு திட்டத்தின் கீழ் நாள் ஊதியம் என்ன?",
+      "answer_ta": "மகாத்மா காந்தி தேசிய ஊரக வேலை உறுதிச்சீட்டு திட்டத்தின் கீழ் முதன்மை நிதி நன்மை ஒரு நாளைக்கு ரூ.202 ஊதியம் ஆகும், வாராந்திர செலுத்துதல் அட்டவணையுடன்."
+    }
+  ],
+  "common_mistakes": [
+    "Mistake 1: Incorrect or incomplete information in the Job Card application — Ensure all details are accurate and up-to-date to avoid rejection.",
+    "Mistake 2: Failure to update the Job Card regularly — Regularly update the Job Card to reflect changes in household members or addresses.",
+    "Mistake 3: Not possessing the Job Card — Ensure the Job Card is in the possession of the household at all times to avoid violations of the Act.",
+    "Mistake 4: Not demanding work within the specified timeframe — Demand work within the specified timeframe to avoid missing out on employment opportunities.",
+    "Mistake 5: Not checking the internet connection before checking the Job Card list — Ensure a stable internet connection before checking the Job Card list to avoid errors.",
+    "Mistake 6: Not providing required documents — Ensure all required documents, such as Aadhaar and bank account details, are provided to avoid rejection."
+  ],
+  "pro_tips": [
+    "Tip 1: Apply for a Job Card as soon as possible to ensure timely receipt of employment opportunities.",
+    "Tip 2: Regularly check the MGNREGA website or state-specific portals for updates on employment opportunities and scheme benefits.",
+    "Tip 3: Ensure all household members are registered on the Job Card to maximize employment opportunities.",
+    "Tip 4: Keep the Job Card updated and in a safe place to avoid loss or damage."
+  ],
+  "state_wise_amounts": {
+    "note": "The daily wage rate under MGNREGA varies by state.",
+    "varies_by": "wage_rate",
+    "states": {
+      "andhra_pradesh": "Rs 227 per day",
+      "assam": "Rs 217 per day",
+      "bihar": "Rs 204 per day",
+      "gujarat": "Rs 233 per day",
+      "haryana": "Rs 241 per day",
+      "jharkhand": "Rs 204 per day",
+      "karnataka": "Rs 217 per day",
+      "kerala": "Rs 271 per day",
+      "madhya_pradesh": "Rs 217 per day",
+      "maharashtra": "Rs 233 per day",
+      "odisha": "Rs 207 per day",
+      "punjab": "Rs 274 per day",
+      "rajasthan": "Rs 214 per day",
+      "tamil_nadu": "Rs 225 per day",
+      "telangana": "Rs 227 per day",
+      "uttar_pradesh": "Rs 202 per day",
+      "uttarakhand": "Rs 214 per day",
+      "west_bengal": "Rs 223 per day"
+    }
+  },
+  "state_specific_portals": {
+    "note": "Some states have their own portals for MGNREGA applications and information.",
+    "portals": {
+      "andhra_pradesh": "https://nregaportal.ap.gov.in/",
+      "assam": "https://nrega.assam.gov.in/",
+      "bihar": "https://nrega.bih.nic.in/",
+      "gujarat": "https://nregagujarat.org/",
+      "haryana": "https://nregahry.gov.in/",
+      "jharkhand": "https://nregajharkhand.gov.in/",
+      "karnataka": "https://nregakarnataka.gov.in/",
+      "kerala": "https://nregakerala.org/",
+      "madhya_pradesh": "https://nregamp.gov.in/",
+      "maharashtra": "https://nregamaharashtra.gov.in/",
+      "odisha": "https://nregodisha.gov.in/",
+      "punjab": "https://nregapunjab.gov.in/",
+      "rajasthan": "https://nregarajasthan.nic.in/",
+      "tamil_nadu": "https://nregatamilnadu.org/",
+      "telangana": "https://nregatelangana.gov.in/",
+      "uttar_pradesh": "https://nregauttarpradesh.gov.in/",
+      "uttarakhand": "https://nregauttarakhand.gov.in/",
+      "west_bengal": "https://nregawestbengal.gov.in/"
+    }
+  }
+}

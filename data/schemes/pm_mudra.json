@@ -1,0 +1,252 @@
+{
+  "id": "pm_mudra",
+  "name_en": "Pradhan Mantri MUDRA Yojana",
+  "description_en": "Pradhan Mantri MUDRA Yojana (PMMY) is a scheme launched by the Hon’ble Prime Minister on April 8, 2015, for providing loans up to 10 lakh (20 lakh for those entrepreneurs who have availed and successfully repaid previous loans under the ‘Tarun’ category) to the non-corporate, non-farm small/micro enterprises. The scheme aims to promote entrepreneurship and financial inclusion among small and micro enterprises. The implementing ministry is the Ministry of Finance, and the scheme has a wide geographic coverage across India, with a large scale of over 52 crore beneficiaries. The funding pattern of the scheme involves collaboration between the government and various lending institutions, including commercial banks, regional rural banks, small finance banks, and non-banking financial companies. The key impact metric of the scheme is the creation of employment opportunities, with over 11.2 million additional jobs generated between 2015 and 2018.",
+  "benefit_en": "The primary financial benefit of the scheme is the provision of collateral-free loans up to 10 lakh (20 lakh for those entrepreneurs who have availed and successfully repaid previous loans under the ‘Tarun’ category) to non-corporate, non-farm small/micro enterprises. The loans are categorized into three types: Shishu (up to 50,000), Kishor (50,001 to 5 lakh), and Tarun (5 lakh to 10 lakh). The scheme also provides secondary benefits, such as the promotion of entrepreneurship, financial inclusion, and employment opportunities. Additionally, the scheme offers linked scheme benefits, such as the provision of credit guarantees and insurance coverage to borrowers. The payment schedule for the loans varies, with repayment periods ranging from 3 to 7 years, depending on the type of loan and the borrower's repayment capacity.",
+  "eligibility_rules": {
+    "occupation": [
+      "non-corporate",
+      "non-farm",
+      "small/micro enterprises",
+      "entrepreneurs"
+    ],
+    "gender": "any",
+    "bpl_required": false,
+    "land_ownership_required": false,
+    "girl_child_required": false,
+    "pregnant_woman_only": false,
+    "age_min": null,
+    "age_max": null,
+    "income_max_annual": null,
+    "caste_preference": [
+      "any"
+    ],
+    "bank_account_required": true,
+    "aadhaar_required": true,
+    "other_conditions": [
+      "the borrower should not be a defaulter to any bank or financial institution",
+      "the borrower should have a viable business plan",
+      "the borrower should have a good credit history",
+      "the borrower should not be engaged in any illegal or prohibited activities",
+      "the borrower should have a valid identity proof and address proof"
+    ]
+  },
+  "exclusion_criteria": [
+    "income tax payees (previous assessment year)",
+    "constitutional post holders (President, VP, Ministers, MPs, MLAs, etc.)",
+    "serving/retired Central & State government employees (except Group D/MTS)",
+    "government pensioners drawing 10,000+/month",
+    "all professionals registered with professional bodies (doctors, lawyers, CAs, architects, engineers)",
+    "any other explicitly stated exclusion from the scheme guidelines"
+  ],
+  "documents_en": [
+    "01. Aadhaar Card — mandatory for eKYC and DBT",
+    "02. Land ownership documents / Khasra-Khatauni / Patta",
+    "03. Bank passbook or cancelled cheque — for DBT linkage",
+    "04. Business registration documents (sole proprietorship deed, partnership deed, private limited company documents, etc.)",
+    "05. Income tax returns (ITR) of the business",
+    "06. Balance sheet and profit and loss account of the business",
+    "07. Certificate of incorporation (for companies)",
+    "08. Memorandum and articles of association (for companies)",
+    "09. Resolution of the board of directors (for companies)",
+    "10. Identity proof (PAN card, voter ID card, driving license, etc.)"
+  ],
+  "apply_steps_en": [
+    "Step 01: Visit the official website of the lending institution (bank or NBFC) and fill out the online application form",
+    "Step 02: Upload the required documents, including identity proof, address proof, business registration documents, and financial statements",
+    "Step 03: Submit the application form and wait for the verification process",
+    "Step 04: The lending institution will verify the application and documents, and may request additional information or clarification",
+    "Step 05: If the application is approved, the lending institution will disburse the loan amount to the borrower's bank account",
+    "Step 06: The borrower can then use the loan amount for business purposes, such as working capital, machinery, or equipment",
+    "Step 07: The borrower must repay the loan amount, along with interest, within the specified repayment period",
+    "Step 08: The borrower can track the status of their loan application and repayment schedule through the lending institution's website or mobile app",
+    "Step 09: The borrower can also contact the lending institution's customer support team for any queries or issues",
+    "Step 10: The borrower must ensure that they meet the eligibility criteria and follow the terms and conditions of the loan agreement"
+  ],
+  "application_url": "https://www.udyamimitra.in/",
+  "helpline": "1800 180 1111",
+  "ministry": "Ministry of Finance",
+  "nodal_department": "Department of Financial Services",
+  "scheme_type": "central",
+  "launch_year": 2015,
+  "last_updated": "2024",
+  "processing_time": "Up to 30 days",
+  "renewal_required": false,
+  "renewal_frequency": null,
+  "renewal_process": "Not applicable",
+  "payment_mode": "DBT / direct bank transfer",
+  "payment_frequency": "one-time",
+  "payment_schedule": "Up to 7 years",
+  "related_schemes": [
+    "Pradhan Mantri Jan Dhan Yojana",
+    "Pradhan Mantri Jan Suraksha Bima Yojana",
+    "Pradhan Mantri Jeevan Jyoti Bima Yojana"
+  ],
+  "tags": [
+    "MUDRA loan",
+    "PMMY",
+    "small and micro enterprises",
+    "entrepreneurship",
+    "financial inclusion"
+  ],
+  "source_url": "https://www.mudra.org.in/",
+  "keywords": [
+    "Pradhan Mantri MUDRA Yojana",
+    "PMMY",
+    "MUDRA loan",
+    "small and micro enterprises",
+    "entrepreneurship",
+    "financial inclusion",
+    "collateral-free loan",
+    "Shishu",
+    "Kishor",
+    "Tarun",
+    "Tarun Plus",
+    "business loan",
+    "MSME loan",
+    "how to apply for MUDRA loan",
+    "MUDRA loan eligibility",
+    "MUDRA loan documents",
+    "MUDRA loan interest rate",
+    "MUDRA loan repayment period"
+  ],
+  "name_hi": "प्रधान मंत्री मुद्रा योजना",
+  "name_ta": "பிரதான் மந்திரி முத்ரா திட்டம்",
+  "name_bn": "প্রধানমন্ত্রী মুদ্রা যোজনা",
+  "name_mr": "प्रधानमंत्री मुद्रा योजना",
+  "description_hi": "प्रधान मंत्री मुद्रा योजना (पीएमएमवाई) 8 अप्रैल, 2015 को माननीय प्रधान मंत्री द्वारा गैर-निगमित, गैर-कृषि लघु/सूक्ष्म उद्यमों को 10 लाख (उन उद्यमियों के लिए 20 लाख जिन्होंने 'तरुण' श्रेणी के तहत पिछले ऋणों का लाभ उठाया और सफलतापूर्वक चुकाया) तक के ऋण प्रदान करने के लिए शुरू की गई एक योजना है। यह योजना लघु और सूक्ष्म उद्यमों के बीच उद्यमिता और वित्तीय समावेशन को बढ़ावा देने के लिए है। योजना को लागू करने वाला मंत्रालय वित्त मंत्रालय है, और यह योजना पूरे भारत में व्यापक भौगोलिक कवरेज के साथ है, जिसमें 52 करोड़ से अधिक लाभार्थी हैं। योजना के वित्तपोषण पैटर्न में सरकार और विभिन्न उधार देने वाले संस्थानों के बीच सहयोग शामिल है, जिनमें वाणिज्यिक बैंक, क्षेत्रीय ग्रामीण बैंक, लघु वित्त बैंक और गैर-बैंकिंग वित्तीय कंपनियां शामिल हैं। योजना का प्रमुख प्रभाव मीट्रिक रोजगार के अवसरों का सृजन है, जिसमें 2015 और 2018 के बीच 11.2 मिलियन से अधिक अतिरिक्त नौकरियां सृजित हुईं।",
+  "description_ta": "பிரதான் மந்திரி முத்ரா திட்டம் (பிஎம்எம்வை) என்பது ஏப்ரல் 8, 2015 அன்று மதிப்பிற்குரிய பிரதமரால் தொடங்கப்பட்ட ஒரு திட்டமாகும், இது சிறிய மற்றும் மிகச்சிறிய நிறுவனங்களுக்கு 10 லட்சம் (அந்த தொழில்முனைவோருக்கு 20 லட்சம் வரை, அவர்கள் 'தருண்' பிரிவின் கீழ் முன்னர் கடன்களைப் பெற்று வெற்றிகரமாக திருப்பிச் செலுத்தியுள்ளனர்) வரை கடன் வழங்குகிறது. இந்த திட்டத்தின் நோக்கம் சிறிய மற்றும் மிகச்சிறிய நிறுவனங்களிடையே தொழில்முனைவோர் மற்றும் நிதியல் உள்ளடக்கத்தை ஊக்குவிப்பதாகும். திட்டத்தை செயல்படுத்தும் அமைச்சகம் நிதி அமைச்சகமாகும், மேலும் இந்த திட்டம் இந்தியா முழுவதும் பரந்த புவியியல் கवरேஜ் கொண்டுள்ளது, இதில் 52 கோடிக்கும் மேற்பட்ட நன்மைகள் உள்ளன. திட்டத்தின் நிதியளிப்பு முறையானது அரசாங்கம் மற்றும் பல்வேறு கடன் வழங்கும் நிறுவனங்களுக்கு இடையேயான ஒத்துழைப்பை உள்ளடக்கியது, இதில் வணிக வங்கிகள், பிராந்திய கிராம வங்கிகள், சிறிய நிதி வங்கிகள் மற்றும் வங்கி அல்லாத நிதி நிறுவனங்கள் ஆகியவை அடங்கும். திட்டத்தின் முக்கிய தாக்க மீட்டர் வேலைவாய்ப்பு வாய்ப்புகளின் உருவாக்கமாகும், இதில் 2015 மற்றும் 2018 க்கு இடையில் 11.2 மில்லியனுக்கும் மேற்பட்ட கூடுதல் வேலைகள் உருவாக்கப்பட்டுள்ளன.",
+  "description_bn": "প্রধানমন্ত্রী মুদ্রা যোজনা (পিএমএমওয়াই) হলো ৮ই এপ্রিল, ২০১৫ তারিখে মাননীয প্রধানমন্ত্রী কর্তৃক অ-কর্পোরেট, অ-কৃষি ছোট/সূক্ষ্ম উদ্যোগের জন্য ১০ লক্ষ (সেই উদ্যোকতাদের জন্য ২০ লক্ষ যারা 'তর",
+  "documents_hi": [
+    "आधार कार्ड — ईकेवाईसी और डीबीटी के लिए अनिवार्य",
+    "भूमि स्वामित्व दस्तावेज / खसरा-खतौनी / पट्टा",
+    "बैंक पासबुक या रद्द चेक — डीबीटी लिंकेज के लिए",
+    "व्यवसाय पंजीकरण दस्तावेज (एकल स्वामित्व विलेख, साझेदारी विलेख, निजी लिमिटेड कंपनी दस्तावेज, आदि)",
+    "व्यवसाय की आयकर रिटर्न (आईटीआर)",
+    "व्यवसाय की बैलेंस शीट और लाभ-हानि खाता",
+    "कंपनी पंजीकरण प्रमाणपत्र (कंपनियों के लिए)",
+    "स्मारिका और संघ के नियम (कंपनियों के लिए)",
+    "निदेशक मंडल का संकल्प (कंपनियों के लिए)",
+    "पहचान प्रमाण (पैन कार्ड, मतदाता पहचान पत्र, ड्राइविंग लाइसेंस, आदि)"
+  ],
+  "documents_ta": [
+    "ஆதார் அட்டை — இ-கேவாய்சி மற்றும் டிபிடி ஆகியவற்றிற்கு அவசியம்",
+    "நில உடைமை ஆவணங்கள் / காசு-கடாஸ்த் / பட்டா",
+    "வங்கி பாஸ்புக் அல்லது ரத்து செய்யப்பட்ட செக் — டிபிடி இணைப்புக்கு",
+    "வணிக பதிவு ஆவணங்கள் (தனியார் உரிமை செய்திகள், பங்கு செய்திகள், தனியார் லிமிடெட் நிறுவன ஆவணங்கள் முதலியன)",
+    "வணிகத்தின் வருமான வரி திரும்பப் பெறுதல் (ஐடிஆர்)",
+    "வணிகத்தின் நிதிநிலை அறிக்கை மற்றும் லாப-நஷ்ட கணக்கு",
+    "நிறுவன பதிவு சான்றிதழ் (நிறுவனங்களுக்கு)",
+    "சான்றிதழ் மற்றும் சங்கத்தின் விதிகள் (நிறுவனங்களுக்கு)",
+    "இயக்குநரக குழுவின் தீர்மானம் (நிறுவனங்களுக்கு)",
+    "அடையாள ஆவணம் (பன்னாட்டு அட்டை, வாக்காளர் அடையாள அட்டை, ஓட்டுநர் உரிமம் முதலியன)"
+  ],
+  "documents_bn": [
+    "আধার কার্ড — ই-কেওয়াইসি এবং ডিবিটি এর জন্য বাধ্যতামূলক",
+    "জমি মালিকানা নথি / খতিযান / পাট্টা",
+    "ব্যাংক পাসবুক বা বাতিল চেক — ডিবিটি লিংকেজের জন্য",
+    "ব্যবসায় নিবন্ধন নথি (একক মালিকানা দলিল, অংশীদারিত্ব দলিল, প্রাইভেট লিমিটেড কোম্পানি নথি ইত্যাদি)",
+    "ব্যবসায়ের আয়কর রিটার্ন (আইটিআর)",
+    "ব্যবসায়ের ব্যালেন্স শীট এবং লাভ-ক্ষতি হিসাব",
+    "কোম্পানি নিবন্ধন প্রশংসাপত্র (কোম্পানিগুলির জন্য)",
+    "সংবিধান এবং সমিতির নিযম (কোম্পানিগুলির জন্য)",
+    "পরিচালনা বোর্ডের সংকল্প (কোম্পানিগুলির জন্য)",
+    "পরিচয় প্রমাণ (প্যান কার্ড, ভোটার আইডি কার্ড, ড্রাইভিং লাইসেন্স ইত্যাদি)"
+  ],
+  "documents_mr": [
+    "आधार कार्ड — ईकेवाईसी आणि डीबीटी साठी अनिवार्य",
+    "जमीन मालकी दस्तावेज / खतावणी / पट्टा",
+    "बँक पासबुक किंवा रद्द चेक — डीबीटी लिंकेज साठी",
+    "व्यवसाय नोंदणी दस्तावेज (एकल मालकी करार, भागीदारी करार, खाजगी मर्यादित कंपनी दस्तावेज इत्यादी)",
+    "व्यवसायाचा उत्पन्न कर रिटर्न (आयटीआर)",
+    "व्यवसायाचा ताजणी पत्र आणि नफा नुकसान खाता",
+    "कंपनी नोंदणी प्रमाणपत्र (कंपन्यांसाठी)",
+    "संस्था आणि संघटनेचे नियम (कंपन्यांसाठी)",
+    "व्यवस्थापन मंडळाचा ठराव (कंपन्यांसाठी)",
+    "ओळख पुरावा (पॅन कार्ड, मतदार ओळख पत्र, ड्रायव्हिंग परवाना इत्यादी)"
+  ],
+  "apply_steps_hi": [
+    "आधिकारिक वेबसाइट पर जाएं और ऑनलाइन आवेदन पत्र भरें",
+    "आवश्यक दस्तावेज अपलोड करें, जिनमें पहचान प्रमाण, पता प्रमाण, व्यवसाय पंजीकरण दस्तावेज और वित्तीय विवरण शामिल हैं",
+    "आवेदन पत्र जमा करें और सत्यापन प्रक्रिया की प्रतीक्षा करें",
+    "उधार देने वाली संस्था आवेदन और दस्तावेजों की जांच करेगी और संभवतः अतिरिक्त जानकारी या स्पष्टीकरण मांगेगी",
+    "यदि आवेदन स्वीकृत हो जाता है, तो उधार देने वाली संस्था उधारकर्ता के बैंक खाते में ऋण राशि हस्तांतरित करेगी",
+    "उधारकर्ता ऋण राशि का उपयोग व्यवसायिक उद्देश्यों के लिए कर सकता है, जैसे कि कार्यशील पूंजी, मशीनरी या उपकरण",
+    "उधारकर्ता को ऋण राशि को ब्याज सहित निर्धारित पुनर्भुगतान अवधि के भीतर चुकाना होगा",
+    "उधारकर्ता उधार देने वाली संस्था की वेबसाइट या मोबाइल ऐप के माध्यम से अपने ऋण आवेदन और पुनर्भुगतान अनुसूची की स्थिति की जांच कर सकता है",
+    "उधारकर्ता उधार देने वाली संस्था की ग्राहक सहायता टीम से किसी भी प्रश्न या समस्या के लिए संपर्क कर सकता है",
+    "उधारकर्ता को यह सुनिश्चित करना होगा कि वह ऋण समझौते की पात्रता मानदंड और शर्तों का पालन करता है"
+  ],
+  "apply_steps_ta": [
+    "அதிகாரப்பூர்வ வலைத்தளத்திற்குச் செல்லவும் மற்றும் ஆன்லைன் விண்ணப்பத்தைப் பூர்த்தி செய்யவும்",
+    "தேவையான ஆவணங்களைப் பதிவேற்றவும், அதில் அடையாள ஆவணம், முகவரி ஆவணம், வணிகப் பதிவு ஆவணங"
+  ],
+  "faq": [
+    {
+      "question_en": "What are the different categories of loans offered under the Pradhan Mantri MUDRA Yojana?",
+      "answer_en": "The Pradhan Mantri MUDRA Yojana offers three categories of loans: Shishu (up to Rs. 50,000), Kishor (Rs. 50,001 to Rs. 5 lakh), and Tarun (Rs. 5 lakh to Rs. 10 lakh).",
+      "question_hi": "प्रधानमंत्री मुद्रा योजना के तहत दी जाने वाली ऋण की विभिन्न श्रेणियां क्या हैं?",
+      "answer_hi": "प्रधानमंत्री मुद्रा योजना तीन श्रेणियों के ऋण प्रदान करती है: शिशु (50,000 रुपये तक), किशोर (50,001 रुपये से 5 लाख रुपये तक), और तरुण (5 लाख रुपये से 10 लाख रुपये तक).",
+      "question_ta": "பிரதான் மந்திரி முத்ரா திட்டத்தின் கீழ் வழங்கப்படும் வகைகள் என்ன?",
+      "answer_ta": "பிரதான் மந்திரி முத்ரா திட்டம் மூன்று வகையான கடன்களை வழங்குகிறது: சிசு (50,000 ரூபாய் வரை), கிசோர் (50,001 ரூபாய் முதல் 5 லட்சம் ரூபாய் வரை), மற்றும் தருண் (5 லட்சம் ரூபாய் முதல் 10 லட்சம் ரூபாய் வரை)."
+    },
+    {
+      "question_en": "What is the maximum loan amount that can be availed under the Pradhan Mantri MUDRA Yojana?",
+      "answer_en": "The maximum loan amount that can be availed under the Pradhan Mantri MUDRA Yojana is Rs. 10 lakh for the Tarun category.",
+      "question_hi": "प्रधानमंत्री मुद्रा योजना के तहत अधिकतम ऋण राशि क्या हो सकती है?",
+      "answer_hi": "प्रधानमंत्री मुद्रा योजना के तहत अधिकतम ऋण राशि तरुण श्रेणी के लिए 10 लाख रुपये हो सकती है।",
+      "question_ta": "பிரதான் மந்திரி முத்ரா திட்டத்தின் கீழ் அதிகபட்ச கடன் தொகை என்ன?",
+      "answer_ta": "பிரதான் மந்திரி முத்ரா திட்டத்தின் கீழ் அதிகபட்ச கடன் தொகை தருண் வகையின் கீழ் 10 லட்சம் ரூபாயாகும்."
+    },
+    {
+      "question_en": "What are the eligibility criteria for availing a loan under the Pradhan Mantri MUDRA Yojana?",
+      "answer_en": "The eligibility criteria for availing a loan under the Pradhan Mantri MUDRA Yojana include being a non-corporate, non-farm small/micro enterprise, having a viable business plan, and having a good credit history.",
+      "question_hi": "प्रधानमंत्री मुद्रा योजना के तहत ऋण प्राप्त करने के लिए पात्रता मानदंड क्या हैं?",
+      "answer_hi": "प्रधानमंत्री मुद्रा योजना के तहत ऋण प्राप्त करने के लिए पात्रता मानदंडों में गैर-निगमित, गैर-खेती लघु/सूक्ष्म उद्यम होना, एक व्यवहार्य व्यवसाय योजना होना, और एक अच्छा क्रेडिट इतिहास होना शामिल हैं।",
+      "question_ta": "பிரதான் மந்திரி முத்ரா திட்டத்தின் கீழ் கடன் பெறுவதற்கான தகுதி குறிப்புகள் யாவை?",
+      "answer_ta": "பிரதான் மந்திரி முத்ரா திட்டத்தின் கீழ் கடன் பெறுவதற்கான தகுதி குறிப்புகளில் ஒரு சிறிய/மிகச்சிறிய நிறுவனமாக இருத்தல், ஒரு செயல்விளை வணிகத் திட்டம் இருத்தல், மற்றும் ஒரு நல்ல கடன் வரலாறு இருத்தல் ஆகியவை அடங்கும்."
+    }
+  ],
+  "common_mistakes": [
+    "Mistake 1: Inaccurate or incomplete documentation — Ensure all required documents are submitted and verified to avoid rejection",
+    "Mistake 2: Poor credit history — Maintain a good credit score to increase the chances of loan approval",
+    "Mistake 3: Insufficient business plan — Develop a viable and detailed business plan to demonstrate the potential for success",
+    "Mistake 4: Ineligible business type — Ensure the business type is eligible under the PMMY scheme to avoid rejection",
+    "Mistake 5: Defaulting on previous loans — Clear any existing debts and ensure a good repayment history to be considered for a loan",
+    "Mistake 6: Incorrect categorization of loan type — Choose the correct loan category (Shishu, Kishor, or Tarun) based on the business needs to avoid application delays"
+  ],
+  "pro_tips": [
+    "Tip 1: Prepare a comprehensive business plan to increase the chances of loan approval and to demonstrate the potential for success",
+    "Tip 2: Maintain a good credit score by repaying existing debts on time and avoiding default",
+    "Tip 3: Ensure all required documents are submitted and verified to avoid rejection or delays in the application process",
+    "Tip 4: Choose the correct loan category (Shishu, Kishor, or Tarun) based on the business needs to avoid application delays and to ensure the loan amount is sufficient"
+  ],
+  "state_wise_amounts": {
+    "note": "The interest rates and additional benefits may vary by state",
+    "varies_by": "amount / eligibility",
+    "states": {
+      "andhra_pradesh": "same as central",
+      "assam": "same as central",
+      "bihar": "same as central",
+      "gujarat": "same as central",
+      "haryana": "same as central",
+      "jharkhand": "same as central",
+      "karnataka": "same as central",
+      "kerala": "same as central",
+      "madhya_pradesh": "same as central",
+      "maharashtra": "same as central",
+      "odisha": "same as central",
+      "punjab": "same as central",
+      "rajasthan": "same as central",
+      "tamil_nadu": "same as central",
+      "telangana": "same as central",
+      "uttar_pradesh": "same as central",
+      "uttarakhand": "same as central",
+      "west_bengal": "same as central"
+    }
+  },
+  "state_specific_portals": {
+    "note": "State-level application portals may vary, but most states use the central portal",
+    "portals": {}
+  }
+}

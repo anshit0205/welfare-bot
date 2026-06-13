@@ -1,0 +1,260 @@
+{
+  "id": "sukanya_samriddhi",
+  "name_en": "Sukanya Samriddhi Yojana",
+  "description_en": "The Sukanya Samriddhi Yojana is a government-backed savings scheme aimed at building a secure financial future for girl children in India. Introduced under the Beti Bachao, Beti Padhao initiative, it helps parents or guardians systematically save for a daughter’s education and marriage. The scheme is implemented by the Ministry of Women and Child Development and is available for girl children aged up to 10 years. The scheme has been launched in 2015 and has a scale of over 1 crore beneficiaries. The funding pattern of the scheme is such that the government provides an interest rate of 8.2% per annum, compounded annually. The key impact metric of the scheme is the number of girl children who have benefited from it, which is over 1.5 crore.",
+  "benefit_en": "The primary financial benefit of the Sukanya Samriddhi Yojana is the interest earned on the deposit, which is currently 8.2% per annum, compounded annually. The scheme also provides tax benefits under Section 80C of the Income Tax Act. The secondary benefits of the scheme include the ability to withdraw up to 50% of the deposit for the girl child’s education or marriage after she turns 18. The scheme also provides a death benefit, where the deposit is returned to the nominee in case of the depositor’s death. The linked scheme benefits of the Sukanya Samriddhi Yojana include the ability to link it with other government schemes, such as the Public Provident Fund (PPF) and the National Savings Certificate (NSC).",
+  "eligibility_rules": {
+    "occupation": [
+      "any"
+    ],
+    "gender": "female",
+    "bpl_required": false,
+    "land_ownership_required": false,
+    "girl_child_required": true,
+    "pregnant_woman_only": false,
+    "age_min": 0,
+    "age_max": 10,
+    "income_max_annual": null,
+    "caste_preference": [
+      "any"
+    ],
+    "bank_account_required": true,
+    "aadhaar_required": true,
+    "other_conditions": [
+      "The girl child must be an Indian resident and citizen until account maturity",
+      "One account per girl child is allowed",
+      "A family can open accounts for a maximum of two girl children",
+      "In case of twins or triplets, up to three accounts are permitted",
+      "The account can be opened only by a parent or legal guardian"
+    ]
+  },
+  "exclusion_criteria": [
+    "Income tax payees (previous assessment year)",
+    "Constitutional post holders (President, VP, Ministers, MPs, MLAs, etc.)",
+    "Serving/retired Central & State government employees (except Group D/MTS)",
+    "Government pensioners drawing Rs 10,000+/month",
+    "All professionals registered with professional bodies (doctors, lawyers, CAs, architects, engineers)",
+    "Any other explicitly stated exclusion from the scheme guidelines"
+  ],
+  "documents_en": [
+    "01. Aadhaar Card — mandatory for eKYC and DBT",
+    "02. Birth certificate of the girl child",
+    "03. Identity proof of the parent or legal guardian",
+    "04. Address proof of the parent or legal guardian",
+    "05. Bank passbook or cancelled cheque — for DBT linkage",
+    "06. Income proof of the parent or legal guardian",
+    "07. Caste certificate (if applicable)",
+    "08. Disability certificate (if applicable)",
+    "09. Death certificate of the parent or legal guardian (if applicable)",
+    "10. Nomination form"
+  ],
+  "apply_steps_en": [
+    "Step 01: Visit the official website of the Ministry of Women and Child Development or the post office website",
+    "Step 02: Download and fill the application form",
+    "Step 03: Attach the required documents",
+    "Step 04: Submit the application form and documents to the post office or bank",
+    "Step 05: Verify the documents and application form",
+    "Step 06: Open the Sukanya Samriddhi Yojana account",
+    "Step 07: Deposit the initial amount",
+    "Step 08: Receive the passbook and account details",
+    "Step 09: Track the account balance and interest earned",
+    "Step 10: Withdraw the amount after the girl child turns 18"
+  ],
+  "application_url": "https://www.indiapost.gov.in/",
+  "helpline": "1800 180 1111",
+  "ministry": "Ministry of Women and Child Development",
+  "nodal_department": "Department of Women and Child Development",
+  "scheme_type": "central",
+  "launch_year": 2015,
+  "last_updated": "2024",
+  "processing_time": "1-2 weeks",
+  "renewal_required": false,
+  "renewal_frequency": null,
+  "renewal_process": "Not applicable",
+  "payment_mode": "DBT / direct bank transfer",
+  "payment_frequency": "annual",
+  "payment_schedule": "April to June, July to September, October to December, January to March",
+  "related_schemes": [
+    "Public Provident Fund (PPF)",
+    "National Savings Certificate (NSC)"
+  ],
+  "tags": [
+    "girl child",
+    "education",
+    "marriage",
+    "savings",
+    "investment"
+  ],
+  "source_url": "https://www.indiapost.gov.in/",
+  "keywords": [
+    "Sukanya Samriddhi Yojana",
+    "SSY",
+    "girl child",
+    "education",
+    "marriage",
+    "savings",
+    "investment",
+    "post office",
+    "bank",
+    "interest rate",
+    "tax benefit",
+    "Section 80C",
+    "Beti Bachao Beti Padhao",
+    "Ministry of Women and Child Development"
+  ],
+  "name_hi": "सुकन्या समृद्धि योजना",
+  "name_ta": "சுகன்யா சம்ரிதி திட்டம்",
+  "name_bn": "সুকন্যা সমৃদ্ধি প্রকল্প",
+  "name_mr": "सुकन्या समृद्धी योजना",
+  "description_hi": "सुकन्या समृद्धि योजना एक सरकार द्वारा समर्थित बचत योजना है जिसका उद्देश्य भारत में लड़कियों के लिए एक सुरक्षित वित्तीय भविष्य बनाना है। बेटी बचाओ, बेटी पढ़ाओ पहल के तहत शुरू की गई, यह योजना माता-पिता या अभिभावकों को एक बेटी की शिक्षा और विवाह के लिए व्यवस्थित रूप से बचत करने में मदद करती है। यह योजना महिला और बाल विकास मंत्रालय द्वारा लागू की जाती है और 10 वर्ष तक की आयु की लड़कियों के लिए उपलब्ध है। यह योजना 2015 में शुरू की गई थी और इसके लाभार्थियों की संख्या 1 करोड़ से अधिक है।",
+  "description_ta": "சுகன்யா சம்ரிதி திட்டம் என்பது இந்தியாவில் பெண் குழந்தைகளுக்கான பாதுகாப்பான நிதி எதிர்காலத்தை உருவாக்குவதற்காக அரசாங்கத்தால் ஆதரிக்கப்படும் ஒரு சேமிப்புத் திட்டமாகும். பெண் குழந்தையைக் காப்பாற்று, பெண் குழந்தையைக் கற்றுக்கொள்ள என்ற முன்முயற்சியின் கீழ் அறிமுகப்படுத்தப்பட்ட இது, ஒரு மகளின் கல்வி மற்றும் திருமணத்திற்காக பெற்றோர் அல்லது காப்பாளர்கள் ஒழுங்கமைக்கப்பட்ட சேமிப்பு செய்ய உதவுகிறது. இந்த திட்டம் பெண்கள் மற்றும் குழந்தை மேம்பாட்டு அமைச்சகத்தால் செயல்படுத்தப்படுகிறது மற்றும் 10 வயது வரை உள்ள பெண் குழந்தைகளுக்கு கிடைக்கிறது.",
+  "description_bn": "সুকন্যা সমৃদ্ধি প্রকল্প ভারতে কন্যা সন্তানদের জন্য একটি নিরাপদ আর্থিক ভবিষ্যত গড়ে তোলার লক্ষ্যে সরকার কর্তৃক সমর্থিত একটি সঞ্চয় প্রকল্প। বেটি বাঁচাও, বেটি পড়াও উদ্যোগের অধীনে চালু করা, এটি পিতামাতা বা অভিভাবকদের একটি কন্যা সন্তানের শিক্ষা ও বিবাহের জন্য সম্মত সঞ্চয় করতে সাহায্য করে। এই প্রকল্পটি মহিলা ও শিশু বিকাশ মন্ত্রক দ্বারা বাস্তবায়িত হয় এবং ১০ বছর বয়স পর্যন্ত কন্যা সন্তানদের জন্য উপলব্ধ।",
+  "description_mr": "सुकन्या समृद्धी योजना ही भारतातील मुलींसाठी एक सुरक्षित आर्थिक भविष्य निर्माण करण्याच्या उद्देशाने सरकार समर्थित बचत योजना आहे. बेटी बचाव, बेटी पढावो उपक्रमांतर्गत सुरू केलेली, ही योजना मुलीच्या शिक्षण आणि लग्नासाठी पालकांना किंवा पालकांना व्यवस्थितपणे बचत करण्यात मदत करते. ही योजना महिला आणि बाल विकास मंत्रालयाद्वारे राबविण्यात येते आणि १० वर्षे वयोगटातील मुलींसाठी उपलब्ध आहे.",
+  "benefit_hi": "सुकन्या समृद्धि योजना का प्राथमिक वित्तीय लाभ जमा पर अर्जित ब्याज है, जो वर्तमान में ८.२% प्रति वर्ष, वार्षिक रूप से चक्रवृद्धि है। यह योजना आयकर अधिनियम की धारा ८०सी के तहत कर लाभ भी प्रदान करती है। योजना के गौण लाभों में १८ वर्ष की आयु पूरी करने के बाद लड़की की शिक्षा या विवाह के लिए जमा की गई राशि का ५०% तक निकालने की क्षमता शामिल है।",
+  "benefit_ta": "சுகன்யா சம்ரிதி திட்டத்தின் முக்கிய நன்மை என்பது தொடக்கத்தில் ஈடுசெய்யப்படும் வட்டி ஆகும், அது தற்போது ஆண்டுக்கு 8.2%, வருடாந்திர சேர்க்கையுடன். இந்த திட்டம் வருமான வரிச் சட்டத்தின் பிரிவு 80C",
+  "documents_hi": [
+    "आधार कार्ड — ईकेवाईसी और डीबीटी के लिए अनिवार्य",
+    "बालिका का जन्म प्रमाण पत्र",
+    "माता-पिता या कानूनी अभिभावक का पहचान प्रमाण",
+    "माता-पिता या कानूनी अभिभावक का पता प्रमाण",
+    "बैंक पासबुक या रद्द चेक — डीबीटी लिंकेज के लिए",
+    "माता-पिता या कानूनी अभिभावक का आय प्रमाण",
+    "जाति प्रमाण पत्र (यदि लागू हो)",
+    "विकलांगता प्रमाण पत्र (यदि लागू हो)",
+    "माता-पिता या कानूनी अभिभावक का मृत्यु प्रमाण पत्र (यदि लागू हो)",
+    "नामांकन फॉर्म"
+  ],
+  "documents_ta": [
+    "ஆதார் அட்டை — இ-கையொப்பம் மற்றும் டிபிடி க்கு அவசியம்",
+    "பெண் குழந்தையின் பிறப்பு சான்றிதழ்",
+    "பெற்றோர் அல்லது சட்டப்பூர்வ பாதுகாவலரின் அடையாள சான்று",
+    "பெற்றோர் அல்லது சட்டப்பூர்வ பாதுகாவலரின் முகவரி சான்று",
+    "வங்கி பாஸ்புக் அல்லது ரத்து செய்யப்பட்ட ஆணை — டிபிடி இணைப்புக்கு",
+    "பெற்றோர் அல்லது சட்டப்பூர்வ பாதுகாவலரின் வருமான சான்று",
+    "சாதி சான்றிதழ் (பொருந்தும் போது)",
+    "ஊனம் சான்றிதழ் (பொருந்தும் போது)",
+    "பெற்றோர் அல்லது சட்டப்பூர்வ பாதுகாவலரின் இறப்பு சான்றிதழ் (பொருந்தும் போது)",
+    "பெயரீட்டு விண்ணப்பம்"
+  ],
+  "documents_bn": [
+    "আধার কার্ড — ইলেকট্রনিক নোটরি এবং ডিবিটি এর জন্য বাধ্যতামূলক",
+    "কন্যা সন্তানের জন্ম নিবন্ধন প্রমাণপত্র",
+    "পিতামাতা বা আইনগত অভিভাবকের পরিচয় প্রমাণ",
+    "পিতামাতা বা আইনগত অভিভাবকের ঠিকানা প্রমাণ",
+    "ব্যাংক পাসবুক বা বাতিল চেক — ডিবিটি লিংকেজের জন্য",
+    "পিতামাতা বা আইনগত অভিভাবকের আয় প্রমাণ",
+    "জাতি প্রমাণপত্র (যদি প্রযোজ্য হয়)",
+    "প্রতিবন্ধী প্রমাণপত্র (যদি প্রযোজ্য হয়)",
+    "পিতামাতা বা আইনগত অভিভাবকের মৃত্যু প্রমাণপত্র (যদি প্রযোজ্য হয়)",
+    "মনোনয়ন ফর্ম"
+  ],
+  "documents_mr": [
+    "आधार कार्ड — ईकेवाईसी आणि डीबीटी साठी अनिवार्य",
+    "मुलीचा जन्म प्रमाणपत्र",
+    "पालकांचा ओळख पुरावा",
+    "पालकांचा पत्ता पुरावा",
+    "बँक पासबुक किंवा रद्द केलेली चेक — डीबीटी लिंकेज साठी",
+    "पालकांचा उत्पन्न पुरावा",
+    "जाती प्रमाणपत्र (योग्य असल्यास)",
+    "विकलांगता प्रमाणपत्र (योग्य असल्यास)",
+    "पालकांचा मृत्यू प्रमाणपत्र (योग्य असल्यास)",
+    "नामांकन फॉर्म"
+  ],
+  "apply_steps_hi": [
+    "सुकन्या समृद्धि योजना की आधिकारिक वेबसाइट या डाकघर की वेबसाइट पर जाएं",
+    "आवेदन पत्र डाउनलोड करें और भरें",
+    "आवश्यक दस्तावेज़ संलग्न करें",
+    "आवेदन पत्र और दस्तावेज़ डाकघर या बैंक में जमा करें",
+    "दस्तावेज़ और आवेदन पत्र की जांच करें",
+    "सुकन्या समृद्धि योजना खाता खोलें",
+    "प्रारंभिक राशि जमा करें",
+    "पासबुक और खाता विवरण प्राप्त करें",
+    "खाता शेष और अर्जित ब्याज की जांच करें",
+    "बालिका के 18 वर्ष के होने के बाद राशि निकालें"
+  ],
+  "apply_steps_ta": [
+    "சுகன்யா சம்ரிதி திட்டத்தின் அதிகாரப்பூர்வ இணையதளம் அல்லது அஞ்சல் நிலையத்தின் இணையதளத்திற்குச் செல்லுங்கள்",
+    "விண்ணப்ப படிவத்தை பதிவிறக்கி நிரப்புங்கள்",
+    "தேவையான ஆவணங்களை இணைக்கவும்",
+    "விண்ணப்ப படிவத்தையும் ஆவணங்களையும் அஞ்சல் நிலையம் அல்லது வங்கிக்கு சமர்ப்பிக்கவும்",
+    "ஆவணங்கள் மற்றும் விண்ணப்ப படிவத்தை சரிபார்க்கவும்",
+    "சுகன்யா சம்ரிதி கணக்கை திறக்கவும்",
+    "தொடக்க தொகையை பெட்டுங்கள்",
+    "பாஸ்புக் மற்றும் கணக்கு விவரங்களைப் பெறுங்கள்",
+    "கணக்கு சமநிலை மற்றும் பெறப்பட்ட வட்டி செலவினங்களைக் கண்காணிக்கவும்",
+    "பெண் குழந்தை 18 வயது அடைந்த பிறகு தொகையை பின்வாங்குங்கள்"
+  ],
+  "apply_steps_bn": [
+    "সুকন্যা সমৃদ্ধি প্রকল্পের অফিসিয়াল ওয়েবসাইট বা ডাকঘরের ওয়েবসাইটে যান",
+    "আবেদনপত্র ডাউনলোড করুন এবং পূরণ করুন",
+    "প্রয়োজনীয় নথিগুল"
+  ],
+  "faq": [
+    {
+      "question_en": "What is the current interest rate for the Sukanya Samriddhi Yojana scheme?",
+      "answer_en": "The current interest rate for the Sukanya Samriddhi Yojana scheme is 8.2% per annum, compounded annually. This rate is applicable for the Q2 of FY 2024-25.",
+      "question_hi": "सुकन्या समृद्धि योजना की वर्तमान ब्याज दर क्या है?",
+      "answer_hi": "सुकन्या समृद्धि योजना की वर्तमान ब्याज दर 8.2% प्रति वर्ष है, जो वार्षिक रूप से चक्रवृद्धि है। यह दर वित्त वर्ष 2024-25 की दूसरी तिमाही के लिए लागू है।",
+      "question_ta": "சுகன்யா சம்ரித்தி திட்டத்தின் தற்போதைய வட்டி விகிதம் என்ன?",
+      "answer_ta": "சுகன்யா சம்ரித்தி திட்டத்தின் தற்போதைய வட்டி விகிதம் ஆண்டுக்கு 8.2% ஆகும், இது ஆண்டுதோறும் சேர்க்கப்படும். இந்த விகிதம் 2024-25 நிதியாண்டின் இரண்டாவது காலாண்டுக்கு பொருந்தும்."
+    },
+    {
+      "question_en": "Who is eligible to open a Sukanya Samriddhi Yojana account?",
+      "answer_en": "The scheme is available for girl children aged up to 10 years. The girl child must be an Indian resident and citizen until account maturity. The account can be opened only by a parent or legal guardian.",
+      "question_hi": "सुकन्या समृद्धि योजना खाता खोलने के लिए कौन पात्र है?",
+      "answer_hi": "यह योजना 10 वर्ष तक की लड़कियों के लिए उपलब्ध है। लड़की को खाता परिपक्वता तक भारतीय निवासी और नागरिक होना चाहिए। खाता केवल माता-पिता या कानूनी अभिभावक द्वारा खोला जा सकता है।",
+      "question_ta": "சுகன்யா சம்ரித்தி திட்ட கணக்கை திறக்க யாருக்கு தகுதி உள்ளது?",
+      "answer_ta": "இந்த திட்டம் 10 வயது வரை உள்ள பெண் குழந்தைகளுக்கு கிடைக்கிறது. பெண் குழந்தை கணக்கு தேதி வரை இந்திய குடியுரிமையாளராக இருக்க வேண்டும். கணக்கு பெற்றோர் அல்லது சட்டப்பூர்வ பாதுகாவலர் மட்டுமே திறக்க முடியும்."
+    },
+    {
+      "question_en": "What are the key features and benefits of the Sukanya Samriddhi Yojana scheme?",
+      "answer_en": "The scheme provides an attractive interest rate of 8.2% per annum, compounded annually. It also offers tax benefits under Section 80C of the Income Tax Act. Additionally, up to 50% of the deposit can be withdrawn for the girl child's education or marriage after she turns 18.",
+      "question_hi": "सुकन्या समृद्धि योजना की मुख्य विशेषताएं और लाभ क्या हैं?",
+      "answer_hi": "यह योजना 8.2% प्रति वर्ष की आकर्षक ब्याज दर प्रदान करती है, जो वार्षिक रूप से चक्रवृद्धि है। यह आयकर अधिनियम की धारा 80सी के तहत कर लाभ भी प्रदान करती है। इसके अलावा, 18 वर्ष की आयु पूरी करने के बाद लड़की की शिक्षा या विवाह के लिए जमा राशि का 50% तक निकाला जा सकता है।",
+      "question_ta": "சுகன்யா சம்ரித்தி திட்டத்தின் முக்கிய அம்சங்கள் மற்றும் நன்மைகள் என்ன?",
+      "answer_ta": "இந்த திட்டம் ஆண்டுக்கு 8.2% வட்டி விகிதத்தை வழங்குகிறது, இது ஒவ்வொரு ஆண்டும் சேர்க்கப்படுகிறது. இது வருமான வரி சட்டத்தின் பிரிவு 80சி இன் கீழ் வரி நன்மைகளையும் வழங்குகிறது. கூடுதலாக, 18 வயது நிறைவதற்குப் பிறகு பெண் குழந்தையின் கல்வி அல்லது திருமணத்திற்காக ஜமா செய்யப்பட்ட தொகையில் 50% வரை பின்வாங்கலாம்."
+    }
+  ],
+  "common_mistakes": [
+    "Mistake 1: Not meeting the age eligibility criteria — Ensure the girl child is under 10 years old to apply",
+    "Mistake 2: Incorrect or incomplete documentation — Double-check all documents, including birth certificate, ID proof, and address proof, before submission",
+    "Mistake 3: Not adhering to the account opening rules — Only one account per girl child is allowed, and a family can open accounts for a maximum of two girl children, unless in the case of twins or triplets",
+    "Mistake 4: Not being aware of the citizenship requirement — The girl child must be an Indian resident and citizen until account maturity",
+    "Mistake 5: Not understanding the guardian requirements — The account can only be opened by a parent or legal guardian",
+    "Mistake 6: Not keeping track of the deposit and withdrawal rules — Withdrawals are subject to certain conditions, such as the girl child turning 18 or for her education and marriage"
+  ],
+  "pro_tips": [
+    "Tip 1: Open the account as early as possible to maximize the benefit of compound interest",
+    "Tip 2: Contribute regularly to the account to ensure consistent savings and to reach the maximum deposit limit",
+    "Tip 3: Keep track of the interest rate changes and adjust your investment strategy accordingly",
+    "Tip 4: Utilize the tax benefits under Section 80C of the Income Tax Act to reduce your taxable income"
+  ],
+  "state_wise_amounts": {
+    "note": "The interest rate and benefits of the Sukanya Samriddhi Yojana are uniform across all states, with no additional state-specific top-ups or variations",
+    "varies_by": "none",
+    "states": {
+      "andhra_pradesh": "same as central",
+      "assam": "same as central",
+      "bihar": "same as central",
+      "gujarat": "same as central",
+      "haryana": "same as central",
+      "jharkhand": "same as central",
+      "karnataka": "same as central",
+      "kerala": "same as central",
+      "madhya_pradesh": "same as central",
+      "maharashtra": "same as central",
+      "odisha": "same as central",
+      "punjab": "same as central",
+      "rajasthan": "same as central",
+      "tamil_nadu": "same as central",
+      "telangana": "same as central",
+      "uttar_pradesh": "same as central",
+      "uttarakhand": "same as central",
+      "west_bengal": "same as central"
+    }
+  },
+  "state_specific_portals": {
+    "note": "There are no state-specific application portals for the Sukanya Samriddhi Yojana, as it can be applied for through post offices or authorized banks",
+    "portals": {}
+  }
+}

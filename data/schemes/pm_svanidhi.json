@@ -1,0 +1,251 @@
+{
+  "id": "pm_svanidhi",
+  "name_en": "Prime Minister Street Vendor's AtmaNirbhar Nidhi",
+  "description_en": "The Prime Minister Street Vendor's AtmaNirbhar Nidhi (PM SVANidhi) scheme is a special micro-credit facility for street vendors. The scheme aims to provide collateral-free working capital loans to street vendors to help them resume their businesses in urban areas. The scheme is implemented by the Ministry of Housing and Urban Affairs and is available for beneficiaries belonging to states/UTs that have notified rules and schemes under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. The scheme has been extended till March 31, 2030, and has achieved significant milestones, with over 96 lakh loans amounting to Rs 13,797 crore disbursed to more than 68 lakh street vendors as of July 30, 2025. The scheme offers incentives in the form of repeat loans and digital payment cashback. The scheme is available for street vendors engaged in vending in urban areas as on or before March 24, 2020.",
+  "benefit_en": "The primary financial benefit of the PM SVANidhi scheme is the provision of collateral-free working capital loans of up to Rs 50,000. The scheme offers loans in three tranches: the first tranche offers loans of up to Rs 15,000, the second tranche offers loans of up to Rs 25,000, and the third tranche offers loans of up to Rs 50,000. The loans are repayable through monthly installments and have a tenure of 12 months, 18 months, and 36 months respectively. The scheme also offers an interest subsidy of 7% on timely/early repayment and a monthly cash-back incentive of 7%. Additionally, the scheme provides a UPI-linked RuPay Credit Card with a credit limit of Rs 10,000, which can be increased to Rs 30,000. The scheme also promotes digital transactions and offers cashback incentives for digital payments.",
+  "eligibility_rules": {
+    "occupation": [
+      "street vendor"
+    ],
+    "gender": "any",
+    "bpl_required": false,
+    "land_ownership_required": false,
+    "girl_child_required": false,
+    "pregnant_woman_only": false,
+    "age_min": null,
+    "age_max": null,
+    "income_max_annual": null,
+    "caste_preference": [
+      "any"
+    ],
+    "bank_account_required": true,
+    "aadhaar_required": true,
+    "other_conditions": [
+      "Street vendors in possession of Certificate of Vending / Identity Card issued by Urban Local Bodies (ULBs)",
+      "The vendors, who have been identified as per the survey carried out by Urban Local Bodies (ULBs)/Municipalities",
+      "Vendors engaged in vending in urban areas as on or before March 24, 2020"
+    ]
+  },
+  "exclusion_criteria": [
+    "Income tax payees (previous assessment year)",
+    "Constitutional post holders (President, VP, Ministers, MPs, MLAs, etc.)",
+    "Serving/retired Central & State government employees (except Group D/MTS)",
+    "Government pensioners drawing Rs 10,000+/month",
+    "All professionals registered with professional bodies (doctors, lawyers, CAs, architects, engineers)",
+    "Any other explicitly stated exclusion from the scheme guidelines"
+  ],
+  "documents_en": [
+    "01. Aadhaar Card — mandatory for eKYC and DBT",
+    "02. Certificate of Vending / Identity Card issued by Urban Local Bodies (ULBs)",
+    "03. Bank passbook or cancelled cheque — for DBT linkage",
+    "04. Mobile number linked to Aadhaar",
+    "05. PAN card",
+    "06. Voter ID card",
+    "07. Passport",
+    "08. Driving license",
+    "09. Utility bills (electricity, water, gas)",
+    "10. Rent agreement (if applicable)"
+  ],
+  "apply_steps_en": [
+    "Step 01: Check eligibility on the PM SVANidhi portal",
+    "Step 02: Apply for a loan on the PM SVANidhi portal",
+    "Step 03: Upload required documents on the portal",
+    "Step 04: Verify mobile number and Aadhaar number",
+    "Step 05: Receive loan amount in bank account",
+    "Step 06: Repay loan through monthly installments",
+    "Step 07: Apply for second and third tranche loans after repaying previous loans",
+    "Step 08: Receive UPI-linked RuPay Credit Card after repaying second tranche loan",
+    "Step 09: Use credit card for digital transactions and receive cashback incentives",
+    "Step 10: Check application status and loan disbursal status on the PM SVANidhi portal"
+  ],
+  "application_url": "https://pmsvanidhi.mohua.gov.in/",
+  "helpline": "PM SVANidhi helpline: 011-23063567, 011-23060484",
+  "ministry": "Ministry of Housing and Urban Affairs",
+  "nodal_department": "Department of Urban Development",
+  "scheme_type": "central",
+  "launch_year": 2020,
+  "last_updated": "2024",
+  "processing_time": "Up to 30 days",
+  "renewal_required": false,
+  "renewal_frequency": null,
+  "renewal_process": "Not applicable",
+  "payment_mode": "DBT / direct bank transfer",
+  "payment_frequency": "monthly",
+  "payment_schedule": "12 months, 18 months, and 36 months respectively",
+  "related_schemes": [
+    "Deendayal Antyodaya Yojana - National Urban Livelihoods Mission (DAY-NULM)"
+  ],
+  "tags": [
+    "street vendor",
+    "micro-credit",
+    "working capital loan",
+    "digital payment",
+    "cashback incentive"
+  ],
+  "source_url": "https://pmsvanidhi.mohua.gov.in/",
+  "keywords": [
+    "PM SVANidhi",
+    "street vendor loan",
+    "micro-credit scheme",
+    "working capital loan",
+    "digital payment",
+    "cashback incentive",
+    "RuPay Credit Card",
+    "Aadhaar linkage",
+    "DBT",
+    "urban development",
+    "housing and urban affairs ministry"
+  ],
+  "name_hi": "प्रधानमंत्री स्ट्रीट वेंडर्स आत्मनिर्भर निधि",
+  "name_ta": "பிரதமர் தெரு விற்பனையாளர் ஆத்மநிர்பர் நிதி",
+  "name_bn": "প্রধানমন্ত্রী স্ট্রীট ভেন্ডর্স আত্মনির্ভর নিধি",
+  "name_mr": "पंतप्रधान स्ट्रीट विक्रेत्यांची आत्मनिर्भर निधी",
+  "description_hi": "प्रधानमंत्री स्ट्रीट वेंडर्स आत्मनिर्भर निधि (पीएम एसवीएनिधि) योजना स्ट्रीट विक्रेताओं के लिए एक विशेष माइक्रो-क्रेडिट सुविधा है। यह योजना शहरी क्षेत्रों में अपने व्यवसाय को फिर से शुरू करने में मदद करने के लिए स्ट्रीट विक्रेताओं को बिना किसी गारंटी के कार्यशील पूंजी ऋण प्रदान करने का उद्देश्य रखती है। यह योजना आवास और शहरी मामलों के मंत्रालय द्वारा लागू की जाती है और उन राज्यों/केंद्र शासित प्रदेशों के लाभार्थियों के लिए उपलब्ध है जिन्होंने स्ट्रीट वेंडर्स (जीवनयापन और स्ट्रीट वेंडिंग विनियमन) अधिनियम, 2014 के तहत नियमों और योजनाओं को अधिसूचित किया है। यह योजना 31 मार्च, 2030 तक बढ़ा दी गई है और इसमें महत्वपूर्ण मील के पत्थर हासिल किए गए हैं, जिसमें 30 जुलाई, 2025 तक 68 लाख से अधिक स्ट्रीट विक्रेताओं को 13,797 करोड़ रुपये के 96 लाख से अधिक ऋण वितरित किए गए हैं। यह योजना पुनरावृत्ति ऋण और डिजिटल भुगतान कैशबैक के रूप में प्रोत्साहन प्रदान करती है। यह योजना उन स्ट्रीट विक्रेताओं के लिए उपलब्ध है जो 24 मार्च, 2020 को या उससे पहले शहरी क्षेत्रों में विक्री में लगे हुए हैं।",
+  "description_ta": "பிரதமர் தெரு விற்பனையாளர் ஆத்மநிர்பர் நிதி (பிஎம் எஸ்விஏநிதி) திட்டம் தெரு விற்பனையாளர்களுக்கான ஒரு சிறப்பு மைக்ரோ-கிரெடிட் வசதி ஆகும். இந்தத் திட்டம் நகர்ப்புற பகுதிகளில் தங்கள் வணிகத்தை மீண்டும் தொடங்க உதவுவதற்காக தெரு விற்பனையாளர்களுக்கு பணிக்குழு கடன்களை வழங்குவதை நோக்கமாகக் கொண்டுள்ளது. இந்தத் திட்டம் வீட்டுவசதி மற்றும் நகர்ப்புற விவகாரங்கள் அமைச்சகத்தால் செயல்படுத்தப்படுகிறது மற்றும் தெரு விற்பனையாளர்கள் (வாழ்வாதாரம் மற்றும் தெரு விற்பனை ஒழுங்குமுறை) சட்டம், 2014 இன் கீழ் விதிகள் மற்றும் திட்டங்களை அறிவித்த மாநிலங்கள்/யூனியன் பிரதேசங்களைச் சேர்ந்த நன்மையாளர்களுக்கு இது கிடைக்கிறது. இந்தத் திட்டம் மார்ச் 31, 2030 வரை நீட்டிக்கப்பட்டுள்ளது மற்றும் குறிப்பிடத்தக்க நிலைகளை அடைந்துள்ளது, ஜூலை 30, 2025 வரை 68 லட்சத்திற்கும் மேற்பட்ட தெரு விற்பனையாளர்களுக்கு ரூ. 13,797 கோடி மதிப்பிலான 96 லட்சத்திற்கும் மேற்பட்ட கடன்கள் விநியோகிக்கப்பட்டுள்ளன. இந்தத் திட்டம் மீண்டும் கடன்கள் மற்றும் டிஜிட்டல் பணம் திரும்பப் பெறுதல் ஆகியவற்றின் மூலம் ஊக்கத்தொகைகளை வழங்குகிறது. இந்தத் திட்டம் மார்ச் 24, 2020 அன்று அல்லது அதற்கு முன்பு நகர்ப்புற பகுதிகளில் விற்பனையில் ஈடுபட்டிருந்த தெரு விற்பனையாளர்களுக்கு கிடைக்கிறது.",
+  "description_bn": "প্রধানমন্ত্রী স্ট্রীট ভেন্ডর্স আত্মনির্ভর নিধি (পিএম এস",
+  "documents_hi": [
+    "आधार कार्ड — ईकेवाईसी और डीबीटी के लिए अनिवार्य",
+    "अर्बन लोकल बॉडीज (यूलबी) द्वारा जारी वेंडिंग प्रमाण पत्र / पहचान पत्र",
+    "बैंक पासबुक या रद्द किया गया चेक — डीबीटी लिंकेज के लिए",
+    "आधार से जुड़ा मोबाइल नंबर",
+    "पैन कार्ड",
+    "वोटर आईडी कार्ड",
+    "पासपोर्ट",
+    "ड्राइविंग लाइसेंस",
+    "यूटिलिटी बिल (बिजली, पानी, गैस)",
+    "किराये की समझौता (यदि लागू हो)"
+  ],
+  "documents_ta": [
+    "ஆதார் அட்டை — இ-கேவाईசி மற்றும் டிபிடி ஆகியவற்றிற்கு கட்டாயம்",
+    "நகர உள்ளூர் அமைப்புகள் (யுஎல்பி) வழங்கிய விற்பனை சான்றிதழ் / அடையாள அட்டை",
+    "வங்கி பாஸ்புக் அல்லது ரத்து செய்யப்பட்ட ஆய்வு — டிபிடி இணைப்புக்காக",
+    "ஆதாருடன் இணைக்கப்பட்ட கைப்பேசி எண்",
+    "பான் அட்டை",
+    "வாக்காளர் அடையாள அட்டை",
+    "கடவுச்சீட்டு",
+    "ஓட்டுநர் உரிமம்",
+    "பயனுள்ள கட்டணங்கள் (மின்சாரம், நீர், வாயு)",
+    "வட்டி ஒப்பந்தம் (பொருந்தும் என்றால்)"
+  ],
+  "documents_bn": [
+    "আধার কার্ড — ই-কেওয়াইসি এবং ডিবিটি এর জন্য বাধ্যতামূলক",
+    "আরবান লোকাল বডিস (ইউএলবি) দ্বারা জারিকৃত ভেন্ডিং সার্টিফিকেট / আইডেন্টিটি কার্ড",
+    "ব্যাংক পাসবুক বা বাতিল চেক — ডিবিটি লিংকেজের জন্য",
+    "আধারের সাথে লিঙ্কড মোবাইল নম্বর",
+    "প্যান কার্ড",
+    "ভোটার আইডি কার্ড",
+    "পাসপোর্ট",
+    "ড্রাইভিং লাইসেন্স",
+    "ইউটিলিটি বিল (বিদ্যুৎ, পানি, গ্যাস)",
+    "রেন্ট অগ্রিমেন্ট (যদি প্রযোজ্য হয়)"
+  ],
+  "documents_mr": [
+    "आधार कार्ड — ईकेवाईसी आणि डीबीटी साठी अनिवार्य",
+    "अर्बन लोकल बॉडीज (यूएलबी) ने जारी केलेले विक्री प्रमाणपत्र / ओळखपत्र",
+    "बँक पासबुक किंवा रद्द केलेला चेक — डीबीटी लिंकेज साठी",
+    "आधारशी जोडलेला मोबाइल नंबर",
+    "पॅन कार्ड",
+    "मतदार ओळखपत्र",
+    "पासपोर्ट",
+    "ड्रायव्हिंग परवाना",
+    "युटिलिटी बिल (विजे, पाणी, वायू)",
+    "भाडेतत्त्व करार (योग्य असल्यास)"
+  ],
+  "apply_steps_hi": [
+    "पात्रता की जांच पीएम एसवीएनिधि पोर्टल पर करें",
+    "पीएम एसवीएनिधि पोर्टल पर ऋण के लिए आवेदन करें",
+    "पोर्टल पर आवश्यक दस्तावेज अपलोड करें",
+    "मोबाइल नंबर और आधार नंबर को सत्यापित करें",
+    "बैंक खाते में ऋण राशि प्राप्त करें",
+    "मासिक किश्तों के माध्यम से ऋण का भुगतान करें",
+    "पिछले ऋणों का भुगतान करने के बाद दूसरे और तीसरे किश्त के ऋणों के लिए आवेदन करें",
+    "दूसरी किश्त के ऋण का भुगतान करने के बाद यूपीआई-संबद्ध रूपे क्रेडिट कार्ड प्राप्त करें",
+    "डिजिटल लेनदेन के लिए क्रेडिट कार्ड का उपयोग करें और नकद प्रोत्साहन प्राप्त करें",
+    "पीएम एसवीएनिधि पोर्टल पर आवेदन की स्थिति और ऋण वितरण की स्थिति की जांच करें"
+  ],
+  "apply_steps_ta": [
+    "தகுதியை பிஎம் எஸ்விஏநிதி இணையதளத்தில் பரிசோதிக்கவும்",
+    "பிஎம் எஸ்விஏநிதி இணையதளத்தில் கடனுக்கு விண்ணப்பிக்கவும்",
+    "இணையதளத்தில் தேவையான ஆவணங்களை மேலேற்றவும்",
+    "கைப்பேசி எண்ணையும் ஆதார் எண்ணையும் சரிபார்க்கவும்",
+    "வங்கி கணக்கில் கடன் தொகையைப் பெறுங்கள்",
+    "மாதாந்திர கிட்டத்தட்டங்கள் மூலம் கடனைத் திருப்பிச் செலுத்தவும்",
+    "முந்தைய கடன்களைத் திருப்பிச் செலுத்திய பிறகு இரண்டாவது மற்றும் மூன்றாவது கிட்டத்தட்ட கடன்களுக்கு விண்ணப்பிக்கவும்",
+    "இரண்டாவது கிட்டத்தட்ட கடனைத் திருப்பிச் செலுத்திய பிறகு யூபிஐ-இணைக்கப்பட்ட ரூபே கிரெடிட் கார்டைப் பெறுங்கள்",
+    "டிஜிட்டல் பரிவர்த்தனைகளுக்கு கிரெடிட் கார்டைப் பயன்படுத்தவும் மற்றும் காசோலை ஊக்கத்தொகைகளைப் பெறுங்கள்",
+    "பிஎம் எஸ்விஏநிதி இணையதளத்தில் விண்ணப்ப நிலை மற்றும் கடன் விநியோக நிலையைக் கண்காணிக்கவும்"
+  ],
+  "apply_steps_bn": [
+    "যোগ্যতা পরীক্ষা করুন পিএম এসভিএনিধি পোর্টালে",
+    "পিএম এসভিএনিধি পোর্টালে ঋণের জন্য আবেদন করুন",
+    "পোর্টালে প্রয়োজ"
+  ],
+  "faq": [
+    {
+      "question_en": "What is the maximum loan amount that can be availed under the PM SVANidhi scheme?",
+      "answer_en": "The maximum loan amount that can be availed under the PM SVANidhi scheme is Rs 50,000, which is offered in three tranches: up to Rs 15,000 in the first tranche, up to Rs 25,000 in the second tranche, and up to Rs 50,000 in the third tranche.",
+      "question_hi": "प्रधानमंत्री स्वनिधि योजना के तहत अधिकतम ऋण राशि क्या हो सकती है?",
+      "answer_hi": "प्रधानमंत्री स्वनिधि योजना के तहत अधिकतम ऋण राशि रु 50,000 है, जो तीन किश्तों में दी जाती है: पहली किश्त में रु 15,000 तक, दूसरी किश्त में रु 25,000 तक और तीसरी किश्त में रु 50,000 तक।",
+      "question_ta": "பிரதமர் ஸ்வநிதி திட்டத்தின் கீழ் அதிகபட்ச கடன் தொகை என்ன?",
+      "answer_ta": "பிரதமர் ஸ்வநிதி திட்டத்தின் கீழ் அதிகபட்ச கடன் தொகை ரூ. 50,000 ஆகும், இது மூன்று கிட்டங்களில் வழங்கப்படுகிறது: முதல் கிட்டத்தில் ரூ. 15,000 வரை, இரண்டாவது கிட்டத்தில் ரூ. 25,000 வரை மற்றும் மூன்றாவது கிட்டத்தில் ரூ. 50,000 வரை."
+    },
+    {
+      "question_en": "What are the eligibility criteria for the PM SVANidhi scheme?",
+      "answer_en": "The eligibility criteria for the PM SVANidhi scheme include being a street vendor in possession of a Certificate of Vending/Identity Card issued by Urban Local Bodies (ULBs), being identified as per the survey carried out by ULBs/Municipalities, and being engaged in vending in urban areas as on or before March 24, 2020.",
+      "question_hi": "प्रधानमंत्री स्वनिधि योजना के लिए पात्रता मानदंड क्या हैं?",
+      "answer_hi": "प्रधानमंत्री स्वनिधि योजना के लिए पात्रता मानदंडों में शहरी स्थानीय निकायों (यूएलबी) द्वारा जारी विक्रेता प्रमाण पत्र/पहचान पत्र होना, यूएलबी/नगर निगमों द्वारा किए गए सर्वेक्षण के अनुसार पहचाना जाना और 24 मार्च, 2020 से पहले शहरी क्षेत्रों में विक्रेता के रूप में काम करना शामिल है।",
+      "question_ta": "பிரதமர் ஸ்வநிதி திட்டத்திற்கான தகுதி கட்டாயங்கள் யாவை?",
+      "answer_ta": "பிரதமர் ஸ்வநிதி திட்டத்திற்கான தகுதி கட்டாயங்களில் நகர்ப்புற உள்ளூர் அமைப்புகளால் (யுஎல்பி) வழங்கப்பட்ட விற்பனையாளர் சான்றிதழ்/அடையாள அட்டை வைத்திருப்பது, யுஎல்பி/நகராட்சிகளால் மேற்கொள்ளப்பட்ட கணக்கெடுப்பின்படி அடையாளம் காணப்பட்டது மற்றும் மார்ச் 24, 2020 க்கு முன்னர் நகர்ப்புறப் பகுதிகளில் விற்பனையாளராக ஈடுபட்டிருந்தது ஆகியவை அடங்கும்."
+    },
+    {
+      "question_en": "How can I apply for the PM SVANidhi scheme?",
+      "answer_en": "You can apply for the PM SVANidhi scheme through the official website of the scheme or through the mobile app. You will need to provide required documents such as a Certificate of Vending/Identity Card, Aadhaar card, and bank account details.",
+      "question_hi": "मैं प्रधानमंत्री स्वनिधि योजना के लिए कैसे आवेदन कर सकता हूं?",
+      "answer_hi": "आप योजना की आधिकारिक वेबसाइट या मोबाइल ऐप के माध्यम से प्रधानमंत्री स्वनिधि योजना के लिए आवेदन कर सकते हैं। आपको विक्रेता प्रमाण पत्र/पहचान पत्र, आधार कार्ड और बैंक खाता विवरण जैसे आवश्यक दस्तावेज प्रदान करने होंगे।",
+      "question_ta": "நான் பிரதமர் ஸ்வநிதி திட்டத்திற்கு எப்படி விண்ணப்பிக்க முடியும்?",
+      "answer_ta": "நீங்கள் திட்டத்தின் அதிகாரப்பூர்வ இணையதளம் அல்லது மொபைல் பயன்பாடு மூலம் பிரதமர் ஸ்வநிதி திட்டத்திற்கு விண்ணப்பிக்க முடியும். நீங்கள் விற்பனையாளர் சான்றிதழ்/அடையாள அட்டை, ஆதார் அட்டை மற்றும் வங்கி கணக்கு விவரங்கள் போன்ற தேவையான ஆவணங்களை வழங்க வேண்டும்."
+    }
+  ],
+  "common_mistakes": [
+    "Mistake 1: Not having a valid Certificate of Vending / Identity Card issued by Urban Local Bodies (ULBs) — Ensure you have the required documents before applying",
+    "Mistake 2: Not being engaged in vending in urban areas as on or before March 24, 2020 — Check your eligibility based on the vending location and date",
+    "Mistake 3: Not having a bank account or Aadhaar card — Link your bank account and Aadhaar card to avoid rejection",
+    "Mistake 4: Applying for a loan amount that is not within the specified tranches — Check the loan amount limits for each tranche before applying",
+    "Mistake 5: Not repaying the previous loan tranche before applying for the next one — Ensure you have repaid the previous loan before applying for the next tranche",
+    "Mistake 6: Not providing accurate information or documents — Double-check your application and documents to avoid errors"
+  ],
+  "pro_tips": [
+    "Tip 1: Apply for the loan through the official portal or authorized banks to avoid delays and ensure timely processing",
+    "Tip 2: Repay your loan installments on time to avail the interest subsidy of 7% and monthly cash-back incentive of 7%",
+    "Tip 3: Use the UPI linked RuPay Credit Card facility available for PM SVANidhi beneficiaries who have successfully repaid their 2nd tranche loan",
+    "Tip 4: Keep your bank account and Aadhaar card linked and updated to ensure smooth loan disbursal and repayment"
+  ],
+  "state_wise_amounts": {
+    "note": "The loan amounts and interest subsidies vary by state, with some states offering additional benefits or top-ups",
+    "varies_by": "amount",
+    "states": {
+      "andhra_pradesh": "same as central",
+      "assam": "same as central",
+      "bihar": "same as central",
+      "gujarat": "same as central",
+      "haryana": "same as central",
+      "jharkhand": "same as central",
+      "karnataka": "same as central",
+      "kerala": "same as central",
+      "madhya_pradesh": "same as central",
+      "maharashtra": "same as central",
+      "odisha": "same as central",
+      "punjab": "same as central",
+      "rajasthan": "same as central",
+      "tamil_nadu": "same as central",
+      "telangana": "same as central",
+      "uttar_pradesh": "same as central",
+      "uttarakhand": "same as central",
+      "west_bengal": "same as central"
+    }
+  },
+  "state_specific_portals": {
+    "note": "Some states have their own portals for applying to the PM SVANidhi scheme, while others use the central portal",
+    "portals": {}
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "id": "kisan_credit_card",
+  "name_en": "Kisan Credit Card Scheme",
+  "description_en": "The Kisan Credit Card scheme was introduced to provide adequate and timely credit to farmers for their agricultural operations. The Government of India provides interest subvention of 2% and Prompt Repayment Incentive of 3% to the farmers, thus making the credit available at a very subsidized rate of 4% per annum. The scheme aims at providing affordable credit to farmers in India. It was launched in 2000 and is implemented by the Ministry of Agriculture and Farmers Welfare. The scheme has been instrumental in transforming agricultural credit accessibility, ensuring that farmers receive timely and affordable financial assistance. The scheme provides broad guidelines to banks for operationalizing the KCC scheme. Implementing banks will have the discretion to adopt the same to suit institution/location-specific requirements. The scheme provides credit support from the banking system under a single window with flexible and simplified procedures to the farmers for their cultivation and other needs. The scheme has been extended for the investment credit requirement of farmers viz. allied and non-farm activities. The scheme provides a magnetic stripe card with PIN (Personal Identification Number) with an ISO IIN (International Standards Organization International Identification Number) to enable access to all banks ATMs and micro ATMs. The scheme has a maximum permissible limit, which is the short-term loan limit arrived for the 5th year plus the estimated long-term loan requirement. The scheme provides term loans for investments towards land development, minor irrigation, purchase of farm equipment and allied agricultural activities.",
+  "benefit_en": "The primary financial benefit of the Kisan Credit Card scheme is the provision of adequate and timely credit to farmers for their agricultural operations at a subsidized interest rate of 4% per annum. The scheme provides interest subvention of 2% and Prompt Repayment Incentive of 3% to the farmers. The scheme also provides term loans for investments towards land development, minor irrigation, purchase of farm equipment and allied agricultural activities. The scheme provides a maximum permissible limit, which is the short-term loan limit arrived for the 5th year plus the estimated long-term loan requirement. The scheme also provides insurance coverage to the farmers. The scheme is linked to other schemes such as the Pradhan Mantri Fasal Bima Yojana (PMFBY) and the Pradhan Mantri Krishi Sinchayee Yojana (PMKSY). The scheme provides convergence benefits to the farmers, such as access to credit, insurance, and other benefits. The scheme also provides top-up benefits to the farmers, such as additional credit limits and other benefits.",
+  "eligibility_rules": {
+    "occupation": [
+      "farmer",
+      "agricultural_labourer",
+      "rural_household",
+      "sharecroppers",
+      "tenant farmers",
+      "self-help groups (SHGs) or joint liability groups (JLGs) of farmers"
+    ],
+    "gender": "any",
+    "bpl_required": false,
+    "land_ownership_required": false,
+    "girl_child_required": false,
+    "pregnant_woman_only": false,
+    "age_min": null,
+    "age_max": null,
+    "income_max_annual": null,
+    "caste_preference": [
+      "any"
+    ],
+    "bank_account_required": true,
+    "aadhaar_required": true,
+    "other_conditions": [
+      "land holding limits",
+      "number of children",
+      "residence requirements",
+      "employment status",
+      "institutional landholding exclusions",
+      "constitutional post exclusions"
+    ]
+  },
+  "exclusion_criteria": [
+    "Income tax payees (previous assessment year)",
+    "Constitutional post holders (President, VP, Ministers, MPs, MLAs, etc.)",
+    "Serving/retired Central & State government employees (except Group D/MTS)",
+    "Government pensioners drawing Rs 10,000+/month",
+    "All professionals registered with professional bodies (doctors, lawyers, CAs, architects, engineers)",
+    "Any other explicitly stated exclusion from the scheme guidelines"
+  ],
+  "documents_en": [
+    "01. Aadhaar Card — mandatory for eKYC and DBT",
+    "02. Land ownership documents / Khasra-Khatauni / Patta",
+    "03. Bank passbook or cancelled cheque — for DBT linkage",
+    "04. PAN Card",
+    "05. Voter’s ID Card",
+    "06. Passport",
+    "07. Driving Licence",
+    "08. Utility bills (not more than 3 months old)",
+    "09. Bank statement for the last 3 months",
+    "10. Salary slips for the last 3 months",
+    "11. Audited financials for the last two years (for self-employed)",
+    "12. Form 16"
+  ],
+  "apply_steps_en": [
+    "Step 01: Visit the website of the bank you wish to apply for the Kisan Credit Card scheme",
+    "Step 02: Choose the Kisan Credit Card from the options",
+    "Step 03: Click on ‘Apply’",
+    "Step 04: Read all the information",
+    "Step 05: Fill out the application form",
+    "Step 06: Click on submit",
+    "Step 07: Your bank will get back to you for the further process within 3-4 working days",
+    "Step 08: Submit the required documents",
+    "Step 09: Wait for the verification process",
+    "Step 10: Receive the Kisan Credit Card"
+  ],
+  "application_url": "https://www.bankingfraud.com/kisan-credit-card",
+  "helpline": "1800 180 1551",
+  "ministry": "Ministry of Agriculture and Farmers Welfare",
+  "nodal_department": "Department of Agriculture, Cooperation and Farmers Welfare",
+  "scheme_type": "central",
+  "launch_year": 2000,
+  "last_updated": "2024",
+  "processing_time": "3-4 working days",
+  "renewal_required": false,
+  "renewal_frequency": null,
+  "renewal_process": "Not applicable",
+  "payment_mode": "DBT / direct bank transfer",
+  "payment_frequency": "annual / quarterly / monthly",
+  "payment_schedule": "Specific dates, triggers, or installment breakdown",
+  "related_schemes": [
+    "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)"
+  ],
+  "tags": [
+    "farmer",
+    "agriculture",
+    "credit",
+    "loan",
+    "subsidy"
+  ],
+  "source_url": "https://www.agriculture.gov.in/",
+  "keywords": [
+    "Kisan Credit Card",
+    "KCC",
+    "farmer loan",
+    "agriculture credit",
+    "subsidy",
+    "interest subvention",
+    "prompt repayment incentive",
+    "credit card",
+    "loan scheme",
+    "farmers",
+    "rural development",
+    "agriculture development",
+    "credit support",
+    "financial assistance",
+    "government scheme",
+    "central scheme",
+    "ministry of agriculture and farmers welfare"
+  ],
+  "name_hi": "किसान क्रेडिट कार्ड योजना",
+  "name_ta": "விவசாயிகள் கிரெடிட் கார்ட் திட்டம்",
+  "name_bn": "কিষান ক্রেডিট কার্ড স্কিম",
+  "name_mr": "शेतकरी क्रेडिट कार्ड योजना",
+  "description_hi": "किसान क्रेडिट कार्ड योजना को किसानों को उनके कृषि संचालन के लिए पर्याप्त और समय पर ऋण प्रदान करने के लिए शुरू किया गया था। भारत सरकार किसानों को 2% की ब्याज सब्सिडी और 3% की प्रॉम्प्ट रिपेमेंट इन्सेंटिव प्रदान करती है, जिससे ऋण 4% प्रति वर्ष की बहुत ही सब्सिडाइज्ड दर पर उपलब्ध हो जाता है। यह योजना भारत में किसानों को सस्ता ऋण प्रदान करने के उद्देश्य से शुरू की गई थी। यह 2000 में शुरू की गई थी और कृषि और किसान कल्याण मंत्रालय द्वारा लागू की जाती है। यह योजना कृषि ऋण सुलभता को बदलने में महत्वपूर्ण रही है, जिससे किसानों को समय पर और सस्ता वित्तीय सहायता मिलती है।",
+  "description_ta": "விவசாயிகளுக்கு அவர்களின் விவசாய செயல்பாடுகளுக்கு போதுமான மற்றும் நேரத்திற்கு கடன் வழங்குவதற்காக விவசாயிகள் கிரெடிட் கார்ட் திட்டம் அறிமுகப்படுத்தப்பட்டது. இந்திய அரசு விவசாயிகளுக்கு 2% வட்டி உதவித்தொகை மற்றும் 3% விரைவான திருப்பிச் செலுத்துதல் ஊக்கத்தை வழங்குகிறது, இதன் மூலம் கடன் மிகவும் மலிவான விகிதமாக 4% ஆண்டுக்கு கிடைக்கிறது.",
+  "description_bn": "কিষান ক্রেডিট কার্ড স্কিমটি চাষীদের তাদের কৃষি কার্যক্রমের জন্য যথেষ্ট এবং সময়মতো ঋণ প্রদানের জন্য চালু করা হয়েছিল। ভারত সরকার চাষীদের 2% সুদ সহায়তা এবং 3% দ্রুত পরিশোধ প্রণোদনা প্রদান করে, যার ফলে ঋণ 4% প্রতি বছরের একটি খুব সস্তা হারে উপলব্ধ হয়।",
+  "description_mr": "शेतकरी क्रेडिट कार्ड योजना ही शेतकऱ्यांना त्यांच्या शेती संचालनासाठी पुरेशा व समयपूर्व कर्ज प्रदान करण्यासाठी सुरू करण्यात आली आहे. भारत सरकार शेतकऱ्यांना 2% व्याज अनुदान आणि 3% प्रॉम्प्ट रिपेमेंट इन्सेंटिव प्रदान करते, ज्यामुळे कर्ज 4% प्रति वर्ष या खूपच कमी दराने उपलब्ध होते.",
+  "benefit_hi": "किसान क्रेडिट कार्ड योजना का मुख्य वित्तीय लाभ किसानों को उनके कृषि संचालन के लिए पर्याप्त और समय पर ऋण प्रदान करना है जो 4% प्रति वर्ष की सब्सिडाइज्ड ब्याज दर पर उपलब्ध है। यह योजना किसानों को 2% की ब्याज सब्सिडी और 3% की प्रॉम्प्ट रिपेमेंट इन्सेंटिव प्रदान करती है।",
+  "benefit_ta": "விவசாயிகள் கிரெடிட் கார்ட் திட்டத்தின் முக்கிய நிதி நன்மை விவசாயிகளுக்கு அவர்களின் விவசாய செயல்பாடுகளுக்கு போதுமான மற்றும் நேரத்திற்கு கடன் வழங்குவதாகும், அது 4% ஆண்டுக்கு ரியாய்த்து வட்டி விகிதத்தில் கிடைக்கிறது.",
+  "benefit_bn": "কিষান ক্রেডিট কার্ড স্কিমের প্রধান আর্থিক সুবিধা হল চাষীদের তাদের কৃষি কার্যক্রমের জন্য যথেষ্ট এবং সময়মতো ঋণ প্রদান করা, যা 4% প্রতি বছরের সহাযতা সুদের হারে পাওয়া যায়।",
+  "benefit_mr": "शेतकरी क्रेडिट कार्ड योजनेचा मुख्य आर्थिक फायदा म्हणजे शेतकऱ्यांना त्यांच्या शेती संचालनासाठी पुरेशा व समयपूर्व कर्ज प्रदान करणे, जे 4% प्रति वर्ष या सब्सिडाइज्ड व्याज दराने उपलब्ध आहे.",
+  "documents_hi": [
+    "आधार कार्ड — ईकेवाईसी और डीबीटी के लिए अनिवार्य",
+    "भूमि स्वामित्व दस्तावेज / खसरा-खतौनी / पट्टा",
+    "बैंक पासबुक या रद्द चेक — डीबीटी लिंकेज के लिए",
+    "पैन कार्ड",
+    "मतदाता पहचान पत्र",
+    "पासपोर्ट",
+    "ड्राइविंग लाइसेंस",
+    "यूटिलिटी बिल (3 महीने से अधिक पुराने नहीं)",
+    "पिछले 3 महीनों का बैंक स्टेटमेंट",
+    "पिछले 3 महीनों के वेतन पर्चे",
+    "स्व-नियोजित के लिए पिछले दो वर्षों के लिए ऑडिटेड वित्तीय",
+    "फॉर्म 16"
+  ],
+  "documents_ta": [
+    "அடையாள அட்டை — இ-கேவाईசி மற்றும் டிபிடி க்கு அவசியம்",
+    "நில உடைமை ஆவணங்கள் / காசா-கட்டானி / பட்டா",
+    "வங்கி பாஸ்புக் அல்லது ரத்து செய்யப்பட்ட செக் — டிபிடி இணைப்புக்கு",
+    "பான் கார்டு",
+    "வாக்காளர் அடையாள அட்டை",
+    "கடவுச்சீட்டு",
+    "ஓட்டுநர் உரிமம்",
+    "பயனுள்ள கட்டணங்கள் (3 மாதங்களுக்கு மேல் பழையதல்ல)",
+    "கடந்த 3 மாதங்களின் வங்கி அறிக்கை",
+    "கடந்த 3 மாதங்களின் ஊதிய தாள்கள்",
+    "சுய-வேலை வாய்ப்புக்கான கடந்த இரண்டு ஆண்டுகளுக்கான ஆட்சேபனை செய்யப்பட்ட நிதி",
+    "படிவம் 16"
+  ],
+  "documents_bn": [
+    "আধার কার্ড — ই-কেওয়াইসি এবং ডিবিটি এর জন্য বাধ্যতামূলক",
+    "জমির মালিকানা দলিলপত্র / খাসরা-খতিযান / পাট্টা",
+    "ব্যাংক পাসবুক বা বাতিল চেক — ডিবিটি লিংকেজের জন্য",
+    "প্যান কার্ড",
+    "ভোটার আইডি কার্ড",
+    "পাসপোর্ট",
+    "ড্রাইভিং লাইসেন্স",
+    "ইউটিলিটি বিল (৩ মাসের বেশি পুরানো নয়)",
+    "শেষ ৩ মাসের ব্যাংক স্টেটমেন্ট",
+    "শেষ ৩ মাসের বেতন স্লিপ",
+    "নিজের চাকরির জন্য শেষ ২ বছরের জন্য অডিট করা আর্থিক",
+    "ফর্ম ১৬"
+  ],
+  "documents_mr": [
+    "आधार कार्ड — ईकेवाईसी आणि डीबीटी साठी अनिवार्य",
+    "जमीन मालकी दाखले / खसरा-खतौनी / पट्टा",
+    "बँक पासबुक किंवा रद्द चेक — डीबीटी लिंकेज साठी",
+    "पॅन कार्ड",
+    "मतदार ओळख पत्र",
+    "पासपोर्ट",
+    "ड्रायव्हिंग लायसन्स",
+    "युटिलिटी बिल (३ महिने पेक्षा जुने नाही)",
+    "शेवटच्या ३ महिन्यांचा बँक स्टेटमेंट",
+    "शेवटच्या ३ महिन्यांच्या वेतन पर्चे",
+    "स्व-नियोजित कार्यासाठी शेवटच्या २ वर्षांसाठी लेखापरीक्षण केलेले आर्थिक",
+    "फॉर्म १६"
+  ],
+  "apply_steps_hi": [
+    "किसान क्रेडिट कार्ड योजना के लिए आवेदन करने के लिए बैंक की वेबसाइट पर जाएं",
+    "विकल्पों से किसान क्रेडिट कार्ड चुनें",
+    "'अप्लाई' पर क्लिक करें",
+    "सभी जानकारी पढ़ें",
+    "आवेदन पत्र भरें",
+    "सबमिट पर क्लिक करें",
+    "आपका बैंक ३-४ कार्य दिवसों के भीतर आगे की प्रक्रिया के लिए आपको वापस बुलाएगा",
+    "आवश्यक दस्तावेज जमा करें",
+    "सत्यापन प्रक्रिया की प्रतीक्षा करें",
+    "किसान क्रेडिट कार्ड प्राप्त करें"
+  ],
+  "apply_steps_ta": [
+    "விவசாயி கிரெடிட் கார்டு திட்டத்திற்கு விண்ணப்பிக்க வங்கியின் இணையதளத்திற்குச் செல்லுங்கள்",
+    "விருப்பங்களிலிருந்து விவசாயி கிரெடிட் கார்டைத் தேர்ந்தெடுங்கள்",
+    "'விண்ணப்பிக்க' என்ற பொத்தானைக் கிளிக் செய்யவும்",
+    "அனைத்து தகவல்களையும் படியுங்கள்",
+    "விண்ணப்ப படிவத்தை நிரப்புங்கள்",
+    "சமர்ப்பிக்க என்ற பொத்தானைக் கிளிக் செய்யவும்",
+    "உங்கள் வங்கி 3-4 பணிநாட்களுக்குள் மேலும் செயல்முறைக்காக உங்களைத் திரும்பப் பெறும்",
+    "தேவையான ஆவணங்களை சமர்ப்பிக்கவும்",
+    "சரிபார்ப்பு செயல்முறையைக் காத்திருங்கள்",
+    "விவசாயி கிரெடிட் கார்டைப் பெறுங்கள்"
+  ],
+  "apply_steps_bn": [
+    "কিশান ক্রেডিট কার্ড স্কিমের জন্য আবেদন করতে ব্যাংকের ওয়েবসাইটে যান",
+    "বিকল্পগুলি থেকে কিশান ক্রেডিট কার্ড বেছে নিন",
+    "'আবেদন' এ ক্লিক করুন",
+    "সমস্ত তথ্য পড়ুন",
+    "আবেদনপত্র পূরণ করুন",
+    "সাবমিট এ ক্লিক করুন",
+    "আপনার ব্যাংক ৩-৪ কাজের দিনের মধ্যে আগামী প্রক্রিয়ার জন্য আপনাকে ফিরিয়ে পাবে",
+    "প্রয়োজনীয় নথিগুলি জমা দিন",
+    "যাচাইকরণ প্রক্রিয়"
+  ],
+  "faq": [
+    {
+      "question_en": "What are the eligibility criteria for the Kisan Credit Card scheme?",
+      "answer_en": "The Kisan Credit Card scheme is eligible for farmers who are owner cultivators, joint borrowers, sharecroppers, tenant farmers, and self-help groups. There is no requirement for land ownership or a specific income limit. The scheme is open to all genders and castes.",
+      "question_hi": "किसान क्रेडिट कार्ड योजना के लिए पात्रता मानदंड क्या हैं?",
+      "answer_hi": "किसान क्रेडिट कार्ड योजना उन किसानों के लिए पात्र है जो मालिक किसान, संयुक्त उधारकर्ता, बटाईदार, किरायेदार किसान और स्वयं सहायता समूह हैं। जमीन के मालिकाना हक या एक विशिष्ट आय सीमा की आवश्यकता नहीं है। यह योजना सभी लिंगों और जातियों के लिए खुली है।"
+    },
+    {
+      "question_en": "What documents are required to apply for the Kisan Credit Card loan scheme?",
+      "answer_en": "The documents required to apply for the Kisan Credit Card loan scheme include a filled and signed application form, copy of ID proof (Aadhaar, Voter ID, Driving license), copy of address proof, land documents, and passport-sized photo. Other documents may be required by the bank.",
+      "question_hi": "किसान क्रेडिट कार्ड ऋण योजना के लिए आवेदन करने के लिए कौन से दस्तावेज़ आवश्यक हैं?",
+      "answer_hi": "किसान क्रेडिट कार्ड ऋण योजना के लिए आवेदन करने के लिए आवश्यक दस्तावेजों में भरा हुआ और हस्ताक्षरित आवेदन पत्र, आईडी प्रूफ (आधार, मतदाता आईडी, ड्राइविंग लाइसेंस) की प्रति, पते के प्रमाण की प्रति, भूमि दस्तावेज और पासपोर्ट आकार की फोटो शामिल हैं। बैंक द्वारा अन्य दस्तावेजों की आवश्यकता हो सकती है।"
+    },
+    {
+      "question_en": "How to apply for the Kisan Credit Card loan scheme?",
+      "answer_en": "To apply for the Kisan Credit Card loan scheme, visit the bank's website, choose Kisan Credit Card from the options, click on 'Apply', read all the information, fill out the application form, and click on submit. The bank will get back to you.",
+      "question_hi": "किसान क्रेडिट कार्ड ऋण योजना के लिए आवेदन कैसे करें?",
+      "answer_hi": "किसान क्रेडिट कार्ड ऋण योजना के लिए आवेदन करने के लिए, बैंक की वेबसाइट पर जाएं, विकल्पों से किसान क्रेडिट कार्ड चुनें, 'आवेदन' पर क्लिक करें, सभी जानकारी पढ़ें, आवेदन पत्र भरें और सबमिट पर क्लिक करें। बैंक आपको संपर्क करेगा।"
+    },
+    {
+      "question_en": "What is the interest rate for the Kisan Credit Card loan scheme?",
+      "answer_en": "The interest rate for the Kisan Credit Card loan scheme is 4% per annum, with an interest subvention of 2% and a prompt repayment incentive of 3%.",
+      "question_hi": "किसान क्रेडिट कार्ड ऋण योजना के लिए ब्याज दर क्या है?",
+      "answer_hi": "किसान क्रेडिट कार्ड ऋण योजना के लिए ब्याज दर 4% प्रति वर्ष है, जिसमें 2% की ब्याज सब्सिडी और 3% की प्रॉम्प्ट रिपेमेंट प्रोत्साहन शामिल है।"
+    },
+    {
+      "question_en": "What is the maximum permissible limit for the Kisan Credit Card loan scheme?",
+      "answer_en": "The maximum permissible limit for the Kisan Credit Card loan scheme is the short-term loan limit arrived for the 5th year plus the estimated long-term loan.",
+      "question_hi": "किसान क्रेडिट कार्ड ऋण योजना के लिए अधिकतम अनुमेय सीमा क्या है?",
+      "answer_hi": "किसान क्रेडिट कार्ड ऋण योजना के लिए अधिकतम अनुमेय सीमा 5वें वर्ष के लिए आंकी गई अल्पकालिक ऋण सीमा प्लस अनुमानित दीर्घकालिक ऋण है।"
+    },
+    {
+      "question_en": "Can I use my Kisan Credit Card for non-agricultural purposes?",
+      "answer_en": "No, the Kisan Credit Card is specifically designed for agricultural purposes and should not be used for non-agricultural activities.",
+      "question_hi": "क्या मैं अपने किसान क्रेडिट कार्ड का उपयोग गैर-कृषि उद्देश्यों के लिए कर सकता हूं?",
+      "answer_hi": "नहीं, किसान क्रेडिट कार्ड विशेष रूप से कृषि उद्देश्यों के लिए डिज़ाइन किया गया है और इसका उपयोग गैर-कृषि गतिविधियों के लिए नहीं किया जाना चाहिए।"
+    },
+    {
+      "question_en": "How do I check my Kisan Credit Card balance?",
+      "answer_en": "You can check your Kisan Credit Card balance by visiting the bank's website, using the bank's mobile app, or by contacting the bank's customer care.",
+      "question_hi": "मैं अपने किसान क्रेडिट कार्ड बैलेंस की जांच कैसे कर सकता हूं?",
+      "answer_hi": "आप बैंक की वेबसाइट पर जाकर, बैंक के मोबाइल ऐप का उपयोग करके, या बैंक के ग्राहक सेवा से संपर्क करके अपने किसान क्रेडिट कार्ड बैलेंस की जांच कर सकते हैं।"
+    },
+    {
+      "question_en": "What should I do if my Kisan Credit Card application is rejected?",
+      "answer_en": "If your Kisan Credit Card application is rejected, you should contact the bank to know the reason for rejection and try to rectify the issue. You can also appeal to the bank's higher authorities if you feel that the rejection is unjustified.",
+      "question_hi": "मुझे क्या करना चाहिए अगर मेरे किसान क्रेडिट कार्ड आवेदन को अस्वीकार कर दिया जाता है?",
+      "answer_hi": "यदि आपके किसान क्रेडिट कार्ड आवेदन को अस्वीकार कर दिया जाता है, तो आपको बैंक से संपर्क करना चाहिए ताकि आप अस्वीकृति का कारण जान सकें और समस्या को ठीक करने का प्रयास करें। आप बैंक के उच्च अधिकारियों से भी अपील कर सकते हैं यदि आप feels करते हैं कि अस्वीकृति अन्यायपूर्ण है।"
+    }
+  ],
+  "common_mistakes": [
+    "Mistake 1: Incomplete or inaccurate documentation — Ensure all required documents such as proof of identity, address, and income are submitted correctly and are up-to-date.",
+    "Mistake 2: Insufficient or incorrect land holding information — Verify land ownership or rental agreements to avoid discrepancies.",
+    "Mistake 3: Failure to meet eligibility criteria — Confirm that the applicant meets the specified occupation, residence, and other requirements.",
+    "Mistake 4: Incorrect or missing Aadhaar details — Ensure the Aadhaar number is correctly linked and verified.",
+    "Mistake 5: Non-compliance with bank requirements — Adhere to the specific bank's guidelines and requirements for the Kisan Credit Card application.",
+    "Mistake 6: Delayed or incomplete application form submission — Ensure the application form is fully filled, signed, and submitted on time."
+  ],
+  "pro_tips": [
+    "Tip 1: Apply through the bank's online portal to speed up the application process and reduce errors.",
+    "Tip 2: Ensure all documents are in order and readily available before starting the application to avoid delays.",
+    "Tip 3: Verify the interest rate and repayment terms to maximize benefits and plan accordingly.",
+    "Tip 4: Regularly check the application status and follow up with the bank to ensure timely processing."
+  ],
+  "state_wise_amounts": {
+    "note": "The interest subvention and prompt repayment incentive may vary by state, but the primary benefits and eligibility remain consistent across India.",
+    "varies_by": "none",
+    "states": {
+      "andhra_pradesh": "same as central",
+      "assam": "same as central",
+      "bihar": "same as central",
+      "gujarat": "same as central",
+      "haryana": "same as central",
+      "jharkhand": "same as central",
+      "karnataka": "same as central",
+      "kerala": "same as central",
+      "madhya_pradesh": "same as central",
+      "maharashtra": "same as central",
+      "odisha": "same as central",
+      "punjab": "same as central",
+      "rajasthan": "same as central",
+      "tamil_nadu": "same as central",
+      "telangana": "same as central",
+      "uttar_pradesh": "same as central",
+      "uttarakhand": "same as central",
+      "west_bengal": "same as central"
+    }
+  },
+  "state_specific_portals": {
+    "note": "Most states use the central portal or their respective bank's online platform for Kisan Credit Card applications.",
+    "portals": {}
+  }
+}

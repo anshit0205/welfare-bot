@@ -1,0 +1,266 @@
+{
+  "id": "pmay_gramin",
+  "name_en": "Pradhan Mantri Awas Yojana - Gramin",
+  "description_en": "The Pradhan Mantri Awas Yojana - Gramin (PMAY-G) is a rural housing scheme of the Government of India that aims to provide financial support for building pucca houses with basic facilities for eligible households in rural areas. The scheme was introduced in April 2016 and is being implemented by the Ministry of Rural Development. The goal of the scheme is to achieve the target of 'Housing for All' in rural areas by providing assistance to eligible rural households with an overall target to construct 4.95 crore pucca houses with basic amenities by 2029. The scheme is funded by the Government of India and is being implemented in all states and union territories. The scheme has been extended for another two years, i.e., till 31st March 2024. The Union Cabinet approved the implementation of the PMAY-G for construction of 2 crore additional rural houses during FY 2024-25 to 2028-29.",
+  "benefit_en": "The primary financial benefit under PMAY-G is a grant of up to Rs. 1.20 lakh (Rs. 1.30 lakh for hilly areas) for the construction of a pucca house with basic amenities. The grant is provided in three installments, and the beneficiary is required to contribute a certain amount from their own resources. The scheme also provides for convergence with other schemes such as the Swachh Bharat Mission, the National Rural Livelihood Mission, and the Deen Dayal Upadhyaya Antyodaya Yojana. The scheme aims to provide a pucca house with basic amenities such as a kitchen, toilet, and bathroom to all eligible rural households.",
+  "eligibility_rules": {
+    "occupation": [
+      "farmer",
+      "agricultural labourer",
+      "rural household",
+      "houseless",
+      "kutcha house dwellers"
+    ],
+    "gender": "any",
+    "bpl_required": false,
+    "land_ownership_required": false,
+    "girl_child_required": false,
+    "pregnant_woman_only": false,
+    "age_min": null,
+    "age_max": null,
+    "income_max_annual": null,
+    "caste_preference": [
+      "any",
+      "SC",
+      "ST",
+      "OBC",
+      "minority"
+    ],
+    "bank_account_required": true,
+    "aadhaar_required": true,
+    "other_conditions": [
+      "Households without shelter",
+      "Destitute/living on alms",
+      "Manual scavengers",
+      "Primitive Tribal Groups",
+      "Legally released bonded labourers",
+      "Households living in zero, one, or two rooms with kutcha walls and kutcha roofs"
+    ]
+  },
+  "exclusion_criteria": [
+    "Income tax payees (previous assessment year)",
+    "Constitutional post holders (President, VP, Ministers, MPs, MLAs, etc.)",
+    "Serving/retired Central & State government employees (except Group D/MTS)",
+    "Government pensioners drawing Rs 10,000+/month",
+    "All professionals registered with professional bodies (doctors, lawyers, CAs, architects, engineers)",
+    "Households with pucca houses"
+  ],
+  "documents_en": [
+    "01. Aadhaar Card — mandatory for eKYC and DBT",
+    "02. Land ownership documents / Khasra-Khatauni / Patta",
+    "03. Bank passbook or cancelled cheque — for DBT linkage",
+    "04. SECC 2011 data printout",
+    "05. BPL card (if applicable)",
+    "06. Income certificate (if applicable)",
+    "07. Caste certificate (if applicable)",
+    "08. Disability certificate (if applicable)",
+    "09. Widow/divorced/separated certificate (if applicable)",
+    "10. Passport-sized photograph"
+  ],
+  "apply_steps_en": [
+    "Step 01: Visit the official PMAY-G website and click on 'Apply Online'",
+    "Step 02: Fill in the online application form with required details",
+    "Step 03: Upload required documents",
+    "Step 04: Submit the application form",
+    "Step 05: Wait for the verification process",
+    "Step 06: Receive the approval and sanction letter",
+    "Step 07: Start construction of the pucca house",
+    "Step 08: Receive the first installment of the grant",
+    "Step 09: Complete the construction of the pucca house",
+    "Step 10: Receive the final installment of the grant"
+  ],
+  "application_url": "https://pmayg.nic.in/",
+  "helpline": "Toll-free helpline number: 1800 11 6446",
+  "ministry": "Ministry of Rural Development",
+  "nodal_department": "Department of Rural Development",
+  "scheme_type": "central",
+  "launch_year": 2016,
+  "last_updated": "2025",
+  "processing_time": "Estimated 3-6 months from application to first benefit",
+  "renewal_required": false,
+  "renewal_frequency": null,
+  "renewal_process": "Not applicable",
+  "payment_mode": "DBT / direct bank transfer",
+  "payment_frequency": "one-time",
+  "payment_schedule": "Three installments: 40% + 40% + 20%",
+  "related_schemes": [
+    "Swachh Bharat Mission",
+    "National Rural Livelihood Mission",
+    "Deen Dayal Upadhyaya Antyodaya Yojana"
+  ],
+  "tags": [
+    "rural housing",
+    "pucca house",
+    "basic amenities",
+    "financial assistance",
+    "grant"
+  ],
+  "source_url": "https://pmayg.nic.in/",
+  "keywords": [
+    "Pradhan Mantri Awas Yojana Gramin",
+    "PMAY-G",
+    "rural housing scheme",
+    "financial assistance for pucca house",
+    "grant for pucca house",
+    "basic amenities",
+    "housing for all",
+    "rural development",
+    "Ministry of Rural Development",
+    "how to apply for PMAY-G",
+    "documents required for PMAY-G",
+    "eligibility criteria for PMAY-G",
+    "benefits of PMAY-G",
+    "payment mode of PMAY-G",
+    "payment schedule of PMAY-G"
+  ],
+  "name_hi": "प्रधान मंत्री आवास योजना - ग्रामीण",
+  "name_ta": "பிரதான் மந்திரி ஆவாஸ் யோஜனை - கிராமப்புறம்",
+  "name_bn": "প্রধানমন্ত্রী আবাস যোজনা - গ্রামীণ",
+  "name_mr": "प्रधानमंत्री आवास योजना - ग्रामीण",
+  "description_hi": "प्रधान मंत्री आवास योजना - ग्रामीण (पीएमएवाई-जी) भारत सरकार की एक ग्रामीण आवास योजना है जिसका उद्देश्य ग्रामीण क्षेत्रों में पात्र परिवारों को मूलभूत सुविधाओं के साथ पक्के मकान बनाने के लिए वित्तीय सहायता प्रदान करना है। यह योजना अप्रैल 2016 में शुरू की गई थी और इसका कार्यान्वयन ग्रामीण विकास मंत्रालय द्वारा किया जा रहा है। इस योजना का उद्देश्य ग्रामीण क्षेत्रों में 'सभी के लिए आवास' के लक्ष्य को प्राप्त करना है और इसके लिए 2029 तक मूलभूत सुविधाओं के साथ 4.95 करोड़ पक्के मकानों का निर्माण करने का लक्ष्य रखा गया है। यह योजना भारत सरकार द्वारा वित्तपोषित है और सभी राज्यों और केंद्र शासित प्रदेशों में लागू की जा रही है।",
+  "description_ta": "பிரதான் மந்திரி ஆவாஸ் யோஜனை - கிராமப்புறம் (பிஎம்ஏவை-ஜி) என்பது இந்திய அரசின் ஒரு கிராமப்புறக் குடியிருப்புத் திட்டமாகும், இது கிராமப்புறப் பகுதிகளில் தகுதியான குடும்பங்களுக்கு அடிப்படை வசதிகளுடன் கூடிய கட்டுமான வீடுகளை உருவாக்க நிதி ஆதரவை வழங்குவதை நோக்கமாகக் கொண்டுள்ளது. இந்தத் திட்டம் ஏப்ரல் 2016 இல் அறிமுகப்படுத்தப்பட்டது, மேலும் இது கிராமப்புற மேம்பாட்டு அமைச்சகத்தால் செயல்படுத்தப்படுகிறது. இந்தத் திட்டத்தின் நோக்கம் கிராமப்புறப் பகுதிகளில் 'அனைவருக்கும் வீடு' என்ற இலக்கை அடைவதாகும், மேலும் இதற்காக 2029 வரை அடிப்படை வசதிகளுடன் 4.95 கோடி கட்டுமான வீடுகளை கட்டுவதற்கான இலக்கு வைக்கப்பட்டுள்ளது. இந்தத் திட்டம் இந்திய அரசால் நிதியுதவி செய்யப்படுகிறது, மேலும் அனைத்து மாநிலங்களிலும் ஒன்றியப் பகுதிகளிலும் செயல்படுத்தப்படுகிறது.",
+  "description_bn": "প্রধানমন্ত্রী আবাস যোজনা - গ্রামীণ (পিএমএওয়াই-জি) ভারত সরকারের একটি গ্রামীণ আবাসন প্রকল্প যার লক্ষ্য গ্রামীণ এলাকায় মৌলিক সুযোগ সুবিধা সহ পাকা ঘর নির্মাণের জন্য যোগ্য পরিবারগুলিকে আর্থিক সহাযতা প্রদান করা। এই প্রকল্পটি এপ্রিল ২০১৬ সালে চালু করা হয়েছিল এবং গ্রামীণ উন্নয়ন মন্ত্রক দ্বারা এটি বাস্তবায়িত হচ্ছে। এই প্রকল্পের লক্ষ্য হল গ্রামীণ এলাকায় 'সকলের জন্য আবাস' এর লক্ষ্য অর্জন করা এবং এটির জন্য ২০২৯ সালের মধ্যে মৌলিক সুযোগ সুবিধা সহ ৪.৯৫ কোটি পাকা ঘর নির্মাণের লক্ষ্য রাখা হয়েছে। এই প্রকল্পটি ভারত সরকার দ্বারা অর্থায়ন করা হচ্ছে এবং সকল রাজ্য ও কেন্দ্রশাসিত অঞ্চলে বাস্তবায়িত হচ্ছে",
+  "documents_hi": [
+    "आधार कार्ड — ईकेवाईसी और डीबीटी के लिए अनिवार्य",
+    "भूमि स्वामित्व दस्तावेज / खसरा-खतौनी / पट्टा",
+    "बैंक पासबुक या रद्द चेक — डीबीटी लिंकेज के लिए",
+    "एसईसीसी 2011 डेटा प्रिंटआउट",
+    "बीपीएल कार्ड (यदि लागू हो)",
+    "आय प्रमाण पत्र (यदि लागू हो)",
+    "जाति प्रमाण पत्र (यदि लागू हो)",
+    "विकलांगता प्रमाण पत्र (यदि लागू हो)",
+    "विधवा / तलाकशुदा / अलग कार्ड (यदि लागू हो)",
+    "पासपोर्ट आकार की फोटो"
+  ],
+  "documents_ta": [
+    "ஆதார் அட்டை — இ-கேய்வाईசி மற்றும் டிபிடி ஆகியவற்றிற்கு அவசியம்",
+    "நில உடைமை ஆவணங்கள் / காஸ்ரா-கத்தானி / பட்டா",
+    "வங்கி பாஸ்புக் அல்லது ரத்து செய்யப்பட்ட செக் — டிபிடி இணைப்புக்கு",
+    "எஸ்இசிசி 2011 தரவு அச்சுப்பிரதி",
+    "பிஐஎல் அட்டை (பொருந்தும் என்றால்)",
+    "வருமான சான்றிதழ் (பொருந்தும் என்றால்)",
+    "சாதி சான்றிதழ் (பொருந்தும் என்றால்)",
+    "ஊனம் சான்றிதழ் (பொருந்தும் என்றால்)",
+    "விதவை / விவாகரத்து / தனியாக வாழும் கார்ட் (பொருந்தும் என்றால்)",
+    "பாஸ்போர்ட் அளவு புகைப்படம்"
+  ],
+  "documents_bn": [
+    "আধার কার্ড — ই-কেওয়াইসি এবং ডিবিটি এর জন্য বাধ্যতামূলক",
+    "জমির মালিকানা নথি / খাসরা-খতিযান / পাট্টা",
+    "ব্যাঙ্ক পাসবুক বা বাতিল চেক — ডিবিটি লিংকেজের জন্য",
+    "এসইসিসি 2011 তথ্য প্রিন্টআউট",
+    "বিপিএল কার্ড (যদি প্রযোজ্য হয়)",
+    "আয় প্রমাণপত্র (যদি প্রযোজ্য হয়)",
+    "জাতি প্রমাণপত্র (যদি প্রযোজ্য হয়)",
+    "প্রতিবন্ধী প্রমাণপত্র (যদি প্রযোজ্য হয়)",
+    "বিধবা / তালাকপ্রাপ্ত / আলাদা কার্ড (যদি প্রযোজ্য হয়)",
+    "পাসপোর্ট আকারের ছবি"
+  ],
+  "apply_steps_hi": [
+    "प्रधान मंत्री आवास योजना - ग्रामीण की आधिकारिक वेबसाइट पर जाएं और 'ऑनलाइन आवेदन' पर क्लिक करें",
+    "ऑनलाइन आवेदन पत्र में आवश्यक विवरण भरें",
+    "आवश्यक दस्तावेज अपलोड करें",
+    "आवेदन पत्र जमा करें",
+    "सत्यापन प्रक्रिया की प्रतीक्षा करें",
+    "स्वीकृति और स्वीकृति पत्र प्राप्त करें",
+    "पक्के घर का निर्माण शुरू करें",
+    "अनुदान की पहली किश्त प्राप्त करें",
+    "पक्के घर का निर्माण पूरा करें",
+    "अनुदान की अंतिम किश्त प्राप्त करें"
+  ],
+  "apply_steps_ta": [
+    "பிரதம மந்திரி ஆவாஸ் யோஜனா - கிராமின் அதிகாரப்பூர்வ இணையதளத்திற்குச் செல்லுங்கள் மற்றும் 'ஆன்லைனில் விண்ணப்பிக்கவும்' என்று கிளிக் செய்யுங்கள்",
+    "ஆன்லைன் விண்ணப்ப படிவத்தில் தேவையான விவரங்களை நிரப்புங்கள்",
+    "தேவையான ஆவணங்களை பதிவேற்றுங்கள்",
+    "விண்ணப்ப படிவத்தை சமர்ப்பிக்கவும்",
+    "சரிபார்ப்பு செயல்முறையைக் காத்திருங்கள்",
+    "ஒப்புதல் மற்றும் ஒப்புதல் கடிதத்தைப் பெறுங்கள்",
+    "பக்கா வீட்டின் கட்டுமானத்தைத் தொடங்குங்கள்",
+    "மானியத்தின் முதல் கிடைமட்டத்தைப் பெறுங்கள்",
+    "பக்கா வீட்டின் கட்டுமானத்தை முடிக்கவும்",
+    "மானியத்தின் இறுதி கிடைமட்டத்தைப் பெறுங்கள்"
+  ],
+  "apply_steps_bn": [
+    "প্রধানমন্ত্রী আবাস যোজনা - গ্রামীণ এর অফিসিয়াল ওয়েবসাইটে যান এবং 'অনলাইনে আবেদন' এ ক্লিক করুন",
+    "অনলাইন আবেদনপত্রে প্রয়োজনীয় বিবরণ পূরণ করুন",
+    "প্রয়োজনীয় নথি আপলোড করুন",
+    "আবেদনপত্র জমা দিন",
+    "যাচাই প্রক্রিয়ার অপেক্ষা করুন",
+    "অনুমোদন এবং অনুমোদন পত্র প্রাপ্ত করুন",
+    "পাক্কা ঘরের নির্মাণ শুরু করুন",
+    "অনুদানের প্রথম কিস্তি প্রাপ্ত করুন",
+    "পাক্কা ঘরের নির্মাণ সম্পূর্ণ করুন",
+    "অনুদানের চূড়ান্ত কিস্তি প্রাপ্ত করুন"
+  ],
+  "apply_steps_mr": [
+    "प्रधान मंत्री आवास योजना - ग्रामीण च्या अधिकृत वेबसाइटवर जा आणि 'ऑनलाइन अर्ज'"
+  ],
+  "faq": [
+    {
+      "question_en": "What is the eligibility criteria for Pradhan Mantri Awas Yojana - Gramin?",
+      "answer_en": "The eligibility criteria for PMAY-G includes houseless households, households living in zero, one, or two-room houses with kutcha walls and kutcha roofs, and households without shelter. The selection is based on SECC 2011 data and verified by Gram Sabhas.",
+      "question_hi": "प्रधान मंत्री आवास योजना - ग्रामीण के लिए पात्रता मानदंड क्या है?",
+      "answer_hi": "पीएमएवाई-जी के लिए पात्रता मानदंड में घरविहीन परिवार, शून्य, एक या दो कमरे के घरों में रहने वाले परिवार जिनके घर की दीवारें और छत कच्ची हैं, और आश्रय विहीन परिवार शामिल हैं। चयन एसईसीसी 2011 के आंकड़ों के आधार पर और ग्राम सभाओं द्वारा सत्यापित किया जाता है।",
+      "question_ta": "பிரதான் மந்திரி அவாஸ் யோஜனா - கிராமின் தொடர்பான தகுதி குணங்கள் என்ன?",
+      "answer_ta": "பிஎம்ஏவய்-ஜி தொடர்பான தகுதி குணங்களில் வீடற்ற குடும்பங்கள், பூஜ்யம், ஒன்று அல்லது இரண்டு அறைகள் கொண்ட வீடுகளில் வசிக்கும் குடும்பங்கள் அவர்களின் வீட்டின் சுவர்கள் மற்றும் காட்சிகள் கச்சா மற்றும் ஆதரவற்ற குடும்பங்கள் அடங்கும். தேர்வு எஸ்இசிசி 2011 தரவுகளின் அடிப்படையில் மற்றும் கிராம சபைகளால் சரிபார்க்கப்படுகிறது."
+    },
+    {
+      "question_en": "How much financial assistance is provided under PMAY-G?",
+      "answer_en": "The primary financial benefit under PMAY-G is a grant of up to Rs. 1.20 lakh (Rs. 1.30 lakh for hilly areas) for the construction of a pucca house with basic amenities.",
+      "question_hi": "पीएमएवाई-जी के तहत कितनी वित्तीय सहायता प्रदान की जाती है?",
+      "answer_hi": "पीएमएवाई-जी के तहत मुख्य वित्तीय लाभ एक पुक्का घर के निर्माण के लिए मूलभूत सुविधाओं के साथ 1.20 लाख रुपये (पहाड़ी क्षेत्रों के लिए 1.30 लाख रुपये) तक की अनुदान है।",
+      "question_ta": "பிஎம்ஏவய்-ஜி இன் கீழ் எந்த அளவு நிதி உதவி வழங்கப்படுகிறது?",
+      "answer_ta": "பிஎம்ஏவய்-ஜி இன் கீழ் முக்கிய நிதி நன்மை ஒரு புக்கா வீட்டின் கட்டுமானத்திற்கு அடிப்படை வசதிகளுடன் 1.20 லட்சம் ரூபாய் (மலைப்பகுதிகளுக்கு 1.30 லட்சம் ரூபாய்) வரை அளிக்கப்படுகிறது."
+    },
+    {
+      "question_en": "What is the process to check the beneficiary list of PMAY-G?",
+      "answer_en": "Eligible applicants can check their inclusion in the beneficiary list by visiting the official PMAY-G website and entering their registration details.",
+      "question_hi": "पीएमएवाई-जी की लाभार्थी सूची की जांच की प्रक्रिया क्या है?",
+      "answer_hi": "पात्र आवेदक आधिकारिक पीएमएवाई-जी वेबसाइट पर जाकर और अपना पंजीकरण विवरण दर्ज करके लाभार्थी सूची में अपने समावेश की जांच कर सकते हैं।",
+      "question_ta": "பிஎம்ஏவய்-ஜி இன் பயனாளர் பட்டியலைப் பார்ப்பதற்கான செயல்முறை என்ன?",
+      "answer_ta": "தகுதிவாய்ந்த விண்ணப்பதாரர்கள் அதிகாரப்பூர்வ பிஎம்ஏவய்-ஜி இணையதளத்திற்குச் செல்வதன் மூலம் மற்றும் தங்கள் பதிவு விவரங்களை உள்ளீடு செய்வதன் மூலம் பயனாளர் பட்டியலில் தங்கள் சேர்க்கையைக் கண்டறியலாம்."
+    }
+  ],
+  "common_mistakes": [
+    "Mistake 1: Incomplete or incorrect SECC data — Ensure accurate SECC data to avoid rejection",
+    "Mistake 2: Failure to meet eligibility criteria — Verify eligibility criteria before applying",
+    "Mistake 3: Insufficient or incorrect documentation — Ensure all required documents are complete and accurate",
+    "Mistake 4: Incorrect bank account or Aadhaar details — Verify bank account and Aadhaar details for direct transfer of funds",
+    "Mistake 5: Not following the application process correctly — Follow the official application process carefully",
+    "Mistake 6: Not checking the beneficiary list — Check the official beneficiary list to ensure inclusion"
+  ],
+  "pro_tips": [
+    "Tip 1: Ensure accurate and complete SECC data to avoid rejection",
+    "Tip 2: Verify eligibility criteria before applying to avoid unnecessary delays",
+    "Tip 3: Keep all required documents ready and ensure they are complete and accurate",
+    "Tip 4: Regularly check the official website for updates and track application status"
+  ],
+  "state_wise_amounts": {
+    "note": "The grant amount varies by state, with hilly areas receiving a higher amount",
+    "varies_by": "amount",
+    "states": {
+      "andhra_pradesh": "same as central",
+      "assam": "same as central",
+      "bihar": "same as central",
+      "gujarat": "same as central",
+      "haryana": "same as central",
+      "jharkhand": "same as central",
+      "karnataka": "same as central",
+      "kerala": "same as central",
+      "madhya_pradesh": "same as central",
+      "maharashtra": "same as central",
+      "odisha": "same as central",
+      "punjab": "same as central",
+      "rajasthan": "same as central",
+      "tamil_nadu": "same as central",
+      "telangana": "same as central",
+      "uttar_pradesh": "same as central",
+      "uttarakhand": "Rs. 1.30 lakh for hilly areas",
+      "west_bengal": "same as central"
+    }
+  },
+  "state_specific_portals": {
+    "note": "State-level application portals may vary, but most states use the central portal",
+    "portals": {}
+  }
+}

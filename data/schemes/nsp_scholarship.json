@@ -1,0 +1,286 @@
+{
+  "id": "nsp_scholarship",
+  "name_en": "National Scholarship Portal (NSP) Scholarship",
+  "description_en": "The National Scholarship Portal (NSP) is a one-stop solution for various scholarship schemes offered by the Government of India. The portal aims to provide a common platform for students to apply for various scholarships, ensuring transparency, efficiency, and accountability. The NSP scholarship is available for students pursuing higher education, including those from Scheduled Castes (SC), Scheduled Tribes (ST), Other Backward Classes (OBC), Economically Weaker Section (EWS), Minority Communities, Persons with Disabilities (PwD), and Female Students. The scholarship amount varies depending on the scheme, with some offering up to Rs 60,000 or Rs 48,000 annually. The NSP scholarship is disbursed via Direct Benefit Transfer (DBT) to Aadhaar-linked bank accounts. The portal is open for applications from June to December, with specific deadlines for different schemes. The NSP scholarship is a crucial initiative by the Government of India to promote educational equity and support students from disadvantaged backgrounds.",
+  "benefit_en": "The primary financial benefit of the NSP scholarship is the payment of compulsory fees charged by educational institutions, subject to the limit fixed by the concerned State. Additionally, students receive a maintenance amount varying from Rs 230 to Rs 1200 per month, depending on the course of study pursued. The scholarship also covers technical and vocational courses in Industrial Training Institutes/ Industrial Training Centres affiliated with the National Council for Vocational Training (NCVT) of classes XI and XII level, including Polytechnics and other courses. Some schemes offer a higher funding amount with a hostel allowance. The NSP scholarship is disbursed via Direct Benefit Transfer (DBT) to Aadhaar-linked bank accounts, ensuring efficient and transparent payment.",
+  "eligibility_rules": {
+    "occupation": [
+      "student"
+    ],
+    "gender": "any",
+    "bpl_required": false,
+    "land_ownership_required": false,
+    "girl_child_required": false,
+    "pregnant_woman_only": false,
+    "age_min": null,
+    "age_max": null,
+    "income_max_annual": "Rs 2.5 lakh",
+    "caste_preference": [
+      "SC",
+      "ST",
+      "OBC",
+      "EWS",
+      "Minority Communities",
+      "PwD"
+    ],
+    "bank_account_required": true,
+    "aadhaar_required": true,
+    "other_conditions": [
+      "Maintain a 100% pass percentage in the class 10th examination for some schemes",
+      "Pursue a recognized course from a recognized institution for which qualification is Matriculation/Class X or above",
+      "Have a unique One Time Registration (OTR) number",
+      "Have an Aadhaar-linked bank account for DBT",
+      "Not be a recipient of any other scholarship scheme",
+      "Meet the specific eligibility criteria of the chosen scheme"
+    ]
+  },
+  "exclusion_criteria": [
+    "Income tax payees (previous assessment year)",
+    "Constitutional post holders (President, VP, Ministers, MPs, MLAs, etc.)",
+    "Serving/retired Central & State government employees (except Group D/MTS)",
+    "Government pensioners drawing Rs 10,000+/month",
+    "All professionals registered with professional bodies (doctors, lawyers, CAs, architects, engineers)",
+    "Students pursuing studies abroad"
+  ],
+  "documents_en": [
+    "01. Aadhaar Card — mandatory for eKYC and DBT",
+    "02. One Time Registration (OTR) number",
+    "03. Bank passbook or cancelled cheque — for DBT linkage",
+    "04. Income certificate — to verify annual income",
+    "05. Caste certificate — for SC, ST, OBC, and other categories",
+    "06. Disability certificate — for PwD students",
+    "07. Mark sheet of previous examination — to verify pass percentage",
+    "08. Certificate of recognition from the institution — to verify course recognition",
+    "09. Fee structure of the institution — to verify compulsory fees",
+    "10. Bonafide student certificate — to verify student status"
+  ],
+  "apply_steps_en": [
+    "Step 01: Visit the National Scholarship Portal (NSP) website — https://scholarships.gov.in/",
+    "Step 02: Create a unique One Time Registration (OTR) number using Aadhaar/Aadhaar Enrollment number (EID)",
+    "Step 03: Fill in the application form with required details",
+    "Step 04: Upload necessary documents",
+    "Step 05: Verify the application through the institution",
+    "Step 06: Track the application status through the NSP portal",
+    "Step 07: Receive the scholarship amount via DBT",
+    "Step 08: Renew the application for the next academic year, if applicable",
+    "Step 09: Update the profile with any changes in details",
+    "Step 10: Contact the NSP helpdesk for any queries or issues"
+  ],
+  "application_url": "https://scholarships.gov.in/",
+  "helpline": "NSP Helpdesk: 0120-6619540",
+  "ministry": "Ministry of Electronics and Information Technology",
+  "nodal_department": "Department of Higher Education",
+  "scheme_type": "central",
+  "launch_year": 2000,
+  "last_updated": "2024",
+  "processing_time": "Variable, depending on the scheme and institution verification",
+  "renewal_required": true,
+  "renewal_frequency": "annual",
+  "renewal_process": "Students need to apply for renewal through the NSP portal, with updated documents and details",
+  "payment_mode": "DBT / direct bank transfer",
+  "payment_frequency": "annual / quarterly / monthly / one-time",
+  "payment_schedule": "Variable, depending on the scheme and institution",
+  "related_schemes": [
+    "Central Sector Scheme of Scholarship for College and University Students",
+    "National Means Cum Merit Scholarship Scheme",
+    "National Scheme of Incentive to Girls for Secondary Education",
+    "Rashtriya Sanskrit Sansthan Scholarship Scheme"
+  ],
+  "tags": [
+    "NSP",
+    "scholarship",
+    "education",
+    "government scheme",
+    "DBT",
+    "Aadhaar",
+    "OTR"
+  ],
+  "source_url": "https://scholarships.gov.in/",
+  "keywords": [
+    "NSP scholarship",
+    "National Scholarship Portal",
+    "scholarship for students",
+    "government scholarship",
+    "DBT scholarship",
+    "Aadhaar linked scholarship",
+    "OTR number",
+    "scholarship application",
+    "scholarship eligibility",
+    "scholarship amount",
+    "scholarship renewal",
+    "NSP helpdesk",
+    "scholarship portal",
+    "education scheme",
+    "government initiative",
+    "student scholarship",
+    "financial assistance",
+    "merit-based scholarship",
+    "means-based scholarship"
+  ],
+  "name_hi": "नेशनल स्कॉलरशिप पोर्टल (एनएसपी)",
+  "name_ta": "தேசிய உதவித்தொகை இணையதளம் (என்எஸ்பி)",
+  "name_bn": "জাতীয় স্কলারশিপ পোর্টাল (এনএসপি)",
+  "name_mr": "राष्ट्रीय शिष्यवृत्ती पोर्टल (एनएसपी)",
+  "description_hi": "नेशनल स्कॉलरशिप पोर्टल (एनएसपी) भारत सरकार द्वारा प्रस्तावित विभिन्न छात्रवृत्ति योजनाओं के लिए एक-स्टॉप समाधान है। पोर्टल का उद्देश्य छात्रों को विभिन्न छात्रवृत्तियों के लिए आवेदन करने के लिए एक सामान्य मंच प्रदान करना है, जिससे पारदर्शिता, कुशलता और जवाबदेही सुनिश्चित हो। एनएसपी छात्रवृत्ति उच्च शिक्षा प्राप्त करने वाले छात्रों के लिए उपलब्ध है, जिनमें अनुसूचित जाति (एससी), अनुसूचित जनजाति (एसटी), अन्य पिछड़ा वर्ग (ओबीसी), आर्थिक रूप से कमजोर वर्ग (ईडब्ल्यूएस), अल्पसंख्यक समुदाय, व्यक्तियों के साथ विकलांगता (पीडब्ल्यूडी) और महिला छात्र शामिल हैं। छात्रवृत्ति राशि योजना के अनुसार भिन्न होती है, जिसमें कुछ योजनाएं प्रति वर्ष 60,000 रुपये या 48,000 रुपये तक प्रदान करती हैं। एनएसपी छात्रवृत्ति आधार से जुड़े बैंक खातों में सीधे लाभ हस्तांतरण (डीबीटी) के माध्यम से वितरित की जाती है। पोर्टल जून से दिसंबर तक आवेदनों के लिए खुला रहता है, जिसमें विभिन्न योजनाओं के लिए विशिष्ट समय सीमा होती है। एनएसपी छात्रवृत्ति शैक्षिक समानता को बढ़ावा देने और वंचित पृष्ठभूमि के छात्रों का समर्थन करने के लिए भारत सरकार की एक महत्वपूर्ण पहल है।",
+  "description_ta": "தேசிய உதவித்தொகை இணையதளம் (என்எஸ்பி) இந்திய அரசால் வழங்கப்படும் பல்வேறு உதவித்தொகைத் திட்டங்களுக்கான ஒரு நிறுத்தும் தீர்வாகும். இந்த இணையதளம் மாணவர்கள் பல்வேறு உதவித்தொகைகளுக்கு விண்ணப்பிக்க ஒரு பொதுவான தளத்தை வழங்குவதை நோக்கமாகக் கொண்டுள்ளது, இது பாராளுமன்ற செயல்பாடு, செயல்திறன் மற்றும் பொறுப்புக்கூறலை உறுதி செய்கிறது. என்எஸ்பி உதவித்தொகை உயர் கல்வி பெறும் மாணவர்களுக்கு கிடைக்கிறது, இதில் பட்டியல் சாதி (எஸ்சி), பட்டியல் பழங்குடி (எஸ்டி), பிற பிற்படுத்தப்பட்ட வகுப்பினர் (ஓபிசி), பொருளாதார ரீதியாக பின்தங்கிய பிரிவு (ஈவிஎஸ்), சிறுபான்மை சமூகங்கள், ஊனமுற்ற நபர்கள் (பிவிடி) மற்றும் பெண் மாணவர்கள் ஆகியோரும் அடங்குவர். உதவித்தொகை தொகை திட்டத்தைப் பொறுத்து மாறுபடும், சில திட்டங்கள் ஒவ்வொரு ஆண்டும் ரூ.60,000 அல்லது ரூ.48,000 வரை வழங்குகின்றன. என்எஸ்பி உதவித்தொகை ஆதார் இணைக்கப்பட்ட வங்கி கணக்குகளுக்கு நேரடி நன்மை மாற்றம் (டிபிடி) மூலம் விநியோகிக்கப்படுகிறது. இந்த இணையதளம் ஜூன் முதல் திசம்பர் வரை விண்ணப்பங்களுக்கு திறந்திருக்கும், இதில் பல்வேறு திட்டங்களுக்கு குறிப்பிட்ட காலக்கெடுகள் உள்ளன. என்எஸ்பி உதவித்தொகை கல்வி சமத்துவத்தை மேம்படுத்துவதற்கும் பின்தங்கிய பின்னணியிலிருந்து வரும் மாணவர்களுக்கு ஆதரவளிப்பதற்கும் இந்திய அரசின் ஒரு முக்கியமான ம",
+  "documents_hi": [
+    "आधार कार्ड — ईकेवाईसी और डीबीटी के लिए अनिवार्य",
+    "वन टाइम रजिस्ट्रेशन (ओटीआर) नंबर",
+    "बैंक पासबुक या रद्द चेक — डीबीटी लिंकेज के लिए",
+    "आय प्रमाण पत्र — वार्षिक आय की पुष्टि के लिए",
+    "जाति प्रमाण पत्र — एससी, एसटी, ओबीसी और अन्य श्रेणियों के लिए",
+    "विकलांगता प्रमाण पत्र — पीडब्ल्यूडी छात्रों के लिए",
+    "पिछली परीक्षा की मार्कशीट — पास प्रतिशत की पुष्टि के लिए",
+    "संस्थान से मान्यता प्रमाण पत्र — पाठ्यक्रम मान्यता की पुष्टि के लिए",
+    "संस्थान की फीस संरचना — अनिवार्य शुल्क की पुष्टि के लिए",
+    "बोनाफाइड छात्र प्रमाण पत्र — छात्र स्थिति की पुष्टि के लिए"
+  ],
+  "documents_ta": [
+    "ஆதார் அட்டை — இ-கேவைசி மற்றும் டிபிடி க்கான கட்டாயம்",
+    "ஒரு முறை பதிவு (ஓடிஆர்) எண்",
+    "வங்கி பாஸ்புக் அல்லது ரத்து செய்யப்பட்ட செக் — டிபிடி இணைப்புக்காக",
+    "வருமான சான்றிதழ் — வருடாந்திர வருமானை உறுதிப்படுத்த",
+    "சாதி சான்றிதழ் — எஸ்சி, எஸ்டி, ஓபிசி மற்றும் பிற பிரிவுகளுக்காக",
+    "ஊனம் சான்றிதழ் — பிவ்டி மாணவர்களுக்காக",
+    "முந்தைய தேர்வின் மதிப்பெண் சீட்டு — கடந்த சதவீதத்தை உறுதிப்படுத்த",
+    "நிறுவனத்திலிருந்து அங்கீகார சான்றிதழ் — படிப்பு அங்கீகாரத்தை உறுதிப்படுத்த",
+    "நிறுவனத்தின் கட்டண கட்டமைப்பு — கட்டாய கட்டணங்களை உறுதிப்படுத்த",
+    "போனாஃபைட் மாணவர் சான்றிதழ் — மாணவர் நிலையை உறுதிப்படுத்த"
+  ],
+  "documents_bn": [
+    "আধার কার্ড — ই-কেওয়াইসি এবং ডিবিটি এর জন্য বাধ্যতামূলক",
+    "ওয়ান টাইম রেজিস্ট্রেশন (ওটিআর) নম্বর",
+    "ব্যাংক পাসবুক বা বাতিল চেক — ডিবিটি লিঙ্কেজের জন্য",
+    "আয় প্রমাণপত্র — বার্ষিক আয় যাচাই করার জন্য",
+    "জাতি প্রমাণপত্র — এসসি, এসটি, ওবিসি এবং অন্যান্য বিভাগের জন্য",
+    "প্রতিবন্ধী প্রমাণপত্র — পিডব্লিউডি ছাত্রদের জন্য",
+    "পূর্ববর্তী পরীক্ষার মার্কশীট — পাস শতাংশ যাচাই করার জন্য",
+    "প্রতিষ্ঠান থেকে স্বীকৃতি প্রমাণপত্র — কোর্স স্বীকৃতি যাচাই করার জন্য",
+    "প্রতিষ্ঠানের ফি কাঠামো — বাধ্যতামূলক ফি যাচাই করার জন্য",
+    "বোনাফাইড ছাত্র প্রমাণপত্র — ছাত্র অবস্থা যাচাই করার জন্য"
+  ],
+  "documents_mr": [
+    "आधार कार्ड — ईकेवाईसी आणि डीबीटी साठी अनिवार्य",
+    "वन टाइम रजिस्ट्रेशन (ओटीआर) नंबर",
+    "बँक पासबुक किंवा रद्द चेक — डीबीटी लिंकेज साठी",
+    "उत्पन्न प्रमाणपत्र — वार्षिक उत्पन्न तपासण्यासाठी",
+    "जाती प्रमाणपत्र — एससी, एसटी, ओबीसी आणि इतर प्रवर्गासाठी",
+    "विकलांगता प्रमाणपत्र — पीडब्ल्यूडी विद्यार्थ्यांसाठी",
+    "मागील परीक्षेची मार्कशीट — उत्तीर्ण टक्केवारी तपासण्यासाठी",
+    "संस्थेकडून मान्यता प्रमाणपत्र — अभ्यासक्रम मान्यता तपासण्यासाठी",
+    "संस्थेची फी रचना — अनिवार्य शुल्क तपासण्यासाठी",
+    "बोनाफाइड विद्यार्थी प्रमाणपत्र — विद्यार्थी स्थिती तपासण्यासाठी"
+  ],
+  "apply_steps_hi": [
+    "राष्ट्रीय छात्रवृत्ति पोर्टल (एनएसपी) की वेबसाइट पर जाएं — https://scholarships.gov.in/",
+    "आधार/आधार नामांकन संख्या (ईआईडी) का उपयोग करके एक अद्वितीय वन टाइम रजिस्ट्रेशन (ओटीआर) नंबर बनाएं",
+    "आवश्यक विवरण के साथ आवेदन पत्र भरें",
+    "आवश्यक दस्तावेज़ अपलोड करें",
+    "संस्थान के माध्यम से आवेदन की पुष्टि करें",
+    "एनएसपी पोर्टल के माध्यम से आवेदन स्थिति को ट्रैक करें",
+    "डीबीटी के माध्यम से छात्रवृत्ति राशि प्राप्त करें",
+    "यदि लागू हो तो अगले शैक्षणिक वर्ष के लिए आवेदन को नवीनीकृत करें",
+    "किसी भी विवरण में परिवर्तन के साथ प्रोफाइल को अद्यतन करें",
+    "किसी भी प्रश्न या समस्या के लिए एनएसपी हेल्पडेस्क से संपर्क करें"
+  ],
+  "apply_steps_ta": [
+    "தேசிய உதவித்தொகை போர்டல் (என்எஸ்பி) இணையதளத்திற்குச் செல்லுங்கள் — https://scholarships.gov.in/",
+    "ஆதார்/ஆதார பதிவு எண் (ஈஐடி) ஐப் பயன்படுத்தி ஒரு தனித்துவமான ஒரு முறை பதிவு (ஓடிஆர்) எண்ணை உருவாக்குங்கள்",
+    "தேவையான விவரங்களுடன் விண்ணப்பத்தை நிரப்புங்கள்",
+    "தேவையான ஆவணங்களைப் பதிவேற்றுங்கள்",
+    "நிறுவனத்தின் மூலம் விண்ணப்பத்தை உறுதிப்படுத்துங்கள்",
+    "என்எஸ்பி போர்டல் மூ"
+  ],
+  "faq": [
+    {
+      "question_en": "What is the last date to apply for the National Scholarship Portal (NSP) scholarship for post-matric students for the year 2025-26?",
+      "answer_en": "The last date to apply for the National Scholarship Portal (NSP) scholarship for post-matric students for the year 2025-26 is December 15, 2025. The defective application verification is open till December 31, 2025, and institute verification is open till December 31, 2025.",
+      "question_hi": "राष्ट्रीय छात्रवृत्ति पोर्टल (एनएसपी) छात्रवृत्ति के लिए पोस्ट-मैट्रिक छात्रों के लिए आवेदन की अंतिम तिथि क्या है?",
+      "answer_hi": "राष्ट्रीय छात्रवृत्ति पोर्टल (एनएसपी) छात्रवृत्ति के लिए पोस्ट-मैट्रिक छात्रों के लिए आवेदन की अंतिम तिथि 15 दिसंबर, 2025 है। दोषपूर्ण आवेदन सत्यापन 31 दिसंबर, 2025 तक खुला है, और संस्थान सत्यापन 31 दिसंबर, 2025 तक खुला है।"
+    },
+    {
+      "question_en": "What is the eligibility criteria for the PM Yasasvi scholarship?",
+      "answer_en": "The eligibility criteria for the PM Yasasvi scholarship is that the family income must be less than Rs 2.5 lakhs and the student must maintain a 100% pass percentage in the class 10th examination.",
+      "question_hi": "पीएम यशस्वी छात्रवृत्ति के लिए पात्रता मानदंड क्या है?",
+      "answer_hi": "पीएम यशस्वी छात्रवृत्ति के लिए पात्रता मानदंड यह है कि परिवार की आय रु 2.5 लाख से कम होनी चाहिए और छात्र को 10वीं कक्षा की परीक्षा में 100% पास प्रतिशत बनाए रखना होगा।"
+    },
+    {
+      "question_en": "What is the maintenance allowance for the Pre-matric Scholarship for Students with Disabilities?",
+      "answer_en": "The maintenance allowance for the Pre-matric Scholarship for Students with Disabilities is Rs 800.",
+      "question_hi": "विद्यालयीन छात्रवृत्ति के लिए विकलांग छात्रों के लिए रखरखाव भत्ता क्या है?",
+      "answer_hi": "विद्यालयीन छात्रवृत्ति के लिए विकलांग छात्रों के लिए रखरखाव भत्ता रु 800 है।"
+    },
+    {
+      "question_en": "What is the total family income limit to be eligible for the NSP scholarship?",
+      "answer_en": "The total family income limit to be eligible for the NSP scholarship is Rs 6.0 lakh per annum.",
+      "question_hi": "एनएसपी छात्रवृत्ति के लिए पात्र होने के लिए कुल परिवार की आय सीमा क्या है?",
+      "answer_hi": "एनएसपी छात्रवृत्ति के लिए पात्र होने के लिए कुल परिवार की आय सीमा रु 6.0 लाख प्रति वर्ष है।"
+    },
+    {
+      "question_en": "What are the categories of applicants eligible for NSP scholarship schemes?",
+      "answer_en": "The categories of applicants eligible for NSP scholarship schemes are Scheduled Caste (SC), Scheduled Tribe (ST), Other Backward Class (OBC), Economically Weaker Section (EWS), Minority Communities, Persons with Disabilities (PwD), Female Students, and Meritorious Students.",
+      "question_hi": "एनएसपी छात्रवृत्ति योजनाओं के लिए पात्र आवेदकों की श्रेणियां क्या हैं?",
+      "answer_hi": "एनएसपी छात्रवृत्ति योजनाओं के लिए पात्र आवेदकों की श्रेणियां अनुसूचित जाति (एससी), अनुसूचित जनजाति (एसटी), अन्य पिछड़ा वर्ग (ओबीसी), आर्थिक रूप से कमजोर वर्ग (ईडब्ल्यूएस), अल्पसंख्यक समुदाय, विकलांग व्यक्ति (पीडब्ल्यूडी), महिला छात्र, और योग्य छात्र हैं।"
+    },
+    {
+      "question_en": "How to track the payment status of the NSP scholarship?",
+      "answer_en": "To track the payment status of the NSP scholarship, applicants can visit the National Scholarship Portal (NSP) and log in to their account using their One Time Registration (OTR) number and password.",
+      "question_hi": "एनएसपी छात्रवृत्ति की भुगतान स्थिति को कैसे ट्रैक किया जा सकता है?",
+      "answer_hi": "एनएसपी छात्रवृत्ति की भुगतान स्थिति को ट्रैक करने के लिए, आवेदक राष्ट्रीय छात्रवृत्ति पोर्टल (एनएसपी) पर जा सकते हैं और अपने एक समय पंजीकरण (ओटीआर) संख्या और पासवर्ड का उपयोग करके अपने खाते में लॉग इन कर सकते हैं।"
+    },
+    {
+      "question_en": "What is the appeal process for rejected NSP scholarship applications?",
+      "answer_en": "The appeal process for rejected NSP scholarship applications involves submitting an appeal to the concerned State Government or the Ministry of Education, along with the required documents and a written explanation for the appeal.",
+      "question_hi": "एनएसपी छात्रवृत्ति आवेदनों के लिए अपील प्रक्रिया क्या है?",
+      "answer_hi": "एनएसपी छात्रवृत्ति आवेदनों के लिए अपील प्रक्रिया में संबंधित राज्य सरकार या शिक्षा मंत्रालय को अपील जमा करना शामिल है, साथ ही आवश्यक दस्तावेज और अपील के लिए एक लिखित व्याख्या भी शामिल है।"
+    },
+    {
+      "question_en": "What is the benefit amount for the NSP scholarship?",
+      "answer_en": "The benefit amount for the NSP scholarship varies depending on the scheme, but it includes the payment of compulsory fees charged by educational institutions, subject to the limit fixed by the concerned State, and a maintenance amount varying from Rs 230 to Rs 1200 per month.",
+      "question_hi": "एनएसपी छात्रवृत्ति के लिए लाभ राशि क्या है?",
+      "answer_hi": "एनएसपी छात्रवृत्ति के लिए लाभ राशि योजना के आधार पर भिन्न होती है, लेकिन इसमें शैक्षिक संस्थानों द्वारा लगाए गए अनिवार्य शुल्क का भुगतान शामिल है, जो संबंधित राज्य द्वारा निर्धारित सीमा के अधीन है, और एक रखरखाव राशि जो रु 230 से रु 1200 प्रति माह तक होती है।"
+    }
+  ],
+  "common_mistakes": [
+    "Mistake 1: Incorrect or incomplete documentation — Ensure all required documents are uploaded and filled out accurately",
+    "Mistake 2: Failure to meet eligibility criteria — Carefully review and ensure compliance with income limits, academic performance, and other requirements",
+    "Mistake 3: Delayed application submission — Apply within the specified deadlines to avoid rejection",
+    "Mistake 4: Incorrect bank account details — Verify and ensure the bank account linked to Aadhaar is correct and active",
+    "Mistake 5: Insufficient or incorrect information in the application form — Double-check all fields for accuracy and completeness",
+    "Mistake 6: Not tracking and verifying application status — Regularly check the application status and follow up on any issues or defects"
+  ],
+  "pro_tips": [
+    "Tip 1: Apply early to avoid last-minute rush and potential technical issues with the portal",
+    "Tip 2: Ensure a unique One Time Registration (OTR) number is generated and kept safe for future reference",
+    "Tip 3: Maintain a 100% pass percentage in the class 10th examination for schemes requiring it, and ensure good academic performance",
+    "Tip 4: Keep all necessary documents and information ready before starting the application process to streamline the submission"
+  ],
+  "state_wise_amounts": {
+    "note": "The scholarship amount and eligibility criteria may vary by state, with some states offering additional benefits or having different income limits",
+    "varies_by": "amount / eligibility",
+    "states": {
+      "andhra_pradesh": "same as central",
+      "assam": "same as central",
+      "bihar": "same as central",
+      "gujarat": "same as central",
+      "haryana": "same as central",
+      "jharkhand": "same as central",
+      "karnataka": "same as central",
+      "kerala": "same as central",
+      "madhya_pradesh": "same as central",
+      "maharashtra": "same as central",
+      "odisha": "same as central",
+      "punjab": "same as central",
+      "rajasthan": "same as central",
+      "tamil_nadu": "same as central",
+      "telangana": "same as central",
+      "uttar_pradesh": "same as central",
+      "uttarakhand": "same as central",
+      "west_bengal": "same as central"
+    }
+  },
+  "state_specific_portals": {
+    "note": "Some states may have their own portals or application processes, but for the NSP scholarship, the central portal is used nationwide",
+    "portals": {}
+  }
+}

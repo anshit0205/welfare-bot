@@ -1,0 +1,264 @@
+{
+  "id": "nsap_widow",
+  "name_en": "Indira Gandhi National Widow Pension Scheme",
+  "description_en": "The Indira Gandhi National Widow Pension Scheme (IGNWPS) is a non-contributory pension scheme implemented by the Ministry of Rural Development, Government of India. The scheme aims to provide social security to widows of poor families (Below Poverty Line - BPL) in the society. The scheme was launched in 2009 and provides a pension of ₹300 per month to widows between 40 and 79 years of age, and ₹500 per month to those 80 years and above. The scheme is a part of the National Social Assistance Program (NSAP) and is funded by the central government. The scheme covers millions of beneficiaries across the country and has been instrumental in providing financial security to destitute widows. The scheme is implemented by the state governments and the pension amount is disbursed directly to the beneficiary's bank or post office account through Direct Benefit Transfer (DBT). The scheme has been successful in providing financial assistance to widows and has helped them to meet their basic needs and live with dignity.",
+  "benefit_en": "The primary financial benefit under the Indira Gandhi National Widow Pension Scheme is a monthly pension of ₹300 for widows between 40 and 79 years of age, and ₹500 for those 80 years and above. The pension amount is disbursed directly to the beneficiary's bank or post office account through Direct Benefit Transfer (DBT). In addition to the pension, the scheme also provides social and financial security to widows, helping them to meet their basic needs and live with dignity. Some states also provide additional assistance over and above the central contribution, subject to their respective rules and policies.",
+  "eligibility_rules": {
+    "occupation": [
+      "any"
+    ],
+    "gender": "female",
+    "bpl_required": true,
+    "land_ownership_required": false,
+    "girl_child_required": false,
+    "pregnant_woman_only": false,
+    "age_min": 40,
+    "age_max": 79,
+    "income_max_annual": null,
+    "caste_preference": [
+      "any"
+    ],
+    "bank_account_required": true,
+    "aadhaar_required": true,
+    "other_conditions": [
+      "The applicant must be a widow",
+      "The applicant must be below the poverty line (BPL)",
+      "The applicant must not be receiving any other pension or financial aid from the government",
+      "The applicant must have a bank account in her own name",
+      "The applicant must have an Aadhaar card"
+    ]
+  },
+  "exclusion_criteria": [
+    "Income tax payees",
+    "Constitutional post holders (President, VP, Ministers, MPs, MLAs, etc.)",
+    "Serving/retired Central & State government employees (except Group D/MTS)",
+    "Government pensioners drawing ₹10,000+/month",
+    "Professionals registered with professional bodies (doctors, lawyers, CAs, architects, engineers)",
+    "Widows who have remarried",
+    "Widows who have crossed the poverty line"
+  ],
+  "documents_en": [
+    "01. Death Certificate of husband",
+    "02. Age Proof - Birth Certificate, School Certificate, or Aadhaar Card",
+    "03. Income Certificate confirming annual income below the state’s limit",
+    "04. BPL Card if applicable",
+    "05. Active Bank Account in the applicant’s own name - bank passbook copy needed",
+    "06. Recent passport size photograph",
+    "07. Mobile number linked to Aadhaar",
+    "08. Residence Proof - Voter ID, Ration Card, or a valid address proof",
+    "09. Aadhaar Card of the applicant",
+    "10. Pension Disbursement Authority form (if applicable)"
+  ],
+  "apply_steps_en": [
+    "Step 01: Visit the official state social welfare or pension portal",
+    "Step 02: Download and fill the application form",
+    "Step 03: Gather all required documents",
+    "Step 04: Submit the application form and documents online or offline",
+    "Step 05: Verify the documents and application form",
+    "Step 06: Approve the application and sanction the pension",
+    "Step 07: Disburse the pension amount to the beneficiary's bank or post office account",
+    "Step 08: Track the status of the application and pension disbursement",
+    "Step 09: Resolve any grievances or issues related to the pension",
+    "Step 10: Renew the pension application if required"
+  ],
+  "application_url": "https://web.umang.gov.in/web_new/home",
+  "helpline": "National Social Assistance Programme (NSAP) Helpline: 1800-111-555",
+  "ministry": "Ministry of Rural Development",
+  "nodal_department": "Department of Rural Development",
+  "scheme_type": "central",
+  "launch_year": 2009,
+  "last_updated": "2024",
+  "processing_time": "30-60 days",
+  "renewal_required": false,
+  "renewal_frequency": null,
+  "renewal_process": "Not applicable",
+  "payment_mode": "Direct Benefit Transfer (DBT)",
+  "payment_frequency": "monthly",
+  "payment_schedule": "Variable, depending on state government",
+  "related_schemes": [
+    "Indira Gandhi National Old Age Pension Scheme (IGNOAPS)",
+    "Indira Gandhi National Disability Pension Scheme (IGNDPS)",
+    "National Family Benefit Scheme (NFBS)",
+    "Annapurna"
+  ],
+  "tags": [
+    "widow pension",
+    "nsap",
+    "rural development",
+    "social security",
+    "pension scheme"
+  ],
+  "source_url": "https://www.rural.nic.in/",
+  "keywords": [
+    "Indira Gandhi National Widow Pension Scheme",
+    "IGNWPS",
+    "Widow Pension Scheme",
+    "NSAP",
+    "Rural Development",
+    "Social Security",
+    "Pension Scheme",
+    "Apply Online",
+    "Eligibility Criteria",
+    "Documents Required",
+    "Benefits",
+    "Payment Mode",
+    "Helpline Number",
+    "Ministry of Rural Development",
+    "Department of Rural Development",
+    "Central Government Scheme",
+    "State Government Scheme",
+    "Pension Amount",
+    "Age Limit",
+    "Income Limit",
+    "BPL",
+    "Aadhaar Card",
+    "Bank Account",
+    "Mobile Number",
+    "Residence Proof",
+    "Death Certificate",
+    "Age Proof",
+    "Income Certificate",
+    "BPL Card",
+    "Pension Disbursement Authority form"
+  ],
+  "name_hi": "इंदिरा गांधी राष्ट्रीय विधवा पेंशन योजना",
+  "name_ta": "இந்திரா காந்தி தேசிய விதவை ஓய்வூதிய திட்டம்",
+  "name_bn": "ইন্দিরা গান্ধী জাতীয় বিধবা পেনশন স্কিম",
+  "name_mr": "इंदिरा गांधी राष्ट्रीय विधवा पेन्शन योजना",
+  "description_hi": "इंदिरा गांधी राष्ट्रीय विधवा पेंशन योजना (IGNWPS) ग्रामीण विकास मंत्रालय, भारत सरकार द्वारा क्रियान्वित एक गैर-योगदान पेंशन योजना है। यह योजना समाज में गरीब परिवारों (नीचे गरीबी रेखा - बीपीएल) की विधवाओं को सामाजिक सुरक्षा प्रदान करने के उद्देश्य से बनाई गई है। यह योजना 2009 में शुरू की गई थी और 40 से 79 वर्ष की आयु के बीच की विधवाओं को ₹300 प्रति माह और 80 वर्ष से अधिक आयु की विधवाओं को ₹500 प्रति माह पेंशन प्रदान करती है। यह योजना राष्ट्रीय सामाजिक सहायता कार्यक्रम (NSAP) का एक हिस्सा है और केंद्र सरकार द्वारा वित्त पोषित है। यह योजना पूरे देश में लाखों लाभार्थियों को कवर करती है और वंचित विधवाओं को वित्तीय सुरक्षा प्रदान करने में महत्वपूर्ण रही है। यह योजना राज्य सरकारों द्वारा क्रियान्वित की जाती है और पेंशन राशि सीधे लाभार्थी के बैंक या डाकघर खाते में सीधे लाभ हस्तांतरण (DBT) के माध्यम से वितरित की जाती है। यह योजना विधवाओं को वित्तीय सहायता प्रदान करने में सफल रही है और उन्हें अपनी बुनियादी जरूरतों को पूरा करने और गरिमा के साथ जीने में मदद की है।",
+  "description_ta": "இந்திரா காந்தி தேசிய விதவை ஓய்வூதியத் திட்டம் (IGNWPS) இந்திய அரசின் கிராம மேம்பாட்டு அமைச்சகத்தால் செயல்படுத்தப்படும் ஒரு பங்களிப்பில்லா ஓய்வூதியத் திட்டமாகும். இத்திட்டம் சமுதாயத்தில் ஏழை குடும்பங்களின் (கீழ் வறுமைக் கோடு - BPL) விதவைகளுக்கு சமூக பாதுகாப்பை வழங்குவதை நோக்கமாகக் கொண்டுள்ளது. இத்திட்டம் 2009 ஆம் ஆண்டில் தொடங்கப்பட்டது மற்றும் 40 முதல் 79 வயது வரையிலான விதவைகளுக்கு ரூ.300 மற்றும் 80 வயது மற்றும் அதற்கு மேற்பட்ட விதவைகளுக்கு ரூ.500 மாதம் ஓய்வூதியமாக வழங்குகிறது. இத்திட்டம் தேசிய சமூக உதவித் திட்டத்தின் (NSAP) ஒரு பகுதியாகும் மற்றும் மத்திய அரசால் நிதியுதவியுடன் செயல்படுத்தப்படுகிறது. இத்திட்டம் நாடு முழுவதும் இலட்சக்கணக்கான நன்மைகளைக் கொண்டுள்ளது மற்றும் வறுமையான விதவைகளுக்கு நிதி பாதுகாப்பை வழங்குவதில் முக்கியமானதாக இருந்துள்ளது. இத்திட்டம் மாநில அரசுகளால் செயல்படுத்தப்படுகிறது மற்றும் ஓய்வூதிய தொகை நேரடி நன்மை மாற்று (DBT) மூலம் நேரடியாக லாபத்தாரரின் வங்கி அல்லது அஞ்சலக கணக்கில் விநியோகிக்கப்படுகிறது. இத்திட்டம் விதவைகளுக்கு நிதி உதவியை வழங்குவதில் வெற்றிகரமாக இருந்துள்ளது மற்றும் அவர்கள் தங்கள் அடிப்படை தேவைகளைப் பூர்த்தி செய்ய மற்றும் கவுரவத்துடன் வாழ உதவியுள்ளது.",
+  "description_bn": "ইন্দিরা গান্ধী জাতীয় বিধবা পেনশন স্কিম (IGNWPS) ভারত সরকারের গ্র",
+  "documents_hi": [
+    "पति का मृत्यु प्रमाण पत्र",
+    "आयु प्रमाण - जन्म प्रमाण पत्र, स्कूल प्रमाण पत्र, या आधार कार्ड",
+    "आय प्रमाण पत्र जो वार्षिक आय को राज्य की सीमा से नीचे प्रमाणित करता है",
+    "बीपीएल कार्ड यदि लागू हो",
+    "आवेदक के अपने नाम पर सक्रिय बैंक खाता - बैंक पासबुक की प्रतिलिपि आवश्यक है",
+    "हाल का पासपोर्ट आकार का फोटोग्राफ",
+    "आधार से जुड़ा मोबाइल नंबर",
+    "निवास प्रमाण - मतदाता पहचान पत्र, राशन कार्ड, या एक वैध पते का प्रमाण",
+    "आवेदक का आधार कार्ड",
+    "पेंशन वितरण प्राधिकरण फॉर्म (यदि लागू हो)"
+  ],
+  "documents_ta": [
+    "கணவரின் இறப்பு சான்றிதழ்",
+    "வயது சான்று - பிறப்பு சான்றிதழ், பள்ளி சான்றிதழ், அல்லது ஆதார் அட்டை",
+    "வருமான சான்றிதழ் மாநிலத்தின் வரம்புக்கு கீழே வருமானத்தை உறுதிப்படுத்துகிறது",
+    "பிபிஎல் அட்டை பயன்படுத்தப்படும் சமயங்களில்",
+    "விண்ணப்பதாரரின் சொந்த பெயரில் செயலில் உள்ள வங்கி கணக்கு - வங்கி பாஸ்புக் நகல் தேவை",
+    "சமீபத்திய பாஸ்போர்ட் அளவு புகைப்படம்",
+    "ஆதாருடன் இணைக்கப்பட்ட கைப்பேசி எண்",
+    "வசிப்பிட சான்று - வாக்காளர் அடையாள அட்டை, ரேஷன் கார்டு, அல்லது ஒரு செல்லுபடியாகும் முகவரி சான்று",
+    "விண்ணப்பதாரரின் ஆதார் அட்டை",
+    "ஓய்வூதிய விநியோக அதிகார வடிவம் (பயன்படுத்தப்படும் சமயங்களில்)"
+  ],
+  "documents_bn": [
+    "স্বামীর মৃত্যু প্রমাণপত্র",
+    "বয়সের প্রমাণ - জন্ম প্রমাণপত্র, স্কুল প্রমাণপত্র, বা আধার কার্ড",
+    "আয় প্রমাণপত্র যা বার্ষিক আয়কে রাজ্যের সীমার নিচে নিশ্চিত করে",
+    "বিপিএল কার্ড যদি প্রযোজ্য হয়",
+    "আবেদনকারীর নামে সক্রিয় ব্যাংক অ্যাকাউন্ট - ব্যাংক পাসবুকের কপি প্রয়োজন",
+    "সাম্প্রতিক পাসপোর্ট আকারের ছবি",
+    "আধারের সাথে লিঙ্ক করা মোবাইল নম্বর",
+    "বাসস্থানের প্রমাণ - ভোটার আইডি কার্ড, রেশন কার্ড, বা একটি বৈধ ঠিকানা প্রমাণ",
+    "আবেদনকারীর আধার কার্ড",
+    "পেনশন বিতরণ কর্তৃপক্ষের ফর্ম (যদি প্রযোজ্য হয়)"
+  ],
+  "apply_steps_hi": [
+    "आधिकारिक राज्य सामाजिक कल्याण या पेंशन पोर्टल पर जाएं",
+    "आवेदन पत्र डाउनलोड करें और भरें",
+    "सभी आवश्यक दस्तावेज इकट्ठा करें",
+    "आवेदन पत्र और दस्तावेज ऑनलाइन या ऑफलाइन जमा करें",
+    "दस्तावेजों और आवेदन पत्र की जांच करें",
+    "आवेदन को मंजूरी दें और पेंशन स्वीकृत करें",
+    "लाभार्थी के बैंक या डाकघर खाते में पेंशन राशि वितरित करें",
+    "आवेदन और पेंशन वितरण की स्थिति की जांच करें",
+    "पेंशन से संबंधित किसी भी शिकायत या समस्या का समाधान करें",
+    "यदि आवश्यक हो तो पेंशन आवेदन को नवीनीकृत करें"
+  ],
+  "apply_steps_ta": [
+    "அதிகாரப்பூர்வ மாநில சமூக நலன் அல்லது ஓய்வூதிய தளத்திற்குச் செல்லுங்கள்",
+    "விண்ணப்ப வடிவத்தை பதிவிறக்கி நிரப்புங்கள்",
+    "அனைத்து தேவையான ஆவணங்களையும் ஒருங்கிணைக்கவும்",
+    "விண்ணப்ப வடிவம் மற்றும் ஆவணங்களை ஆன்லைன் அல்லது அலைபேசி மூலம் சமர்ப்பிக்கவும்",
+    "ஆவணங்கள் மற்றும் விண்ணப்ப வடிவத்தை சரிபார்க்கவும்",
+    "விண்ணப்பத்திற்கு ஒப்புதல் அளித்து ஓய்வூதியத்தை ஒதுக்கீடு செய்யுங்கள்",
+    "பென்சிலியரின் வங்கி அல்லது அஞ்சல் அலுவலக கணக்கில் ஓய்வூதிய தொகையை விநியோகிக்கவும்",
+    "விண்ணப்பம் மற்றும் ஓய்வூதிய விநியோகம் ஆகியவற்றின் நிலைமையைக் கண்காணிக்கவும்",
+    "ஓய்வூதியம் தொடர்பான எந்தவொரு புகார் அல்லது பிரச்சினையைத் தீர்க்கவும்",
+    "தேவைப்பட்டால் ஓய்வூதிய விண்ணப்பத்தை புதுப்பிக்கவும்"
+  ],
+  "apply_steps_bn": [
+    "আধিকারিক রাজ্য সামাজিক কল্যাণ বা পেনশন পোর্টালে যান"
+  ],
+  "faq": [
+    {
+      "question_en": "What is the eligibility age for the Indira Gandhi National Widow Pension Scheme?",
+      "answer_en": "The scheme is eligible for widows between 40 years and 79 years, with a pension of Rs.300/- per month, and for persons who are 80 years and above, the pension is Rs.500/- per month.",
+      "question_hi": "इंदिरा गांधी राष्ट्रीय विधवा पेंशन योजना के लिए पात्रता आयु क्या है?",
+      "answer_hi": "यह योजना 40 वर्ष से 79 वर्ष की विधवाओं के लिए पात्र है, जिनको प्रति माह 300 रुपये की पेंशन मिलती है, और 80 वर्ष से अधिक आयु की महिलाओं को 500 रुपये प्रति माह की पेंशन मिलती है।",
+      "question_ta": "இந்திரா காந்தி தேசிய விதவை ஓய்வூதிய திட்டத்திற்கான தகுதி வயது என்ன?",
+      "answer_ta": "இந்த திட்டம் 40 வயது முதல் 79 வயது வரையிலான விதவைகளுக்கு தகுதியானது, அவர்களுக்கு மாதம் ரூ.300 ஓய்வூதியம் கிடைக்கிறது, மேலும் 80 வயது மற்றும் அதற்கு மேற்பட்ட பெண்களுக்கு மாதம் ரூ.500 ஓய்வூதியம் கிடைக்கிறது."
+    },
+    {
+      "question_en": "What documents are required to apply for the Indira Gandhi National Widow Pension Scheme?",
+      "answer_en": "The required documents include Husband’s Death Certificate, Aadhaar Card, Age Proof, Income Certificate, BPL Card if applicable, Active Bank Account details, and a recent passport size photograph.",
+      "question_hi": "इंदिरा गांधी राष्ट्रीय विधवा पेंशन योजना के लिए आवेदन करने के लिए कौन से दस्तावेज़ आवश्यक हैं?",
+      "answer_hi": "आवश्यक दस्तावेजों में पति का मृत्यु प्रमाण पत्र, आधार कार्ड, आयु प्रमाण, आय प्रमाण पत्र, बीपीएल कार्ड यदि लागू हो, सक्रिय बैंक खाता विवरण, और एक हालिया पासपोर्ट आकार की फोटो शामिल हैं।",
+      "question_ta": "இந்திரா காந்தி தேசிய விதவை ஓய்வூதிய திட்டத்திற்கு விண்ணப்பிக்க என்னென்ன ஆவணங்கள் தேவை?",
+      "answer_ta": "தேவையான ஆவணங்களில் கணவரின் இறப்பு சான்றிதழ், ஆதார் அட்டை, வயது சான்று, வருமான சான்று, பிஎல் அட்டை போன்றவை அவசியம், செயலில் உள்ள வங்கி கணக்கு விவரங்கள், மற்றும் ஒரு சமீபத்திய பஸ்போர்ட் அளவு புகைப்படம் ஆகியவை அடங்கும்."
+    },
+    {
+      "question_en": "How to apply for the Indira Gandhi National Widow Pension Scheme?",
+      "answer_en": "The application can be made online through the official state social welfare or pension portal, or offline by visiting the nearest Panchayat office, Municipal Corporation, or Social Welfare Office and submitting the form manually.",
+      "question_hi": "इंदिरा गांधी राष्ट्रीय विधवा पेंशन योजना के लिए आवेदन कैसे करें?",
+      "answer_hi": "आवेदन ऑनलाइन राज्य के आधिकारिक सामाजिक कल्याण या पेंशन पोर्टल के माध्यम से किया जा सकता है, या ऑफलाइन निकटतम पंचायत कार्यालय, नगर निगम, या सामाजिक कल्याण कार्यालय में जाकर मैनुअल रूप से फॉर्म जमा करके किया जा सकता है।",
+      "question_ta": "இந்திரா காந்தி தேசிய விதவை ஓய்வூதிய திட்டத்திற்கு விண்ணப்பிக்க எப்படி?",
+      "answer_ta": "விண்ணப்பத்தை மாநிலத்தின் அதிகாரப்பூர்வ சமூக நலன் அல்லது ஓய்வூதிய தளம் மூலம் ஆன்லைனில் அனுப்பலாம், அல்லது அருகிலுள்ள பஞ்சாயத்து அலுவலகம், நகராட்சி, அல்லது சமூக நலன் அலுவலகத்திற்குச் சென்று மனுவை கையால் சமர்ப்பிக்கலாம்."
+    }
+  ],
+  "common_mistakes": [
+    "Mistake 1: Not meeting the eligibility criteria of being below the poverty line (BPL) — Ensure your daily income is less than ₹32 to avoid rejection",
+    "Mistake 2: Incorrect or incomplete documentation — Double-check that all required documents such as husband’s death certificate, Aadhaar card, and income certificate are provided",
+    "Mistake 3: Not having an active bank account in the applicant’s own name — Open a bank account in your name to receive the pension directly",
+    "Mistake 4: Applying with incorrect or outdated information — Verify all details before submission to avoid delays or rejection",
+    "Mistake 5: Not applying through the correct channels — Use either the official state social welfare or pension portal online or visit the nearest Panchayat office, Municipal Corporation, or Social Welfare Office offline",
+    "Mistake 6: Not following up on the application status — Regularly check the status of your application to ensure it is processed without unnecessary delays"
+  ],
+  "pro_tips": [
+    "Tip 1: Apply as soon as you meet the eligibility criteria to start receiving the pension as early as possible",
+    "Tip 2: Ensure all documents are in order and verified before applying to speed up the application process",
+    "Tip 3: Check the state-specific top-up amounts to understand the total benefit you are eligible for",
+    "Tip 4: Keep your bank account and Aadhaar details updated to ensure smooth direct benefit transfer"
+  ],
+  "state_wise_amounts": {
+    "note": "The pension amount varies by state, with some states offering higher amounts or additional benefits",
+    "varies_by": "amount",
+    "states": {
+      "andhra_pradesh": "same as central",
+      "assam": "same as central",
+      "bihar": "same as central",
+      "gujarat": "same as central",
+      "haryana": "Rs. 2250 per Month",
+      "jharkhand": "same as central",
+      "karnataka": "same as central",
+      "kerala": "same as central",
+      "madhya_pradesh": "same as central",
+      "maharashtra": "Rs. 600 per Month, Rs. 900 if more than one child",
+      "odisha": "same as central",
+      "punjab": "same as central",
+      "rajasthan": "Rs. 500 to Rs. 1500 per Month Age Based",
+      "tamil_nadu": "Rs. 1000 per Month",
+      "telangana": "same as central",
+      "uttar_pradesh": "Rs. 300 to Rs. 500 per Month",
+      "uttarakhand": "same as central",
+      "west_bengal": "same as central",
+      "delhi": "Rs. 2500 per Month",
+      "jammu_and_kashmir": "Rs. 1000 per Month"
+    }
+  },
+  "state_specific_portals": {
+    "note": "Some states may have their own portals for application, but generally, the official state social welfare or pension portal can be used",
+    "portals": {}
+  }
+}

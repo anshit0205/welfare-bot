@@ -1,0 +1,157 @@
+{
+  "id": "pm_kisan",
+  "name_en": "Pradhan Mantri Kisan Samman Nidhi",
+  "description_en": "The Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) is a central sector scheme with 100% funding from the Government of India. It was launched in 2018 to provide income support to all landholding farmer families across the country. The scheme aims to supplement the financial needs of farmers in procuring various inputs to ensure proper crop health and appropriate yields, commensurate with the anticipated farm income. The scheme is implemented by the Ministry of Agriculture and Farmers Welfare, Government of India. As of 2026, the scheme has covered over 9 crore farmer families, with the government releasing funds directly into the bank accounts of beneficiaries through the Direct Benefit Transfer (DBT) mechanism. The scheme has a significant impact on the agricultural sector, with the government allocating a substantial budget for its implementation. The geographic coverage of the scheme is pan-India, with all states and union territories participating in the program. The funding pattern of the scheme is entirely funded by the central government, with an allocation of over Rs 60,000 crore in the annual budget. The key impact metric of the scheme is the increase in farmers' income, with the government aiming to double farmers' income by 2025.",
+  "benefit_en": "The primary financial benefit under the PM-KISAN scheme is an income support of Rs 6,000 per year, paid in three equal installments of Rs 2,000 each. The payment schedule is every four months, with the first installment paid between April and July, the second between August and November, and the third between December and March. In addition to the financial benefit, the scheme also provides secondary benefits such as improved crop yields, increased farm income, and enhanced livelihood security for farmer families. The scheme also promotes the use of modern farming techniques, soil health cards, and other agricultural best practices. Furthermore, the scheme has convergence with other government initiatives such as the Soil Health Card Scheme, the Pradhan Mantri Fasal Bima Yojana, and the Pradhan Mantri Krishi Sinchayee Yojana, which provide additional benefits to farmers. The scheme also provides top-up benefits to farmers who have availed of loans under the Kisan Credit Card scheme. There is no insurance coverage under the PM-KISAN scheme, but farmers can avail of insurance benefits under other government schemes such as the Pradhan Mantri Fasal Bima Yojana.",
+  "eligibility_rules": {
+    "occupation": [
+      "farmer",
+      "agricultural labourer",
+      "rural household"
+    ],
+    "gender": "any",
+    "bpl_required": false,
+    "land_ownership_required": true,
+    "girl_child_required": false,
+    "pregnant_woman_only": false,
+    "age_min": null,
+    "age_max": null,
+    "income_max_annual": null,
+    "caste_preference": [
+      "any"
+    ],
+    "bank_account_required": true,
+    "aadhaar_required": true,
+    "other_conditions": [
+      "land holding limit of 2 hectares",
+      "small and marginal farmer families",
+      "husband, wife, and minor children are considered one family unit",
+      "active bank account linked to Aadhaar number",
+      "completion of mandatory eKYC process"
+    ]
+  },
+  "exclusion_criteria": [
+    "Income tax payees (previous assessment year)",
+    "Constitutional post holders (President, VP, Ministers, MPs, MLAs, etc.)",
+    "Serving/retired Central & State government employees (except Group D/MTS)",
+    "Government pensioners drawing Rs 10,000+/month",
+    "All professionals registered with professional bodies (doctors, lawyers, CAs, architects, engineers)",
+    "Institutional land holders",
+    "Farmer families which belong to one or more of the following categories: former and present holders of constitutional posts, former and present Ministers/ State Ministers and former/present Members of LokSabha/ RajyaSabha/ State Legislative Assemblies/ State Legislative Councils, former and present Mayors of Municipal Corporations, former and present Chairpersons of District Panchayats",
+    "All serving or retired officers and employees of Central/ State Government Ministries /Offices/Departments and its field units Central or State PSEs and Attached offices /Autonomous Institutions under Government as well as regular employees of the Local Bodies (Excluding Multi Tasking Staff /Class IV/Group D employees)"
+  ],
+  "documents_en": [
+    "01. Aadhaar Card — mandatory for eKYC and DBT",
+    "02. Land ownership documents / Khasra-Khatauni / Patta",
+    "03. Bank passbook or cancelled cheque — for DBT linkage",
+    "04. Citizenship Proof — Voter ID, Aadhaar, or domicile certificate",
+    "05. Recent passport-size photographs",
+    "06. Land records — 7/12 extract",
+    "07. Bank account details with IFSC code",
+    "08. Mobile number and email ID (optional)",
+    "09. Soil Health Card (if available)",
+    "10. Kisan Credit Card (if available)"
+  ],
+  "apply_steps_en": [
+    "Step 01: Visit the official PM-KISAN portal — https://pmkisan.gov.in/",
+    "Step 02: Click on the 'New Farmer Registration' tab and fill in the required details",
+    "Step 03: Upload the required documents, including Aadhaar card, land ownership documents, and bank passbook",
+    "Step 04: Verify the mobile number and email ID (if provided)",
+    "Step 05: Submit the application and note down the registration number",
+    "Step 06: Wait for the verification process to be completed by the authorities",
+    "Step 07: Check the status of the application on the PM-KISAN portal",
+    "Step 08: Receive the first installment of Rs 2,000 after the application is approved",
+    "Step 09: Ensure that the bank account is linked to the Aadhaar number for smooth DBT",
+    "Step 10: Update the eKYC details periodically to avoid any disruption in payments"
+  ],
+  "application_url": "https://pmkisan.gov.in/",
+  "helpline": "PM-KISAN Helpline: 011-23381092",
+  "ministry": "Ministry of Agriculture and Farmers Welfare",
+  "nodal_department": "Department of Agriculture, Cooperation and Farmers Welfare",
+  "scheme_type": "central",
+  "launch_year": 2018,
+  "last_updated": "2026",
+  "processing_time": "30-60 days from application to first benefit",
+  "renewal_required": false,
+  "renewal_frequency": null,
+  "renewal_process": "Not applicable",
+  "payment_mode": "DBT / direct bank transfer",
+  "payment_frequency": "quarterly",
+  "payment_schedule": "April-July, August-November, December-March",
+  "related_schemes": [
+    "Soil Health Card Scheme",
+    "Pradhan Mantri Fasal Bima Yojana",
+    "Pradhan Mantri Krishi Sinchayee Yojana",
+    "Kisan Credit Card scheme"
+  ],
+  "tags": [
+    "farmer",
+    "agriculture",
+    "income support",
+    "DBT",
+    "central scheme"
+  ],
+  "source_url": "https://pmkisan.gov.in/",
+  "keywords": [
+    "PM-KISAN",
+    "Pradhan Mantri Kisan Samman Nidhi",
+    "farmer income support",
+    "DBT scheme",
+    "central government scheme",
+    "agriculture scheme",
+    "Kisan Credit Card",
+    "Soil Health Card",
+    "Fasal Bima Yojana",
+    "Krishi Sinchayee Yojana",
+    "how to apply for PM-KISAN",
+    "PM-KISAN eligibility criteria",
+    "PM-KISAN documents required",
+    "PM-KISAN payment schedule",
+    "PM-KISAN helpline number"
+  ],
+  "name_hi": "प्रधान मंत्री किसान सम्मान निधि",
+  "name_ta": "பிரதான் மந்திரி கிசான் சம்மான் நிதி",
+  "name_bn": "প্রধানমন্ত্রী কিষাণ সম্মান নিধি",
+  "name_mr": "प्रधानमंत्री किसान सन्मान निधी",
+  "description_hi": "प्रधान मंत्री किसान सम्मान निधि (पीएम-किसान) एक केंद्रीय क्षेत्र की योजना है जिसमें भारत सरकार से 100% वित्त पोषण है। इसकी शुरुआत 2018 में देश भर के सभी भूमि धारक किसान परिवारों को आय समर्थन प्रदान करने के लिए की गई थी। यह योजना किसानों की वित्तीय जरूरतों को पूरा करने के लिए है, ताकि वे विभिन्न इनपुट खरीद सकें और फसल की स्वास्थ्य और उपज को सुनिश्चित कर सकें। यह योजना कृषि और किसान कल्याण मंत्रालय, भारत सरकार द्वारा लागू की जा रही है। 2026 तक, इस योजना ने 9 करोड़ से अधिक किसान परिवारों को कवर किया है, और सरकार ने सीधे लाभ हस्तांतरण (डीबीटी) तंत्र के माध्यम से लाभार्थियों के बैंक खातों में धन जारी किया है। यह योजना कृषि क्षेत्र पर महत्वपूर्ण प्रभाव डाल रही है, और सरकार ने इसके कार्यान्वयन के लिए एक बड़ा बजट आवंटित किया है।",
+  "description_ta": "பிரதான் மந்திரி கிசான் சம்மான் நிதி (பிஎம்-கிசான்) என்பது இந்திய அரசின் 100% நிதியுதவி கொண்ட ஒரு மத்திய துறைத் திட்டமாகும். இது 2018 ஆம் ஆண்டில் நாடு முழுவதும் உள்ள அனைத்து நில உரிமையாளர் விவசாயிகளுக்கு வருமான ஆதரவை வழங்குவதற்காகத் தொடங்கப்பட்டது. இந்தத் திட்டம் விவசாயிகளின் நிதி தேவைகளைப் பூர்த்தி செய்ய உதவுகிறது, அவர்கள் பல்வேறு உள்ளீடுகளை வாங்குவதற்கும் பயிர் ஆரோக்கியம் மற்றும் உற்பத்தியை உறுதி செய்வதற்கும். இந்தத் திட்டம் இந்திய அரசின் விவசாயம் மற்றும் விவசாயிகள் நலத்துறை அமைச்சகத்தால் செயல்படுத்தப்படுகிறது.",
+  "description_bn": "প্রধানমন্ত্রী কিষাণ সম্মান নিধি (পিএম-কিসান) হল ভারত সরকারের ১০০% তহবিল সহ একটি কেন্দ্রীয় সেক্টর স্কিম। এটি ২০১৮ সালে দেশের সকল জমি ধারক কৃষক পরিবারকে আয় সহায়তা প্রদানের জন্য চালু করা হয়েছিল। এই স্কিমটি কৃষকদের আর্থিক চাহিদা পূরণে সহায়তা করে, যাতে তারা বিভিন্ন ইনপুট কিনতে পারে এবং ফসলের স্বাস্থ্য ও ফলন নিশ্চিত করতে পারে। এই স্কিমটি ভারত সরকারের কৃষি ও কৃষক কল্যাণ মন্ত্রক দ্বারা বাস্তবায়িত হচ্ছে।",
+  "description_mr": "प्रधानमंत्री किसान सन्मान निधी (पीएम-किसान) ही एक केंद्रीय क्षेत्र योजना आहे ज्यामध्ये भारत सरकारचे 100% निधी आहे. ही योजना देशभरातील सर्व जमीन धारक शेतकरी कुटुंबांना उत्पन्न आधार देण्यासाठी 2018 मध्ये सुरू करण्यात आली. ही योजना शेतकऱ्यांच्या आर्थिक गरजा पूर्ण करण्यास मदत करते, जेणेकरून ते विविध इनपुट खरेदी करू शकतात आणि पीक आरोग्य आणि उत्पादन सुनिश्चित करू शकतात. ही योजना कृषी आणि शेतकरी कल्याण मंत्रालय, भारत सरकार द्वारे राबविण्यात येत आहे.",
+  "benefit_hi": "प्रधान मंत्री किसान सम्मान निधि योजना के तहत प्राथमिक वित्तीय लाभ प्रति वर्ष 6,000 रुपये का आय समर्थन है, जो तीन समान किश्तों में दिया जाता है - प्रत्येक 2,000 रुपये। भुगतान का कार्यक्रम हर चार महीने में होता है, जिसमें पहली किश्त अप्रैल से जुलाई के बीच, दूसरी अगस्त से नवंबर के बीच और तीसरी दिसंबर से मार्च के बीच दी जाती है। वित्तीय लाभ के अलावा, यह योजना किसान परिवारों के लिए बेहतर फसल उपज, बढ़ी हुई खेती आय और जीवन यापन सुरक्षा जैसे गौण लाभ भी प्रदान करती है।",
+  "benefit_ta": "பிரதான் மந்திரி கிசான் சம்மான் நிதி திட்டத்தின் கீழ் முதன்மை நிதி நன்மை ஒரு வருடத்திற்கு 6,000 ரூபாய் வருமான ஆதரவாகும், இது மூன்று சமமான கிச்சுகளாக வழங்கப்படுகிறது - ஒவ்வொன்றும் 2,000 ரூபாய். பணம் செலுத்தும் திட்டம் ஒவ்வொரு நான்கு மாதங்களுக்கு ஒருமுறை நடைபெறும், முதல் கிச்சு ஏப்ரல் முதல் ஜூலை வரை, இரண்டாவது ஆகஸ்ட் முதல் நவம்பர் வரை மற்றும் மூன்றாவது டிசம்பர் முதல் மார்ச் வரை வழங்கப்படும்.",
+  "benefit_bn": "প্রধানমন্ত্রী কিষাণ সম্মান নিধি স্কিমের অধীনে প্রাথমিক আর্থিক সুবিধা হল প্রতি বছর 6,000 টাকা আয় সহায়তা, যা তিনটি সমান কিস্তিতে দেওয়া হয় - প্রতিটি 2,000 টাকা। অর্থ প্রদানের সময়সূচী প্রতি চার মাসে একবার হয়, প্রথম কিস্তি এপ্রিল থেকে জুলাইয়ের মধ্যে, দ্বিতীয় আগস্ট",
+  "faq": [
+    {
+      "question_en": "What are the eligibility criteria for the PM Kisan Samman Nidhi scheme?",
+      "answer_en": "The PM Kisan eligibility criteria include land ownership up to 2 hectares, Indian citizenship, active bank account linked to Aadhaar number, and completion of mandatory eKYC process. The scheme targets small and marginal farming families.",
+      "question_hi": "पीएम किसान सम्मान निधि योजना के लिए पात्रता मानदंड क्या हैं?",
+      "answer_hi": "पीएम किसान पात्रता मानदंड में 2 हेक्टेयर तक भूमि स्वामित्व, भारतीय नागरिकता, आधार से जुड़ा सक्रिय बैंक खाता और अनिवार्य ईकेवाईसी प्रक्रिया शामिल है। यह योजना छोटे और सीमांत किसान परिवारों को लक्षित करती है।",
+      "question_ta": "பிரதான் மந்திரி கிசான் சம்மான் நிதி திட்டத்திற்கான தகுதி குறிப்புகள் என்ன?",
+      "answer_ta": "பிரதான் மந்திரி கிசான் தகுதி குறிப்புகளில் 2 ஹெக்டேர் வரை நில உடைமை, இந்திய குடியுரிமை, ஆதார் இணைக்கப்பட்ட செயலில் உள்ள வங்கி கணக்கு மற்றும் கட்டாய ஈகைசி செயல்முறை ஆகியவை அடங்கும். இந்த திட்டம் சிறிய மற்றும் எல்லைக் கிராம வேளாண் குடும்பங்களை இலக்காகக் கொண்டுள்ளது."
+    },
+    {
+      "question_en": "What documents are required for PM Kisan registration?",
+      "answer_en": "The documents required for PM Kisan registration include Aadhaar card, land ownership documents or revenue records, bank account details with IFSC code, and citizenship proof.",
+      "question_hi": "पीएम किसान पंजीकरण के लिए कौन से दस्तावेज़ आवश्यक हैं?",
+      "answer_hi": "पीएम किसान पंजीकरण के लिए आवश्यक दस्तावेजों में आधार कार्ड, भूमि स्वामित्व दस्तावेज या राजस्व रिकॉर्ड, बैंक खाता विवरण आईएफएससी कोड के साथ और नागरिकता प्रमाण शामिल हैं।",
+      "question_ta": "பிஎம் கிசான் பதிவுக்கு என்ன ஆவணங்கள் தேவை?",
+      "answer_ta": "பிஎம் கிசான் பதிவுக்கு தேவையான ஆவணங்களில் ஆதார் அட்டை, நில உடைமை ஆவணங்கள் அல்லது வருவாய் பதிவுகள், வங்கி கணக்கு விவரங்கள் ஐஎஃப்எஸ்சி குறியீடுடன் மற்றும் குடியுரிமை ஆதாரம் ஆகியவை அடங்கும்."
+    },
+    {
+      "question_en": "How to check PM Kisan installment status?",
+      "answer_en": "To check PM Kisan installment status, farmers can visit the official PM Kisan portal and log in with their credentials. They can also contact the PM Kisan helpline or visit the nearest Common Service Center (CSC) for assistance.",
+      "question_hi": "पीएम किसान किस्त की स्थिति की जांच कैसे करें?",
+      "answer_hi": "पीएम किसान किस्त की स्थिति की जांच करने के लिए, किसान आधिकारिक पीएम किसान पोर्टल पर जा सकते हैं और अपने पासवर्ड के साथ लॉग इन कर सकते हैं। वे सहायता के लिए पीएम किसान हेल्पलाइन से संपर्क कर सकते हैं या निकटतम सामान्य सेवा केंद्र (सीएससी) पर जा सकते हैं।",
+      "question_ta": "பிஎம் கிசான் கிச்சன் நிலையை எப்படி பார்ப்பது?",
+      "answer_ta": "பிஎம் கிசான் கிச்சன் நிலையைப் பார்ப்பதற்கு, விவசாயிகள் அதிகாரப்பூர்வ பிஎம் கிசான் போர்டலுக்குச் செல்லலாம் மற்றும் தங்கள் பயனர் அடையாளம் மற்றும் கடவுச்சொல்லுடன் பதிவுசெய்யலாம். அவர்கள் உதவிக்கு பிஎம் கிசான் உதவி மையத்தைத் தொடர்புகொள்ளலாம் அல்லது அருகிலுள்ள பொது சேவை மையத்திற்குச் செல்லலாம்."
+    },
+    {
+      "question_en": "What is the payment schedule for PM Kisan?",
+      "answer_en": "The payment schedule for PM Kisan is every four months, with the first installment paid between April and July, the second between August and November, and the third between December and March.",
+      "question_hi": "पीएम किसान के लिए भुगतान अनुसूची क्या है?",
+      "answer_hi": "पीएम किसान के लिए भुगतान अनुसूची हर चार महीने में है, जिसमें पहली किस्त अप्रैल और जुलाई के बीच दी जाती है, दूसरी अगस्त और नवंबर के बीच, और तीसरी दिसंबर और मार्च के बीच।",
+      "question_ta": "பிஎம் கிசானுக்கான பணம் செலுத்தும் அட்டவணை என்ன?",
+      "answer_ta": "பிஎம் கிசானுக்கான பணம் செலுத்தும் அட்டவணை ஒவ்வொரு நான்கு மாதங்களுக்கும், முதல் கிச்சன் ஏப்ரல் மற்றும் ஜூலை க்கு இடையில் செலுத்தப்படுகிறது, இரண்டாவது ஆகஸ்ட் மற்றும் நவம்பர் க்கு இடையில், மூன்றாவது டிசம்பர் மற்றும் மார்ச் க்கு இடையில்."
+    }
+  ]
+}

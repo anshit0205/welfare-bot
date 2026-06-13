@@ -1,0 +1,274 @@
+{
+  "id": "pm_suraksha_bima",
+  "name_en": "Pradhan Mantri Suraksha Bima Yojana",
+  "description_en": "The Pradhan Mantri Suraksha Bima Yojana is a government-backed accident insurance scheme that provides coverage for death or disability due to accidents. The scheme is available for individual bank account holders between 18 and 70 years of age, with an annual premium of Rs. 20. The scheme provides a coverage amount of Rs. 2 lakh for accidental death or total disability, and Rs. 1 lakh for partial disability. The scheme is renewable annually and is available for all savings bank account holders, including those with joint accounts. The scheme is implemented by the Ministry of Finance, Government of India, and is available through participating banks and post offices.",
+  "benefit_en": "The primary financial benefit of the scheme is the payment of Rs. 2 lakh in case of accidental death or total disability, and Rs. 1 lakh in case of partial disability. The scheme also provides a secondary benefit of financial protection against unforeseen accidents, which can help individuals and their families to cope with the financial consequences of an accident. The scheme is linked to other government schemes, such as the Pradhan Mantri Jan Dhan Yojana, and provides convergence with other social security schemes. The scheme also provides a top-up benefit, where individuals can opt for additional coverage beyond the basic coverage provided by the scheme. The scheme provides insurance coverage against accidents, including road accidents, rail accidents, and other types of accidents. The scheme also provides a subsidy, where the premium is subsidized by the government, making it affordable for individuals to enroll in the scheme.",
+  "eligibility_rules": {
+    "occupation": [
+      "farmer",
+      "agricultural labourer",
+      "rural household",
+      "urban household",
+      "any other occupation"
+    ],
+    "gender": "any",
+    "bpl_required": false,
+    "land_ownership_required": false,
+    "girl_child_required": false,
+    "pregnant_woman_only": false,
+    "age_min": 18,
+    "age_max": 70,
+    "income_max_annual": null,
+    "caste_preference": [
+      "any",
+      "SC",
+      "ST",
+      "OBC",
+      "minority"
+    ],
+    "bank_account_required": true,
+    "aadhaar_required": true,
+    "other_conditions": [
+      "individual bank account holders",
+      "savings bank account holders",
+      "joint account holders",
+      "account holders with Aadhaar-linked accounts",
+      "residents of India"
+    ]
+  },
+  "exclusion_criteria": [
+    "income tax payees",
+    "constitutional post holders",
+    "serving or retired central or state government employees",
+    "government pensioners drawing more than Rs. 10,000 per month",
+    "professionals registered with professional bodies",
+    "individuals with multiple bank accounts"
+  ],
+  "documents_en": [
+    "01. Aadhaar Card",
+    "02. Bank passbook or cancelled cheque",
+    "03. Savings bank account details",
+    "04. Joint account holder details",
+    "05. Age proof",
+    "06. Income proof",
+    "07. Occupation proof",
+    "08. Residence proof",
+    "09. Identity proof",
+    "10. Other documents as required by the bank or post office"
+  ],
+  "apply_steps_en": [
+    "Step 01: Visit the bank branch or post office",
+    "Step 02: Fill in the application form",
+    "Step 03: Submit the required documents",
+    "Step 04: Pay the premium",
+    "Step 05: Get the acknowledgement slip",
+    "Step 06: Check the status of the application",
+    "Step 07: Receive the insurance coverage",
+    "Step 08: Renew the policy annually",
+    "Step 09: Update the account details",
+    "Step 10: Contact the bank or post office for any queries"
+  ],
+  "application_url": "https://jansuraksha.gov.in/",
+  "helpline": "1800-180-1111 / 1800-110-001",
+  "ministry": "Ministry of Finance",
+  "nodal_department": "Department of Financial Services",
+  "scheme_type": "central",
+  "launch_year": 2015,
+  "last_updated": "2024",
+  "processing_time": "immediate",
+  "renewal_required": true,
+  "renewal_frequency": "annual",
+  "renewal_process": "auto-debit of premium",
+  "payment_mode": "auto-debit",
+  "payment_frequency": "annual",
+  "payment_schedule": "on or before 1st June of each annual coverage period",
+  "related_schemes": [
+    "Pradhan Mantri Jan Dhan Yojana",
+    "Pradhan Mantri Jeevan Jyoti Bima Yojana"
+  ],
+  "tags": [
+    "accident insurance",
+    "death benefit",
+    "disability benefit",
+    "financial protection",
+    "government scheme"
+  ],
+  "source_url": "https://www.financialservices.gov.in/",
+  "keywords": [
+    "Pradhan Mantri Suraksha Bima Yojana",
+    "PMSBY",
+    "accident insurance",
+    "death benefit",
+    "disability benefit",
+    "financial protection",
+    "government scheme",
+    "how to apply",
+    "documents required",
+    "eligibility criteria",
+    "benefits",
+    "coverage",
+    "premium",
+    "renewal",
+    "claims",
+    "FAQs"
+  ],
+  "name_hi": "प्रधान मंत्री सुरक्षा बीमा योजना",
+  "name_ta": "பிரதான் மந்திரி சுரக்ஷா பீமா திட்டம்",
+  "name_bn": "প্রধানমন্ত্রী সুরক্ষা বীমা প্রকল্প",
+  "name_mr": "प्रधानमंत्री सुरक्षा विमा योजना",
+  "description_hi": "प्रधान मंत्री सुरक्षा बीमा योजना एक सरकार द्वारा समर्थित दुर्घटना बीमा योजना है जो दुर्घटना के कारण मृत्यु या विकलांगता के लिए कवरेज प्रदान करती है। यह योजना 18 से 70 वर्ष की आयु के बीच के व्यक्तिगत बैंक खाताधारकों के लिए उपलब्ध है, जिसमें प्रति वर्ष Rs. 20 का प्रीमियम है। यह योजना दुर्घटना मृत्यु या पूर्ण विकलांगता के लिए Rs. 2 लाख और आंशिक विकलांगता के लिए Rs. 1 लाख की कवरेज राशि प्रदान करती है। यह योजना वार्षिक रूप से नवीनीकृत की जा सकती है और सभी बचत बैंक खाताधारकों के लिए उपलब्ध है, जिसमें संयुक्त खाताधारक भी शामिल हैं। यह योजना वित्त मंत्रालय, भारत सरकार द्वारा कार्यान्वित की जाती है और भाग लेने वाले बैंकों और डाकघरों के माध्यम से उपलब्ध है।",
+  "description_ta": "பிரதான் மந்திரி சுரக்ஷா பீமா திட்டம் என்பது விபத்து காரணமாக இறப்பு அல்லது ஊனம் ஏற்படுவதற்கு மானியம் அளிக்கும் ஒரு அரசாங்கத்தால் ஆதரிக்கப்படும் விபத்து காப்பீட்டுத் திட்டமாகும். இந்தத் திட்டம் 18 முதல் 70 வயது வரையிலான தனிநபர் வங்கி கணக்கு வைத்திருப்பவர்களுக்கு ரூ. 20 ஆண்டு பிரீமியம் கொண்டு கிடைக்கிறது. இந்தத் திட்டம் விபத்து மரணம் அல்லது முழு ஊனம் ஏற்படுவதற்கு ரூ. 2 லட்சம் மற்றும் பகுதி ஊனம் ஏற்படுவதற்கு ரூ. 1 லட்சம் காப்பீட்டு தொகையை வழங்குகிறது. இந்தத் திட்டம் ஒவ்வொரு ஆண்டும் புதுப்பிக்கப்படலாம் மற்றும் அனைத்து சேமிப்பு வங்கி கணக்கு வைத்திருப்பவர்களுக்கும் கிடைக்கிறது, இதில் இணை கணக்கு வைத்திருப்பவர்களும் அடங்குவர். இந்தத் திட்டம் நிதி அமைச்சகம், இந்திய அரசாங்கத்தால் செயல்படுத்தப்படுகிறது மற்றும் பங்கேற்பு வங்கிகள் மற்றும் அஞ்சலகங்கள் மூலம் கிடைக்கிறது.",
+  "description_bn": "প্রধানমন্ত্রী সুরক্ষা বীমা প্রকল্প একটি সরকার দ্বারা সমর্থিত দুর্ঘটনা বীমা প্রকল্প যা দুর্ঘটনার কারণে মৃত্যু বা প্রতিবন্ধকতার জন্য কভারেজ প্রদান করে। এই প্রকল্পটি 18 থেকে 70 বছর বয়সের মধ্যে ব্যক্তিগত ব্যাংক অ্যাকাউন্ট ধারকদের জন্য উপলব্ধ, যার বার্ষিক প্রিমিয়াম Rs. 20। এই প্রকল্পটি দুর্ঘটনা মৃত্যু বা সম্পূর্ণ প্রতিবন্ধকতার জন্য Rs. 2 লক্ষ এবং আংশিক প্রতিবন্ধকতার জন্য Rs. 1 লক্ষ কভারেজ পরিমাণ প্রদান করে। এই প্রকল্পটি বার্ষিকভাবে নবায়ন করা যেতে পারে এবং সমস্ত সঞ্চয় ব্যাংক অ্যাকাউন্ট ধারকদের জন্য উপলব্ধ, যার মধ্যে যৌথ অ্যাকাউন্ট ধারকরাও রয়েছে। এই প্রকল্পটি অর্থ মন্ত্রক, ভারত সরকার দ্বারা বাস",
+  "documents_hi": [
+    "आधार कार्ड",
+    "बैंक पासबुक या रद्दी चेक",
+    "बचत बैंक खाता विवरण",
+    "संयुक्त खाताधारक विवरण",
+    "आयु प्रमाण",
+    "आय प्रमाण",
+    "व्यवसाय प्रमाण",
+    "निवास प्रमाण",
+    "पहचान प्रमाण",
+    "बैंक या डाकघर द्वारा आवश्यक अन्य दस्तावेज"
+  ],
+  "documents_ta": [
+    "ஆதார் அட்டை",
+    "வங்கி பாஸ்புக் அல்லது ரத்து செய்யப்பட்ட செக்",
+    "சேமிப்பு வங்கி கணக்கு விவரங்கள்",
+    "இணை கணக்கு வைத்திருப்பவர் விவரங்கள்",
+    "வயது தெளிவு",
+    "வருமான தெளிவு",
+    "தொழில் தெளிவு",
+    "வசிப்பிட தெளிவு",
+    "அடையாள தெளிவு",
+    "வங்கி அல்லது அஞ்சலகத்தால் தேவைப்படும் பிற ஆவணங்கள்"
+  ],
+  "documents_bn": [
+    "আধার কার্ড",
+    "ব্যাংক পাসবুক বা বাতিল চেক",
+    "সঞ্চয় ব্যাংক অ্যাকাউন্ট বিবরণ",
+    "সম্মিলিত অ্যাকাউন্ট ধারক বিবরণ",
+    "বয়স প্রমাণ",
+    "আয় প্রমাণ",
+    "পেশা প্রমাণ",
+    "বাসস্থান প্রমাণ",
+    "পরিচয় প্রমাণ",
+    "ব্যাংক বা ডাকঘর কর্তৃক প্রয়োজনীয় অন্যান্য নথি"
+  ],
+  "apply_steps_hi": [
+    "बैंक शाखा या डाकघर पर जाएं",
+    "आवेदन पत्र भरें",
+    "आवश्यक दस्तावेज जमा करें",
+    "प्रीमियम का भुगतान करें",
+    "स्वीकृति पर्ची प्राप्त करें",
+    "आवेदन की स्थिति की जांच करें",
+    "बीमा कवर प्राप्त करें",
+    "नीति को वार्षिक रूप से नवीनीकृत करें",
+    "खाता विवरण अद्यतन करें",
+    "किसी भी प्रश्न के लिए बैंक या डाकघर से संपर्क करें"
+  ],
+  "apply_steps_ta": [
+    "வங்கி கிளை அல்லது அஞ்சலகத்திற்குச் செல்லுங்கள்",
+    "விண்ணப்ப படிவத்தை நிரப்புங்கள்",
+    "தேவையான ஆவணங்களை சமர்ப்பிக்கவும்",
+    "முன்பணம் செலுத்தவும்",
+    "ஒப்புதல் துண்டு பெறுங்கள்",
+    "விண்ணப்பத்தின் நிலையைப் பார்க்கவும்",
+    "காப்பீடு அட்டையைப் பெறுங்கள்",
+    "கொள்கையை ஒவ்வொரு ஆண்டும் புதுப்பிக்கவும்",
+    "கணக்கு விவரங்களைப் புதுப்பிக்கவும்",
+    "ஏதேனும் கேள்விக்கு வங்கி அல்லது அஞ்சலகத்தைத் தொடர்பு கொள்ளுங்கள்"
+  ],
+  "apply_steps_bn": [
+    "ব্যাংক শাখা বা ডাকঘরে যান",
+    "আবেদনপত্র পূরণ করুন",
+    "প্রয়োজনীয় নথি জমা দিন",
+    "প্রিমিয়াম পরিশোধ করুন",
+    "স্বীকৃতি স্লিপ প্রাপ্ত করুন",
+    "আবেদনের অবস্থা পরীক্ষা করুন",
+    "বীমা কভার প্রাপ্ত করুন",
+    "নীতি বার্ষিক নবায়ন করুন",
+    "অ্যাকাউন্ট বিবরণ হালনাগাদ করুন",
+    "যেকোনো প্রশ্নের জন্য ব্যাংক বা ডাকঘরের সাথে যোগাযোগ করুন"
+  ],
+  "apply_steps_mr": [
+    "बँक शाखा किंवा पोस्ट ऑफिसला भेट द्या",
+    "अर्ज फॉर्म भरा",
+    "आवश्यक कागदपत्रे सादर करा",
+    "प्रीमियम चा भुगतान करा",
+    "प्राप्ती पर्ची मिळवा",
+    "अर्जाची स्थिती तपासा",
+    "विमा संरक्षण मिळवा",
+    "पॉलिसी वार्षिकपणे नवीनीकरण करा",
+    "खाते तपशील अद्यतनित करा",
+    "कोणत्याही प्रश्नासाठी बँक किंवा पोस्ट ऑफिसशी संपर्क साधा"
+  ],
+  "faq": [
+    {
+      "question_en": "What is the eligibility criteria for Pradhan Mantri Suraksha Bima Yojana?",
+      "answer_en": "The scheme is available for individuals aged 18 to 70 years with a savings bank account. The annual premium is Rs. 20, which is auto-debited from the account. The scheme provides coverage of up to Rs. 2 lakhs against accidental death and total or partial disability caused due to an accident.",
+      "question_hi": "प्रधान मंत्री सुरक्षा बीमा योजना के लिए पात्रता मानदंड क्या है?",
+      "answer_hi": "यह योजना 18 से 70 वर्ष की आयु के बीच के व्यक्तियों के लिए उपलब्ध है जिनके पास बचत बैंक खाता है। वार्षिक प्रीमियम 20 रुपये है, जो खाते से स्वचालित रूप से डेबिट हो जाता है। यह योजना दुर्घटना के कारण होने वाली दुर्घटना मृत्यु और कुल या आंशिक विकलांगता के खिलाफ 2 लाख रुपये तक की कवरेज प्रदान करती है।",
+      "question_ta": "பிரதான் மந்திரி சுரக்ஷா பீமா யோஜனாவிற்கான தகுதி விதிமுறைகள் என்ன?",
+      "answer_ta": "இந்த திட்டம் 18 முதல் 70 வயது வரையிலான நபர்களுக்கு பயனுள்ளது, அவர்களுக்கு சேமிப்பு வங்கி கணக்கு உள்ளது. ஆண்டு காப்பீடு தொகை ரூ. 20, இது கணக்கிலிருந்து தானாக திரும்பப் பெறப்படும். இந்த திட்டம் விபத்து காரணமாக ஏற்படும் விபத்து இறப்பு மற்றும் முழு அல்லது பகுதி ஊனம் ஆகியவற்றிற்கு எதிராக ரூ. 2 லட்சம் வரை பாதுகாப்பை வழங்குகிறது."
+    },
+    {
+      "question_en": "How much is the premium for Pradhan Mantri Suraksha Bima Yojana?",
+      "answer_en": "The annual premium for Pradhan Mantri Suraksha Bima Yojana is Rs. 20, which is auto-debited from the savings bank account of the policyholder.",
+      "question_hi": "प्रधान मंत्री सुरक्षा बीमा योजना का प्रीमियम कितना है?",
+      "answer_hi": "प्रधान मंत्री सुरक्षा बीमा योजना का वार्षिक प्रीमियम 20 रुपये है, जो बीमा धारक के बचत बैंक खाते से स्वचालित रूप से डेबिट हो जाता है।",
+      "question_ta": "பிரதான் மந்திரி சுரக்ஷா பீமா யோஜனாவின் காப்பீடு தொகை என்ன?",
+      "answer_ta": "பிரதான் மந்திரி சுரக்ஷா பீமா யோஜனாவின் ஆண்டு காப்பீடு தொகை ரூ. 20, இது காப்பீடு தாரரின் சேமிப்பு வங்கி கணக்கிலிருந்து தானாக திரும்பப் பெறப்படும்."
+    },
+    {
+      "question_en": "What is the coverage amount for accidental death or total disability under Pradhan Mantri Suraksha Bima Yojana?",
+      "answer_en": "The coverage amount for accidental death or total disability under Pradhan Mantri Suraksha Bima Yojana is Rs. 2 lakhs.",
+      "question_hi": "प्रधान मंत्री सुरक्षा बीमा योजना के तहत दुर्घटना मृत्यु या कुल विकलांगता के लिए कवरेज राशि क्या है?",
+      "answer_hi": "प्रधान मंत्री सुरक्षा बीमा योजना के तहत दुर्घटना मृत्यु या कुल विकलांगता के लिए कवरेज राशि 2 लाख रुपये है।",
+      "question_ta": "பிரதான் மந்திரி சுரக்ஷா பீமா யோஜனாவின் கீழ் விபத்து இறப்பு அல்லது முழு ஊனம் ஆகியவற்றிற்கான பாதுகாப்பு தொகை என்ன?",
+      "answer_ta": "பிரதான் மந்திரி சுரக்ஷா பீமா யோஜனாவின் கீழ் விபத்து இறப்பு அல்லது முழு ஊனம் ஆகியவற்றிற்கான பாதுகாப்பு தொகை ரூ. 2 லட்சம்."
+    }
+  ],
+  "common_mistakes": [
+    "Mistake 1: Not having a valid Aadhaar-linked savings bank account — Ensure your bank account is linked to your Aadhaar number to avoid rejection.",
+    "Mistake 2: Not meeting the age eligibility criteria — Verify that you are between 18 and 70 years old to be eligible for the scheme.",
+    "Mistake 3: Not providing accurate personal and bank account details — Double-check your application form for any errors or inaccuracies in your personal and bank account information.",
+    "Mistake 4: Not ensuring auto-debit of the premium — Confirm with your bank that the annual premium of Rs. 20 can be auto-debited from your account.",
+    "Mistake 5: Not renewing the policy annually — Remember to renew your policy every year to maintain continuous coverage.",
+    "Mistake 6: Not understanding the coverage and benefits — Familiarize yourself with the scheme's benefits, including the coverage amounts for accidental death and disability, to avoid misunderstandings."
+  ],
+  "pro_tips": [
+    "Tip 1: Enroll for PMSBY through your bank's online portal or mobile banking app to speed up the application process.",
+    "Tip 2: Ensure your bank account has sufficient balance to avoid premium payment failures and policy lapses.",
+    "Tip 3: Keep your Aadhaar and bank account information up-to-date to prevent any issues with premium auto-debits or claim settlements.",
+    "Tip 4: Review and understand the scheme's terms and conditions, including the coverage, benefits, and exclusions, to maximize your benefits and avoid any disputes."
+  ],
+  "state_wise_amounts": {
+    "note": "The central government provides a uniform benefit amount across all states, but some states may offer additional top-ups or have varying implementation details.",
+    "varies_by": "none",
+    "states": {
+      "andhra_pradesh": "same as central",
+      "assam": "same as central",
+      "bihar": "same as central",
+      "gujarat": "same as central",
+      "haryana": "same as central",
+      "jharkhand": "same as central",
+      "karnataka": "same as central",
+      "kerala": "same as central",
+      "madhya_pradesh": "same as central",
+      "maharashtra": "same as central",
+      "odisha": "same as central",
+      "punjab": "same as central",
+      "rajasthan": "same as central",
+      "tamil_nadu": "same as central",
+      "telangana": "same as central",
+      "uttar_pradesh": "same as central",
+      "uttarakhand": "same as central",
+      "west_bengal": "same as central"
+    }
+  },
+  "state_specific_portals": {
+    "note": "Most states use the central government's portal or their respective bank's online portals for PMSBY applications, but some may have dedicated state-level portals.",
+    "portals": {}
+  }
+}

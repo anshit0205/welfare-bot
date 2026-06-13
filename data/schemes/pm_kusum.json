@@ -1,0 +1,259 @@
+{
+  "id": "pm_kusum",
+  "name_en": "Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan",
+  "description_en": "The Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan (PM-KUSUM) scheme aims to provide solar power to India's 2.5 crore agricultural consumers, reduce the central and state governments' electricity subsidy burden on agricultural power, and add distributed solar capacity to the national grid through farmer-owned small plants. The scheme has three distinct components targeting different beneficiaries: Component A for grid-connected solar plants, Component B for standalone solar pumps, and Component C for solarization of grid-connected agriculture pumps. The scheme was launched in 2019 and has been extended till March 2026. The Ministry of New and Renewable Energy (MNRE) is the implementing ministry, and the scheme is funded by the central government. The scheme has benefited over 4,11,222 farmers as of June 2024. The scheme's key impact metric is the reduction of greenhouse gas emissions and the promotion of renewable energy in the agricultural sector.",
+  "benefit_en": "The primary financial benefit of the PM-KUSUM scheme is the subsidy provided to farmers for setting up solar power plants and solar pumps. Under Component A, farmers can set up small solar power plants on their barren, fallow, or marshy land and sell power to DISCOMs under 25-year Power Purchase Agreements (PPAs). The Central Government provides a subsidy of 30% of the project cost, and the state government provides an additional subsidy of 30%. Under Component B, farmers can install standalone solar pumps, and the Central Government provides a subsidy of up to 60% of the project cost. Under Component C, farmers can solarize their grid-connected agriculture pumps, and the Central Government provides a subsidy of 30% of the project cost. The scheme also provides benefits such as savings in energy costs, increased income for farmers, better irrigation facilities, and a greener environment.",
+  "eligibility_rules": {
+    "occupation": [
+      "farmer",
+      "agricultural_labourer"
+    ],
+    "gender": "any",
+    "bpl_required": false,
+    "land_ownership_required": true,
+    "girl_child_required": false,
+    "pregnant_woman_only": false,
+    "age_min": null,
+    "age_max": null,
+    "income_max_annual": null,
+    "caste_preference": [
+      "any"
+    ],
+    "bank_account_required": true,
+    "aadhaar_required": true,
+    "other_conditions": [
+      "The farmer should have a valid land record",
+      "The farmer should have a valid bank account",
+      "The farmer should have a valid Aadhaar card",
+      "The farmer should not have any outstanding loans or debts",
+      "The farmer should not have availed any other government subsidy or benefit for the same purpose"
+    ]
+  },
+  "exclusion_criteria": [
+    "Income tax payees",
+    "Constitutional post holders",
+    "Serving/retired Central & State government employees",
+    "Government pensioners drawing Rs 10,000+/month",
+    "All professionals registered with professional bodies",
+    "Farmers who have already availed the benefit under the scheme"
+  ],
+  "documents_en": [
+    "01. Aadhaar Card — mandatory for eKYC and DBT",
+    "02. Land ownership documents / Khasra-Khatauni / Patta",
+    "03. Bank passbook or cancelled cheque — for DBT linkage",
+    "04. Proof of identity",
+    "05. Proof of address",
+    "06. Land record",
+    "07. Bank account details",
+    "08. Income certificate",
+    "09. Caste certificate",
+    "10. Disability certificate (if applicable)"
+  ],
+  "apply_steps_en": [
+    "Step 01: Visit the official website of the Ministry of New and Renewable Energy (MNRE)",
+    "Step 02: Click on the link for the PM-KUSUM scheme and read the guidelines and eligibility criteria",
+    "Step 03: Fill the online application form and upload the required documents",
+    "Step 04: Submit the application form and pay the required fee",
+    "Step 05: Wait for the verification and approval of the application",
+    "Step 06: Receive the subsidy and other benefits under the scheme",
+    "Step 07: Install the solar power plant or solar pump and start generating electricity",
+    "Step 08: Sell the excess electricity to the DISCOM and earn revenue",
+    "Step 09: Maintain the solar power plant or solar pump and ensure its proper functioning",
+    "Step 10: Renew the agreement and continue to avail the benefits under the scheme"
+  ],
+  "application_url": "https://mnre.gov.in/",
+  "helpline": "1800 180 3333",
+  "ministry": "Ministry of New and Renewable Energy",
+  "nodal_department": "Ministry of New and Renewable Energy",
+  "scheme_type": "central",
+  "launch_year": 2019,
+  "last_updated": "2024",
+  "processing_time": "30 days",
+  "renewal_required": false,
+  "renewal_frequency": null,
+  "renewal_process": "Not applicable",
+  "payment_mode": "DBT / direct bank transfer",
+  "payment_frequency": "one-time",
+  "payment_schedule": "After verification and approval of the application",
+  "related_schemes": [
+    "Pradhan Mantri Fasal Bima Yojana",
+    "Pradhan Mantri Krishi Sinchayee Yojana"
+  ],
+  "tags": [
+    "solar energy",
+    "renewable energy",
+    "agriculture",
+    "farmers",
+    "subsidy"
+  ],
+  "source_url": "https://mnre.gov.in/",
+  "keywords": [
+    "PM-KUSUM",
+    "Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan",
+    "solar energy",
+    "renewable energy",
+    "agriculture",
+    "farmers",
+    "subsidy",
+    " Component A",
+    "Component B",
+    "Component C",
+    "grid-connected solar plants",
+    "standalone solar pumps",
+    "solarization of grid-connected agriculture pumps",
+    "MNRE",
+    "Ministry of New and Renewable Energy"
+  ],
+  "name_hi": "प्रधान मंत्री किसान ऊर्जा सुरक्षा एवं उत्थान महाभियान",
+  "name_ta": "பிரதான் மந்திரி கிசான் ஊர்ஜா சுரக்ஷா ஏவம் உத்தான் மகாபியான்",
+  "name_bn": "প্রধানমন্ত্রী কিষাণ ঊর্জা সুরক্ষা এবং উত্থান মহাবিযান",
+  "name_mr": "प्रधानमंत्री किसान उर्जा सुरक्षा आणि उत्थान महाभियान",
+  "description_hi": "प्रधान मंत्री किसान ऊर्जा सुरक्षा एवं उत्थान महाभियान (पीएम-कुसुम) योजना का उद्देश्य भारत के 2.5 करोड़ कृषि उपभोक्ताओं को सौर ऊर्जा प्रदान करना, केंद्र और राज्य सरकारों के कृषि बिजली सब्सिडी बोझ को कम करना और राष्ट्रीय ग्रिड में वितरित सौर क्षमता जोड़ना है। इस योजना में तीन अलग-अलग घटक हैं जो विभिन्न लाभार्थियों को लक्षित करते हैं: घटक ए ग्रिड-संयुक्त सौर संयंत्रों के लिए, घटक बी स्टैंडअलोन सौर पंपों के लिए और घटक सी ग्रिड-संयुक्त कृषि पंपों के सौरीकरण के लिए। यह योजना 2019 में शुरू की गई थी और मार्च 2026 तक बढ़ा दी गई है। नवीन और नवीकरणीय ऊर्जा मंत्रालय (एमएनआरई) कार्यान्वयन मंत्रालय है, और यह योजना केंद्र सरकार द्वारा वित्त पोषित है। इस योजना से जून 2024 तक 4,11,222 से अधिक किसान लाभान्वित हुए हैं। इस योजना का प्रमुख प्रभाव मीट्रिक ग्रीनहाउस गैस उत्सर्जन में कमी और कृषि क्षेत्र में अक्षय ऊर्जा को बढ़ावा देना है।",
+  "description_ta": "பிரதான் மந்திரி கிசான் ஊர்ஜா சுரக்ஷா ஏவம் உத்தான் மகாபியான் (பிஎம்-குசும்) திட்டத்தின் நோக்கம் இந்தியாவின் 2.5 கோடி விவசாய நுகர்வோருக்கு சூரிய சக்தியை வழங்குவது, மத்திய மற்றும் மாநில அரசுகளின் விவசாய மின்சார மானிய சுமையைக் குறைப்பது மற்றும் தேசிய வலையமைப்பில் விநியோகிக்கப்பட்ட சூரிய திறனை சேர்ப்பது ஆகும். இந்த திட்டத்தில் வெவ்வேறு நன்மைகளை நோக்கமாகக் கொண்ட மூன்று தனித்த கூறுகள் உள்ளன: கூறு ஏ கிரிட்-இணைக்கப்பட்ட சூரிய ஆலைகளுக்கு, கூறு பி தனிநபர் சூரிய நீராட்டு பம்புகளுக்கு மற்றும் கூறு சி கிரிட்-இணைக்கப்பட்ட விவசாய பம்புகளின் சூரிய ஆற்றல் மயமாக்கலுக்கு. இந்தத் திட்டம் 2019 இல் தொடங்கப்பட்டது மற்றும் மார்ச் 2026 வரை நீட்டிக்கப்பட்டது. புதுமையான மற்றும் புதுப்பிக்கத்தக்க எரிசக்தி அமைச்சகம் (எம்என்ஆர்இ) செயல்படுத்தும் அமைச்சகமாகும், மேலும் இந்தத் திட்டம் மத்திய அரசால் நிதியுதவியுடன் நடத்தப்படுகிறது. இந்தத் திட்டத்தின் மூலம் ஜூன் 2024 வரை 4,11,222 விவசாயிகளுக்கு மேல் நன்மை பெற்றுள்ளனர். இந்தத் திட்டத்தின் முக்கிய தாக்க மீட்டர் பசுமை இல்ல வாயு வெளியேற்றத்தில் குறைப்பு மற்றும் விவசாயத் துறையில் புதுப்பிக்கத்தக்க எரிசக்தியை ஊக்குவித்தல் ஆகும்.",
+  "description_bn": "প্রধানমন্ত্রী কিষাণ ঊর্জা সুরক্ষা এবং উত্থান মহাবিযান (পিএম-কুসুম) প্রকল্পের লক্ষ্য ভারতের 2.5 কোটি কৃষক ভোক্তাদের সৌর শক্তি প্রদান করা, কে",
+  "documents_hi": [
+    "आधार कार्ड — ईकेवाईसी और डीबीटी के लिए अनिवार्य",
+    "भूमि स्वामित्व दस्तावेज / खसरा-खतौनी / पट्टा",
+    "बैंक पासबुक या रद्द चेक — डीबीटी लिंकेज के लिए",
+    "पहचान का प्रमाण",
+    "पते का प्रमाण",
+    "भूमि रिकॉर्ड",
+    "बैंक खाता विवरण",
+    "आय प्रमाण पत्र",
+    "जाति प्रमाण पत्र",
+    "विकलांगता प्रमाण पत्र (यदि लागू हो)"
+  ],
+  "documents_ta": [
+    "ஆதார் அட்டை - இ-கேவाईசி மற்றும் டிபிடி க்கு அவசியம்",
+    "நில உடைமை ஆவணங்கள் / காசரா-கத்தானி / பட்டா",
+    "வங்கி பாஸ்புக் அல்லது ரத்து செய்யப்பட்ட செக் - டிபிடி இணைப்புக்கு",
+    "அடையாள ஆதாரம்",
+    "முகவரி ஆதாரம்",
+    "நில பதிவு",
+    "வங்கி கணக்கு விவரங்கள்",
+    "வருமான சான்றிதழ்",
+    "சாதி சான்றிதழ்",
+    "ஊனம் சான்றிதழ் (பொருந்தும் போது)"
+  ],
+  "documents_bn": [
+    "আধার কার্ড — ই-কেওয়াইসি এবং ডিবিটি এর জন্য বাধ্যতামূলক",
+    "জমির মালিকানা নথি / খতিযান / পাট্টা",
+    "ব্যাঙ্ক পাসবুক বা বাতিল চেক — ডিবিটি লিঙ্কেজের জন্য",
+    "পরিচয়ের প্রমাণ",
+    "ঠিকানার প্রমাণ",
+    "জমির রেকর্ড",
+    "ব্যাঙ্ক অ্যাকাউন্ট বিবরণ",
+    "আয়ের প্রমাণ পত্র",
+    "জাতি প্রমাণ পত্র",
+    "প্রতিবন্ধকতা প্রমাণ পত্র (যদি প্রযোজ্য হয়)"
+  ],
+  "documents_mr": [
+    "आधार कार्ड — ईकेवाईसी आणि डीबीटी साठी अनिवार्य",
+    "जमीन मालकी दाखले / खतौनी / पट्टा",
+    "बँक पासबुक किंवा रद्द केलेली चेक — डीबीटी लिंकेज साठी",
+    "ओळख पुरावा",
+    "स्थळ पुरावा",
+    "जमीन रेकॉर्ड",
+    "बँक खाते तपशील",
+    "उत्पन्न प्रमाणपत्र",
+    "जाती प्रमाणपत्र",
+    "विकलांगता प्रमाणपत्र (योग्य असल्यास)"
+  ],
+  "apply_steps_hi": [
+    "आधिकारिक वेबसाइट पर जाएं मंत्रालय नवीन और नवीकरणीय ऊर्जा (एमएनआरई)",
+    "पीएम-कुसुम योजना के लिंक पर क्लिक करें और दिशानिर्देशों और पात्रता मानदंडों को पढ़ें",
+    "ऑनलाइन आवेदन पत्र भरें और आवश्यक दस्तावेज़ अपलोड करें",
+    "आवेदन पत्र जमा करें और आवश्यक शुल्क का भुगतान करें",
+    "आवेदन की सत्यापन और अनुमोदन की प्रतीक्षा करें",
+    "सब्सिडी और योजना के तहत अन्य लाभ प्राप्त करें",
+    "सौर ऊर्जा संयंत्र या सौर पंप स्थापित करें और बिजली उत्पादन शुरू करें",
+    "अधिशेष बिजली को डिस्कॉम को बेचें और राजस्व अर्जित करें",
+    "सौर ऊर्जा संयंत्र या सौर पंप का रखरखाव करें और इसकी उचित कार्यशीलता सुनिश्चित करें",
+    "समझौता नवीनीकृत करें और योजना के तहत लाभों का लाभ उठाते रहें"
+  ],
+  "apply_steps_ta": [
+    "அதிகாரப்பூர்வ இணையதளத்திற்குச் செல்லுங்கள் புதுமையான மற்றும் புதுப்பிக்கத்தக்க எரிசக்தி அமைச்சகம் (எம்என்ஆர்இ)",
+    "பிஎம்-குசும் திட்டத்திற்கான இணைப்பைக் கிளிக் செய்து வழிகாட்டுதல்களையும் தகுதி விதிமுறைகளையும் படிக்கவும்",
+    "ஆன்லைன் விண்ணப்பத்தைப் பூர்த்தி செய்து தேவையான ஆவணங்களைப் பதிவேற்றவும்",
+    "விண்ணப்பத்தை சமர்ப்பிக்கவும் மற்றும் தேவையான கட்டணத்தைச் செலுத்தவும்",
+    "விண்ணப்பத்தின் சரிபார்ப்பு மற்றும் ஒப்புதலுக்காகக் காத்திருங்கள்",
+    "மானியம் மற்றும் திட்டத்தின் கீழ் பிற நன்மைகளைப் பெறுங்கள்",
+    "சூரிய சக்தி நிலையம் அல்லது சூரிய பம்பை நிறுவவும் மற்றும் மின்சாரம் தயாரிப்பைத் தொடங்கவும்",
+    "அதிகப்படியான மின்சாரத்தை டிஸ்காமுக்கு விற்கவும் மற்றும் வருமானம் பெறவும்",
+    "சூரிய சக்தி நிலையம் அல்லது சூரிய பம்பின் பராமரிப்பைச் செய்யவும் மற்றும் அதன் சரியான செயல்பாட்டை உறுதி செய்யவும்",
+    "ஒப்பந்தத்தை புதுப்பித்தல் மற்றும் திட்டத்தின் கீழ் நன்மைகளைப் பெறுவதைத் தொடர்ந்து அனுபவிக்கவும்"
+  ],
+  "apply_steps_bn": [
+    "অফিসিয়াল ওয়েবসাইটে যান নতুন এবং নবায়নযোগ্য শক্তি মন্ত্রক (এমএনআরই)",
+    "পিএম-কুসুম প্রকল্পের লিঙ্কে ক্লিক করুন এবং নির্দেশিকা এবং যোগ্যতার মানদণ্ড পড়ুন",
+    "অন"
+  ],
+  "faq": [
+    {
+      "question_en": "What is the Central Financial Assistance provided under Component-C of the PM-KUSUM scheme?",
+      "answer_en": "The Central Financial Assistance provided under Component-C is 30% of the project cost, or 50% for the North Eastern Region/Hilly region/Islands, for both Individual Pump Solarisation and Feeder Level Solarisation.",
+      "question_hi": "पीएम-कुसुम योजना के घटक-सी के तहत केंद्रीय वित्तीय सहायता क्या है?",
+      "answer_hi": "घटक-सी के तहत केंद्रीय वित्तीय सहायता 30% है, या उत्तर पूर्वी क्षेत्र/पहाड़ी क्षेत्र/द्वीपों के लिए 50%, व्यक्तिगत पंप सौरीकरण और फीडर स्तर सौरीकरण दोनों के लिए।",
+      "question_ta": "பிஎம்-குசும் திட்டத்தின் கூறு-சி இன் கீழ் மத்திய நிதி உதவி என்ன?",
+      "answer_ta": "கூறு-சி இன் கீழ் மத்திய நிதி உதவி 30% ஆகும், அல்லது வடகிழக்கு பிராந்தியம்/மலைப்பகுதி/தீவுகளுக்கு 50%, தனிநபர் பம்பு சூரிய ஆற்றல் மற்றும் ஃபீடர் நிலை சூரிய ஆற்றல் ஆகிய இரண்டிற்கும்."
+    },
+    {
+      "question_en": "What is the eligibility criteria for farmers to avail the benefits of the PM-KUSUM scheme?",
+      "answer_en": "The eligibility criteria for farmers to avail the benefits of the PM-KUSUM scheme include being a farmer or agricultural labourer, having a valid land record, a valid bank account, and a valid Aadhaar card, among other conditions.",
+      "question_hi": "पीएम-कुसुम योजना का लाभ उठाने के लिए किसानों के लिए पात्रता मानदंड क्या है?",
+      "answer_hi": "पीएम-कुसुम योजना का लाभ उठाने के लिए किसानों के लिए पात्रता मानदंड में किसान या कृषि श्रमिक होना, एक वैध भूमि रिकॉर्ड, एक वैध बैंक खाता, और एक वैध आधार कार्ड होना शामिल है, साथ ही अन्य शर्तें भी हैं।",
+      "question_ta": "பிஎம்-குசும் திட்டத்தின் நன்மைகளைப் பெறுவதற்கான விவசாயிகளுக்கான தகுதி குணங்கள் என்ன?",
+      "answer_ta": "பிஎம்-குசும் திட்டத்தின் நன்மைகளைப் பெறுவதற்கான விவசாயிகளுக்கான தகுதி குணங்களில் விவசாயி அல்லது வேளாண் தொழிலாளர், ஒரு செல்லுபடி நில பதிவு, ஒரு செல்லுபடி வங்கி கணக்கு, மற்றும் ஒரு செல்லுபடி ஆதார் அட்டை ஆகியவை அடங்கும்."
+    },
+    {
+      "question_en": "How can farmers apply for the PM-KUSUM scheme and what are the required documents?",
+      "answer_en": "Farmers can apply for the PM-KUSUM scheme through the online portal or by visiting the nearest Common Service Centre. The required documents include a valid Aadhaar card, a valid bank account, and a valid land record, among other documents.",
+      "question_hi": "किसान पीएम-कुसुम योजना के लिए कैसे आवेदन कर सकते हैं और आवश्यक दस्तावेज क्या हैं?",
+      "answer_hi": "किसान पीएम-कुसुम योजना के लिए ऑनलाइन पोर्टल के माध्यम से या निकटतम सामान्य सेवा केंद्र पर जाकर आवेदन कर सकते हैं। आवश्यक दस्तावेजों में एक वैध आधार कार्ड, एक वैध बैंक खाता, और एक वैध भूमि रिकॉर्ड शामिल हैं, साथ ही अन्य दस्तावेज भी हैं।",
+      "question_ta": "விவசாயிகள் பிஎம்-குசும் திட்டத்திற்கு எப்படி விண்ணப்பிக்க முடியும் மற்றும் தேவையான ஆவணங்கள் என்ன?",
+      "answer_ta": "விவசாயிகள் பிஎம்-குசும் திட்டத்திற்கு ஆன்லைன் போர்டல் மூலம் அல்லது அருகிலுள்ள பொது சேவை மையத்திற்குச் சென்று விண்ணப்பிக்க முடியும். தேவையான ஆவணங்களில் ஒரு செல்லுபடி ஆதார் அட்டை, ஒரு செல்லுபடி வங்கி கணக்கு, மற்றும் ஒரு செல்லுபடி நில பதிவு ஆகியவை அடங்கும்."
+    }
+  ],
+  "common_mistakes": [
+    "Mistake 1: Incorrect land records — Ensure all land documents are up-to-date and accurate to avoid rejection",
+    "Mistake 2: Incomplete application form — Fill out the application form carefully and completely to prevent delays",
+    "Mistake 3: Insufficient bank account information — Provide accurate and complete bank account details for smooth payment processing",
+    "Mistake 4: Ineligible occupation — Ensure the applicant's occupation is eligible under the scheme (farmer or agricultural labourer)",
+    "Mistake 5: Lack of required documents — Ensure all necessary documents, including Aadhaar card, land records, and bank account details, are submitted",
+    "Mistake 6: Incorrect component selection — Choose the correct component (A, B, or C) based on individual circumstances to avoid rejection"
+  ],
+  "pro_tips": [
+    "Tip 1: Apply through the official portal or authorized state portals to minimize errors and ensure timely processing",
+    "Tip 2: Carefully review the eligibility criteria and components before applying to ensure the best fit for individual circumstances",
+    "Tip 3: Ensure all documents are in order and readily available before starting the application process to avoid delays",
+    "Tip 4: Regularly check the official website or contact the state implementing agency for updates and clarification on the application process"
+  ],
+  "state_wise_amounts": {
+    "note": "The Central Financial Assistance (CFA) varies by state, with 30% provided for most states and 50% for North Eastern Region/Hilly region/Islands",
+    "varies_by": "amount",
+    "states": {
+      "andhra_pradesh": "same as central",
+      "assam": "50% due to being in North Eastern Region",
+      "bihar": "same as central",
+      "gujarat": "same as central",
+      "haryana": "same as central",
+      "jharkhand": "same as central",
+      "karnataka": "same as central",
+      "kerala": "same as central",
+      "madhya_pradesh": "same as central",
+      "maharashtra": "same as central",
+      "odisha": "same as central",
+      "punjab": "same as central",
+      "rajasthan": "same as central",
+      "tamil_nadu": "same as central",
+      "telangana": "same as central",
+      "uttar_pradesh": "same as central",
+      "uttarakhand": "50% due to being in Hilly region",
+      "west_bengal": "same as central"
+    }
+  },
+  "state_specific_portals": {
+    "note": "Some states may have their own portals for applying to the PM-KUSUM scheme, but this information is not provided in the given data",
+    "portals": {}
+  }
+}
