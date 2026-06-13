@@ -31,9 +31,9 @@ Users can ask questions in natural language without needing to know the exact sc
 Examples:
 
 * "What is the NREGA wage in Uttarakhand?"
-* "Schemes for farmers"
-* "Benefits for widows"
-* "Scholarships for students"
+* "What is NSP Scholarship?"
+* "How do I enroll for Kisan Credit Scheme? "
+* "Who is eligible or excluded for PM Mudra Scheme?"
 
 The assistant identifies user intent, understands context, and retrieves the most relevant welfare schemes from its knowledge base.
 
